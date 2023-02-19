@@ -1,9 +1,17 @@
 {
 	title: "Straight L",
 	icon: {
-		id: "buildinggadgets:template",
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "ancientspellcraft:amnesia_scroll",
 		tag: {
-			UUID: "97d093a5-40bd-4301-8ef1-d804ae40cd22"
+			"Quark:RuneColor": 15,
+			ench: [{
+				lvl: 1s,
+				id: 34
+			}],
+			"Quark:RuneAttached": 1b
 		}
 	},
 	x: 0.05102040816330344d,
@@ -47,219 +55,75 @@
 		value: 300L
 	}],
 	rewards: [{
-		uid: "f88c713a",
+		uid: "b2f1ff42",
 		type: "item",
 		item: {
-			id: "buildinggadgets:template",
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "capsule:capsule",
 			tag: {
-				copycounter: 1,
-				TemplateName: "Full Stone Straight L",
-				UUID: "d945b9c7-ced2-458e-a3d0-4f8f08814304",
-				startPos: {
-					X: 1571,
-					Y: 4,
-					Z: 397
+				color: 6052956,
+				size: 23,
+				isReward: 1b,
+				oneUse: 1b,
+				structureName: "config/capsule/rewards/full_stone_wall_straight_l",
+				author: "Samara__",
+				display: {
+					color: 6052956
 				},
-				itemcountmap: [{
-					item: 35,
-					meta: 14,
-					count: 14
-				},
-				{
-					item: 5506,
-					meta: 0,
-					count: 256
-				},
-				{
-					item: 5497,
-					meta: 0,
-					count: 899
-				},
-				{
-					item: 35,
-					meta: 11,
-					count: 2
-				},
-				{
-					item: 5352,
-					meta: 4,
-					count: 169
-				},
-				{
-					item: 35,
-					meta: 1,
-					count: 2
-				},
-				{
-					item: 5509,
-					meta: 0,
-					count: 147
-				},
-				{
-					item: 98,
-					meta: 0,
-					count: 135
-				},
-				{
-					item: 109,
-					meta: 0,
-					count: 96
-				}],
-				endPos: {
-					X: 1592,
-					Y: 18,
-					Z: 418
-				}
-			}
+				label: "Full Stone Wall Straight L",
+				canRotate: 1b
+			},
+			Damage: 5s
 		}
 	},
 	{
-		uid: "fb2ce3fb",
+		uid: "acdf05e9",
 		type: "item",
 		item: {
-			id: "buildinggadgets:template",
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "capsule:capsule",
 			tag: {
-				copycounter: 1,
-				TemplateName: "Stone Wall Straight L",
-				UUID: "d897917c-a2a2-4333-aed5-5a0076052328",
-				startPos: {
-					X: 1626,
-					Y: 4,
-					Z: 397
+				color: 6052956,
+				size: 23,
+				isReward: 1b,
+				oneUse: 1b,
+				structureName: "config/capsule/rewards/stone_wall_straight_l",
+				author: "Samara__",
+				display: {
+					color: 6052956
 				},
-				itemcountmap: [{
-					item: 35,
-					meta: 14,
-					count: 14
-				},
-				{
-					item: 5506,
-					meta: 0,
-					count: 256
-				},
-				{
-					item: 5497,
-					meta: 0,
-					count: 899
-				},
-				{
-					item: 35,
-					meta: 11,
-					count: 2
-				},
-				{
-					item: 5352,
-					meta: 4,
-					count: 169
-				},
-				{
-					item: 35,
-					meta: 1,
-					count: 2
-				},
-				{
-					item: 5509,
-					meta: 0,
-					count: 147
-				},
-				{
-					item: 98,
-					meta: 0,
-					count: 71
-				},
-				{
-					item: 109,
-					meta: 0,
-					count: 80
-				}],
-				endPos: {
-					X: 1647,
-					Y: 18,
-					Z: 418
-				}
-			}
+				label: "Stone Wall Straight L",
+				canRotate: 1b
+			},
+			Damage: 5s
 		}
 	},
 	{
-		uid: "bd854724",
+		uid: "41c13fef",
 		type: "item",
 		item: {
-			id: "buildinggadgets:template",
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "capsule:capsule",
 			tag: {
-				copycounter: 1,
-				TemplateName: "Stone Wall Walkthrough Straight L",
-				UUID: "7d242b33-d72c-4da5-9c8b-52de6e66a405",
-				startPos: {
-					X: 1678,
-					Y: 4,
-					Z: 395
+				color: 6052956,
+				size: 25,
+				isReward: 1b,
+				oneUse: 1b,
+				structureName: "config/capsule/rewards/stone_wall_walkthru_straight_l",
+				author: "Samara__",
+				display: {
+					color: 6052956
 				},
-				itemcountmap: [{
-					item: 35,
-					meta: 14,
-					count: 14
-				},
-				{
-					item: 5506,
-					meta: 0,
-					count: 260
-				},
-				{
-					item: 5497,
-					meta: 0,
-					count: 867
-				},
-				{
-					item: 35,
-					meta: 11,
-					count: 2
-				},
-				{
-					item: 5352,
-					meta: 4,
-					count: 134
-				},
-				{
-					item: 35,
-					meta: 1,
-					count: 2
-				},
-				{
-					item: 5509,
-					meta: 0,
-					count: 128
-				},
-				{
-					item: 98,
-					meta: 0,
-					count: 248
-				},
-				{
-					item: 44,
-					meta: 5,
-					count: 21
-				},
-				{
-					item: 50,
-					meta: 0,
-					count: 18
-				},
-				{
-					item: 5508,
-					meta: 0,
-					count: 159
-				},
-				{
-					item: 109,
-					meta: 0,
-					count: 87
-				}],
-				endPos: {
-					X: 1701,
-					Y: 18,
-					Z: 418
-				}
-			}
+				label: "Stone Wall Walkthru Straight L",
+				canRotate: 1b
+			},
+			Damage: 5s
 		}
 	}]
 }

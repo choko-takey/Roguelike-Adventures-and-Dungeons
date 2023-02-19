@@ -1,10 +1,19 @@
 {
 	title: "Bridge Extender",
 	icon: {
-		id: "buildinggadgets:template",
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "ebwizardry:scroll",
 		tag: {
-			UUID: "08f42de6-10f8-43f6-9294-bd3f08e68c97"
-		}
+			"Quark:RuneColor": 15,
+			ench: [{
+				lvl: 1s,
+				id: 34
+			}],
+			"Quark:RuneAttached": 1b
+		},
+		Damage: 1s
 	},
 	x: 14.689795918367345d,
 	y: 0.502721088435365d,
@@ -27,75 +36,27 @@
 		value: 5L
 	}],
 	rewards: [{
-		uid: "b059f770",
+		uid: "6c2ff245",
 		type: "item",
 		item: {
-			id: "buildinggadgets:template",
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "capsule:capsule",
 			tag: {
-				copycounter: 1,
-				TemplateName: "Bridge Extender",
-				UUID: "fe00393c-0ca4-4f6f-89a7-e64155d44a65",
-				startPos: {
-					X: 1935,
-					Y: 11,
-					Z: 120
+				color: 7566195,
+				size: 13,
+				isReward: 1b,
+				oneUse: 1b,
+				structureName: "config/capsule/rewards/bridge_extender",
+				author: "Samara__",
+				display: {
+					color: 12881152
 				},
-				itemcountmap: [{
-					item: 35,
-					meta: 14,
-					count: 7
-				},
-				{
-					item: 4815,
-					meta: 1,
-					count: 2
-				},
-				{
-					item: 35,
-					meta: 11,
-					count: 1
-				},
-				{
-					item: 35,
-					meta: 1,
-					count: 2
-				},
-				{
-					item: 13793,
-					meta: 0,
-					count: 4
-				},
-				{
-					item: 13784,
-					meta: 0,
-					count: 2
-				},
-				{
-					item: 5506,
-					meta: 0,
-					count: 4
-				},
-				{
-					item: 5245,
-					meta: 3,
-					count: 2
-				},
-				{
-					item: 13775,
-					meta: 0,
-					count: 11
-				},
-				{
-					item: 5509,
-					meta: 0,
-					count: 2
-				}],
-				endPos: {
-					X: 1933,
-					Y: 16,
-					Z: 108
-				}
-			}
+				label: "Bridge Extender",
+				canRotate: 1b
+			},
+			Damage: 5s
 		}
 	}]
 }

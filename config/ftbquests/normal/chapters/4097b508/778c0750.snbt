@@ -1,9 +1,17 @@
 {
 	title: "Warped Altar",
 	icon: {
-		id: "buildinggadgets:template",
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "ancientspellcraft:transmutation_scroll",
 		tag: {
-			UUID: "08f42de6-10f8-43f6-9294-bd3f08e68c97"
+			"Quark:RuneColor": 15,
+			ench: [{
+				lvl: 1s,
+				id: 34
+			}],
+			"Quark:RuneAttached": 1b
 		}
 	},
 	x: 4.140476190476193d,
@@ -27,130 +35,27 @@
 		value: 200L
 	}],
 	rewards: [{
-		uid: "1745bba4",
+		uid: "18e97453",
 		type: "item",
 		item: {
-			id: "buildinggadgets:template",
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "capsule:capsule",
 			tag: {
-				copycounter: 1,
-				TemplateName: "Warped Altar",
-				UUID: "e5d81fc1-126b-47ae-b1d6-1a76d0969575",
-				startPos: {
-					X: 281,
-					Y: 4,
-					Z: -125
+				color: 4013373,
+				size: 21,
+				isReward: 1b,
+				oneUse: 1b,
+				structureName: "config/capsule/rewards/warped_altar",
+				author: "Samara__",
+				display: {
+					color: 0
 				},
-				itemcountmap: [{
-					item: 5454,
-					meta: 6,
-					count: 5
-				},
-				{
-					item: 35,
-					meta: 1,
-					count: 2
-				},
-				{
-					item: 2,
-					meta: 0,
-					count: 56
-				},
-				{
-					item: 4497,
-					meta: 15,
-					count: 2
-				},
-				{
-					item: 35,
-					meta: 6,
-					count: 8
-				},
-				{
-					item: 159,
-					meta: 4,
-					count: 1
-				},
-				{
-					item: 159,
-					meta: 5,
-					count: 1
-				},
-				{
-					item: 5503,
-					meta: 0,
-					count: 257
-				},
-				{
-					item: 5352,
-					meta: 5,
-					count: 124
-				},
-				{
-					item: 159,
-					meta: 3,
-					count: 1
-				},
-				{
-					item: 35,
-					meta: 9,
-					count: 230
-				},
-				{
-					item: 169,
-					meta: 0,
-					count: 14
-				},
-				{
-					item: 159,
-					meta: 1,
-					count: 1
-				},
-				{
-					item: 35,
-					meta: 14,
-					count: 4
-				},
-				{
-					item: 10249,
-					meta: 0,
-					count: 48
-				},
-				{
-					item: 159,
-					meta: 13,
-					count: 1
-				},
-				{
-					item: 159,
-					meta: 10,
-					count: 1
-				},
-				{
-					item: 5511,
-					meta: 0,
-					count: 100
-				},
-				{
-					item: 35,
-					meta: 11,
-					count: 1
-				},
-				{
-					item: 159,
-					meta: 11,
-					count: 1
-				},
-				{
-					item: 8987,
-					meta: 0,
-					count: 185
-				}],
-				endPos: {
-					X: 301,
-					Y: 12,
-					Z: -105
-				}
-			}
+				label: "Warped Altar",
+				canRotate: 1b
+			},
+			Damage: 5s
 		}
 	}]
 }

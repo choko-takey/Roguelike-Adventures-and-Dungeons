@@ -1,9 +1,17 @@
 {
 	title: "Thaumic Spa",
 	icon: {
-		id: "buildinggadgets:template",
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "ancientspellcraft:amnesia_scroll",
 		tag: {
-			UUID: "08f42de6-10f8-43f6-9294-bd3f08e68c97"
+			"Quark:RuneColor": 15,
+			ench: [{
+				lvl: 1s,
+				id: 34
+			}],
+			"Quark:RuneAttached": 1b
 		}
 	},
 	x: 11.140476190476207d,
@@ -27,85 +35,27 @@
 		value: 50L
 	}],
 	rewards: [{
-		uid: "81909a53",
+		uid: "55b00182",
 		type: "item",
 		item: {
-			id: "buildinggadgets:template",
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "capsule:capsule",
 			tag: {
-				copycounter: 1,
-				TemplateName: "Thaumic Spa",
-				UUID: "a2fa37a0-c3f1-4c2b-a051-a6d693e3da44",
-				startPos: {
-					X: 288,
-					Y: 4,
-					Z: -109
+				color: 2293908,
+				size: 13,
+				isReward: 1b,
+				oneUse: 1b,
+				structureName: "config/capsule/rewards/thaumic_spa",
+				author: "Samara__",
+				display: {
+					color: 4013373
 				},
-				itemcountmap: [{
-					item: 35,
-					meta: 14,
-					count: 4
-				},
-				{
-					item: 5508,
-					meta: 0,
-					count: 9
-				},
-				{
-					item: 5352,
-					meta: 11,
-					count: 24
-				},
-				{
-					item: 35,
-					meta: 11,
-					count: 1
-				},
-				{
-					item: 5505,
-					meta: 0,
-					count: 52
-				},
-				{
-					item: 35,
-					meta: 1,
-					count: 2
-				},
-				{
-					item: 380,
-					meta: 0,
-					count: 1
-				},
-				{
-					item: 8985,
-					meta: 0,
-					count: 8
-				},
-				{
-					item: 5392,
-					meta: 12,
-					count: 4
-				},
-				{
-					item: 35,
-					meta: 6,
-					count: 1
-				},
-				{
-					item: 5496,
-					meta: 0,
-					count: 14
-				},
-				{
-					item: 35,
-					meta: 9,
-					count: 1
-				}],
-				endPos: {
-					X: 276,
-					Y: 7,
-					Z: -121
-				}
-			}
+				label: "Thaumic Spa",
+				canRotate: 1b
+			},
+			Damage: 5s
 		}
 	}]
 }

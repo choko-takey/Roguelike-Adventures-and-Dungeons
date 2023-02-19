@@ -93,6 +93,15 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	},
+	{
+		uid: "dca59b06",
+		type: "item",
+		items: [{
+			item: "inventorypets:cloud_pet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
 	}],
 	rewards: [{
 		uid: "6f4f04f0",

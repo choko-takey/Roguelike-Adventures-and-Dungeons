@@ -1,9 +1,17 @@
 {
 	title: "&2Oak Wizard Tower",
 	icon: {
-		id: "buildinggadgets:template",
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "ancientspellcraft:bartering_scroll",
 		tag: {
-			UUID: "1329803b-7d73-437b-996e-727f75706fcb"
+			"Quark:RuneColor": 15,
+			ench: [{
+				lvl: 1s,
+				id: 34
+			}],
+			"Quark:RuneAttached": 1b
 		}
 	},
 	x: -7.9785714285714135d,
@@ -27,130 +35,27 @@
 		value: 200L
 	}],
 	rewards: [{
-		uid: "cf20b1fd",
+		uid: "40ebfe45",
 		type: "item",
 		item: {
-			id: "buildinggadgets:template",
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "capsule:capsule",
 			tag: {
-				copycounter: 1,
-				TemplateName: "Oak Wizard Tower",
-				UUID: "e9957038-35d8-4c04-8013-500107944e8f",
-				startPos: {
-					X: 366,
-					Y: 5,
-					Z: -116
+				color: 29497,
+				size: 63,
+				isReward: 1b,
+				oneUse: 1b,
+				structureName: "config/capsule/rewards/oak_wizard_tower",
+				author: "Samara__",
+				display: {
+					color: 29497
 				},
-				itemcountmap: [{
-					item: 5357,
-					meta: 3,
-					count: 45
-				},
-				{
-					item: 7354,
-					meta: 6,
-					count: 1
-				},
-				{
-					item: 53,
-					meta: 0,
-					count: 168
-				},
-				{
-					item: 35,
-					meta: 1,
-					count: 2
-				},
-				{
-					item: 4497,
-					meta: 0,
-					count: 5
-				},
-				{
-					item: 5436,
-					meta: 7,
-					count: 11
-				},
-				{
-					item: 6002,
-					meta: 0,
-					count: 24
-				},
-				{
-					item: 5454,
-					meta: 9,
-					count: 184
-				},
-				{
-					item: 5428,
-					meta: 0,
-					count: 624
-				},
-				{
-					item: 17,
-					meta: 0,
-					count: 540
-				},
-				{
-					item: 50,
-					meta: 0,
-					count: 36
-				},
-				{
-					item: 134,
-					meta: 0,
-					count: 96
-				},
-				{
-					item: 35,
-					meta: 14,
-					count: 4
-				},
-				{
-					item: 6073,
-					meta: 0,
-					count: 72
-				},
-				{
-					item: 35,
-					meta: 11,
-					count: 1
-				},
-				{
-					item: 5452,
-					meta: 11,
-					count: 136
-				},
-				{
-					item: 168,
-					meta: 1,
-					count: 388
-				},
-				{
-					item: 44,
-					meta: 5,
-					count: 284
-				},
-				{
-					item: 98,
-					meta: 0,
-					count: 270
-				},
-				{
-					item: 109,
-					meta: 0,
-					count: 333
-				},
-				{
-					item: 5,
-					meta: 1,
-					count: 24
-				}],
-				endPos: {
-					X: 384,
-					Y: 66,
-					Z: -98
-				}
-			}
+				label: "Oak Wizard Tower",
+				canRotate: 1b
+			},
+			Damage: 5s
 		}
 	}]
 }

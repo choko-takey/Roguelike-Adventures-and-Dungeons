@@ -1,12 +1,12 @@
 {
-	title: "燃料骡",
+	title: "Fuel Mule!",
 	x: 0.0d,
 	y: 0.0d,
-	description: "顺便说一下，你是骡子",
+	description: "You're the mule, by the way",
 	text: [
-		"随身携带！",
+		"Carry it wher'ver you go!",
 		"",
-		"注意不要被困在云里！"
+		"Don't get stuck in the clouds now!"
 	],
 	dependencies: [
 		"fac704b2"

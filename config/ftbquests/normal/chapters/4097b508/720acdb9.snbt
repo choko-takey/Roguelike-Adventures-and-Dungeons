@@ -1,10 +1,19 @@
 {
 	title: "Jungle Library",
 	icon: {
-		id: "buildinggadgets:template",
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "tfspellpack:twilight_scroll",
 		tag: {
-			UUID: "1329803b-7d73-437b-996e-727f75706fcb"
-		}
+			"Quark:RuneColor": 15,
+			ench: [{
+				lvl: 1s,
+				id: 34
+			}],
+			"Quark:RuneAttached": 1b
+		},
+		Damage: 207s
 	},
 	x: -3.657142857142844d,
 	y: 1.9809523809523597d,
@@ -27,105 +36,27 @@
 		value: 50L
 	}],
 	rewards: [{
-		uid: "82ed00dc",
+		uid: "05ff8892",
 		type: "item",
 		item: {
-			id: "buildinggadgets:template",
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "capsule:capsule",
 			tag: {
-				copycounter: 1,
-				TemplateName: "Jungle Library",
-				UUID: "64e5b775-bf29-4c97-b797-2461523cea43",
-				startPos: {
-					X: 281,
-					Y: 4,
-					Z: -107
+				color: 2225418,
+				size: 15,
+				isReward: 1b,
+				oneUse: 1b,
+				structureName: "config/capsule/rewards/jungle_library",
+				author: "Samara__",
+				display: {
+					color: 2225418
 				},
-				itemcountmap: [{
-					item: 5431,
-					meta: 0,
-					count: 52
-				},
-				{
-					item: 5483,
-					meta: 0,
-					count: 1
-				},
-				{
-					item: 35,
-					meta: 1,
-					count: 2
-				},
-				{
-					item: 126,
-					meta: 3,
-					count: 29
-				},
-				{
-					item: 6151,
-					meta: 3,
-					count: 10
-				},
-				{
-					item: 35,
-					meta: 6,
-					count: 1
-				},
-				{
-					item: 17,
-					meta: 3,
-					count: 59
-				},
-				{
-					item: 35,
-					meta: 9,
-					count: 32
-				},
-				{
-					item: 5270,
-					meta: 0,
-					count: 8
-				},
-				{
-					item: 35,
-					meta: 14,
-					count: 4
-				},
-				{
-					item: 35,
-					meta: 11,
-					count: 1
-				},
-				{
-					item: 7357,
-					meta: 3,
-					count: 6
-				},
-				{
-					item: 5249,
-					meta: 6,
-					count: 12
-				},
-				{
-					item: 5249,
-					meta: 3,
-					count: 11
-				},
-				{
-					item: 5249,
-					meta: 7,
-					count: 9
-				},
-				{
-					item: 136,
-					meta: 0,
-					count: 5
-				}],
-				endPos: {
-					X: 267,
-					Y: 10,
-					Z: -121
-				}
-			}
+				label: "Jungle Library",
+				canRotate: 1b
+			},
+			Damage: 5s
 		}
 	}]
 }

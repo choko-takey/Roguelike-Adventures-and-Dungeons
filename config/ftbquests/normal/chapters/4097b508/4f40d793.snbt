@@ -1,10 +1,19 @@
 {
 	title: "Bridge L",
 	icon: {
-		id: "buildinggadgets:template",
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "ebwizardry:scroll",
 		tag: {
-			UUID: "08f42de6-10f8-43f6-9294-bd3f08e68c97"
-		}
+			"Quark:RuneColor": 15,
+			ench: [{
+				lvl: 1s,
+				id: 34
+			}],
+			"Quark:RuneAttached": 1b
+		},
+		Damage: 1s
 	},
 	x: 14.689795918367345d,
 	y: -1.0074829931972893d,
@@ -27,85 +36,27 @@
 		value: 100L
 	}],
 	rewards: [{
-		uid: "69d22564",
+		uid: "acd08b25",
 		type: "item",
 		item: {
-			id: "buildinggadgets:template",
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "capsule:capsule",
 			tag: {
-				copycounter: 1,
-				TemplateName: "Bridge L",
-				UUID: "653bca26-b530-48d9-a05f-6c559b5763f1",
-				startPos: {
-					X: 1941,
-					Y: 4,
-					Z: 120
+				color: 7566195,
+				size: 17,
+				isReward: 1b,
+				oneUse: 1b,
+				structureName: "config/capsule/rewards/bridge_l",
+				author: "Samara__",
+				display: {
+					color: 12881152
 				},
-				itemcountmap: [{
-					item: 35,
-					meta: 14,
-					count: 6
-				},
-				{
-					item: 5244,
-					meta: 2,
-					count: 25
-				},
-				{
-					item: 4815,
-					meta: 1,
-					count: 50
-				},
-				{
-					item: 35,
-					meta: 11,
-					count: 1
-				},
-				{
-					item: 35,
-					meta: 1,
-					count: 2
-				},
-				{
-					item: 13793,
-					meta: 0,
-					count: 58
-				},
-				{
-					item: 13784,
-					meta: 0,
-					count: 58
-				},
-				{
-					item: 5506,
-					meta: 0,
-					count: 67
-				},
-				{
-					item: 5245,
-					meta: 3,
-					count: 118
-				},
-				{
-					item: 13775,
-					meta: 0,
-					count: 184
-				},
-				{
-					item: 50,
-					meta: 0,
-					count: 2
-				},
-				{
-					item: 5509,
-					meta: 0,
-					count: 30
-				}],
-				endPos: {
-					X: 1957,
-					Y: 16,
-					Z: 108
-				}
-			}
+				label: "Bridge L",
+				canRotate: 1b
+			},
+			Damage: 5s
 		}
 	}]
 }

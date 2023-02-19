@@ -1,9 +1,17 @@
 {
 	title: "Crimson Observer Tower",
 	icon: {
-		id: "buildinggadgets:template",
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "ancientspellcraft:duplication_scroll",
 		tag: {
-			UUID: "08f42de6-10f8-43f6-9294-bd3f08e68c97"
+			"Quark:RuneColor": 15,
+			ench: [{
+				lvl: 1s,
+				id: 34
+			}],
+			"Quark:RuneAttached": 1b
 		}
 	},
 	x: 1.8214285714285623d,
@@ -27,95 +35,27 @@
 		value: 50L
 	}],
 	rewards: [{
-		uid: "5bf5994d",
+		uid: "2ba77c5e",
 		type: "item",
 		item: {
-			id: "buildinggadgets:template",
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "capsule:capsule",
 			tag: {
-				copycounter: 1,
-				TemplateName: "Crimson Observer Tower",
-				UUID: "315449b3-8a7d-4080-bbeb-9cfe80bdb913",
-				startPos: {
-					X: 286,
-					Y: 4,
-					Z: -112
+				color: 9717760,
+				size: 21,
+				isReward: 1b,
+				oneUse: 1b,
+				structureName: "config/capsule/rewards/crimson_observer_tower",
+				author: "Samara__",
+				display: {
+					color: 9699328
 				},
-				itemcountmap: [{
-					item: 215,
-					meta: 0,
-					count: 24
-				},
-				{
-					item: 35,
-					meta: 1,
-					count: 2
-				},
-				{
-					item: 35,
-					meta: 6,
-					count: 2
-				},
-				{
-					item: 4497,
-					meta: 7,
-					count: 2
-				},
-				{
-					item: 50,
-					meta: 0,
-					count: 1
-				},
-				{
-					item: 6118,
-					meta: 4,
-					count: 6
-				},
-				{
-					item: 5392,
-					meta: 12,
-					count: 1
-				},
-				{
-					item: 35,
-					meta: 9,
-					count: 1
-				},
-				{
-					item: 5352,
-					meta: 10,
-					count: 64
-				},
-				{
-					item: 5496,
-					meta: 0,
-					count: 54
-				},
-				{
-					item: 35,
-					meta: 14,
-					count: 4
-				},
-				{
-					item: 5505,
-					meta: 0,
-					count: 52
-				},
-				{
-					item: 35,
-					meta: 11,
-					count: 1
-				},
-				{
-					item: 5508,
-					meta: 0,
-					count: 8
-				}],
-				endPos: {
-					X: 280,
-					Y: 24,
-					Z: -118
-				}
-			}
+				label: "Crimson Observer Tower",
+				canRotate: 1b
+			},
+			Damage: 5s
 		}
 	}]
 }

@@ -1,9 +1,17 @@
 {
 	title: "Crimson Farmland + Silverwood",
 	icon: {
-		id: "buildinggadgets:template",
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "ancientspellcraft:duplication_scroll",
 		tag: {
-			UUID: "08f42de6-10f8-43f6-9294-bd3f08e68c97"
+			"Quark:RuneColor": 15,
+			ench: [{
+				lvl: 1s,
+				id: 34
+			}],
+			"Quark:RuneAttached": 1b
 		}
 	},
 	x: 0.2836734693877787d,
@@ -27,90 +35,27 @@
 		value: 100L
 	}],
 	rewards: [{
-		uid: "6418f297",
+		uid: "596eb164",
 		type: "item",
 		item: {
-			id: "buildinggadgets:template",
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "capsule:capsule",
 			tag: {
-				copycounter: 1,
-				TemplateName: "Crimson Farmland + Silverwood",
-				UUID: "f255ba64-b6f0-4c19-8d24-02acfe39e681",
-				startPos: {
-					X: 293,
-					Y: 4,
-					Z: -105
+				color: 9717760,
+				size: 21,
+				isReward: 1b,
+				oneUse: 1b,
+				structureName: "config/capsule/rewards/crimson_farmland_+silverwood",
+				author: "Samara__",
+				display: {
+					color: 9699328
 				},
-				itemcountmap: [{
-					item: 215,
-					meta: 0,
-					count: 24
-				},
-				{
-					item: 5515,
-					meta: 0,
-					count: 42
-				},
-				{
-					item: 35,
-					meta: 1,
-					count: 2
-				},
-				{
-					item: 9032,
-					meta: 0,
-					count: 34
-				},
-				{
-					item: 5392,
-					meta: 12,
-					count: 13
-				},
-				{
-					item: 5352,
-					meta: 10,
-					count: 72
-				},
-				{
-					item: 5496,
-					meta: 0,
-					count: 112
-				},
-				{
-					item: 35,
-					meta: 14,
-					count: 4
-				},
-				{
-					item: 5505,
-					meta: 0,
-					count: 16
-				},
-				{
-					item: 35,
-					meta: 11,
-					count: 1
-				},
-				{
-					item: 5508,
-					meta: 0,
-					count: 14
-				},
-				{
-					item: 4813,
-					meta: 0,
-					count: 225
-				},
-				{
-					item: 5517,
-					meta: 0,
-					count: 283
-				}],
-				endPos: {
-					X: 273,
-					Y: 18,
-					Z: -125
-				}
-			}
+				label: "Crimson Farmland +silverwood",
+				canRotate: 1b
+			},
+			Damage: 5s
 		}
 	}]
 }

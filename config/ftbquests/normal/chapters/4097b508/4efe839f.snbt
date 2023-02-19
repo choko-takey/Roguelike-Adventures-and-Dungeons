@@ -1,9 +1,17 @@
 {
 	title: "Warped Farmland",
 	icon: {
-		id: "buildinggadgets:template",
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "ancientspellcraft:transmutation_scroll",
 		tag: {
-			UUID: "08f42de6-10f8-43f6-9294-bd3f08e68c97"
+			"Quark:RuneColor": 15,
+			ench: [{
+				lvl: 1s,
+				id: 34
+			}],
+			"Quark:RuneAttached": 1b
 		}
 	},
 	x: 4.140476190476193d,
@@ -27,80 +35,27 @@
 		value: 100L
 	}],
 	rewards: [{
-		uid: "5334c107",
+		uid: "6a233e62",
 		type: "item",
 		item: {
-			id: "buildinggadgets:template",
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "capsule:capsule",
 			tag: {
-				copycounter: 1,
-				TemplateName: "Warped Farmland",
-				UUID: "92b78e35-75df-4196-944d-cf5c5bfa8b09",
-				startPos: {
-					X: 291,
-					Y: 4,
-					Z: -105
+				color: 4013373,
+				size: 21,
+				isReward: 1b,
+				oneUse: 1b,
+				structureName: "config/capsule/rewards/warped_farmland",
+				author: "Samara__",
+				display: {
+					color: 0
 				},
-				itemcountmap: [{
-					item: 35,
-					meta: 14,
-					count: 4
-				},
-				{
-					item: 10249,
-					meta: 0,
-					count: 16
-				},
-				{
-					item: 5511,
-					meta: 0,
-					count: 4
-				},
-				{
-					item: 35,
-					meta: 11,
-					count: 1
-				},
-				{
-					item: 35,
-					meta: 1,
-					count: 2
-				},
-				{
-					item: 9038,
-					meta: 0,
-					count: 34
-				},
-				{
-					item: 4813,
-					meta: 0,
-					count: 225
-				},
-				{
-					item: 8987,
-					meta: 0,
-					count: 24
-				},
-				{
-					item: 5352,
-					meta: 5,
-					count: 72
-				},
-				{
-					item: 5503,
-					meta: 0,
-					count: 60
-				},
-				{
-					item: 169,
-					meta: 0,
-					count: 13
-				}],
-				endPos: {
-					X: 271,
-					Y: 11,
-					Z: -125
-				}
-			}
+				label: "Warped Farmland",
+				canRotate: 1b
+			},
+			Damage: 5s
 		}
 	}]
 }

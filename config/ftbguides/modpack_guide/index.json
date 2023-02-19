@@ -20,9 +20,19 @@
   "icon": "item:qualitytools:reforging_station"
  },
  {
+  "id": "storageandyou",
+  "title": "Storage & You",
+  "icon": "item:minecraft:chest"
+ },
+ {
   "id": "tipsandtricks",
   "title": "Modpack Tips & Tricks",
   "icon": "item:minecraft:redstone_torch"
+ },
+  {
+  "id": "bringoutyourdead",
+  "title": "Bring Out Your Dead",
+  "icon": "item:tombstone:ankh_of_pray"
  },
   {
   "id": "notesandcredits",
