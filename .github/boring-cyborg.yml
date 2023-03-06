@@ -10,6 +10,15 @@ labelPRBasedOnFilePath:
     - "resourcepacks/**"
     - "resources/**"
     - "kubejs/assets/**"
+    
+  1.53:
+    - "config/**"
+    - ".github/**"
+    - "kubejs/**"
+    - "script/**"
+    - "resourcepacks/**"
+    - "resources/**"
+    - "kubejs/assets/**"
 
   # Add 'label2' to any file changes within 'example2' folder
   .github:
