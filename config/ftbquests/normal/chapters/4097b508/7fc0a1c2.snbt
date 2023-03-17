@@ -1,5 +1,5 @@
 {
-	title: "House 3",
+	title: "三号房",
 	icon: {
 		id: "buildinggadgets:template",
 		tag: {
@@ -10,15 +10,15 @@
 	y: -1.0d,
 	shape: "square",
 	text: [
-		"Title: Overhaning House",
+		"建筑名: 悬空式房屋",
 		"",
-		"Theme: Village",
+		"建筑主题: 村庄",
 		"",
-		"LxWxH: 21x24x25",
+		"长x宽x高: 21x24x25",
 		"",
-		"Paste Y Level: 0 (Ground level)",
+		"建筑y轴偏移: 0 (与地面平齐)",
 		"",
-		"Structure Description: An overhanging two story village house."
+		"建筑描述: 一座悬空式的两层民房."
 	],
 	can_repeat: true,
 	tasks: [{

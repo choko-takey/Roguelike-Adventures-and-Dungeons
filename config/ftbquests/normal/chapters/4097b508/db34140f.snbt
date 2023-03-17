@@ -1,12 +1,12 @@
 {
-	title: "Village Info",
+	title: "村庄系列建筑简介",
 	x: 6.071428571428569d,
 	y: 3.4880952380952195d,
 	shape: "square",
 	text: [
-		"&lThis set requires blocks from Biomes O' Plenty&r",
+		"&l这个系列的建筑需要来自Biomes O' Plenty模组的方块",
 		"",
-		"If you do not have the BBOP world gen type, then you cannot obtain the blocks needed to paste these!"
+		"如果你在创建世界的时候没有选择BBOP类型, 你将无法得到这些建筑的建筑材料!"
 	],
 	tasks: [{
 		uid: "07c7d792",

@@ -1,5 +1,5 @@
 {
-	title: "Straight of Houses",
+	title: "直线型组合房",
 	icon: {
 		id: "buildinggadgets:template",
 		tag: {
@@ -10,15 +10,15 @@
 	y: 0.5034013605442169d,
 	shape: "square",
 	text: [
-		"Title: Straight of Houses",
+		"建筑名: 直线型组合房",
 		"",
-		"Theme: Village",
+		"建筑主题: 村庄",
 		"",
-		"LxWxH: 48x28x33",
+		"长x宽x高: 48x28x33",
 		"",
-		"Paste Y Level: 0 (Ground level)",
+		"建筑y轴偏移: 0 (与地面平齐)",
 		"",
-		"Structure Description: A straight of three houses combined. Eight rooms total."
+		"建筑描述: 三套房子直线组合而成. 共有8个房间."
 	],
 	can_repeat: true,
 	tasks: [{

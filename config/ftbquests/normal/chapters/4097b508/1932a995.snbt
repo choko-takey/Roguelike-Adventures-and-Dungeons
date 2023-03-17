@@ -1,5 +1,5 @@
 {
-	title: "&2&lMystical Master Statue",
+	title: "&2&l秘源大师雕像",
 	icon: {
 		id: "buildinggadgets:template",
 		tag: {
@@ -16,15 +16,15 @@
 	y: -1.0408163265306172d,
 	shape: "square",
 	text: [
-		"Title: Mystical Master Statue",
+		"建筑名: 秘源大师雕像",
 		"",
-		"Theme: EBWizardry",
+		"建筑主题: 巫术学",
 		"",
-		"LxWxH: 19x27x67",
+		"长x宽x高: 19x27x67",
 		"",
-		"Paste Y Level: 0 (Ground level)",
+		"建筑y轴偏移: 0 (与地面平齐)",
 		"",
-		"Structure Description: A marble statue of a wizard with a Master Sorcerer wand over an open book."
+		"建筑描述: 一座由大理石建成的秘源大法师雕像，其扭曲现实之杖漂浮于书本之上."
 	],
 	can_repeat: true,
 	hide_dependency_lines: true,

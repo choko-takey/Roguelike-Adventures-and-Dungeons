@@ -1,5 +1,5 @@
 {
-	title: "&b&lIcy Master Statue",
+	title: "&b&l寒霜大师雕像",
 	icon: {
 		id: "buildinggadgets:template",
 		tag: {
@@ -16,15 +16,15 @@
 	y: -1.0059523809523867d,
 	shape: "square",
 	text: [
-		"Title: Icy Master Statue",
+	"建筑名: 寒霜大师雕像",
 		"",
-		"Theme: EBWizardry",
+		"建筑主题: 巫术学",
 		"",
-		"LxWxH: 26x18x57",
+		"长x宽x高: 26x18x57",
 		"",
-		"Paste Y Level: 0 (Ground level)",
+		"建筑y轴偏移: 0 (与地面平齐)",
 		"",
-		"Structure Description: A marble statue of a wizard holding a Master Ice Mage wand."
+		"建筑描述: 一座由大理石建成的寒霜大法师雕像，高举着万古冰封之杖."
 	],
 	can_repeat: true,
 	hide_dependency_lines: true,

@@ -1,5 +1,5 @@
 {
-	title: "Warped Farmland",
+	title: "扭曲农场",
 	icon: {
 		id: "buildinggadgets:template",
 		tag: {
@@ -10,15 +10,15 @@
 	y: 6.79999999999999d,
 	shape: "square",
 	text: [
-		"Title: Warped Farmland",
+		"建筑名: 扭曲农场",
 		"",
-		"Theme: Thaumcraft 6",
+		"建筑主题: 神秘时代6",
 		"",
-		"LxWxH: 21x21x8",
+		"长x宽x高: 21x21x8",
 		"",
-		"Paste Y Level: 0 (Ground level)",
+		"建筑y轴偏移: 0 (与地面平齐)",
 		"",
-		"Structure Description: A plot of farmland in Warped black. It has an area of 15x15 (total of 225 blocks), thus compatible with Harvesters."
+		"建筑描述: 一片具有扭曲风格的耕地. 耕地实际面积大约是15x15(共计225格), 因此很适合与收割机一同使用."
 	],
 	can_repeat: true,
 	tasks: [{
