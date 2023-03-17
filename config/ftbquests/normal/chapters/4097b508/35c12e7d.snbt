@@ -1,18 +1,18 @@
 {
-	title: "Stone Wall Info",
+	title: "石制城墙简介",
 	x: -1.9251700680271782d,
 	y: 3.4863945578231323d,
 	shape: "square",
 	text: [
-		"All structures in this set are 15 blocks high and 10 blocks wide for non-walkthough pieces.",
+		"这一系列建筑结构包括许多不同款式的石制城墙.",
 		"",
-		"Walkthrough pieces are 15 wide to allow the player to walk in them.",
+		"其中，未标注<可穿梭式>的城墙有15格高、10格宽，而<可穿梭式>的城墙有15格的宽度，以便玩家在城墙内部行走.",
 		"",
-		"All &lStone Wall &rand &lWalkthrough &rstructures have windows while all &lFull Stone &rstructures do not."
+		"此外，所有的&l石制&r城墙和&l可穿梭式&r城墙带有窗户，而&l实心&r石制城墙没有窗户结构."
 	],
 	tasks: [{
 		uid: "b71209be",
 		type: "checkmark",
-		title: "Stone Wall Info"
+		title: "石制城墙简介"
 	}]
 }

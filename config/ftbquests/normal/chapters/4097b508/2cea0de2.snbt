@@ -1,5 +1,5 @@
 {
-	title: "Fountain",
+	title: "人工喷泉",
 	icon: {
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
@@ -10,15 +10,15 @@
 	y: 2.0d,
 	shape: "square",
 	text: [
-		"Title: Fountain",
+		"建筑名: 人工喷泉",
 		"",
-		"Theme: Village",
+		"建筑主题: 村庄",
 		"",
-		"LxWxH: 33x33x24",
+		"长x宽x高: 33x33x24",
 		"",
-		"Paste Y Level: 0 (Ground level)",
+		"建筑y轴偏移: 0 (与地面平齐)",
 		"",
-		"Structure Description: A village fountain. Note: The ice will melt and remove the torches; no water is required after pasting."
+		"建筑描述: 一座村庄主题的人工喷泉. 提示: 建筑中的冰会自动融化并冲掉火把; 因此黏贴完建筑后不需要手动放水."
 	],
 	can_repeat: true,
 	tasks: [{

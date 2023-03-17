@@ -1,5 +1,5 @@
 {
-	title: "Thaumic Altar",
+	title: "神秘祭坛",
 	icon: {
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
@@ -18,15 +18,15 @@
 	y: 5.285714285714256d,
 	shape: "square",
 	text: [
-		"Title: Thaumic Altar",
+		"建筑名: 神秘祭坛",
 		"",
-		"Theme: Thaumcraft 6",
+		"建筑主题: 神秘时代6",
 		"",
-		"LxWxH: 21x21x9",
+		"长x宽x高: 21x21x9",
 		"",
-		"Paste Y Level: 0 (Ground level)",
+		"建筑y轴偏移: 0 (与地面平齐)",
 		"",
-		"Structure Description: An infusion altar in Thaumic purple. NOTE: Six Arcane Pedestals are needed where the Cyan Wool is."
+		"建筑描述: 用于搭建注魔祭坛的平台，具有神秘风格. 注意: 青色羊毛需要手动替换为奥术基座(共8个)."
 	],
 	can_repeat: true,
 	tasks: [{

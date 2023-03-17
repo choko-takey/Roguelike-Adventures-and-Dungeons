@@ -1,14 +1,14 @@
 {
-	title: "Wizardry Set Info",
+	title: "巫术学系列建筑简介",
 	x: -13.371428571428552d,
 	y: 3.474999999999973d,
 	shape: "square",
 	text: [
-		"There is a statue of each magical element. To unlock the quest to purchase one, you'll need to obtain a Master Wand of the corresponding element.",
+		"巫术学的每种元素都有对应的大法师雕像. 想要解锁购买的权限, 你需要拥有对应元素的大师法杖.",
 		"",
-		"There is also a tower for each magical element as well. Only the roof color matches the color of the element, however.",
+		"每种元素还有对应的巫师塔. 不过只有屋顶的颜色会和对应的元素匹配.",
 		"",
-		"The libraries match the corresponding buildings in style and materials used. These libraries are NOT INTENDED to fit inside the towers."
+		"每座巫师塔还有对应的图书馆，它们在建筑风格和所用材料上相似. 图书馆的设计并不适合安置在塔楼内部."
 	],
 	tasks: [{
 		uid: "0306709b",

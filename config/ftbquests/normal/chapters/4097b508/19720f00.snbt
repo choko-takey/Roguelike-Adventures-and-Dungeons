@@ -1,5 +1,5 @@
 {
-	title: "&6&lRadiant Master Statue",
+	title: "&6&l光辉大师雕像",
 	icon: {
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
@@ -18,15 +18,15 @@
 	y: -1.0059523809523796d,
 	shape: "square",
 	text: [
-		"Title: Radiant Master Statue",
+		"建筑名: 光辉大师雕像",
 		"",
-		"Theme: EBWizardry",
+		"建筑主题: 巫术学",
 		"",
-		"LxWxH: 23x18x70",
+		"长x宽x高: 23x18x70",
 		"",
-		"Paste Y Level: 0 (Ground level)",
+		"建筑y轴偏移: 0 (与地面平齐)",
 		"",
-		"Structure Description: A marble statue of a child wizard with raised arms. Above him is a Master Healer wand."
+		"建筑描述: 一座由大理石建成的小巫师雕像. 高举的双臂上方漂浮着圣境守护之杖."
 	],
 	can_repeat: true,
 	hide_dependency_lines: true,

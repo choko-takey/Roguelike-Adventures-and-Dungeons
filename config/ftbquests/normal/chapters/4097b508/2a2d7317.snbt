@@ -1,5 +1,5 @@
 {
-	title: "Thaumic House",
+	title: "神秘的房子",
 	icon: {
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
@@ -18,17 +18,17 @@
 	y: 9.738095238095205d,
 	shape: "square",
 	text: [
-		"Title: Thaumic House",
+		"建筑名: 神秘的房子",
 		"",
-		"Theme: Thaumcraft 6",
+		"建筑主题: 神秘时代6",
 		"",
-		"LxWxH: 23x20x13",
+		"长x宽x高: 23x20x13",
 		"",
-		"Paste Y Level: 0 (Ground level)",
+		"建筑y轴偏移: 0 (与地面平齐)",
 		"",
-		"Structure Description: A building to house common Thaumcraft blocks with storage in the attic. NOTE: Refer to the legend picture for block placement.",
+		"建筑描述: 一座用于放置神秘时代6中常见方块的建筑，阁楼中带有储存仓库. 提示: 请参考图例来放置对应的方块.",
 		"",
-		"&lLEGEND COMING SOON!!"
+		"&l图例即将上线!!"
 	],
 	tasks: [{
 		uid: "ae9fc606",
