@@ -1,46 +1,34 @@
 {
-	title: "深岩…………没有银河",
+	title: "The Land of Rock and Stone",
 	x: -11.5d,
 	y: -0.5d,
-	description: "所以，我可以“ROCK AND STONE”'吗",
+	description: "Can I get a ROCK AND STONE",
 	text: [
-		"咳咳，我想你不会喜欢在地下跟个穿山甲一样导出乱窜只为拿两颗钻石的生活对吧？",
-		"别跟我瞎掰，我说你不喜欢你就是不喜欢，哼！",
-		"现在我们深岩没了银河集团像你倾情推出一款船新的，前无古人后无来者的超级炫酷的宇宙无敌的终极挖矿方式！",
-		"Cavern II！",
-		"你只需要用苔石搭建一个和地狱门一样的门框，在用钻石激活就行啦！",
-		"ROCK AND STONE ! HAHAHAHAHA…………"
+		"Tired of going caving in the overworld and strip mining for hours just to get 2 diamonds?",
+		"",
+		"Introducing a dwarf's best friend in the form of a dimension the caverns.",
+		"",
+		"By making a portal in the same shape as a nether portal and igniting it with an emerald, you can access the most basic form of caverns."
 	],
 	tasks: [{
 		uid: "020ab970",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:emerald"
+			item: "minecraft:emerald"
 		}]
 	},
 	{
 		uid: "c0b07bf5",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:mossy_cobblestone"
+			item: "minecraft:mossy_cobblestone"
 		}],
 		count: 8L
 	}],
 	rewards: [{
 		uid: "11a2b2c2",
 		type: "item",
-		item: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:diamond_pickaxe"
-		}
+		item: "minecraft:diamond_pickaxe"
 	},
 	{
 		uid: "f62a1850",

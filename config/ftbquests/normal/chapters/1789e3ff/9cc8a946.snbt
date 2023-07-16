@@ -1,17 +1,11 @@
 {
-	title: "初始洞穴……",
-	icon: {
-		ForgeCaps: {
-			"wizardryutils:summoneditemdata": {}
-		},
-		id: "cavern:cavern_portal"
-	},
+	title: "Basic Caverns",
+	icon: "cavern:cavern_portal",
 	x: -10.5d,
 	y: -0.5d,
-	description: "挖出一条血路……",
+	description: "Mining away...",
 	text: [
-		"每一个维度都有自己的新手保护机制，这便是CavernII独有的新玩意儿",
-		"这里会生成你在主世界能找到的大部分矿石，当然也有一些有意思的东西……"
+		"The most basic type of caverns it contains all the vanilla ores that normal caves do but has its own set of ores unique to it."
 	],
 	dependencies: [
 		"0b0992c3"
@@ -19,22 +13,14 @@
 	tasks: [{
 		uid: "bd7a9863",
 		type: "dimension",
-		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cavern:cavern_portal"
-		},
+		icon: "cavern:cavern_portal",
 		dim: -50
 	},
 	{
 		uid: "cee5790f",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:diamond_pickaxe"
+			item: "minecraft:diamond_pickaxe"
 		}],
 		consume_items: true,
 		ignore_damage: true,

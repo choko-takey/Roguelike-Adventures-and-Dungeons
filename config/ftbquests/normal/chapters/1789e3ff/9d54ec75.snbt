@@ -1,10 +1,10 @@
 {
-	title: "超级炫的盔甲",
+	title: "Hexciting Armoury",
 	x: -2.0d,
 	y: 1.0d,
-	description: "纯洁而美好",
+	description: "The most pristine armour",
 	text: [
-		"打造全套白钻石盔甲"
+		"Obtain all Hexite armour."
 	],
 	dependencies: [
 		"a16bb0cb"
@@ -13,9 +13,6 @@
 		uid: "85b42afa",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "cavern:hexcite_helmet",
 			tag: {
 				Quality: {}
@@ -28,9 +25,6 @@
 		uid: "fbf14297",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "cavern:hexcite_chestplate",
 			tag: {
 				Quality: {}
@@ -43,9 +37,6 @@
 		uid: "1442b58d",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "cavern:hexcite_leggings",
 			tag: {
 				Quality: {
@@ -72,9 +63,6 @@
 		uid: "b1e79bee",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "cavern:hexcite_boots",
 			tag: {
 				Quality: {}

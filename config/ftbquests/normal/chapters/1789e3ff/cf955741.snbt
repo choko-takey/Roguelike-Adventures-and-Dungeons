@@ -1,8 +1,8 @@
 {
-	title: "周游幻象",
+	title: "Mirage Tourist",
 	x: 6.0d,
 	y: -0.5d,
-	description: "你真的认真探索过它们吗？",
+	description: "Did you really explore those dimensions?",
 	text: [
 		""
 	],

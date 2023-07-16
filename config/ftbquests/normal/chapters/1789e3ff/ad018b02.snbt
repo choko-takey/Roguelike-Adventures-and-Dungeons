@@ -1,13 +1,13 @@
 {
-	title: "深邃林地",
+	title: "The Great Forest",
 	x: 1.5d,
 	y: -2.0d,
-	description: "至少没有它听起来那么黑",
+	description: "Not as dark as it sounds",
 	text: [
-		"这个幻象被无穷无尽的林地所覆盖，但是并没有和名字那样黑暗。相反，这里就是普通的黑森林而已",
+		"This mirage world is forested as far as the eye can see.",
 		"",
-		"有时，你会找到一些小屋子，里面住着书呆子的那种……",
-		"别动它们书架上的书！（真的？）"
+		"There are many huts spread around and it appears that everyone is a book worm.",
+		"Don't mind to take a peak inside their shelves."
 	],
 	dependencies: [
 		"0ff8c885"
@@ -15,13 +15,7 @@
 	tasks: [{
 		uid: "1094e1e3",
 		type: "dimension",
-		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:sapling",
-			Damage: 5s
-		},
+		icon: "minecraft:sapling 1 5",
 		dim: -58
 	}],
 	rewards: [{

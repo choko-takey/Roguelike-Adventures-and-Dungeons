@@ -1,12 +1,12 @@
 {
-	title: "女士们的好朋友",
+	title: "A Ladies Better Friends",
 	x: -4.5d,
 	y: 0.5d,
-	description: "比钻石更美好，比彩虹更易得",
+	description: "Diamonds are overrated",
 	text: [
-		"如果你觉得自己很没用，不妨来看看这些宝石：",
+		"If you ever feel useless remember these gems all exist but don't worry.",
 		"",
-		"而现在它们可以被用来完成这个任务，也算是创造了一些价值"
+		"Complete this quest by getting a bunch of them so they have some use."
 	],
 	dependencies: [
 		"5ca0cd0e"
@@ -15,10 +15,7 @@
 		uid: "33452a68",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "biomesoplenty:gem"
+			item: "biomesoplenty:gem"
 		}],
 		count: 64L
 	},
@@ -26,11 +23,7 @@
 		uid: "189581b7",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "biomesoplenty:gem",
-			Damage: 1s
+			item: "biomesoplenty:gem 1 1"
 		}],
 		count: 64L
 	},
@@ -38,11 +31,7 @@
 		uid: "d3f73892",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "biomesoplenty:gem",
-			Damage: 2s
+			item: "biomesoplenty:gem 1 2"
 		}],
 		count: 64L
 	},
@@ -50,11 +39,7 @@
 		uid: "701fdd22",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "biomesoplenty:gem",
-			Damage: 3s
+			item: "biomesoplenty:gem 1 3"
 		}],
 		count: 64L
 	},
@@ -62,11 +47,7 @@
 		uid: "ab42e79c",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "biomesoplenty:gem",
-			Damage: 4s
+			item: "biomesoplenty:gem 1 4"
 		}],
 		count: 64L
 	},
@@ -74,11 +55,7 @@
 		uid: "4d9de9e5",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "biomesoplenty:gem",
-			Damage: 5s
+			item: "biomesoplenty:gem 1 5"
 		}],
 		count: 64L
 	},
@@ -86,11 +63,7 @@
 		uid: "40427aa8",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "biomesoplenty:gem",
-			Damage: 6s
+			item: "biomesoplenty:gem 1 6"
 		}],
 		count: 64L
 	},
@@ -98,11 +71,7 @@
 		uid: "46acb45d",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "biomesoplenty:gem",
-			Damage: 7s
+			item: "biomesoplenty:gem 1 7"
 		}],
 		count: 64L
 	}],

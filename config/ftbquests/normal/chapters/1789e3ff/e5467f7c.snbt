@@ -1,20 +1,17 @@
 {
-	title: "疯狂穴居人！",
+	title: "Cave Dwellers",
 	x: -9.5d,
 	y: 0.5d,
-	description: "咱们还是别老在山洞里安家吧",
+	description: "Grug don't like you in his cave!",
 	text: [
-		"穴居人是一种灰色的，狡诈的，不讲武德的洞穴维度生灵，它们回去抢劫，去谋杀，去偷窃它们遇到的任何生灵",
+		"Caveman are the native creature of caverns and will fight any human they see.",
 		"",
-		"现在，给它们一个大逼斗看看谁才是老大！"
+		"Show them who's the new tribe leader."
 	],
 	tasks: [{
 		uid: "1965e704",
 		type: "kill",
 		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "minecraft:spawn_egg",
 			tag: {
 				EntityTag: {

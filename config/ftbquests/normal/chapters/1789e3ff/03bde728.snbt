@@ -1,12 +1,12 @@
 {
-	title: "危险与力量并存",
+	title: "Monsters in the Dark",
 	x: -7.5d,
 	y: 0.5d,
-	description: "主世界普通怪物，但是超级强化",
+	description: "Scary monsters and super creeps",
 	text: [
-		"对，就是主世界怪物的超级强化版本",
+		"Just because you're in the overworld does not mean your safe from monsters.",
 		"",
-		"巢穴维度那独树一帜的温柔黑暗给了那些怪物进化的机会"
+		"The natural darnkess of the caverns have allowed new monsters to adapt."
 	],
 	dependencies: [
 		"0351335f"

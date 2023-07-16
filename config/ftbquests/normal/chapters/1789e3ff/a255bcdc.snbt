@@ -1,12 +1,12 @@
 {
-	title: "第二洞穴",
+	title: "Cave 2",
 	x: -0.5d,
 	y: 3.0d,
-	description: "深邃而凶险",
+	description: "The Cavening",
 	text: [
-		"看起来是一座巨大的巢",
+		"Looks like an average cave.",
 		"",
-		"我们谅必能在其中觅得宝物并安全返回……吧"
+		"Perhaps there is something this cave is hiding."
 	],
 	dependencies: [
 		"925e4545"
@@ -14,13 +14,7 @@
 	tasks: [{
 		uid: "051df7d7",
 		type: "dimension",
-		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "extrautils2:decorativesolid",
-			Damage: 1s
-		},
+		icon: "extrautils2:decorativesolid 1 1",
 		dim: -54
 	}],
 	rewards: [{

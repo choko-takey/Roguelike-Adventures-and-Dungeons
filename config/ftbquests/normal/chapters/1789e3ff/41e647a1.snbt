@@ -1,11 +1,11 @@
 {
-	title: "深邃的宝藏",
+	title: "Cave Treasure",
 	x: -10.5d,
 	y: 0.5d,
 	text: [
-		"如果你想挖的矿是下面列出的几种",
+		"If you're looking for any of the specific ore listed here,",
 		"",
-		"那么基础洞穴是你最好的选择"
+		"then the normal caverns are your best bet."
 	],
 	dependencies: [
 		"9cc8a946"
@@ -14,10 +14,7 @@
 		uid: "cf5e88e6",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "subterraneanswitcheroo:coalron"
+			item: "subterraneanswitcheroo:coalron"
 		}],
 		count: 64L
 	},
@@ -25,10 +22,7 @@
 		uid: "3ff0a271",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "subterraneanswitcheroo:redironclump"
+			item: "subterraneanswitcheroo:redironclump"
 		}],
 		count: 64L
 	},
@@ -36,10 +30,7 @@
 		uid: "d947d704",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "subterraneanswitcheroo:redgoldingot"
+			item: "subterraneanswitcheroo:redgoldingot"
 		}],
 		count: 64L
 	},
@@ -47,10 +38,7 @@
 		uid: "d7e79096",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "subterraneanswitcheroo:goldendiamond"
+			item: "subterraneanswitcheroo:goldendiamond"
 		}],
 		count: 64L
 	},
@@ -58,22 +46,14 @@
 		uid: "b5eabcbc",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "subterraneanswitcheroo:obsidianstone"
+			item: "subterraneanswitcheroo:obsidianstone"
 		}],
 		count: 64L
 	}],
 	rewards: [{
 		uid: "701413bf",
 		type: "item",
-		item: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:coal_block"
-		},
+		item: "minecraft:coal_block",
 		count: 64
 	},
 	{

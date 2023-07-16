@@ -1,11 +1,11 @@
 {
-	title: "堕落伊甸",
+	title: "Buried Eden",
 	x: -1.5d,
 	y: 3.0d,
 	text: [
-		"光辉对于这里的生灵来说过于的暴烈，暴烈到足以灼伤它们。它们更加热爱温柔的黑暗，在潮湿的苔藓上打滚，在柔软的灌木上入眠……",
+		"A mirage in which life found a way to exist even without the light of the sun.",
 		"",
-		"林地与其中的生灵能在黑暗中寻觅到对于它们来说比辉光更美好的东西"
+		"The trees and lands are beaming with life better than any living plant could receive from the sun."
 	],
 	dependencies: [
 		"d1cd8e54"
@@ -13,12 +13,7 @@
 	tasks: [{
 		uid: "6a8f91fc",
 		type: "dimension",
-		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "chisel:cobblestone"
-		},
+		icon: "chisel:cobblestone",
 		dim: -53
 	}],
 	rewards: [{

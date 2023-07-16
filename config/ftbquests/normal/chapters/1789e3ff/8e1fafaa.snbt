@@ -1,12 +1,12 @@
 {
-	title: "旱海狂沙",
+	title: "The Endless Sahara",
 	x: 1.5d,
 	y: 0.0d,
-	description: "别张嘴——不然你将体会满嘴都是沙子的痛苦",
+	description: "It's coarse it's rough",
 	text: [
-		"如果因为某些原因你需要大片的沙漠……",
+		"If you're the one person in the world that likes living in deserts or exploring them,",
 		"",
-		"那么这个幻象世界绝对适合你，字面意思，这里除了沙子就是沙子"
+		"Then this mirage is just for you. Named the wide desert, this mirage is nothing but deserts as far as the eye can see."
 	],
 	dependencies: [
 		"fd80d1c4"
@@ -14,13 +14,7 @@
 	tasks: [{
 		uid: "8b94ec5c",
 		type: "dimension",
-		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "chisel:sandstone-scribbles",
-			Damage: 11s
-		},
+		icon: "chisel:sandstone-scribbles 1 11",
 		dim: -56
 	}],
 	rewards: [{
