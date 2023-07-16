@@ -1,12 +1,12 @@
 {
-	title: "Destitute Domain",
+	title: "空无一物",
 	x: 1.5d,
 	y: -1.0d,
-	description: "But no one came",
+	description: "空的像被半夜起来的你洗劫过的冰箱",
 	text: [
-		"A mirage which nothing has existed in until you came along.",
+		"这个幻象中不存在任何事物，生命，还是别的什么……这一切在你到来的时候都将迎来终结",
 		"",
-		"Will you leave it as or find a way to create something from absolute nothingness?"
+		"那么，你可以像创世神一样为这个空无一物的世界增添色彩吗？"
 	],
 	dependencies: [
 		"ed31451d"
@@ -14,7 +14,13 @@
 	tasks: [{
 		uid: "231db121",
 		type: "dimension",
-		icon: "chisel:energizedvoidstone 1 2",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "chisel:energizedvoidstone",
+			Damage: 2s
+		},
 		dim: -57
 	}],
 	rewards: [{

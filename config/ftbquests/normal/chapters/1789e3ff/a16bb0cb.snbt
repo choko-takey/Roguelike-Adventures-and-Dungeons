@@ -1,16 +1,22 @@
 {
-	title: "How Hexciting",
+	title: "太刺激啦",
 	x: -2.0d,
 	y: -0.5d,
-	description: "the most hexciting ore you'll find",
+	description: "这是你所能找到的最稀有的矿石",
 	text: [
-		"Hexcite is a rare and powerful ore found exclusively in caverns."
+		"白钻石，甜美而凶险",
+		"",
+		"关于它的传说多到可以编撰成册，但是大多数都是人们为了追求它而互相残杀的故事……"
 	],
 	tasks: [{
 		uid: "52a3ed41",
 		type: "item",
 		items: [{
-			item: "cavern:cave_item 1 2"
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "cavern:cave_item",
+			Damage: 2s
 		}]
 	}],
 	rewards: [{
