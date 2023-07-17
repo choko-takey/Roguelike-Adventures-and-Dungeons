@@ -1,11 +1,6 @@
 {
-	title: "挖呀挖呀挖洞啊",
-	icon: {
-		ForgeCaps: {
-			"wizardryutils:summoneditemdata": {}
-		},
-		id: "cavern:cavern_portal"
-	},
+	title: "Diggy Diggy Hole",
+	icon: "cavern:cavern_portal",
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: ""

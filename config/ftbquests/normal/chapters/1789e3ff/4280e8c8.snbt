@@ -1,11 +1,12 @@
 {
-	title: "难用的工具",
+	title: "The Moody Tools",
 	x: -5.5d,
 	y: 0.5d,
-	description: "它们总是蓝色的，而且很忧郁",
+	description: "They're blue da be da da",
 	text: [
-		"为什么不试试用海蓝宝石做一些工具呢？",
-		"也许有点用呢？"
+		"Why don't you use all that aquamarine you got to make some tools.",
+		"",
+		"Maybe it will help you out."
 	],
 	dependencies: [
 		"4b4ab3c6"
@@ -14,9 +15,6 @@
 		uid: "1342b1b7",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "cavern:aquamarine_shovel",
 			tag: {
 				Quality: {
@@ -43,9 +41,6 @@
 		uid: "544b7b64",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "cavern:aquamarine_axe",
 			tag: {
 				Quality: {
@@ -80,9 +75,6 @@
 		uid: "79a4a2d4",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "cavern:aquamarine_shovel",
 			tag: {
 				Quality: {

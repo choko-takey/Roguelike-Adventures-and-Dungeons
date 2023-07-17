@@ -1,18 +1,15 @@
 {
-	title: "蒙了尘的宝贝儿",
+	title: "Caveman's Gizmos",
 	x: -8.5d,
 	y: 0.5d,
-	description: "石头做的宝珠那就不是石头了，是艺术品",
+	description: "It's not a just rock, it's an orb",
 	text: [
-		"那些家伙被你打跑了，看看它们留下了什么"
+		"Hey some of those mobs dropped treasure. See what you can make with it."
 	],
 	tasks: [{
 		uid: "0e9aac41",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "cavern:cavenic_sword",
 			tag: {
 				Quality: {
@@ -47,9 +44,6 @@
 		uid: "6423aa57",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "cavern:cavenic_axe",
 			tag: {
 				Quality: {
@@ -84,9 +78,6 @@
 		uid: "94bc525d",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "cavern:cavenic_bow",
 			tag: {
 				Quality: {
@@ -114,11 +105,7 @@
 		uid: "d807573a",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cavern:cave_item",
-			Damage: 5s
+			item: "cavern:cave_item 1 5"
 		}],
 		count: 9L
 	}],

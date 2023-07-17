@@ -1,10 +1,10 @@
 {
-	title: "永久冻土",
+	title: "Frigid Wastelands",
 	x: 1.5d,
 	y: 1.0d,
-	description: "啊……阿嚏！",
+	description: "Achooo!",
 	text: [
-		"一个被冬天笼罩的幻象，喀俄涅在这里停留并筑起城池……"
+		"A mirage that has felt the fury of winter from the epoch of creation."
 	],
 	dependencies: [
 		"3753293d"
@@ -12,13 +12,7 @@
 	tasks: [{
 		uid: "e6960cdd",
 		type: "dimension",
-		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "chisel:ice",
-			Damage: 11s
-		},
+		icon: "chisel:ice 1 11",
 		dim: -55
 	}],
 	rewards: [{

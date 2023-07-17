@@ -1,11 +1,10 @@
 {
-	title: "熟练手plus",
+	title: "Expert Miner",
 	x: -6.5d,
 	y: -0.5d,
-	description: "让我看看是什么在黑暗里发光……哦↑↓是金子~",
+	description: "All that glitter",
 	text: [
-		"什么才是你彻底征服基础洞穴的证明？就是这个！",
-		"金级矿工的标志！"
+		"To gain acess to the final type of basic caverns, you need to reach a rank of Gold Miner."
 	],
 	dependencies: [
 		"0351335f"
@@ -13,12 +12,7 @@
 	tasks: [{
 		uid: "b98c03c1",
 		type: "advancement",
-		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:golden_pickaxe"
-		},
+		icon: "minecraft:golden_pickaxe",
 		advancement: "cavern:gold_miner",
 		criterion: ""
 	}],

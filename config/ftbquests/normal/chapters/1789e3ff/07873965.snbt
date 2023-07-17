@@ -1,10 +1,10 @@
 {
-	title: "群山之巅",
+	title: "Mountain Mole",
 	x: -0.5d,
 	y: -4.0d,
-	description: "带上你的勾爪，出发！",
+	description: "Bring your climbing gloves",
 	text: [
-		"一个充斥着各种高耸入云山峰的幻象维度"
+		"A realm impaled with mountains that reach the clouds and beyond."
 	],
 	dependencies: [
 		"68b4656b"

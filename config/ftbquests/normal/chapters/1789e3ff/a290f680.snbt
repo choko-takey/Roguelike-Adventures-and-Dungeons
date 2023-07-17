@@ -2,9 +2,9 @@
 	x: -1.5d,
 	y: -3.0d,
 	text: [
-		"为了进入幻象维度，我们需要手持幻象书籍右击一扇未激活的传送门",
+		"To gain acess to a mirage dimension interact with an unlit caverns portal while the book is in your main hand.",
 		"",
-		"这会打开一扇独特的门"
+		"This will transform it into a mirage portal."
 	],
 	dependencies: [
 		"c5b56456"
@@ -13,9 +13,6 @@
 		uid: "e874e4be",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "cavern:mirage_book",
 			tag: {
 				Ticket: 10

@@ -1,11 +1,11 @@
 {
-	title: "深埋的宝藏",
+	title: "Cave Shinies",
 	x: -9.5d,
 	y: -1.5d,
 	text: [
-		"海蓝宝石和超硝石是洞穴维度的两种新矿石",
+		"The other materials unique to caverns are aquamarine and magnite.",
 		"",
-		"你为什么不去挖点来看看它们能做什么呢"
+		"Why don't you collect a bunch and see what you can use them for."
 	],
 	dependencies: [
 		"32a75698"
@@ -15,10 +15,7 @@
 		uid: "d939c96e",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cavern:cave_item"
+			item: "cavern:cave_item"
 		}],
 		count: 64L
 	},
@@ -26,11 +23,7 @@
 		uid: "fa2fdbc0",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cavern:cave_item",
-			Damage: 1s
+			item: "cavern:cave_item 1 1"
 		}],
 		count: 64L
 	}],

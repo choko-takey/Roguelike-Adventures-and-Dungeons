@@ -1,13 +1,12 @@
 {
-	title: "魂归苍穹",
+	title: "Sky High",
 	x: -1.5d,
 	y: -4.0d,
-	description: "漂浮的群岛",
+	description: "The floating archipelago",
 	text: [
-		"你喜欢原版风格的天境吗？",
+		"Do you like the aether but wish it was more vanilla?? ",
 		"",
-		"如果喜欢，那么空岛幻象绝对适合你！",
-		"但是小心，这里的原住民并不欢迎你这样的矿工！"
+		"Well the skyland mirages are just for you!"
 	],
 	dependencies: [
 		"a290f680"
@@ -15,12 +14,7 @@
 	tasks: [{
 		uid: "9a84152e",
 		type: "dimension",
-		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "chisel:cloud"
-		},
+		icon: "chisel:cloud",
 		dim: -60
 	}],
 	rewards: [{

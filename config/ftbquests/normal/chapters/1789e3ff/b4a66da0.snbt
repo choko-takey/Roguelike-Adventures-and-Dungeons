@@ -15,9 +15,6 @@
 		uid: "c55afc98",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "cavern:magnite_sword",
 			tag: {
 				Quality: {}
@@ -30,9 +27,6 @@
 		uid: "e9584a10",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "cavern:magnite_shovel",
 			tag: {
 				Quality: {
@@ -67,9 +61,6 @@
 		uid: "78ca25b8",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "cavern:magnite_axe",
 			tag: {
 				Quality: {}
@@ -82,9 +73,6 @@
 		uid: "f3525234",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "cavern:magnite_pickaxe",
 			tag: {
 				Quality: {
