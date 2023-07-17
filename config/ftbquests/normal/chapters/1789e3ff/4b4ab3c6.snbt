@@ -1,15 +1,20 @@
 {
-	title: "Thalassophobia",
-	icon: "cavern:cave_item",
+	title: "深海恐惧症",
+	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
+		id: "cavern:cave_item"
+	},
 	x: -5.5d,
 	y: -0.5d,
-	description: "Hope you can swim",
+	description: "希望你会游泳",
 	text: [
-		"The aqua caverns are the final tier of basic caverns.",
+		"含水洞穴是你在彻底征服基础洞穴及其变种之后才能挑战的洞穴之一",
 		"",
-		"The twist of this cavern is that its completely flooded from top to bottom.",
+		"这个洞穴的特点顾名思义，一切空气都被替换成了水",
 		"",
-		"To enter, just make the same portal as you did before and ignite it with aquamarine."
+		"如果你想给自己找点不自在，就再搭建一次门框，用海蓝宝石激活它吧"
 	],
 	dependencies: [
 		"30651e46"
@@ -18,15 +23,26 @@
 		uid: "7c7cca81",
 		type: "item",
 		items: [{
-			item: "cavern:cave_item"
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "cavern:cave_item"
 		}]
 	},
 	{
 		uid: "18c0fc9f",
 		type: "item",
-		icon: "minecraft:mossy_cobblestone",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:mossy_cobblestone"
+		},
 		items: [{
-			item: "minecraft:mossy_cobblestone"
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:mossy_cobblestone"
 		}],
 		count: 8L
 	}],

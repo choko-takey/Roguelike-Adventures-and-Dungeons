@@ -1,12 +1,12 @@
 {
-	title: "The Shimmering Depths",
+	title: "波光粼粼的深渊",
 	x: -4.5d,
 	y: -0.5d,
-	description: "Leave my shinies alone",
+	description: "宝石的刻面折射出来的光辉",
 	text: [
-		"The aqua caverns are the final level of basic caverns unlocked by miner rank.",
+		"含水洞穴是最后一层基础洞穴，它最难探索，也最为美丽",
 		"",
-		"Filled to the brim with squids and gems. This dimension is perfect for any wizards looking to improve their arsenal."
+		"它向一只宝石匠的口袋那样装满了各色珠宝（以及恼人的鱿鱼），对每个巫师都有着超乎寻常的吸引力"
 	],
 	dependencies: [
 		"4b4ab3c6"
@@ -14,13 +14,21 @@
 	tasks: [{
 		uid: "8155bf25",
 		type: "dimension",
-		icon: "cavern:aqua_cavern_portal",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "cavern:aqua_cavern_portal"
+		},
 		dim: -52
 	}],
 	rewards: [{
 		uid: "9247debd",
 		type: "item",
 		item: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
 			id: "minecraft:diamond_pickaxe",
 			tag: {
 				ench: [{
