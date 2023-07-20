@@ -1,10 +1,10 @@
 {
-	title: "Bug Tamer",
+	title: "驯虫者",
 	x: 2.0d,
 	y: -3.5d,
-	description: "Or a psycho",
+	description: "或许是个精神病患者。",
 	text: [
-		"Either or, craft this saddle and ride a beetle!"
+		"要不，合成个鞍，骑在甲虫上！"
 	],
 	dependencies: [
 		"d7ca76bc"

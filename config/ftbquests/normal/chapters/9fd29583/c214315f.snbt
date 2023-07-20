@@ -1,10 +1,10 @@
 {
-	title: "Buglight",
+	title: "虫子光源",
 	x: -4.0d,
 	y: -10.0d,
-	description: "Except it does the opposite",
+	description: "除了它反其道而行之。",
 	text: [
-		"Craft or obtain some light sources in the Erebus."
+		"合成或者获得一些混沌之地模组的光源。"
 	],
 	dependencies: [
 		"17b1c4d4"

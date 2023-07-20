@@ -1,12 +1,12 @@
 {
-	title: "Some Bugs Run Up to 10 MPH",
+	title: "一些虫子的速度能提升到10英里每小时。",
 	x: 4.5d,
 	y: -4.0d,
-	description: "That's faster than you if you needed to turn around",
+	description: "如果你需要转弯的话，这会比你还快。",
 	text: [
-		"Prepare to get bitten.",
+		"准备好要被咬了。",
 		"",
-		"Craft the Sprint Leggings."
+		"合成疾行护腿。"
 	],
 	dependencies: [
 		"acb2f772"

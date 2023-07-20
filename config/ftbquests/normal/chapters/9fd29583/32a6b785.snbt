@@ -1,12 +1,12 @@
 {
-	title: "Did You Ever Even Have an Ant Farm?",
+	title: "你曾经有过蚂蚁农场吗？",
 	x: -2.5d,
 	y: -11.5d,
-	description: "Did it ever fall over in your room?",
+	description: "它有没有在你的房间出现过？",
 	text: [
-		"What'd you do?",
+		"你会怎么做？",
 		"",
-		"Craft the Ant Taming Amulet."
+		"合成蚂蚁驯养坠饰。"
 	],
 	dependencies: [
 		"137d9ac2"

@@ -1,10 +1,10 @@
 {
-	title: "Bugs Oh Glorious Bugs!",
+	title: "虫子 哦! 辉煌的虫子!",
 	x: 1.0d,
 	y: -8.0d,
-	description: "Bugs life",
+	description: "虫子们的生命",
 	text: [
-		"Visit the Erebus."
+		"拜访混沌之地维度。"
 	],
 	dependencies: [
 		"fd88599b"

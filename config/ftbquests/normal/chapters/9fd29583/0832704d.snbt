@@ -1,10 +1,10 @@
 {
-	title: "Third-World Dimension",
+	title: "第三世界维度",
 	x: 0.0d,
 	y: -13.5d,
-	description: "This is what you have... so eat it",
+	description: "这些是你有的东西……所以吃它。",
 	text: [
-		"Obtain and cook all of the available foods in the Erebus mod."
+		"收集和烹饪所有能在混沌之地模组获得的食物。"
 	],
 	dependencies: [
 		"5d09109d"

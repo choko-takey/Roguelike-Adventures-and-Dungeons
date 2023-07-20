@@ -1,10 +1,10 @@
 {
-	title: "Ready to Rumble!",
+	title: "让我们准备好隆隆声吧！",
 	x: 5.0d,
 	y: -7.5d,
-	description: "You're the fiercest bug on Bug Wars",
+	description: "你是虫子战争中最凶猛的虫子。",
 	text: [
-		"Craft the Rhino Beetle armaments."
+		"合成独角仙外骨骼盔甲。"
 	],
 	dependencies: [
 		"d01b8d01"

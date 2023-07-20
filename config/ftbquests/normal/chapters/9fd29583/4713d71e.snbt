@@ -1,10 +1,10 @@
 {
-	title: "Jade Made",
+	title: "玉石做的",
 	x: 4.5d,
 	y: -6.5d,
-	description: "Pure green over here buddy",
+	description: "这里有纯绿的玉石，伙计。",
 	text: [
-		"Get you a bag and craft the Jade armaments."
+		"给你一背包的玉，然后合成玉盔甲。"
 	],
 	dependencies: [
 		"d01b8d01"

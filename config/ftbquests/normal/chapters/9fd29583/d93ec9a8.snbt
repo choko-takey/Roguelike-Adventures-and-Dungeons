@@ -1,12 +1,12 @@
 {
-	title: "Nectar Collector?",
+	title: "花蜜收集者？",
 	x: -1.5d,
 	y: -12.0d,
-	description: "No, not that kind",
+	description: "不，不是那样的。",
 	text: [
-		"This one is for the bees, okay?",
+		"这是为了蜜蜂好，可以吗？",
 		"",
-		"Craft the materials to start your own bee farm."
+		"合成这些物品去开始你自己的蜜蜂农场。"
 	],
 	dependencies: [
 		"137d9ac2"

@@ -1,10 +1,10 @@
 {
-	title: "Door Who--... Sorry",
+	title: "门，谁开的--…… 抱歉",
 	x: -1.0d,
 	y: -4.5d,
-	description: "Not really",
+	description: "不是真的",
 	text: [
-		"Craft all of the doors available in the Erebus mod."
+		"合成所有能在混沌之地模组获得的门。"
 	],
 	dependencies: [
 		"d01b8d01"

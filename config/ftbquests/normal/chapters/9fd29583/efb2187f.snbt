@@ -1,10 +1,10 @@
 {
-	title: "Am I Gonna Die?",
+	title: "我会死吗？",
 	x: 1.0d,
 	y: -14.0d,
-	description: "I see a bright light... and spiders! SO MANY SPIDERS!",
+	description: "我看到了一束明亮的光……还有蜘蛛！好多的蜘蛛！！",
 	text: [
-		"Craft some Anti-Venom."
+		"合成一些抗毒药瓶。"
 	],
 	dependencies: [
 		"5d09109d"

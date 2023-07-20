@@ -1,10 +1,10 @@
 {
-	title: "Damn Mosquitos",
+	title: "该死的蚊子",
 	x: 0.5d,
 	y: -5.5d,
-	description: "I counted 42 welts... how bout you, John?",
+	description: "我被咬了42个包……约翰，你呢？",
 	text: [
-		"Reduces the aggro range of most hostile bugs by a large amount."
+		"减少大部分敌对虫子的仇恨范围。"
 	],
 	dependencies: [
 		"d01b8d01"

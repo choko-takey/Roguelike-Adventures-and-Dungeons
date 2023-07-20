@@ -1,10 +1,10 @@
 {
-	title: "Sting Like a Bee, Die Like a Bee",
+	title: "像蜜蜂一样蜇人，像蜜蜂一样死去。",
 	x: -2.5d,
 	y: -13.5d,
-	description: "Wasp master race",
+	description: "黄蜂大师赛",
 	text: [
-		"Obtain the wasp and bee related weapons."
+		"获得与黄蜂和蜜蜂相关的武器。"
 	],
 	dependencies: [
 		"d93ec9a8"
