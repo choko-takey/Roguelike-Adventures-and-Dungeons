@@ -1,13 +1,13 @@
 {
-	title: "Blood Drive",
+	title: "嗜血本能",
 	x: -8.0d,
 	y: -3.5d,
 	text: [
-		"As a vampire, you no longer need to eat food. Instead, you drain blood from living life forms.",
+		"作为吸血鬼，你不再需要进食。相对的，你需要吸取鲜活生物体身上的血液。",
 		"",
-		"Any excess blood drained will be stored in bottles in your inventory.",
+		"超出你饮食上限的那部分血液会储存到物品栏中的瓶子里。",
 		"",
-		"(Make sure the keybound to draining blood has no other keys bound to it)."
+		"（确认一下你的吸血快捷键没有和其它功能冲突）"
 	],
 	dependencies: [
 		"74e13f71"

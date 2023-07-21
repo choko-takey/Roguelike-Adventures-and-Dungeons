@@ -1,11 +1,11 @@
 {
-	title: "Blood Transfusion",
+	title: "血液传输",
 	icon: "vampirism:church_altar",
 	x: -9.0d,
 	y: -1.5d,
-	description: "Blood for the blood god",
+	description: "血祭血神",
 	text: [
-		"Tired of being a vampire either find an altar of cleansing in a village or craft one then activate it to become human again."
+		"不想当吸血鬼了？在村庄的教堂中找到净化圣坛，或者自己做一个净化圣坛，右键以重新变回人类。"
 	],
 	dependencies: [
 		"74e13f71"

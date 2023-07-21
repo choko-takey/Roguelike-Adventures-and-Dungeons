@@ -1,17 +1,17 @@
 {
-	title: "Self Taught",
+	title: "自我学习",
 	icon: "vampirism:hunter_table",
 	x: -4.0d,
 	y: 2.0d,
-	description: "I've taught you all I can",
+	description: "已经没什么能教你的了",
 	text: [
-		"After reaching a certain hunterlevel basic hunters will no longer be able to train you.",
+		"达到特定的猎人等级之后，一般的吸血鬼猎人就无法再训练你了。",
 		"",
-		"To progress further you need hunter intel which is made inside of a Hunter Research Table.",
+		"想要进一步升级，你需要在猎人研究台中制作猎人笔记。",
 		"",
-		"Hunter intel is made with vampire fangs, books, pure blood and vampire books.",
+		"制作猎人笔记需要：吸血鬼尖牙、书、纯净血液和吸血鬼之书。",
 		"",
-		"That intel can then be given to a vampire hunter trainer to further progress as a hunter."
+		"猎人笔记可以交给吸血鬼猎人教官，从而使你作为猎人进一步前进。"
 	],
 	dependencies: [
 		"fd81a1b8"

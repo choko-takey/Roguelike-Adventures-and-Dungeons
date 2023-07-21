@@ -1,10 +1,10 @@
 {
-	title: "Love Is in the Air",
+	title: "爱的气息",
 	x: -5.0d,
 	y: 7.0d,
-	description: "Wait nope thats garlic",
+	description: "哦不等等那是大蒜",
 	text: [
-		"A basic garlic diffuser activates an effect that weakens any vampires that enter it's range."
+		"一个激活的喷蒜器将会削弱任何进入它工作范围的吸血鬼。"
 	],
 	dependencies: [
 		"75fa588b"

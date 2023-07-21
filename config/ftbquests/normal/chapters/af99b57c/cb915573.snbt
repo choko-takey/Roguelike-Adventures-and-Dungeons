@@ -1,13 +1,13 @@
 {
-	title: "Fresh Blood",
+	title: "新鲜血液",
 	icon: "vampirism:vampire_blood_bottle",
 	x: -6.0d,
 	y: 2.0d,
-	description: "don't drink this",
+	description: "别喝",
 	text: [
-		"Vampires can sometimes drop blood when killed with a stake.",
+		"使用钉桩击杀吸血鬼有时会掉落吸血鬼之血。",
 		"",
-		"Depending on which skill tree you choose you can use it for certain potions."
+		"基于你选择的技能，你也许可以用它来制作药水。"
 	],
 	dependencies: [
 		"679444c3"

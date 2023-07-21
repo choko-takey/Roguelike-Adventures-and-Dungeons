@@ -1,10 +1,10 @@
 {
-	title: "Crossbow x2",
+	title: "双弩",
 	x: -1.0d,
 	y: 7.0d,
-	description: "Always double tap",
+	description: "每次都是双发",
 	text: [
-		"Fires two crossbow shots at once."
+		"一次射击射出两根弩箭。"
 	],
 	dependencies: [
 		"69651f58"

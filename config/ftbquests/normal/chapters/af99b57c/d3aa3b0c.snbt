@@ -1,9 +1,9 @@
 {
-	title: "Crossbow Arrow",
+	title: "弩箭",
 	x: -1.0d,
 	y: 5.0d,
 	text: [
-		"Used specifically for vampirism crossbow as ammunition"
+		"专门作为吸血鬼模组中弩弓的弹药。"
 	],
 	dependencies: [
 		"69651f58"

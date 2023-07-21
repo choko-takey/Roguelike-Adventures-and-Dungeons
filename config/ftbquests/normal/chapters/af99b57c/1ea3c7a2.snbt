@@ -1,12 +1,12 @@
 {
-	title: "Apothecary 101",
+	title: "炼金101",
 	x: -6.0d,
 	y: 6.0d,
-	description: "Garlic, aalt and everything holy",
+	description: "使用大蒜、盐，以及任何神圣的材料",
 	text: [
-		"To assist you in your vampire hunting, it's reccomeded to make an Alchemical Cauldron.",
+		"为了帮助你更好的狩猎吸血鬼，推荐你做一个炼金锅。",
 		"",
-		"This cauldron can be used to make items that weaken vampires."
+		"这个设备可以制作出削弱吸血鬼的道具。"
 	],
 	dependencies: [
 		"90371785"

@@ -1,12 +1,12 @@
 {
-	title: "Hunter's Air Freshner",
+	title: "猎人的空气净化器",
 	x: -5.0d,
 	y: 6.0d,
-	description: "Smells like Febreeze",
+	description: "闻起来不错",
 	text: [
-		"A good way of protecting your turf from vampires is with a garlic diffusor.",
+		"使用喷蒜器来阻止吸血鬼入侵你的领地是个好办法。",
 		"",
-		"The diffusor needs a Garlic diffusor core for it to work."
+		"喷蒜器需要大蒜扩散核心才能工作。"
 	],
 	dependencies: [
 		"1ea3c7a2"

@@ -1,12 +1,12 @@
 {
-	title: "Hunter's Workshop",
+	title: "猎人的工作站",
 	x: -4.0d,
 	y: 5.0d,
-	description: "I'm an engineer",
+	description: "成为工程师",
 	text: [
-		"Crafting hunter's weapons requires a hunters workshop",
+		"制作吸血鬼猎人的武器需要这个武器桌。",
 		"",
-		"Hunter weapons deal increased damage to all types vampires"
+		"猎人的武器对所有吸血鬼都会造成额外的伤害。"
 	],
 	dependencies: [
 		"90371785"

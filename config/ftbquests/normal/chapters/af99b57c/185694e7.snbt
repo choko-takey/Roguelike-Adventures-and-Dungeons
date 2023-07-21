@@ -1,16 +1,16 @@
 {
-	title: "Organ Harvest",
+	title: "器官丰收",
 	x: -8.0d,
 	y: -0.5d,
-	description: "Skulls for the skull throne",
+	description: "颅献颅座",
 	text: [
-		"You may have noticed that mobs don't infect you with vampirism.",
+		"你可能已经注意到怪物不会使你感染“吸血之疾”变成吸血鬼。",
 		"",
-		"So that players don't get unfairly effected in the early game the effect can only be given via a quest.",
+		"这样玩家就不会在早期阶段不情愿的情况下被迫变成吸血鬼，现在只能通过任务给予你“吸血之疾”的效果。",
 		"",
-		"Back to text!",
+		"回到正文！",
 		"",
-		"Kill some vampires and hunters to harvest their drops then trade them in to activate this effect."
+		"杀死一些吸血鬼和吸血鬼猎人，用他们的掉落物在任务界面激活“吸血之疾”。"
 	],
 	dependencies: [
 		"05835cf3"

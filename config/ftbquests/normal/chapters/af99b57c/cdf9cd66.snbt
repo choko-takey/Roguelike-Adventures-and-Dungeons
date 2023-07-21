@@ -1,13 +1,13 @@
 {
-	title: "Skill Tree",
+	title: "技能树",
 	x: -6.0d,
 	y: 1.0d,
 	text: [
-		"After levelling up past level 4 you can choose to invest skill points into skill trees.",
+		"等级超过4级之后，你就可以把技能点用到特定的技能树上了。",
 		"",
-		"Choose wisely as resetting it is expensive.",
+		"想清楚再做出选择，因为重置技能点的代价非常昂贵。",
 		"",
-		"To use certain skills a key is needed to activate them make sure that key is bound to nothing else."
+		"使用技能需要绑定一个单独的按键。确保这个按键没有和其它功能冲突。"
 	],
 	dependencies: [
 		"fd81a1b8"

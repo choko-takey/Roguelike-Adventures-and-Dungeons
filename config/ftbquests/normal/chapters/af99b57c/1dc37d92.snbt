@@ -1,12 +1,12 @@
 {
-	title: "Hunter Villager",
+	title: "吸血鬼猎人村民",
 	x: -5.0d,
 	y: 1.0d,
-	description: "Villager has wares if you have souls",
+	description: "可以用吸血鬼灵魂与村民换取物资",
 	text: [
-		"In hunter controlled villages you can come across Hunter experts .",
+		"在吸血鬼猎人控制的村庄中，你可以找到吸血鬼猎人专家。",
 		"",
-		"They will trade vampire souls for equipment and items."
+		"他们用吸血鬼灵魂交换装备和物资。"
 	],
 	dependencies: [
 		"fd81a1b8"

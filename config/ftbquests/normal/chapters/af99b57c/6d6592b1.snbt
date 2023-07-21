@@ -1,13 +1,13 @@
 {
-	title: "Ancient Blood Feud",
+	title: "古老的血海深仇",
 	icon: "guideapi:vampirism-guide",
 	x: -11.0d,
 	y: 2.0d,
-	description: "Vampires vs Hunters",
+	description: "吸血鬼vs吸血鬼猎人",
 	text: [
-		"A tale as old as time Hunters vs blood sucking fiends",
+		"一个古老的传说，关于猎人与它们那吸血朋友的故事。",
 		"",
-		"Which side will you choose to join"
+		"你会选择加入哪一边呢？"
 	],
 	tasks: [{
 		uid: "88eb6283",

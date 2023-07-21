@@ -1,10 +1,10 @@
 {
-	title: "Dead Tired",
+	title: "筋疲力尽",
 	x: -9.0d,
 	y: -4.5d,
-	description: "Don't let the coffin bugs bite",
+	description: "别被棺材中的虫子咬了",
 	text: [
-		"As a vampire, you're much weaker in the sun. To avoid the red overlord, you can skip to night by sleeping inside a coffin."
+		"作为吸血鬼，在太阳底下你会十分虚弱。为了避免红温过载，你可以在棺材中睡到晚上。"
 	],
 	dependencies: [
 		"79ece8a4"

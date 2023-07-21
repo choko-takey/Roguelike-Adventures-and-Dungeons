@@ -1,11 +1,11 @@
 {
-	title: "Small Game",
+	title: "小试牛刀",
 	x: -7.0d,
 	y: -5.5d,
 	text: [
-		"The best way of getting human hearts as a vampire is killing hunters",
+		"作为吸血鬼，获得人类心脏的最好方法是杀死吸血鬼猎人。",
 		"",
-		"You can find their camps randomly around the world. Kill some humans to get hearts."
+		"你可以在世界各处找到他们的帐篷，杀死一些猎人并获得心脏。"
 	],
 	dependencies: [
 		"1840a7f1"

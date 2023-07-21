@@ -1,16 +1,16 @@
 {
-	title: "Flesh & Blood",
+	title: "鲜肉和鲜血",
 	x: -7.0d,
 	y: -3.5d,
 	text: [
-		"To lazy to go out and drain mobs of their blood?",
+		"懒得出门去吸生物的血？",
 		"",
-		"Craft a blood sieve and grinder to make your own!",
+		"做一个血液提取器和血液过滤器来自给自足吧！",
 		"",
-		"Place the grinder ontop of the sieve and then place either raw meat or a human heart inside ",
-		"and it will grind them down into blood.",
+		"把血液提取器放到血液过滤器上方，然后往提取器中放入生肉或人类心脏,就可以将它们磨成血液。",
 		"",
-		"A tank or container must be below the sieve for blood to be properly stored."
+		"",
+		"过滤器下方需要放个水槽或容器来储存产出的血液。"
 	],
 	dependencies: [
 		"79ece8a4"

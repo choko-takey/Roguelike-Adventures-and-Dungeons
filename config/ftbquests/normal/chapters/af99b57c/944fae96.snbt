@@ -1,12 +1,12 @@
 {
-	title: "Vampire Villager",
+	title: "吸血鬼村民",
 	x: -5.0d,
 	y: -2.5d,
-	description: "The butler did do it",
+	description: "一般都是男管家",
 	text: [
-		"In vampire controlled villages, you can come across vampire experts .",
+		"在吸血鬼控制的村庄中，你能遇见一些吸血鬼专家",
 		"",
-		"They will trade human hearts for pure blood."
+		"可以用人类心脏交换纯净血液。"
 	],
 	dependencies: [
 		"d53d6c2d"

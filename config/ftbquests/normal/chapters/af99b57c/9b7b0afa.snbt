@@ -1,14 +1,14 @@
 {
-	title: "Blood Magic",
+	title: "血魔法",
 	x: -7.0d,
 	y: 2.0d,
-	description: "I told you not to drink it",
+	description: "和你说了别喝",
 	text: [
-		"To get the full usage outside of vampire blood you need to make a blood sieve.",
+		"为了充分利用吸血鬼之血，你需要做一个血药桌。",
 		"",
-		"By combining vampire blood and garlic in a blood sieve you can create blood potions.",
+		"将吸血鬼之血和大蒜在血药桌中混合，你就能得到血药。",
 		"",
-		"These potions give random effects."
+		"这些药水会随机产生效果。"
 	],
 	dependencies: [
 		"cb915573"

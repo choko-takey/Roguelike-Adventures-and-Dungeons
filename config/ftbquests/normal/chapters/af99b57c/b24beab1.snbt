@@ -1,8 +1,8 @@
 {
-	title: "Legendary Vampire Hunter",
+	title: "传说级吸血鬼猎人",
 	x: 0.0d,
 	y: 2.0d,
-	description: "Hunter Intel 14",
+	description: "猎人情报14",
 	text: [
 		""
 	],
