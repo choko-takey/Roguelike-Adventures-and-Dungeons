@@ -1,7 +1,7 @@
 {
   "name": "levelup:scout",
   "bonus": "levelup:combat_bonus",
-  "localized_name": "罗宾逊",
+  "localized_name": "侦察员",
   "description": "高超的箭术和体术。",
   "skills": [
     {
