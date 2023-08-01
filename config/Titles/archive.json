@@ -1,17 +1,17 @@
 {
   "COMMON": [
-    "the Brute",
-    "the Apprentice",
-    "the Page"
+    "\u51B7\u9177\u65E0\u60C5",
+    "\u5B66\u5F92",
+    "\u52A9\u7406"
   ],
   "UNCOMMON": [
-    "the Predator",
-    "the Journeyman",
-    "the Squire"
+    "\u63A0\u593A\u8005",
+    "\u65C5\u4EBA",
+    "\u4E61\u7EC5"
   ],
   "RARE": [
-    "the Reaper",
-    "the Master",
-    "the Knight"
+    "\u6536\u5272\u8005",
+    "\u5927\u5E08",
+    "\u9A91\u58EB"
   ]
 }
