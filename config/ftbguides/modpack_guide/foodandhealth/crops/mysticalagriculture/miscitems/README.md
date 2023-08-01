@@ -1,35 +1,35 @@
-# Your guide to other items
+# 其他物品指南
 ___
 
-![The Supremium Watering Can](supremiumcan.png)
+![终极精华洒水壶](supremiumcan.png)
 
-Watering Cans are very useful. When used, they increase the growth rate of crops in the area by a certain tick amount.
+洒水壶是非常有用的。使用它们能使区域内作物生长速度提高。
 
-To make the most efficient use of this item, you should rapidly spam Right-click.
+为了物尽其用，你应该拼命点击右键。
 
-For a less alternative requiring less excersion, you can move around in the area and hold Right-click while looking towards the ground.
+有个不需要那么麻烦的替代方法，你可以在该区域内看向地面移动，并按住右键。
 
-Moving around will register each block you pass over as a new Right-click, when Right-click is held down, and automatically uses the Watering Can when you move around; if that makes any sense.
+当按住右键移动时，你经过的每一个方块会被注册为一个新的右键，并在你移动时自动使用洒水壶；如果这有任何意义的话。
 
-![Required for the Watering Can cores](fertilebonedust.png)
+![洒水壶核心所需](fertilebonedust.png)
 
-Watering Can cores will require Fertilized Essence. This is obtained at a set chance when you harvest resource crops from Mystical Agriculture.
+洒水壶核心需要肥料精华。当你收获神秘农业的资源作物时，有概率获得它。
 
-![Supremium Coal](supercoal.png)
+![终极精华煤](supercoal.png)
 
-Coal infused with essence can also be a huge boon, if you have the resources to spare. This fuel will burn with much more potential than regular Coal.
+如果您有足够的资源，注入精华的煤炭也是一个巨大的福音。这种燃料的燃烧能力比普通煤炭强得多。
 
-![Supremium Coal Block](supercoalblock.png)
+![终极精华煤块](supercoalblock.png)
 
-You can also compact your fuel, just like regular Coal, but with a bit of color added.
+同样你也可以压缩你的燃料，就像普通的煤一样，但是多了点颜色。
 
-![The Seed Reprocessor](seedreprocessor.png)
+![种子再处理器](seedreprocessor.png)
 
-The Seed Reprocessor can turn your resource seeds back into basic Crafting Seeds of the appropriate tier.
+种子再处理器可以将你的资源种子变回相应层级的基础合成种子。
 
-This is for when you decide you want to switch up what you're growing, and have the materials to change the seeds, but not the materials to create entirely new basic Crafting Seeds.
+当你要改变你所种植的作物，并且有改变种子的材料，但没有制作新的基础合成种子的材料时，你会需要它。
 
-Very helpful in the early game, and even into the late game when you're growing one or two Tier 5 crops and want to switch them around after you think you've gotten enough of whatever the resource is.
+在游戏初期甚至游戏后期时都非常有用，当你种植了一到两种五级作物，并且你认为你已经得到足够的资源后，想把它们交换，你也会需要它。
 
 
 

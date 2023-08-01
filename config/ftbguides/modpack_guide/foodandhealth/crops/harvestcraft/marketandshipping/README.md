@@ -1,3 +1,3 @@
-# Interactables in Pam's Harvestcraft
+# 潘马斯农场中的可交互使用设备
 ___
 

@@ -1,8 +1,8 @@
-# Tips & Tricks
+# 提示及窍门
 ___
 
-In this section of the Guide, you'll find tons of tips and tricks on how to run your base of operations.
+在指南的这一部分，你会发现大量关于你的基地的技巧和窍门。
 
-These footnotes will range from things that will increase your farming effiency, to information you had no idea existed.
+这些脚注的范围包括能够提高你的农业效率的东西，以及你根本不知道的信息。
 
-Click around and I bet you'll find some fun stuff.
+点击一下，我打赌你会发现一些好玩的东西。

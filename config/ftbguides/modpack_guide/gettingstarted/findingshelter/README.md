@@ -1,46 +1,46 @@
-# Seeking somewhere to sleep!
+# 寻找落脚的地方！
 
-Now you need somewhere to sleep!
+现在你需要找个地方睡觉了！
 
-Players have access to several methods of setting their spawn point, or creating shelter for the night.
+玩家可以使用几种不同的方法来设置出生点，或为夜晚创造庇护所。
 
-![A "Small" and "Mega" tepe in the hot desert](tepes.png)
+![炎热沙漠中的小帐篷和大帐篷](tepes.png)
 
-Nomadic Tents offers several ways of putting a roof over your head. The tepe, seen above, is one way to do it!
+游牧帐篷提供了几种方式来给你的头上盖个屋顶。上图所示的帐篷就是其中一种方式！
 
-Tepes are not the only tent to choose from, however. Nomadic Tents offers 5 different shelters: The Tepe, Yurt, Bedouin, Shamiyana and the Indlu.
+然而，帐篷并不是唯一的选择。游牧帐篷提供了5种不同的庇护所：帐篷、蒙古包、贝都因、莎米亚娜和印第安。
 
-Tents can have the indoor space as well as the indoor depth upgraded. A tent can only be upgraded starting at Medium size; you are only permitted one depth upgrade per size upgrade per tent.
+帐篷的室内空间和深度可以升级。帐篷只能从中型开始升级；每个帐篷每次升级只允许升级一次深度。
 
-![The framework of a tent and a framework block that has been slightly worked on](settingupcamp.png)
+![一个帐篷的框架和一个被轻微加工过的框架方块](settingupcamp.png)
 
-After building your tent, place it down to see the framework. In order to "set up" your tent, you will need a Tent Mallet, or a Super Tent Mallet. Right-click each frame block with a Tent Mallet until the tent is completely set up. This is done instantly with the Super Tent Mallet.
+做好帐篷后，将其放下以查看框架。为了“搭建”帐篷，您需要一个帐篷固定木槌或超级帐篷固定槌。使用槌右击每个框架，直到帐篷完全设置好。使用超级帐篷固定槌可以立即完成搭建。
 
-The inside space of an upgraded tent will be much larger than the outside space it takes up. This allows for efficient use of space in the creation of something like a village. 
+升级后的帐篷内部空间将远远大于其占用的外部空间。这样就可以有效地利用空间来建造类似村庄的建筑。
 
-Once you're done, you can Right-click the door of your tent with a Tent Mallet to pack it up, and move somewhere else. Your belongings will still remain inside of your tent when you set up camp elsewhere.
+完成后，你可以用固定木槌右击帐篷门，把其打包搬走。当你在其他地方安营扎寨时，你的物品仍将留在帐篷内。
 
-Tents do not have to be moved either. As mentioned before, you can keep a tent in a single location and build some snazzy decorations around it! Go crazy!
+帐篷也不需要移动。如前所述，你可以把帐篷放在一个地方，然后在它周围搭建一些时髦的装饰品! 疯了吧！
 
 
-Other methods available to the player include the "Prefab" mod.
+玩家可以使用的其他方法包括"Prefab"模组。
 
-This mod gives players accessibilty to a plethora of different structures to build, including shelters, farm houses, storage rooms, and even mob farms. See your JEI menu for complete crafting recipes!
+这个模组让玩家可以建造大量不同的建筑，包括庇护所、农场房屋、储藏室，甚至是刷怪场。请参阅你的JEI菜单，了解完整的合成配方！
 
-![A preview of the "Starting House" item](prefabpreview.png)
+![预览"初始小屋"物品](prefabpreview.png)
 
-Here is a preview of one of several Starting Houses available in the early game.
+这里是游戏早期可供选择的几个初始屋之一的预览。
 
-Players can choose from several others, including Ranch, Desert and Snowy style houses.
+玩家可以选择其他几种风格，包括牧场、沙漠和雪地风格的房子。
 
-Once you have the item in your inventory, simply Right-click on the ground to bring up the configuration menu for your structure. You can immediately build your structure, or preview it before completing placement.
+一旦你用有了这个物品，只需在地面上右键，就可以调出结构的配置菜单。你可以立即建造你的结构，或在建造前预览。
 
-Houses are spawned standard with basic amenities like a Crafting Table, Furnace and Chests.
+房屋的标准配置包括工作台、熔炉和箱子等基本设施。
 
-Structures like the Monster Masher will even spawn Mob Spawners upon placement.
+像怪物磨床这样的结构在放置后甚至会产生生物刷怪笼。
 
-![A hammock between two trees](hammock.png)
+![两棵树之间的吊床](hammock.png)
 
-Hammocks can be used to sleep the day away. Sleeping Bags can be used to sleep the night away. Hammocks will require some other items to set up, but are helpful for those who like to prowl at night.
+吊床可以用来度过白天。睡袋可以用来度过晚上。吊床需要一些其他物品来设置，它对于那些夜猫子来说是很有用的。
 
-Like regular beds however, Hammocks WILL set your spawn point to the most recent used Hammock. Keep this in mind.
+然而，像普通的床一样，吊床会将你的出生点设置为最近使用的吊床。请牢记这一点。

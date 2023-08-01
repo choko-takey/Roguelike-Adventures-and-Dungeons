@@ -1,6 +1,6 @@
-# Redstone Contraptions & Mechanics
+# 红石装置与机械
 ___
 
-In this section of the Guide, you'll find tons of different contraptions and circuit set-ups which should help you get a better understanding of Redstone, and also help you build better farms, or cooler doors!
+在指南的这一部分，你会发现大量不同的装置和电路设置，应该可以帮助你更好地了解红石，也可以帮助你建造更好的农场，或者更酷的门!
 
-Get to work!
+去工作吧！

@@ -1,22 +1,22 @@
 [
  {
   "id": "crops",
-  "title": "Gotta Eat Your Greens!",
+  "title": "一定要吃绿色食品！",
   "icon": "item:harvestcraft:broccoliitem"
  },
  {
   "id": "meat",
-  "title": "Protein Is Just As Important!",
+  "title": "蛋白质也同样重要！",
   "icon": "item:minecraft:cooked_chicken"
  },
  {
   "id": "thebestfood",
-  "title": "Powerful Foods",
+  "title": "强力食物",
   "icon": "item:minecraft:golden_apple"
  },
 {
   "id": "kitchen",
-  "title": "Kitchen Utilities (Must-Read!)",
+  "title": "厨房实用工具（必读！）",
   "icon": "item:cookingforblockheads:kitchen_floor"
  }
 ]

@@ -1,30 +1,30 @@
-# The World doesn't stop just for you!
+# 地球不是绕着你转！
 
-The difficulty of your world will gradually increase until reaching 250.
+你的世界的难度将逐渐增加，直至250。
 
-Difficulty is increased by several constant and several addititive variables. 
+难度由几个常数和几个加法变量增加。
 
-The farther you are from spawn will increase difficulty at a faster rate.
+你离出生点越远，难度增加的速度越快。
 
-Mobs killed will also increase difficulty.
+击杀生物也会增加难度。
 
-As difficulty increases, the health and damage of mobs as well as the chance to spawn Blight mobs does too.
+随着难度的增加，生物的血量和伤害以及产生凋灵生物的概率也会增加。
 
-![Enchanted and Cursed Heart, from left to right](hearts.png)
+![蕴魔之心和诅咒之心](hearts.png)
 
-Enchanted and Cursed Hearts can be used to decrease or increase your worlds' difficulty. They can be purchased from the Shop. Controlling the difficulty of your world is not intended to be easy, and these hearts will cost a pretty penny.
+蕴魔和诅咒之心可以用来降低或增加你世界的难度。它们可以从商店购买。控制世界的难度并不容易，这些心将花费相当多的钱。
 
-Purchase them with gold earned from completing quests!
+用完成任务获得的金币购买它们!
 
-![A heart container](heartcontainer.png)
+![心之容器](heartcontainer.png)
 
-Heart Containers can be created by combining Heart Crystal Shards in your crafting grid. See the JEI menu for recipes.
+心之容器可以通过在你的工作台中使用心晶碎片来制作。请看JEI菜单中的配方。
 
-These hearts will increase your maximum life by 1 full heart each and will require some experience levels to consume.
+这些红心将使你的最大生命值增加1颗心，有一定的经验值消耗。
 
-Also, the maximum HP is something ridiculous, so don't worry about getting too much health.
+此外，最大生命值是重要的东西，所以不要担心血量太多。
 
-Heart Crystal Shards will drop randomly from killed enemies, and can be found rarely as ore deposits underground.
+击杀敌人会随机掉落心晶碎片，在地下也能找到很少的矿脉。
 
 
 

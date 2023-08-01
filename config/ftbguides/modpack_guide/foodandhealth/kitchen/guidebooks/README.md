@@ -1,28 +1,28 @@
-# Grandma's cookbooks
+# 祖母的食谱
 ___
 
-![First cookbook](book1.png)
+![第一本食谱](book1.png)
 
-The first cookbook you'll obtain will show you all of the available cooking recipes. 
+你获得的第一本食谱将向你展示所有可用的烹饪食谱。
 
-That's it. 
+就这样。
 
-Get back in the kitchen!
+回到厨房吧！
 
-![Second cookbook](book2.png)
+![第二本食谱](book2.png)
 
-The second cookbook will show you all of the recipes you can CRAFT with things in your inventory.
+第二本食谱将向你展示你可以用物品栏的物品制作的所有食谱。
 
-That's it.
+就这样。
 
-Back to the kitchen!
+回到厨房吧！
 
-![The legendary cookbook](book3.png)
+![传奇食谱](book3.png)
 
-The third cookbook will show you all of the recipes you can craft with items in your inventory, and will allow you to craft them out of your inventory.
+第三本食谱将向你展示你可以用物品栏的物品制作的所有食谱，并允许你从物品栏中制作它们。
 
-This is slightly limited, as you cannot cook food from your inventory. 
+这一点略有限制，因为你不能从你的物品栏中烹饪食物。
 
-This cookbook limits to you preparing items up to the 9x9 grid, and only with items you already have available, or which you can craft out of your inventory.
+这本食谱限制了你准备9x9的物品，而且只能用你已经有的物品，或你可以从你的物品栏制作的物品。
 
-So you should still stay in the kitchen after all!
+因此，你还是应该留在厨房里！

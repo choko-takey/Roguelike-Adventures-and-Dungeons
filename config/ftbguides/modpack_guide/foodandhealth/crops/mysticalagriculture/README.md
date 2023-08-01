@@ -1,9 +1,9 @@
-# The guide to Mystical Agriculture
+# 神秘农业指南
 
-![Modpack Thumbnail, Credit To Mod Author](thumbnail.png)
+![整合包缩略图，归功于模组作者](thumbnail.png)
 
-This guide will help break down certain portions of the mod which you may find slightly confusing, and should clear up what the best crops to grow are.
+本指南将分解你可能觉得有点难度的模组的某些内容，并明确什么是最佳作物。
 
-I mean, you can always make room and grow every single crop. 
+我的意思是，你总是会腾出空间，种植每一种作物。
 
-If you're smart, you actually don't need that much room.
+如果你够聪明，会发现实际上并不需要那么多空间。

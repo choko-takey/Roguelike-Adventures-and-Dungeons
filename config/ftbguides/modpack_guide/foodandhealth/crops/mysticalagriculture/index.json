@@ -1,27 +1,27 @@
 [
  {
   "id": "inferiumseeds",
-  "title": "Inferium Seeds",
+  "title": "精华种子",
   "icon": "item:mysticalagriculture:crafting"
  },
  {
   "id": "resourceseeds",
-  "title": "Resource Seeds",
+  "title": "资源种子",
   "icon": "item:mysticalagriculture:octine_seeds"
  },
  {
   "id": "mobchunks",
-  "title": "Mob Chunks & Mob Seeds",
+  "title": "生物灵魂碎片及生物种子",
   "icon": "item:mysticalagriculture:chunk"
  },
  {
   "id": "miscitems",
-  "title": "Misc. Items",
+  "title": "杂项物品",
   "icon": "item:mysticalagriculture:watering_can"
  },
 {
   "id": "whatshouldyougrow",
-  "title": "The Best Crops And Why To Grow Them",
+  "title": "最佳作物及为何种植",
   "icon": "item:mysticalagriculture:nature_crop"
  }
 ]

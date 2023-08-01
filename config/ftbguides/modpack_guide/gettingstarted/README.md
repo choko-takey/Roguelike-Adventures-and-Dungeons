@@ -1,18 +1,18 @@
-This guide will help you figure out how to start your adventure in this modpack!
+本指南将帮助你弄清楚如何在这个整合包中开始你的冒险！
 
-Here is some basic but important information for you to go over:
+以下是一些基础但重要的信息，供你参考：
 
--Scaling Health: The difficulty in your world will continuously increase up to a difficulty of 250. If you are not always improving your gear or enchants, you may find the game to be difficult at certain points. ALL mobs scale, including bosses. Take this into account when deciding what content you wish to pursue at the time. Check the Scaling Health page for more information.
+-Scaling Health：世界中的难度将不断增加，直至250。如果你不经常提升你的装备或附魔，你可能会发现游戏的某些部分比较困难。所有的小怪都会升级，包括boss。在决定你的目标时，要考虑到这一点。更多信息请查看Scaling Health页面。
 
--Quality Tools: Items may have a random quality or attribute when they enter your inventory. This can be a good or bad thing, depending on the quality of the tool. In order to reforge a tool, you will need to obtain Obsidian and craft a Reforging Station. There, you can place the repair material for the item into the station, and reforge your item. If your item does not have a proper repair material, you will need a Nether Star, instead.
+-工具品质：当物品进入你的物品栏时，它们可能具有随机的品质或属性。这可能是一件好事，也可能是一件坏事，取决于工具的品质。重铸工具需要获得黑曜石并制作锻造台。你可以将物品的维修材料放入槽位，并重新锻造你的物品。如果你的物品没有合适的修复材料，你将需要一个下界之星来代替。
 
--Level-Up System: A menu, available by a binding (check your Controls), will allow players to exert 5 experience levels for a skill point. Skill points can be spent on passive talents inside this menu. These talents will provide slight boosts to your quality of life. Check the Level-Up System page for more information.
+-升级系统：一个菜单，通过按键打开（检查你的控制），将允许玩家消耗5经验等级换取1技能点。技能点可以在这个菜单内的被动天赋上使用。这些天赋将为你的生活质量提供轻微的提升。请查看升级系统页面了解更多信息。
 
--Spells: Spells have great utility purpose, but have also been recently updated to be more useful in combat. You may find certain spells to be overpowering against enemies; this is partially intended. As the difficulty of your world increases, you will find spells are more balanced towards mid to end-game.
+-法术：法术非常的实用，最近也进行了更新，在战斗中更加有用。你可能会发现某些法术对敌人过于强大；这也是部分原因。随着你的世界难度的增加，你会发现法术在游戏中期和末期更加平衡。
 
--Read descriptions in your questbook: If you need help figuring out what an item does, and it is not explained in the game, you can usually find an explanation in the description of the quest related to the item in question. E.g items in "Cyclic" or "Random Things".
+-阅读任务书中的描述。如果你需要帮助弄清一件物品的作用，而游戏中没有解释，你通常可以在与该物品有关的任务描述中找到解释。例如，“循环”或“随意作品”中的物品。
 
--The Questbook is not the end-all. It is meant to be a guide, more than anything, and you will likely find yourself completing quests just by playing the modpack. Objectives for players to complete are a bonus to those who play objectively. Just about everything can still be obtained or discovered without completing the questbook.
+-任务书并不是唯一的目标。它更多的是作为指南，你很可能会在游玩整合包时完成任务。对于那些客观玩家来说，完成玩家任务是一个额外的奖励。几乎所有的东西仍然可以在没有完成任务书的情况下获得或发现。
 
--This modpack strays away from automation. Certain farming methods may be gone over in this guide, but in regards to experience farms; these have been effortfully removed. This modpack focuses on exploration and rewards determination.
+-这个整合包没有自动化。某些耕作方法可能会在本指南中提到，但关于经验农场，这些已经被努力删除。这个整合包着重于探索和奖励。
 

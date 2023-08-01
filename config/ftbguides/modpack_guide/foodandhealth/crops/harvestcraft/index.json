@@ -1,32 +1,32 @@
 [
  {
   "id": "gardens",
-  "title": "Gardens And Where To Find Them",
+  "title": "菜园及何处可寻",
   "icon": "item:harvestcraft:windygarden"
  },
  {
   "id": "gmofreefood",
-  "title": "Every Cooking Ingredient Ever",
+  "title": "包含每种烹饪原料",
   "icon": "item:harvestcraft:tomatoitem"
  },
  {
   "id": "trees",
-  "title": "Trees And How To Grow Fruit, Anywhere",
+  "title": "树木及如何在任何地方种植果树",
   "icon": "item:harvestcraft:dragonfruititem"
  },
  {
   "id": "huntergatherer",
-  "title": "Now For The Main Dish",
+  "title": "现在是主菜",
   "icon": "item:harvestcraft:thankfuldinneritem"
  },
  {
   "id": "stringsupply",
-  "title": "Sourcing Natural String",
+  "title": "获取天然丝线",
   "icon": "item:harvestcraft:flaxitem"
  },
  {
   "id": "marketandshipping",
-  "title": "It Ain't Much, But It's Honest Work",
+  "title": "这没什么，但这是诚实的工作",
   "icon": "item:harvestcraft:market"
  },
 ]

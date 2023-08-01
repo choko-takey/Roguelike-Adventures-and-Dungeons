@@ -1,17 +1,17 @@
 [
  {
   "id": "harvestcraft",
-  "title": "Pam's Harvestcraft",
+  "title": "潘马斯农场",
   "icon": "item:harvestcraft:cherry_sapling"
  },
  {
   "id": "mysticalagriculture",
-  "title": "Mystical Agriculture",
+  "title": "神秘农业",
   "icon": "item:mysticalagriculture:crafting"
  },
  {
   "id": "uniquecrops",
-  "title": "Unique Crops And How To Farm Them",
+  "title": "独特作物以及如何种植",
   "icon": "item:pvj:wild_wheat"
  }
 ]

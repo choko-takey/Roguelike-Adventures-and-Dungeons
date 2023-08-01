@@ -1,27 +1,27 @@
-# String sources
+# 丝线来源
 ___
 
-Several crops from Pam's Harvestcraft can be used to create String.
+潘马斯农场中的几种作物可以用来制作线。
 
-They are:
+它们是：
 
--Flax
--Kenaf
--Sisal
--Jute
--Cotton
+-亚麻
+-洋麻
+-剑麻
+-黄麻
+-棉花
 
-![String recipe](stringrecipe.png)
+![线配方](stringrecipe.png)
 
-These crops can all be used to create String with the above recipe. See the JEI menu for help.
+这些作物都可以通过上述配方来制作线。请参阅JEI菜单以获得帮助。
 
-Gardens from all biomes have a chance to yield a String crop when broken.
+所有生物群系的菜园被破坏时都有概率掉落纤维作物。
 
-Cotton: Frost and Soggy Gardens
-Sisal: Arid Gardens
-Jute: Shaded Gardens
-Kenaf: Tropical Gardens
-Flax: Windy Gardens
+棉花：严寒和湿润菜园
+剑麻：贫瘠菜园
+黄麻：荫蔽菜园
+洋麻：热带菜园
+亚麻：多风菜园
 
 
 

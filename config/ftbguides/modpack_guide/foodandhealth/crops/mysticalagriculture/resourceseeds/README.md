@@ -1,59 +1,59 @@
-# Resources and how to grow them!
+# 资源，及如何种植资源
 ___
 
-# Just a beginner
+# 初学者
 ___
 
-You can grow a plethora of different resources using Mystical Agriculture.
+你可以利用神秘农业种植大量不同的资源。
 
-In the previous section, you went over how to obtain essences and increase their potency. In this section, you'll review the details on how to turn these essences into seeds that will grow you valuable resources.
+在上一节中，你学到了如何高效获得精华并物尽其用。在这一节中，你将学到如何将这些精华转变成资源种子。
 
-Crafting Seeds will come in several tiers, up to Tier 5
+合成种子有几个层级，最高为5级
 
-![Example picture](basecraftingseeds.png)
+![例图](basecraftingseeds.png)
 
-The Base Crafting Seeds are required to start and upgrade seeds from Tier 1.
+基础合成种子需要从第1级开始升级。
 
-![Example picture](tier1craftingseeds.png)
+![例图](tier1craftingseeds.png)
 
-Tier 1 Crafting Seeds will yield essences when harvested. These are not normal essences however, and are used in certain recipes to create their respective resource.
+收获一级合成种子会获得精华。然而，这些都不是普通的精华，它们可以被用于某些配方中，以制作资源。
 
-![Essences from Tier 1 Crafting Seeds](seedessence.png)
+![一级合成种子种出的精华](seedessence.png)
 
-Here we can see the essences we can gather from Tier 1 Crafting Seeds.
+在这里，我们看到可以通过一级合成种子获得的精华。
 
-![Some of the recipes available with essences you can harvest from Crafting Seeds](seedessencerecipe.png)
+![一些使用从合成种子中收获的精华来合成的配方](seedessencerecipe.png)
 
-Essences can be combined to create things like dirt, or grass blocks. Other resources like stone, and even coal can be created from these essences.
+精华可以组合起来，创造出像泥土或草方块这样的东西。其他资源如石头，甚至煤炭都可以通过这些精华创造。
 ___
 
-# Getting serious
+# 严阵以待
 ___
 
-![Example of a higher tier Crafting Seed](valoniteseeds.png)
+![较高等级的合成种子的例子](valoniteseeds.png)
 
-You'll eventually be able to craft seeds which will grow valuable materials.
+你最终将能够制作出能够生长出有价值材料的种子。
 
-Some crops do not yield essences. In the case of most ore crops, the ore itself will drop when the crop is harvested.
+有些作物不会产生精华。大多数矿石作物会在收割时掉落自身。
 
-Fortune can affect these drop rates under certain circumstances. 
+在某些情况下，时运会影响掉落概率。
 
-When crops are destroyed by a tool enchanted with Fortune, there is a chance to receive double seeds and double harvest back from your crop, to the detriment of you having to replant your crops every single time you do this.
+当附魔时运的工具破坏作物时，有概率掉落双倍掉落物，而你每次都必须重新种植你的农作物。
 
-In the long run, it is much more efficient to set up a sustainable farm which will bring you continuous yields of essence, from Inferium or Crafting Seed crops.
+长远来看，建立一个可持续发展的农场是更有效的，它将为你带来持续的精华产出，来自于精华或合成种子作物。
 ___
 
-# Fertilizing Mystical Crops?
+# 给神秘作物施肥？
 ___
 
-You may have been wondering why regular Bone Meal doesn't work on Inferium, and this is intended.
+你可能一直想知道为什么普通的骨粉对精华不起作用，这是设定的游戏机制。
 
-In order to fertilize crops from Mystical Agriculture, you'll need to obtain Fertilized Essence. 
+要想给神秘农业的农作物施肥，你需要获得肥料精华。
 
-![Fertilized Essence item](fertessence.png)
+![肥料精华](fertessence.png)
 
-This item has a 10% chance to drop when harvesting the yield from any resource crop.
+在收获任何资源作物时，有10%的概率掉落肥料。
 
-Fertilized Essence can be used like Bonemeal on crops from Mystical Agriculture.
+肥料精华可以像骨粉一样用于神秘农业的作物。
 
-It can also be used to craft other misc. items from the mod. See Misc. Items section for more information.
+它还可以用来制作该模组中的其他杂物。更多信息请参见杂项物品部分（译者注：这个作者根本没做这个部分）。
