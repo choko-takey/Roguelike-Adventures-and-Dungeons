@@ -1,11 +1,11 @@
 {
-	title: "Hail Hydra!",
+	title: "九头蛇万岁！",
 	icon: "twilightforest:trophy 1 2",
 	x: 5.5d,
 	y: -3.0d,
-	description: "This is my swamp!",
+	description: "这是我的沼泽！",
 	text: [
-		"Slay a Hydra in it's mound of bones and muck."
+		"在一座由骨头和废土形成的山丘当中杀死九头蛇。"
 	],
 	dependencies: [
 		"1b028991"
@@ -14,7 +14,7 @@
 	tasks: [{
 		uid: "f32efbfe",
 		type: "kill",
-		title: "Slay a Hydra",
+		title: "杀死九头蛇",
 		entity: "twilightforest:hydra",
 		value: 1L
 	}],

@@ -1,10 +1,10 @@
 {
-	title: "Phantom Armaments",
+	title: "幻影武器",
 	x: 0.5d,
 	y: -9.0d,
-	description: "Vicious weapons for a vicious fight",
+	description: "凶恶的武器",
 	text: [
-		"Obtain or craft the armaments of the Knight Phantom."
+		"获取或者制作幻影骑士的武器。"
 	],
 	dependencies: [
 		"752838d8"

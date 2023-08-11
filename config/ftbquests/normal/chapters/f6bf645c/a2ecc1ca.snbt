@@ -1,10 +1,10 @@
 {
-	title: "CAUTION: FRAGILE",
+	title: "警告：易碎",
 	x: 3.0d,
 	y: 8.5d,
-	description: "Does this thing even work?",
+	description: "这东西管用吗？",
 	text: [
-		"Not for long it doesn't!"
+		"它不能一直用！"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

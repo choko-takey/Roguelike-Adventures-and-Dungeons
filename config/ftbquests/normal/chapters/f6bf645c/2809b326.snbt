@@ -1,10 +1,10 @@
 {
-	title: "1-800-Bug-Away",
+	title: "1-800-Bug-Away（程序错误）",
 	x: 5.5d,
 	y: 4.5d,
-	description: "*Not a real phone number*",
+	description: "*该电话号码为空*",
 	text: [
-		"Collect all of the bugs found in The Twilight Forest."
+		"在暮色森林中收集所有的虫子。"
 	],
 	dependencies: [
 		"12ae72c5"

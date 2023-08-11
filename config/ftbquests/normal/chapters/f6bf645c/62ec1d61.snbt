@@ -1,13 +1,15 @@
 {
-	title: "Hole To The Eventide",
+	title: "暮色森林之门",
 	icon: "twilightforest:thorn_rose",
 	x: 2.5d,
 	y: 5.0d,
-	description: "Your like alice but the wonderland wants to kill you",
+	description: "你就像梦游仙境爱丽丝但仙境试图杀了你",
 	text: [
-		"To enter the twilight forest make an 2x2 water source surronded by flowers.",
+		"制作一个由任意花朵环绕的2x2水坑。",
+
 		"",
-		"Then drop a diamond inside."
+		"然后向水坑中扔一颗钻石，跳进去你就进入了暮色森林。"
+
 	],
 	tasks: [{
 		uid: "d451cbc3",

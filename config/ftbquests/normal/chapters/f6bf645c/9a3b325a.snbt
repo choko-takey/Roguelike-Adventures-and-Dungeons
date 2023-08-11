@@ -1,12 +1,12 @@
 {
-	title: "Steeleaf Armaments",
+	title: "钢叶武器",
 	x: 7.5d,
 	y: 7.5d,
-	description: "Razor Grass!",
+	description: "剃刀草！",
 	text: [
-		"Craft tools and armanents from the rare but valuable Steeleaf.",
+		"用稀有的钢叶制作工具和武器。",
 		"",
-		"You are required to craft the full set to complete this quest."
+		"你需要制作完整套装来完成这个任务。"
 	],
 	dependencies: [
 		"da78e48f"

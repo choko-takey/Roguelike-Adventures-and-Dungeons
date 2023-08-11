@@ -1,10 +1,10 @@
 {
-	title: "Allergic to Grass",
+	title: "植物过敏",
 	x: 7.5d,
 	y: 9.0d,
-	description: "You suddenly feel itchy",
+	description: "你突然感觉痒痒的",
 	text: [
-		"Craft protection from the rare but valuable Steeleaf."
+		"用稀有的钢叶制作护甲。"
 	],
 	dependencies: [
 		"da78e48f"

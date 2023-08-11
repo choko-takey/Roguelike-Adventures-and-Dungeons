@@ -1,13 +1,13 @@
 {
-	title: "The Hydra, the Lich, and the Forest",
+	title: "九头蛇，巫妖，还有黑暗森林",
 	icon: "twilightforest:trophy 1 5",
 	x: 2.0d,
 	y: -14.0d,
-	description: "Narnyuh awaits you",
+	description: "终焉城堡在等着你",
 	text: [
-		"Childhood classics.",
+		"经典童话。",
 		"",
-		"That was a great movie."
+		"那是很棒的电影。"
 	],
 	dependencies: [
 		"efccc984"
@@ -16,7 +16,7 @@
 	tasks: [{
 		uid: "6080a1f8",
 		type: "kill",
-		title: "Slay the Snow Queen",
+		title: "杀死冰雪女王",
 		entity: "twilightforest:snow_queen",
 		value: 1L
 	}],

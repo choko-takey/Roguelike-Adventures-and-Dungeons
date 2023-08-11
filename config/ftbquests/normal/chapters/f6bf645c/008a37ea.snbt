@@ -1,14 +1,14 @@
 {
-	title: "Ghetto Style",
+	title: "地底风味",
 	x: 0.0d,
 	y: -2.5d,
-	description: "You put sour cream in yours, right?",
+	description: "你把奶油放进去了，对吧？",
 	text: [
-		"If you don't, you're doing it wrong. That's what gives the Stroganoff its TANG.",
+		"如果你不这样做，那你就错了，牛头人沙拉酱肉有一股刺鼻味道。",
 		"",
-		"Obtain some Meef Stroganoff.",
+		"获得一些牛头人沙拉酱肉。",
 		"",
-		"You MUST eat the Stroganoff. I'm not joking."
+		"你必须吃掉这个牛头人沙拉酱肉！我是认真的！"
 	],
 	dependencies: [
 		"0a042006"

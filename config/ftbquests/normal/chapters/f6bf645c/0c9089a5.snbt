@@ -1,5 +1,5 @@
 {
-	title: "CAUTION: DANGEROUS",
+	title: "警告：危险",
 	icon: {
 		id: "twilightforest:glass_sword",
 		tag: {
@@ -8,9 +8,9 @@
 	},
 	x: 3.0d,
 	y: 10.0d,
-	description: "THIS thing works",
+	description: "这东西可好用多了",
 	text: [
-		"A little glass and a bit of magical compound goes a long way!"
+		"还有一段路要走，只需要亿点点玻璃和亿点点战利品！"
 	],
 	dependencies: [
 		"a2ecc1ca"
