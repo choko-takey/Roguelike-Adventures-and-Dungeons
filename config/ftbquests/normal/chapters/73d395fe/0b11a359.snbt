@@ -1,12 +1,12 @@
 {
-	title: "Budget Stargate",
+	title: "自造星门",
 	x: -8.5d,
 	y: -2.5d,
-	description: "Just be happy it doesn't use gregs recipe",
+	description: "谢天谢地，它没有使用格雷的配方",
 	text: [
-		"Tired of waiting for it to be night or getting stuck in the midnight.",
+		"厌倦了等待到夜晚的时间或想马上离开午夜",
 		"",
-		"Place down a rifting machine and activate it to create your own midnight portal."
+		"放下一个人造裂隙器并激活它来创建属于你自己的午夜传送门。"
 	],
 	dependencies: [
 		"b91d4d0e"

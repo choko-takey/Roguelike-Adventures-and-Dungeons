@@ -1,10 +1,10 @@
 {
-	title: "Ebonite Tools",
+	title: "乌木工具",
 	x: 2.0d,
 	y: -3.5d,
-	description: "Hey, these quartz tools aren't bad",
+	description: "这些石英工具还是挺好用的",
 	text: [
-		"Craft all of the Ebonite tools."
+		"制作所有乌木工具。"
 	],
 	dependencies: [
 		"d211fcea"

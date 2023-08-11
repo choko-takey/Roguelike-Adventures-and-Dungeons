@@ -1,10 +1,10 @@
 {
-	title: "The Midnight Munchies",
+	title: "午夜世界的小吃",
 	x: -4.5d,
 	y: -6.5d,
-	description: "Hungry fella', aren't you?",
+	description: "饿货，来一口",
 	text: [
-		"Collect all of the food available inside The Midnight dimension.",
+		"集齐午夜维度中的食物。",
 		""
 	],
 	dependencies: [
