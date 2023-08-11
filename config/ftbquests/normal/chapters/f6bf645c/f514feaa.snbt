@@ -1,12 +1,12 @@
 {
-	title: "The War Horn",
+	title: "战争号角",
 	x: 3.0d,
 	y: 13.0d,
-	description: "Note: Doesn't actually start any wars",
+	description: "注：实际上不会引发任何战争",
 	text: [
-		"This item will degrade certain blocks into other resources.",
+		"此物品能够把一些方块分解为其他资源。",
 		"",
-		"Certain blocks will be destroyed outright."
+		"而某些方块将会被彻底摧毁。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

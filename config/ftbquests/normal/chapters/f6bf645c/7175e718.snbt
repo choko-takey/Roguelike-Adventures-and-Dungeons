@@ -1,10 +1,10 @@
 {
-	title: "Mazebreaker",
+	title: "迷宫破坏者",
 	x: 0.0d,
 	y: -4.5d,
-	description: "Destroyer of Labyrinths",
+	description: "专拆迷宫",
 	text: [
-		"Obtain the Mazebreaker, and break through the Labyrinth!"
+		"获取这把迷宫破坏者，然后挖穿迷宫！"
 	],
 	dependencies: [
 		"0a042006"

@@ -1,10 +1,10 @@
 {
-	title: "Ghast's Hot Sauce",
+	title: "恶魂的辣椒酱",
 	x: 8.5d,
 	y: -8.5d,
-	description: "Taste's like blood",
+	description: "尝起来像血",
 	text: [
-		"High in Fe!"
+		"含铁量也很高！"
 	],
 	dependencies: [
 		"5bad089c"

@@ -1,10 +1,10 @@
 {
-	title: "Isn't This Just Taproot?",
+	title: "这不就是植物的根嘛？",
 	x: 1.0d,
 	y: 8.5d,
-	description: "It's gotta just be Taproot.",
+	description: "这一定是植物的根",
 	text: [
-		"Meld the materials of the world together and create Ironwood."
+		"将这个世界的活根和铁锭金粒混合创造出生铁树原料。"
 	],
 	dependencies: [
 		"12ae72c5"

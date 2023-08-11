@@ -1,10 +1,10 @@
 {
-	title: "CHARGE--!!!!!",
+	title: "冲刺！！！",
 	x: 1.5d,
 	y: -3.5d,
-	description: "AAAAHHH!!",
+	description: "哼哼啊啊啊啊啊！！！",
 	text: [
-		"Obtain the Diamond Minotaur Axe."
+		"获得钻石米诺陶战斧。"
 	],
 	dependencies: [
 		"0a042006"

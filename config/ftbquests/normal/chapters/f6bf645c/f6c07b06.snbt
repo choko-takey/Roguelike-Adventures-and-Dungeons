@@ -1,12 +1,12 @@
 {
-	title: "Beans Beans",
+	title: "豆豆！",
 	x: 4.5d,
 	y: -15.0d,
-	description: "Good for your heart!",
+	description: "有益你的健康！",
 	text: [
-		"DO NOT eat these beans John...",
+		"但千万别吃这些豆子……",
 		"",
-		"They will ACTUALLY grow out of you."
+		"不然会从你身子里发芽的。"
 	],
 	dependencies: [
 		"323ccf6f"

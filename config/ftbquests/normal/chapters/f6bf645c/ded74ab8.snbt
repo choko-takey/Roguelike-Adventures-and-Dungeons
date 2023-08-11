@@ -1,10 +1,10 @@
 {
-	title: "Scaled Security",
+	title: "坚固的鳞片",
 	x: 7.5d,
 	y: 1.5d,
-	description: "Naga thing can get to me now!",
+	description: "娜迦现在可以和我紧密接触了！",
 	text: [
-		"Craft protection from the scales of the great Naga."
+		"用这些巨大的娜迦鳞片制作护甲。"
 	],
 	dependencies: [
 		"9e4d5180"

@@ -1,11 +1,11 @@
 {
-	title: "Now I Lay You Down to Sleep",
+	title: "现在，我让你躺好睡觉",
 	icon: "twilightforest:trophy 1 4",
 	x: 3.0d,
 	y: -6.0d,
-	description: "Pray to the lord your soul he keeps",
+	description: "解放他的灵魂",
 	text: [
-		"Put the Knight Phantom to his final rest."
+		"让幻影骑士沉睡。"
 	],
 	dependencies: [
 		"16f0a09e"
@@ -14,7 +14,7 @@
 	tasks: [{
 		uid: "89c614f7",
 		type: "kill",
-		title: "Slay a Knight Phantom",
+		title: "杀死一只幻影骑士",
 		entity: "twilightforest:knight_phantom",
 		value: 1L
 	}],

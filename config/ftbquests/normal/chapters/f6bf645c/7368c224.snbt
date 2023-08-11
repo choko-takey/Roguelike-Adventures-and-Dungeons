@@ -1,12 +1,12 @@
 {
-	title: "Peek-A-Peacock",
+	title: "孔雀公主",
 	x: 3.0d,
 	y: 11.5d,
-	description: "A gust of wind never bothered anyone",
+	description: "一阵从未打扰过任何人的风",
 	text: [
-		"This item will blow your enemies away! ",
+		"这个玩意儿会把你的敌人吹飞的！",
 		"",
-		"May also give you a jump boost!"
+		"也可以用来给自己提升跳跃能力！"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

@@ -1,12 +1,12 @@
 {
-	title: "Ironwood Armaments",
+	title: "铁树装备",
 	x: -1.0d,
 	y: 7.5d,
-	description: "Like wood, but stronger",
+	description: "像木头，但更坚韧",
 	text: [
-		"Craft Ironwood tools and armaments.",
+		"制作铁树工具以及武器。",
 		"",
-		"You are required to craft the full set to complete this quest."
+		"您需要制作所有的装备来完成这个任务。"
 	],
 	dependencies: [
 		"3ce74e84"

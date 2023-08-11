@@ -1,13 +1,13 @@
 {
-	title: "Minishroom",
+	title: "小蘑菇",
 	icon: "twilightforest:trophy 1 6",
 	x: 3.25d,
 	y: -0.75d,
-	description: "He's not actually little....",
+	description: "它其实并不小……",
 	text: [
-		"Slay the Minoshroom in his Labyrinth.",
+		"在暮色迷宫中杀死米诺菇。",
 		"",
-		"You must drink the Meef Stroganoff to unlock the Hydra."
+		"你必须喝下牛头人沙拉酱肉来解锁九头蛇地带结界。"
 	],
 	dependencies: [
 		"99878e27"
@@ -16,7 +16,7 @@
 	tasks: [{
 		uid: "2af89c3f",
 		type: "kill",
-		title: "Slay a Minoshroom",
+		title: "杀死米诺菇",
 		entity: "twilightforest:minoshroom",
 		value: 1L
 	}],

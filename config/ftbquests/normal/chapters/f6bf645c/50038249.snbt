@@ -1,10 +1,11 @@
 {
-	title: "Rare Tree Collector",
+	title: "珍贵树苗收藏家",
 	x: 1.5d,
 	y: 11.0d,
-	description: "The leaves... are entrancing",
+	description: "哦，多么独特的树苗！令人着迷！",
 	text: [
-		"Collect all unique tree saplings of Twilight"
+		"收集暮色森林中所有独特的树苗。"
+
 	],
 	tasks: [{
 		uid: "47ab2101",
