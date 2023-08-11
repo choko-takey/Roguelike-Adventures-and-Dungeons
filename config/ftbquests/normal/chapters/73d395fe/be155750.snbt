@@ -1,10 +1,10 @@
 {
-	title: "How Do These Trees Grow?",
+	title: "这些树是怎么长的？",
 	x: -6.5d,
 	y: -4.0d,
-	description: "There's no sunlight here anyways",
+	description: "这里根本就没有阳光",
 	text: [
-		"Obtain some Shadowroot Logs."
+		"获得一些暗影根原木。"
 	],
 	dependencies: [
 		"b91d4d0e"

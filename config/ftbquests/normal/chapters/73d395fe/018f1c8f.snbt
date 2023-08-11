@@ -1,10 +1,10 @@
 {
-	title: "Darkness Diamonds",
+	title: "黯淡的钻石",
 	x: -1.0d,
 	y: -2.0d,
-	description: "But in ingot form and dark grey",
+	description: "但是以金属锭的形式存在并呈淡灰色",
 	text: [
-		"Obtain a Tenebrum Ingot."
+		"获取一个致命暗夜金属锭。"
 	],
 	dependencies: [
 		"03bff484"

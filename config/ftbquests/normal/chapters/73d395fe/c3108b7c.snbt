@@ -1,12 +1,12 @@
 {
-	title: "Slowness Bomb",
+	title: "滞缓炸弹",
 	x: -4.0d,
 	y: 0.0d,
-	description: "You're not going anywhere with this",
+	description: "碰上它，你哪里都去不了",
 	text: [
-		"This bomb gives an effect similar to slowness.",
+		"这种炸弹会使人获得比缓慢更严重的效果。",
 		"",
-		"Obtain a Dewshroom Spore Bomb."
+		"获取一个露水菇孢子炸弹。"
 	],
 	dependencies: [
 		"500c1c45"

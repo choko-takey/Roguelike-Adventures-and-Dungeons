@@ -1,12 +1,12 @@
 {
-	title: "Poison Bomb",
+	title: "毒素炸弹",
 	x: -5.0d,
 	y: -1.0d,
-	description: "Don't inhale it",
+	description: "不要吸入！",
 	text: [
-		"This bomb gives an effect similar to poison.",
+		"这种炸弹会使人获得中毒效果。",
 		"",
-		"Obtain a Viridshroom Spore Bomb."
+		"获得一个翠碧菇孢子炸弹。"
 	],
 	dependencies: [
 		"500c1c45"

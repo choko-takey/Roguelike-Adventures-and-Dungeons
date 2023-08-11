@@ -1,10 +1,10 @@
 {
-	title: "Shadowroot Armaments",
+	title: "暗影根装备",
 	x: -4.5d,
 	y: -4.0d,
-	description: "Looks cooler than regular wooden tools",
+	description: "看起来比普通木工具酷",
 	text: [
-		"Craft all of the Shadowroot tools."
+		"制作全套暗影根工具。"
 	],
 	dependencies: [
 		"be155750"
