@@ -1,0 +1,42 @@
+item.binoculars.name=双筒望远镜
+item.slime.name=史莱姆探测桶
+item.binocular_bauble.name=双筒望远镜（饰品）
+
+#advancement
+advancements.vt.pad=Vanilla Tweaks
+advancements.vt.storage=存储方块
+advancements.vt.zoom=缩放
+
+#advancement desc
+advancements.vt.storage.desc=制作存储方块
+advancements.vt.pad.desc=制作一块合成板
+advancements.vt.zoom.desc=制作一副双筒望远镜
+advancements.vt.boom.desc=制作一个炸药
+advancements.vt.friedegg.desc=Smelt an Egg
+
+#enchantments
+enchantment.nimble=敏捷
+enchantment.hops=跳跃
+enchantment.vigor=生命提升
+enchantment.veteran=经验吸引
+enchantment.blazing=自动熔炼
+enchantment.siphon=收集
+enchantment.homing=自动瞄准
+enchantment.vt.nimble.desc=增加移动速度。
+enchantment.vt.hops.desc=增加跳跃高度。
+enchantment.vt.vigor.desc=每一级增加一颗心的生命上限。
+enchantment.vt.veteran.desc=吸引32格半径以内的经验球。
+enchantment.vt.blazing.desc=自动熔炼任意方块掉落物。
+enchantment.vt.siphon.desc=所有方块掉落物会直接进入物品栏。
+enchantment.vt.homing.desc=射出的箭会自动瞄准目标。
+
+
+#keybinds
+key.category.vt=VanillaTweaks
+key.vt:zoom=缩放键
+
+#misc
+entity.dynamite.name=炸药
+tooltip.entity=生成：%s
+slime.chunk=§b史莱姆区块
+slime.chunk.false=不是史莱姆区块
