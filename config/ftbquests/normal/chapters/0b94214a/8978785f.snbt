@@ -1,9 +1,9 @@
 {
 	x: -4.0d,
 	y: -13.0d,
-	description: "I don't wanna grow these anymore...",
+	description: "我不想再种这些东西了……",
 	text: [
-		"Craft some Slime Seeds."
+		"制作一些史莱姆种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

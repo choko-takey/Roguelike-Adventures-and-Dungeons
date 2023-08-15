@@ -1,9 +1,9 @@
 {
 	x: -10.5d,
 	y: -5.0d,
-	description: "Mysterious",
+	description: "迷",
 	text: [
-		"Craft a Mystical Stick."
+		"制作一个神秘杆。"
 	],
 	dependencies: [
 		"883b968f"

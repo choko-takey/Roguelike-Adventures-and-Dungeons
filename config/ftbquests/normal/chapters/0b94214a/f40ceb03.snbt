@@ -1,9 +1,9 @@
 {
 	x: 3.0d,
 	y: -12.0d,
-	description: "Slender Seeds",
+	description: "瘦长的种子",
 	text: [
-		"Craft some Enderman Seeds."
+		"制作一些末影人种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

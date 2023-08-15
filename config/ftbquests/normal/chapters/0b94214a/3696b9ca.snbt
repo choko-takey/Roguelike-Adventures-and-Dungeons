@@ -1,9 +1,9 @@
 {
 	x: -4.0d,
 	y: -14.0d,
-	description: "It's like stone, but white",
+	description: "它就像白色的石头",
 	text: [
-		"Craft some Marble Seeds."
+		"制作一些大理石种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

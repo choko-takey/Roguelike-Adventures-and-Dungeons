@@ -1,9 +1,9 @@
 {
 	x: 7.0d,
 	y: -5.0d,
-	description: "MAKE IT GROW AGAIN! MAKE IT GROW AGAIN!",
+	description: "让它再次成长！让它再次成长！",
 	text: [
-		"Craft a Supremium Seed Processor."
+		"制作一个终极种子再处理器。"
 	],
 	dependencies: [
 		"f2d105e0"

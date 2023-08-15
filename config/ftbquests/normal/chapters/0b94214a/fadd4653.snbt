@@ -1,9 +1,9 @@
 {
 	x: -3.5d,
 	y: -5.0d,
-	description: "You got that Benjiman Button huh?",
+	description: "你看过《本杰明·巴顿奇事》吗？",
 	text: [
-		"Craft a Prudentium Seed Processor."
+		"制作一个初级种子再处理器。"
 	],
 	dependencies: [
 		"aaa2120a"

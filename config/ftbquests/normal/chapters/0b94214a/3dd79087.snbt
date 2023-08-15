@@ -1,9 +1,9 @@
 {
 	x: -3.0d,
 	y: -12.0d,
-	description: "BA BA BA BLACK SHEEP",
+	description: "黑绵羊咩咩叫--歌曲《Baa Baa Black Sheep》",
 	text: [
-		"Craft some Sheep Seeds."
+		"制作一些羊种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

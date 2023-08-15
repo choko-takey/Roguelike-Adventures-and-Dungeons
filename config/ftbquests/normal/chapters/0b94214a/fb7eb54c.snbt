@@ -1,9 +1,9 @@
 {
 	x: 6.5d,
 	y: -9.0d,
-	description: "The inside of the bud is pressurized, like in real life",
+	description: "芽的内部是加压的，就像在现实中一样",
 	text: [
-		"Craft some Diamond Seeds."
+		"制作一些钻石种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

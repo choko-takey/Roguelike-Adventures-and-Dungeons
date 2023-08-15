@@ -1,9 +1,9 @@
 {
 	x: 4.0d,
 	y: -9.0d,
-	description: "Lapucci Lazoni, or something",
+	description: "轻斤时，或其他别的",
 	text: [
-		"Craft some Lapis-Lazuli"
+		"制作一些青金石种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

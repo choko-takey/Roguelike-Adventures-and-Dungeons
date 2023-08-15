@@ -1,11 +1,11 @@
 {
 	x: 3.5d,
 	y: -5.0d,
-	description: "I just saw a Zombie turn into a seed",
+	description: "我刚刚看到一个僵尸变成了种子",
 	text: [
-		"Disturbing.",
+		"真令人不安。",
 		"",
-		"Craft a Superium Seed Processor."
+		"制作一个高级种子再处理器。"
 	],
 	dependencies: [
 		"9a05eb59"

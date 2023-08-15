@@ -1,9 +1,9 @@
 {
 	x: 0.5d,
 	y: -9.0d,
-	description: "Quartz Counters are so expensive",
+	description: "石英台面好贵",
 	text: [
-		"Craft some Nether Quartz Seeds."
+		"制作一些下界石英种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

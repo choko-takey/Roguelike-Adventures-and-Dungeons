@@ -1,9 +1,9 @@
 {
 	x: -7.0d,
 	y: -12.0d,
-	description: "This reminds me of something...",
+	description: "这让我想起了一件事……",
 	text: [
-		"Craft some Zombie Seeds."
+		"制作一些僵尸种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

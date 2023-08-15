@@ -1,9 +1,9 @@
 {
 	x: -4.0d,
 	y: -15.0d,
-	description: "I must be on Indian Burial Grounds... let's hope not",
+	description: "我一定是在印第安人的墓地上……但愿不是。",
 	text: [
-		"Craft some Slimey Bone Seeds."
+		"制作一些粘骨种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

@@ -1,10 +1,10 @@
 {
-	title: "Tier 3 Inferium Seeds",
+	title: "中级精华种子",
 	x: 0.5d,
 	y: -1.5d,
-	description: "Grows a good amount",
+	description: "种很多很多",
 	text: [
-		"Craft Tier 3 Inferium Seeds."
+		"制作中级精华种子。"
 	],
 	dependencies: [
 		"52393883"

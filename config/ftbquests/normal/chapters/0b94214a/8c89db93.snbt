@@ -1,9 +1,9 @@
 {
 	x: -7.5d,
 	y: -1.5d,
-	description: "90% of doctors hate this apple!",
+	description: "一天一苹果，医生远离我！",
 	text: [
-		"Craft an Inferium Apple."
+		"制作下级精华苹果。"
 	],
 	dependencies: [
 		"e3949105"

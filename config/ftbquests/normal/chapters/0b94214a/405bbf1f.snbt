@@ -1,9 +1,9 @@
 {
 	x: 6.5d,
 	y: -1.5d,
-	description: "Fruits that make you ascend! CLICK HERE!",
+	description: "让你升华的水果！点这！",
 	text: [
-		"Craft a Supremium Apple."
+		"制作终极苹果。"
 	],
 	dependencies: [
 		"f2d105e0"

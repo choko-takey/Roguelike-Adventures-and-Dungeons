@@ -1,9 +1,9 @@
 {
 	x: 3.0d,
 	y: -16.0d,
-	description: "Bootleg emeralds!",
+	description: "私造绿宝石！",
 	text: [
-		"Craft some Peridot Seeds."
+		"制作一些橄榄石种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

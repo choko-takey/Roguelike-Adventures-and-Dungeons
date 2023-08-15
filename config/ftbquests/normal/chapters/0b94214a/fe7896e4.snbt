@@ -1,9 +1,9 @@
 {
 	x: -0.5d,
 	y: -13.0d,
-	description: "Do you grow them... on land?",
+	description: "你是否在陆地上……种植它们？",
 	text: [
-		"Craft some Guardian Seeds."
+		"制作一些守卫者种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

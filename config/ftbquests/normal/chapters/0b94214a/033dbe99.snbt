@@ -1,9 +1,9 @@
 {
 	x: 4.0d,
 	y: -14.0d,
-	description: "It's gonna burn places you don't want to burn",
+	description: "它将烧毁你不想烧毁的地方",
 	text: [
-		"Craft some Fiery Seeds."
+		"制作一些炽热的铁锭种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

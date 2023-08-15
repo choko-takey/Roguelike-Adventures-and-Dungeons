@@ -1,9 +1,9 @@
 {
 	x: -3.0d,
 	y: -9.0d,
-	description: "I hope you die, dye",
+	description: "我想让你身上挂点彩",
 	text: [
-		"Craft some Die Seeds, I mean Die Seeds, I mean Die Seeds, I mean Die Seeds."
+		"制作点能让你挂彩的种子，我的意思是挂点彩。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

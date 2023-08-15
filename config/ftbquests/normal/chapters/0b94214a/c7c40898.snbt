@@ -1,9 +1,9 @@
 {
 	x: -4.0d,
 	y: -1.5d,
-	description: "Doctors won't tell you about this special power fruit!",
+	description: "医生不会告诉你这种特殊的水果！",
 	text: [
-		"Craft a Prudentium Apple."
+		"制作一个初级精华苹果。"
 	],
 	dependencies: [
 		"aaa2120a"

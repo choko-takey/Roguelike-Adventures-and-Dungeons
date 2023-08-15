@@ -1,9 +1,9 @@
 {
 	x: 3.5d,
 	y: 5.0d,
-	description: "This plant is getting way too tall to take care of...",
+	description: "这株植物长得太高了，已经无法照顾……",
 	text: [
-		"Obtain an Enderman Chunk."
+		"获得一块末影人灵魂碎片。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

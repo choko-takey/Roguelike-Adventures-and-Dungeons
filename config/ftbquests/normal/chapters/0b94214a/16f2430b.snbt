@@ -1,12 +1,12 @@
 {
-	title: "Does It Look Like I Care?",
+	title: "它看起来像我需要吗？",
 	x: -10.5d,
 	y: 3.5d,
-	description: "Well it doesn't matter wither you do or not!",
+	description: "好吧，你做不做都无所谓了！",
 	text: [
-		"Because this glass isn't going anywhere!",
+		"因为这个玻璃不会动！",
 		"",
-		"Craft some Witherproof blocks."
+		"制作一些防凋零方块。"
 	],
 	dependencies: [
 		"93284d0e"

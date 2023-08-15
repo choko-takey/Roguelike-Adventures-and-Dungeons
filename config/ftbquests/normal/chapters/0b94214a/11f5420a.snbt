@@ -1,9 +1,9 @@
 {
 	x: 0.5d,
 	y: -11.0d,
-	description: "Bones in my backyard! Dejavu...",
+	description: "我的后院里有骨头! 这似曾相识……",
 	text: [
-		"Craft some Skeleton Seeds."
+		"制作一些骷髅种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

@@ -1,9 +1,9 @@
 {
 	x: -0.5d,
 	y: -16.0d,
-	description: "Growing wood part 2... heh",
+	description: "种植木材第二部分……呵呵",
 	text: [
-		"Craft some Ironwood Seeds."
+		"制作一些铁树种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

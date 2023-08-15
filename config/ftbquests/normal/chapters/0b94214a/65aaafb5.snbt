@@ -1,10 +1,10 @@
 {
-	title: "Something More Furry",
+	title: "更加毛茸茸的东西",
 	x: -3.5d,
 	y: 1.5d,
-	description: "But not a furry",
+	description: "但不是furry",
 	text: [
-		"Craft or obtain a Tier 2 Mob Chunk."
+		"制作或获得一块2级基础怪物灵魂碎片。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

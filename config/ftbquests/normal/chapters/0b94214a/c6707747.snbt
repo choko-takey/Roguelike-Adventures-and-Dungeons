@@ -1,9 +1,9 @@
 {
 	x: -0.5d,
 	y: -1.5d,
-	description: "Doctors are afraid of this fruit",
+	description: "医生害怕这种水果",
 	text: [
-		"Craft an Intermedium Apple."
+		"制作一个中级精华苹果。"
 	],
 	dependencies: [
 		"52393883"
