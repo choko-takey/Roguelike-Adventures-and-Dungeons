@@ -1,10 +1,10 @@
 {
-	title: "The Sharpest Armor Around",
+	title: "最锋利的盔甲？",
 	x: 8.0d,
 	y: -20.5d,
-	description: "Seriously, I have cuts everywhere",
+	description: "说真的，我全身都有伤口。",
 	text: [
-		"Obtain a set of Obsidian Armor."
+		"获得一整套的黑曜石装备。"
 	],
 	dependencies: [
 		"3b01c990"

@@ -1,12 +1,12 @@
 {
-	title: "Sss..... Ahh...... Sss.... Ahhhhhhh....",
+	title: "吸……呼……吸……呼……",
 	x: 1.0d,
 	y: -12.5d,
-	description: "Sss..... Ahhh..... Sss... Ahhhh.....",
+	description: "嘶……啊～嘶……哦……",
 	text: [
-		"Obtain the Regeneration Stone.",
+		"获得重生之石。",
 		"",
-		"Does your booboo still hurt? Well not for long."
+		"你的嘘声还好吗? 没事的，很快就好了。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

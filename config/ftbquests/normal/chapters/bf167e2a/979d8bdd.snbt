@@ -1,10 +1,10 @@
 {
-	title: "The Best Guide Book",
+	title: "最好的指导书",
 	x: 3.0d,
 	y: -19.5d,
-	description: "I love how this thing is made",
+	description: "我喜欢这东西的合成方式。",
 	text: [
-		"This book will tell you what you need to know about an item by putting it into the book. Very helpful. Consult the book for all your Aether questions. Even those you can't find online. If you can't find it in the book, report it to me."
+		"当你把天境里的事物放到书里面的格子，它会告诉你与这个事物相关的内容。查阅这本书可以甚至解决网上找不到的所有关于天境的问题。"
 	],
 	dependencies: [
 		"de9220a6"

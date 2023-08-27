@@ -1,10 +1,10 @@
 {
-	title: "Backaech",
+	title: "后背疼（backaech）",
 	x: 11.5d,
 	y: -18.5d,
-	description: "No? Bad?",
+	description: "不？坏的？",
 	text: [
-		"Obtain some Aechor Petals.",
+		"获得一些箭毒花瓣。",
 		""
 	],
 	dependencies: [

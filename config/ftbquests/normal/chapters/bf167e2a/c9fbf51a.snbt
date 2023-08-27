@@ -1,12 +1,12 @@
 {
-	title: "Who Was Wearing This Before You?",
+	title: "在你之前谁穿过这个？",
 	x: 1.5d,
 	y: -15.5d,
-	description: "How are there stains... in a mask?",
+	description: "面具里怎么会有粘液？",
 	text: [
-		"Obtain the Swetty Mask.",
+		"获得史维特面具。",
 		"",
-		"You have to wear it for the entire shift and you're not allowed to take it off."
+		"你必须一直戴着它。因为它脱不下来。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

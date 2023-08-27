@@ -1,10 +1,10 @@
 {
-	title: "Chick Maker",
+	title: "恐鸟孵化器",
 	x: 11.0d,
 	y: -17.5d,
-	description: "Your dream girl is on the way!",
+	description: "你的梦中情人正在路上！",
 	text: [
-		"Craft an Incubator."
+		"合成孵化器。"
 	],
 	dependencies: [
 		"5fedec08"

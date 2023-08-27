@@ -1,12 +1,12 @@
 {
-	title: "Very Berry Blue",
+	title: "非常蓝的蓝莓。",
 	x: 9.0d,
 	y: -16.0d,
-	description: "Is this the only flavor in the Aether?",
+	description: "这是天境唯一的食物吗？",
 	text: [
-		"I hate blueberries.",
+		"我恨蓝莓。",
 		"",
-		"Obtain Blue Berries, and Enchanted Berries."
+		"获得蓝莓和神化后的蓝莓。"
 	],
 	dependencies: [
 		"5fedec08"

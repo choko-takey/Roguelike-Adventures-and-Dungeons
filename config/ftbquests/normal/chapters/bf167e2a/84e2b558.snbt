@@ -1,12 +1,12 @@
 {
-	title: "Ba-na-na-na-na-na",
+	title: "神偷奶爸",
 	x: 3.0d,
 	y: -14.5d,
-	description: "Cape man!",
+	description: "斗篷侠！",
 	text: [
-		"Obtain the Agility Cape.",
+		"获得敏捷斗篷。",
 		"",
-		"Allows players to move up one-block high steps without jumping."
+		"允许玩家自动走上一格高的方块。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

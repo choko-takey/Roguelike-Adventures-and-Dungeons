@@ -1,10 +1,10 @@
 {
-	title: "Exotic Egg Omelette",
+	title: "天境的恐鸟煎蛋卷",
 	x: 12.0d,
 	y: -17.5d,
-	description: "Part of your balanced breakfast",
+	description: "完美早餐的一部分。",
 	text: [
-		"Obtain a Moa Egg."
+		"获得恐鸟蛋。"
 	],
 	dependencies: [
 		"157d0b0d"

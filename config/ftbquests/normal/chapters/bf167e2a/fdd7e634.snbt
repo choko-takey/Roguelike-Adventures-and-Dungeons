@@ -1,10 +1,10 @@
 {
-	title: "Did You Chase, or Let It Come to You",
+	title: "要么你找它，要么它找你。",
 	x: 5.0d,
 	y: -21.5d,
-	description: "How many times did it get away?",
+	description: "它跑了多少次？",
 	text: [
-		"Craft Gravitite Armaments."
+		"合成重力套装。"
 	],
 	dependencies: [
 		"77161689"

@@ -1,10 +1,10 @@
 {
-	title: "Apocalypto",
+	title: "启示录（Apocalypto）",
 	x: 2.5d,
 	y: -13.5d,
-	description: "What a great movie",
+	description: "多么棒的电影。",
 	text: [
-		"Obtain and craft the different dart guns."
+		"合成不同的吹箭筒。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

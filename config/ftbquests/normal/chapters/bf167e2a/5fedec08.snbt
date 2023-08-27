@@ -1,10 +1,10 @@
 {
-	title: "Lettuce Pray",
+	title: "让我们开始祈祷。",
 	x: 9.0d,
 	y: -17.5d,
-	description: "My cabbages!",
+	description: "我的生菜！",
 	text: [
-		"Craft an Altar."
+		"合成一个神能炉。"
 	],
 	dependencies: [
 		"c74902d8"

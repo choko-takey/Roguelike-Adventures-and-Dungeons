@@ -1,10 +1,10 @@
 {
-	title: "The Cloud Shooter",
+	title: "云朵枪",
 	x: 0.5d,
 	y: -13.5d,
-	description: "That kinda sounds dirty",
+	description: "听起来有点脏。",
 	text: [
-		"Obtain the Cloud Staff."
+		"获得境云权杖。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
