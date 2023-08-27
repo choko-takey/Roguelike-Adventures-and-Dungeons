@@ -1,12 +1,12 @@
 {
-	title: "Source of Darkness",
+	title: "黑暗之源",
 	x: -6.0d,
 	y: -2.0d,
-	description: "It hurts to hold it",
+	description: "拿着它很疼",
 	text: [
-		"PTSD Of getting lost in all of those Rifts is coming back to you.",
+		"迷失在这些裂痕中的PTSD。",
 		"",
-		"You'll need this item to create Dimension Doors, and Rift related accessories."
+		"你需要这个物品来创建次元门，以及与裂痕有关的配件。"
 	],
 	size: 2.0d,
 	tasks: [{

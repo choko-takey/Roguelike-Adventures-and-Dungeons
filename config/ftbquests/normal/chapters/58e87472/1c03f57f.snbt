@@ -1,16 +1,16 @@
 {
-	title: "Where'd He Go?",
+	title: "他去哪了？",
 	x: -9.5d,
 	y: -1.0d,
-	description: "Oh, this way!",
+	description: "哦，这边走！",
 	text: [
-		"Signatures will hold an XYZ location on first Right-Click and create a Rift linked to that location when Right-Clicking afterwards.",
+		"印记将在第一次右键时记录一个XYZ坐标，之后右键会创建一个链接到该位置的裂痕。",
 		"",
-		"Only one XYZ location can be marked per Rift Signature. If you mess up, you'll need to make a fresh one.",
+		"每个裂痕印记只能标记一个XYZ坐标。如果你搞错了，需要重新制作一个新的。",
 		"",
-		"The Rift created by the Signature is linked to the XYZ location. Iron Doors which use said Rift will take you to that marked location, and also create a Rift there.",
+		"通过印记链接XYZ坐标所创造的裂痕。使用此裂痕的次元门会把你带到那个被标记的地点，并且也会在那里创造一个裂痕。",
 		"",
-		"The Rift created where you exit from, will need to be stabilized with a Rift Stabilizer or through other methods."
+		"你退出的裂痕需要用裂痕稳定器或通过其他方法来稳定。"
 	],
 	dependencies: [
 		"e1eb55c6"

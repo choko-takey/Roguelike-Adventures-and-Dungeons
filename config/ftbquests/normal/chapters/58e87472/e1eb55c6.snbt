@@ -1,12 +1,12 @@
 {
-	title: "Primdorial Shadow",
+	title: "原始阴影",
 	x: -8.0d,
 	y: -2.0d,
-	description: "I've just officially named it that.",
+	description: "我刚刚正式给它起了这个名字。",
 	text: [
-		"Found within Chests inside rifts.",
+		"发现于裂痕中的箱子。",
 		"",
-		"Very valuable material. Can be used to create rift tools and doorways into other rifts."
+		"非常有价值的材料。可用于制造裂痕工具和进入其他裂痕的门径。"
 	],
 	dependencies: [
 		"f5ba5fd8"

@@ -1,12 +1,12 @@
 {
-	title: "Tranquil",
+	title: "静谧",
 	x: -10.0d,
 	y: -2.0d,
-	description: "For now",
+	description: "就是现在",
 	text: [
-		"This item prevents Rifts from getting out of control. Rifts from Doors which are broken, will eventually get out of control.",
+		"这个物品可以防止裂痕失去控制。任何次元门使用后被破坏将会产生裂痕，如果不采取措施最终会失去控制。",
 		"",
-		"Rift-Click on the center of a Rift to use."
+		"右击裂痕的中心即可使用。"
 	],
 	dependencies: [
 		"e1eb55c6"
