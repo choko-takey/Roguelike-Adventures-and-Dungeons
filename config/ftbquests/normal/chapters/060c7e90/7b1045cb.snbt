@@ -1,12 +1,12 @@
 {
-	title: "100 Years of Study",
+	title: "百年树人……",
 	x: 8.25d,
 	y: -10.5d,
-	description: "You've finally perfected Magic Missile!",
+	description: "现在，你万法皆通！向您这位奥术大师致敬！",
 	text: [
-		"This is the final item used to upgrade your wand.",
+		"这本书可以让你的魔杖达到最终阶段！",
 		"",
-		"See the Wizard's Handbook for more info."
+		"详见巫师手札。"
 	],
 	dependencies: [
 		"b5a9699b"

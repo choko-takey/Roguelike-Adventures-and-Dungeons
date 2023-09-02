@@ -1,10 +1,10 @@
 {
-	title: "I'm Sweating a Storm!",
+	title: "我即是那迫近的风暴~~~~~~~~",
 	x: -13.0d,
 	y: 11.0d,
-	description: "No, you're sweating fire",
+	description: "想啥呢，你只是一团温暖的火而已",
 	text: [
-		"These robes are the HOTTEST new fashion!"
+		"这袍子在巫师服装里可是最热~~~门的那种！"
 	],
 	dependencies: [
 		"6b5d4a07"

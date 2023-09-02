@@ -1,12 +1,12 @@
 {
-	title: "Bootleg Spellcasting",
+	title: "无证施法",
 	x: -6.0d,
 	y: 6.0d,
-	description: "For those who fizzle out",
+	description: "某些碌碌无为的巫师的选择",
 	text: [
-		"Refer to The Wizard's Handbook for more information on this item.",
+		"请移步巫师手札，我无权为你解释更多。",
 		"",
-		"Hopefully you're not dead before you read the darn thing."
+		"我希望你在看到这本破书前还活着。"
 	],
 	dependencies: [
 		"44326244"

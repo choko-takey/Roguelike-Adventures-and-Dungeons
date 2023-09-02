@@ -1,12 +1,12 @@
 {
-	title: "The Wizardly Wizard's Guide to Wizardry",
+	title: "《巫师的保命之法》",
 	x: -4.5d,
 	y: 5.25d,
-	description: "Time to study!",
+	description: "学习时间到~",
 	text: [
-		"This Handbook will contain the necessary information you need to become a Wizard!",
+		"这本手册将在你的修行之旅上扮演重要的角色。",
 		"",
-		"Read it carefully, and don't ask questions."
+		"其次，少提问，多读书！"
 	],
 	dependencies: [
 		"aa64e1f7"

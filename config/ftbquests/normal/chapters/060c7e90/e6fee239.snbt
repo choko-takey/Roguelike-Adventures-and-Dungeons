@@ -1,12 +1,12 @@
 {
-	title: "The Sealed Vault",
+	title: "尘封的宝藏",
 	x: -5.5d,
 	y: 9.5d,
-	description: "Let me in let me in let me innnn!",
+	description: "让我进去让我进去让我进去！！！",
 	text: [
-		"Rarely while exploring you can find arcane vaults.",
+		"你在探索时偶尔能发现一些神秘的宝库。",
 		"",
-		"To gain access to the treasure within them find the key and cast it."
+		"找到它的钥匙解除封印就可以得到宝藏了。"
 	],
 	dependencies: [
 		"aa64e1f7"

@@ -1,10 +1,10 @@
 {
-	title: "Healing Your Wounds",
+	title: "半愈的创口",
 	x: -15.5d,
 	y: 9.5d,
-	description: "The ones I just gave to you",
+	description: "我刚刚像你展示了这些",
 	text: [
-		"Rinse and re-beat!"
+		"清洗，然后包扎。赶紧的！"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

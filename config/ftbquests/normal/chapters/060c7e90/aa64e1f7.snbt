@@ -1,14 +1,14 @@
 {
-	title: "Magical Rocks",
+	title: "魔力水晶",
 	x: -6.0d,
 	y: 7.5d,
-	description: "They hold great power!",
+	description: "它们蕴含着无限可能！",
 	text: [
-		"You will find these crystals during adventures around the world.",
+		"在你周游世界时，你或多或少会碰到这些东西的。",
 		"",
-		"Be sure to collect them!",
+		"请务必收集它们！",
 		"",
-		"See the Wizard's Handbook for more information."
+		"以及请多看巫师手札……"
 	],
 	size: 1.5d,
 	tasks: [{

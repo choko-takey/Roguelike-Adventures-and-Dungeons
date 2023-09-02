@@ -1,12 +1,12 @@
 {
-	title: "Where the Magic Happens",
+	title: "奇迹出现之处",
 	x: -5.25d,
 	y: 3.0d,
-	description: "It's alll right here baby",
+	description: "没事了我的宝！",
 	text: [
-		"This is where you will perform most of your augmentations, and imbuements.",
+		"这个方块会在接下来你的巫师修行之旅上陪伴你很久。",
 		"",
-		"Refer to the Wizard's Handbook for more information."
+		"详见巫师手札。"
 	],
 	dependencies: [
 		"44326244"

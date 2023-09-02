@@ -1,18 +1,18 @@
 {
-	title: "Believing In Battlemages",
+	title: "战斗法师的信念",
 	x: -17.0d,
 	y: 17.0d,
-	description: "They're viable, you know!",
+	description: "我寻思这可以",
 	text: [
-		"The Spellsword is an amazing thing. It allows you to hold a shield and cast spells and swing with a sword? Crazy.",
+		"施法剑是一种极为特殊的武器，它可以让你一边释放法术，一边举盾防御，还可以拿剑砍人？太酷了不是吗。",
 		"",
-		"You're first going to need to melt down Crystal Silver Plating; nothing else, nothing less.",
+		"不过在那之前，你首先要做一把施法小刀，别想着跳级，咱要稳扎稳打。",
 		"",
-		"Melt it in a Furnace and take out your ingot. You'll need to break it into smaller nuggets to craft the blade, and the hilt of what will be your Spellsword.",
+		"在熔炉里熔化晶银镶板，将其铸造成金属，之后把它掰成更小的碎块，这样才能制作你的小刀。",
 		"",
-		"Craft the Arcane Anvil, which can be used to turn your Ingots back into Crystal SilvCraft the Arcane Anvil; it is used to craft your sword.",
+		"制造一个奥术砧（或者抢一个），它可以把晶银锭重新铸造成晶银镶板，也可以用来升级你的施法剑。",
 		"",
-		"Place your sword, then the hilt. It should output a Spell Dagger.",
+		"在格子里放入剑刃和剑柄，然后奇迹就会出现~",
 		""
 	],
 	dependencies: [

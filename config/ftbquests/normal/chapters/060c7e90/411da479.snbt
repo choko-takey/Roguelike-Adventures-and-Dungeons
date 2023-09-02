@@ -1,12 +1,12 @@
 {
-	title: "It's All in the Technique",
+	title: "高新技术",
 	x: 5.5d,
 	y: -8.0d,
-	description: "Hands and feet inside the vehicle!",
+	description: "抓稳了，准备跃迁！",
 	text: [
-		"You might be able to use these for something special.",
+		"这东西在你手上也许可以玩出花。",
 		"",
-		"Note: It is NOT that hard to figure out how to use this item."
+		"小贴士：这个东西真的不难！你但凡动点脑子就可以学会！"
 	],
 	dependencies: [
 		"b5a9699b"

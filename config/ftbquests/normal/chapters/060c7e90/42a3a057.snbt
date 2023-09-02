@@ -1,14 +1,14 @@
 {
-	title: "Charmin Unbreaka-ply",
+	title: "不朽之织",
 	x: -9.0d,
 	y: 10.0d,
-	description: "Magically soft",
+	description: "魔力丝绸",
 	text: [
-		"Feels like Satan.",
+		"感觉像撒旦……（satan）",
 		"",
-		"Err, Satin.",
+		"啊呸呸呸！我是说绸缎！（satin）",
 		"",
-		"Surprisingly gentle on your bottom."
+		"给你的臀部以最舒适的体验~"
 	],
 	dependencies: [
 		"aa64e1f7"

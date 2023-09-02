@@ -1,14 +1,14 @@
 {
-	title: "Shocking Wisdom",
+	title: "轰雷之智",
 	x: -13.0d,
 	y: 19.5d,
-	description: "The kind that takes a turn",
+	description: "那种九曲十八弯的",
 	text: [
-		"For the worst? For the better?",
+		"粉身碎骨？命无止尽？",
 		"",
-		"Who knows.",
+		"谁知道呢。",
 		"",
-		"Storm Sages do."
+		"雷霆贤者二者皆晓。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

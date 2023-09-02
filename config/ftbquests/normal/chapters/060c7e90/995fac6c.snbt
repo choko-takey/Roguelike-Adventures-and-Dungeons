@@ -1,15 +1,15 @@
 {
-	title: "Either a Great Feat, or a Pity Reward",
+	title: "恭喜你成就了伟业，拿好这些打发你的奖励吧",
 	icon: "ebwizardry:grand_crystal",
 	x: 12.0d,
 	y: -14.5d,
-	description: "Take this, it will make you feel better",
+	description: "拿着点吧，好歹还有奖励",
 	text: [
-		"This Loot Crate is to reward players for their long journey as Wizards.",
+		"这些东西是对玩家走完漫长的巫师任务线的奖励。",
 		"",
-		"Identical crates can be purchased for a large price hike in the Shop.",
+		"它们也可以在商店里被发现，但是贵得多……",
 		"",
-		"Note: This is more so a pity gift for players for MAY HAVE NOT acquired an Elemental Crystal. This will guarantee you one random crystal, and open up an option for you to buy random Elemental Crystals in the Shop."
+		"小贴士：我承认，这是非常遗憾的一件事情，毕竟这些奖励连我自己都觉得磕碜。但是别急，商店里已经解锁了一个新的可购买项目。你可以去那碰碰运气……"
 	],
 	dependencies: [
 		"da1f9f83"

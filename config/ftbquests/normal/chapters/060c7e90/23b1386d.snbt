@@ -1,11 +1,11 @@
 {
-	title: "A Stick You Picked Up",
+	title: "随处可见的破棍子",
 	x: -3.5d,
 	y: 3.0d,
 	text: [
-		"You just put a crystal on top of this thing and now it shoots magic?",
+		"绑了一块水晶的烧烤签……然后魔法就出现了？",
 		"",
-		"My brain hurts now."
+		"妈妈生的.jpg"
 	],
 	dependencies: [
 		"44326244"

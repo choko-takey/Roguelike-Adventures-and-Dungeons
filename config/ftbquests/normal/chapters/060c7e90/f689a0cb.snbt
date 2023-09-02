@@ -1,19 +1,19 @@
 {
-	title: "The Good Stuff",
+	title: "这有些好东西",
 	x: -14.0d,
 	y: 14.0d,
 	text: [
-		"These items are not covered in The Wizard's Handbook.",
+		"巫师手札里并未记载这些稀世珍宝。",
 		"",
-		"These items are used to further upgrade your Wizard Robes, or Elemental Wizard Robes.",
+		"这些独特的材料可以为你的巫师盔甲提供定向强化。",
 		"",
-		"They are found in dungeon chests.",
+		"你可以在地牢的宝箱里发现它们。",
 		"",
-		"Upgrading your Wizard Robes with one of the items will turn it into the respective class of robe.",
+		"使用这些物品升级你的巫师盔甲，会让它们变为对应的升级版。",
 		"",
-		"Each robe type specializes in something slightly different, and has different effects on your casting abilities.",
+		"每种升级提供的加成都不同，可以根据你的喜好来自己选择。",
 		"",
-		"You are only required to obtain one upgrade material to complete this quest."
+		"你只需要获得一份材料就可以完成这个任务。"
 	],
 	dependencies: [
 		"6b5d4a07"

@@ -1,12 +1,12 @@
 {
-	title: "Ancient Archmage",
+	title: "法杖升级",
 	x: -4.0d,
 	y: 1.5d,
-	description: "I neeeeed ittttt---!!",
+	description: "多来点啊~~~~~",
 	text: [
-		"These armaments would increase your wands capabilities tenfold...",
+		"这些东西可以让你的魔杖大放异彩。",
 		"",
-		"You must collect them all..."
+		"是的，每种升级都得有，这样才算均衡~"
 	],
 	dependencies: [
 		"23b1386d"

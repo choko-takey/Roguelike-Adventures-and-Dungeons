@@ -1,10 +1,10 @@
 {
-	title: "Fake Advice Givers",
+	title: "妖言惑众者",
 	x: -20.5d,
 	y: 18.5d,
-	description: "Are they fake, or is their advice?",
+	description: "他们的存在和他们的提案一样假",
 	text: [
-		"I still can't tell."
+		"所以呢？听君一席话，如听一席话。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

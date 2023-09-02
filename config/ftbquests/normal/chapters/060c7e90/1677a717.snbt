@@ -1,14 +1,14 @@
 {
-	title: "The Best Advice",
+	title: "绝佳之策",
 	x: -14.5d,
 	y: 9.5d,
-	description: "The kind your mom gives you",
+	description: "就好像你妈给你的那种",
 	text: [
-		"Unless you don't have a mom.",
+		"除非你没有妈妈。",
 		"",
-		"Then it's the kind you dad gives you.",
+		"那就是你爸爸给你的那种。",
 		"",
-		"Unless..."
+		"除非……"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

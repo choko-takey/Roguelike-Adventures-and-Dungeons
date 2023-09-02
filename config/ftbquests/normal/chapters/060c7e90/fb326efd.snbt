@@ -1,10 +1,10 @@
 {
-	title: "What's Mana?",
+	title: "这是什么魔力？",
 	x: -9.0d,
 	y: 7.0d,
-	description: "Never OOM",
+	description: "用不尽的魔力！",
 	text: [
-		"Your Spirit must be like 9999 or something."
+		"我相信你的精神现在一定非常好！"
 	],
 	dependencies: [
 		"58fdecf3"

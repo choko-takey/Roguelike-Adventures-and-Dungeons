@@ -1,10 +1,10 @@
 {
-	title: "Fighting Fire with Fire!",
+	title: "以牙还牙，以火治火！",
 	x: -22.0d,
 	y: 13.0d,
-	description: "Wear fire, cast fire, become fire!",
+	description: "投身于火焰，永不回头！",
 	text: [
-		"Arsonists really do have something wrong with them huh?"
+		"纵火犯？呵，在这里这可是个褒义词。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

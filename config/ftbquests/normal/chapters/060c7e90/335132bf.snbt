@@ -1,13 +1,13 @@
 {
-	title: "Out of Control Aronist",
+	title: "失控的火焰",
 	x: -21.5d,
 	y: 12.0d,
 	shape: "hexagon",
-	description: "Somebody stop him!",
+	description: "快来个人阻止他！",
 	text: [
-		"They can't.",
+		"他们不能。",
 		"",
-		"80% of Arsons go unsolved."
+		"80%的纵火案都石沉大海了。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

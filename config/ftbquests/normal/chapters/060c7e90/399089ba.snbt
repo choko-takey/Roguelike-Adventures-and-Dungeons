@@ -1,10 +1,10 @@
 {
-	title: "Bringing the Storm to You!",
+	title: "风起！",
 	x: -14.0d,
 	y: 19.5d,
-	description: "Knock knock!",
+	description: "*雷鸣的震响*",
 	text: [
-		"Electricity and metal? This doesn't seem smart."
+		"轰雷与钢铁？听起来不是很好的样子……"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
