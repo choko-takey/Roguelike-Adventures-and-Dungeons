@@ -1,5 +1,5 @@
 {
-	title: "Crimson Farmland + Greatwood",
+	title: "血腥农场 + 宏伟之木",
 	icon: {
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
@@ -18,15 +18,15 @@
 	y: 6.779761904761891d,
 	shape: "square",
 	text: [
-		"Title: Crimson Farmland with Greatwood",
+		"建筑名：带有一棵宏伟之木的血腥农场",
 		"",
-		"Theme: Thaumcraft 6",
+		"建筑主题：神秘时代6",
 		"",
-		"LxWxH: 21x21x15",
+		"长x宽x高：21x21x15",
 		"",
-		"Paste Y Level: 0 (Ground level)",
+		"建筑y轴偏移：0（与地面平齐）",
 		"",
-		"Structure Description: A plot of farmland with Greatwood trees in Crimson red. It has an area of 15x15 (total of 222 blocks), thus compatible with Harvesters."
+		"建筑描述：一片具有血腥风格的耕地，中央是一棵宏伟之木。耕地实际面积大约是15x15（共计222格），因此很适合与收割机一同使用。"
 	],
 	can_repeat: true,
 	tasks: [{

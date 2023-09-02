@@ -1,5 +1,5 @@
 {
-	title: "&3&lStormy Master Statue",
+	title: "&3&l风暴大师雕像",
 	icon: {
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
@@ -18,13 +18,13 @@
 	y: -1.0408163265306172d,
 	shape: "square",
 	text: [
-		"Theme: EBWizardry",
+		"建筑主题：巫术学",
 		"",
-		"LxWxH: 21x22x52",
+		"长x宽x高：21x22x52",
 		"",
-		"Paste Y Level: 0 (Ground level)",
+		"建筑y轴偏移：0（与地面平齐）",
 		"",
-		"Structure Description: A slate and basalt statue of a wizard with a Master Storm Mage wand while concentrating an energy."
+		"建筑描述：一座由板岩和玄武岩建成的风暴大法师雕像，手持雷霆万钧之杖，正在凝聚风暴的力量。"
 	],
 	can_repeat: true,
 	hide_dependency_lines: true,

@@ -2,14 +2,14 @@
 	x: 54.0d,
 	y: 38.0d,
 	text: [
-		"Hi, I guess.",
+		"嗯？你好呀",
 		"",
-		"You found me."
+		"居然被你找到了awa"
 	],
 	hide: true,
 	tasks: [{
 		uid: "cffb811f",
 		type: "checkmark",
-		title: "This quest is to center the whole viewing area"
+		title: "这个任务是用来定位整个任务界面中心的"
 	}]
 }

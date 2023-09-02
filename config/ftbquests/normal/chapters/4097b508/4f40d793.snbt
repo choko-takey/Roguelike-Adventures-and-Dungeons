@@ -1,5 +1,5 @@
 {
-	title: "Bridge L",
+	title: "L型引桥",
 	icon: {
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
@@ -19,15 +19,15 @@
 	y: -1.0074829931972893d,
 	shape: "square",
 	text: [
-		"Title: Bridge L",
+		"建筑名：L型引桥",
 		"",
-		"Theme: Village",
+		"建筑主题：村庄",
 		"",
-		"LxWxH: 13x17xx13",
+		"长x宽x高：13x17x13",
 		"",
-		"Paste Y Level: 0 (Ground level)",
+		"建筑y轴偏移：0（与地面平齐）",
 		"",
-		"Structure Description: A village bridge. Note: This bridge part goes on the end or beginning of the whole structure."
+		"建筑描述：一座具有村庄风格的桥。注：这个桥梁结构通常作为整座桥的两端部分。"
 	],
 	can_repeat: true,
 	tasks: [{

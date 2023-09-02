@@ -1,5 +1,5 @@
 {
-	title: "Thaumic Jar Storage",
+	title: "神秘罐头仓库",
 	icon: {
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
@@ -18,15 +18,15 @@
 	y: 5.285714285714256d,
 	shape: "square",
 	text: [
-		"Title: Thaumic Jar Storage",
+		"建筑名：神秘罐头仓库",
 		"",
-		"Theme: Thaumcraft 6",
+		"建筑主题：神秘时代6",
 		"",
-		"LxWxH: 25x25x14",
+		"长x宽x高：25x25x14",
 		"",
-		"Paste Y Level: 0 (Ground level)",
+		"建筑y轴偏移：0（与地面平齐）",
 		"",
-		"Structure Description: A storage circle for jars in Thaumic purple. There are 53 slots available on the ledge. NOTE: Four Arcane Pedestals are needed where the Cyan Wool is."
+		"建筑描述：一座具有神秘风格的圆形仓库。边上共有53个槽位用于放置各种罐头。注意：青色羊毛需要手动替换为奥术基座（共4个）。"
 	],
 	can_repeat: true,
 	tasks: [{

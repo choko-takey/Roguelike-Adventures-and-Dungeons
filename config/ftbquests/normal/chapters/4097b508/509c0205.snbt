@@ -17,21 +17,21 @@
 	y: 5.25d,
 	shape: "square",
 	text: [
-		"By paying coins, you will receive a Capsule that already has a build loaded.",
+		"你可以支付一定的金币购买已经内置一套建筑结构的一次性胶囊",
 		"",
-		"It will not paste the build, unless you have linked your inventory or your storage to the blueprint. Keybinds are present on the Capsule.",
+		"对于蓝图胶囊，在使用它进行建筑之前，必须用物品栏或箱子里的建筑材料为它充能。相关快捷键可以在胶囊上查看",
 		"",
-		"Things to Note:",
+		"注意以下两点：",
 		"",
-		"- Pasting will not occur when other blocks or entities are in the way",
+		"- 如果待建筑的区域内有其他方块或实体遮挡，胶囊不会生效",
 		"",
-		"- You can paste multiple times"
+		"- 你可以多次使用普通胶囊和蓝图胶囊"
 	],
 	size: 2.0d,
 	tasks: [{
 		uid: "fd11f50e",
 		type: "checkmark",
-		title: "How Builds Work"
+		title: "如何使用建筑胶囊"
 	},
 	{
 		uid: "b62ee903",
