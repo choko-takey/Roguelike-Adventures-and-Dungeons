@@ -6,7 +6,7 @@
 	shape: "hexagon",
 	description: "当你凝视深渊时，深渊也在凝视你",
 	text: [
-		"欢迎来到次元监牢，祝您逗留愉快"
+		"欢迎来到次元监牢，祝你逗留愉快"
 	],
 	dependency_requirement: "one_started",
 	tasks: [{
