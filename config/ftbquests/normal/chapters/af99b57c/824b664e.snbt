@@ -1,18 +1,18 @@
 {
-	title: "Sacrament of Blood",
+	title: "血之仪式",
 	x: -5.0d,
 	y: -4.5d,
-	description: "Told you it wasn't a phase",
+	description: "告诉过你这不是开玩笑",
 	text: [
-		"To become an even stronger vampire, you must make a Blood Ritual Altar.",
+		"想要变成更强的吸血鬼，你需要搭建血之祭坛。",
 		"",
-		"In a 5x5 area place the altar at the center and at each corner place an altar pillar 3 high ",
-		"at the pillars peak place an altar tip.",
-		"",
-		"The pillars also require an interior support block all interior support blocks must be of the same material",
+		"选一个5x5的区域，在中心放下药剂祭坛，四个角落摆下3格高的祭坛支柱并在顶端放下祭坛尖锥。",
 		"",
 		"",
-		"Wait for the night then interact with the Altar and you will see the requirements to empower yourself."
+		"祭坛支柱内部需要填充一个与支柱本身材料一致的方块。",
+		"",
+		"",
+		"等待晚上与祭坛交互，你将看到升至下一级需要的材料。"
 	],
 	dependencies: [
 		"d53d6c2d"

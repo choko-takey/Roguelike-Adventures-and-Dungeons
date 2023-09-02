@@ -1,11 +1,11 @@
 {
-	title: "The Cooler Crossbow",
+	title: "更酷的弩弓",
 	x: -3.0d,
 	y: 7.0d,
 	text: [
-		"Depending on what skill you choose you can craft an even stronger crossbow.",
+		"基于你选择的技能，你可以制造出更强大的十字弩。",
 		"",
-		"(Depending on what skills you choose you may not be able to craft an crossbow)."
+		"（基于你选择的技能，你可能无法制造出弩弓）。"
 	],
 	dependencies: [
 		"69651f58"

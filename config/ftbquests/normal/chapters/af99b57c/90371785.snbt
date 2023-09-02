@@ -1,14 +1,14 @@
 {
-	title: "Vampire Hunter",
+	title: "吸血鬼猎人",
 	x: -6.0d,
 	y: 5.0d,
-	description: "Vampire huntings a good job mate",
+	description: "狩猎吸血鬼是个好工作",
 	text: [
-		"So you've picked the path of the hunter!",
+		"所以你决定了要踏上吸血鬼猎人的道路！",
 		"",
-		"To begin, find an injection chair and interact with it while holding a garlic injection.",
+		"要开始你的旅程，找到注射椅并用蒜头注射器与它交互。",
 		"",
-		"Warning Injecting yourself with garlic prevents you from becoming a vampire."
+		"警告：注射大蒜会阻止你变成吸血鬼。"
 	],
 	dependencies: [
 		"3141492f"

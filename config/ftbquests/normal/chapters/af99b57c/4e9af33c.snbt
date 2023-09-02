@@ -1,10 +1,10 @@
 {
-	title: "Don't Save This for a Rainy day",
+	title: "雨天不要省着用",
 	x: -3.0d,
 	y: -3.5d,
-	description: "Is that glitter gold?",
+	description: "闪烁着金色的光辉？",
 	text: [
-		"An upgraded version of the iron umbrella has increased durabillity."
+		"铁雨伞的升级版，增加了耐久度。"
 	],
 	dependencies: [
 		"72804cbc"

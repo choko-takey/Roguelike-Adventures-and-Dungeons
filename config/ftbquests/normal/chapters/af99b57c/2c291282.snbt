@@ -1,9 +1,9 @@
 {
-	title: "Big Game",
+	title: "大展身手",
 	x: -8.0d,
 	y: -5.5d,
 	text: [
-		"Advanced vampire hunters are much stronger than regular hunters."
+		"高阶猎人可比普通吸血鬼猎人强得多。"
 	],
 	dependencies: [
 		"beb133c0"

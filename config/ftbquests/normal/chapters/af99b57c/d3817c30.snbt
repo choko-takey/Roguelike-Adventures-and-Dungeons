@@ -1,12 +1,12 @@
 {
-	title: "Spitfire",
+	title: "喷火",
 	x: -9.0d,
 	y: 9.0d,
-	description: "Playing with fire",
+	description: "你这是在玩火",
 	text: [
-		"Spitfire Arrows are made with alchemical fire and crossbow arrows.",
+		"火之箭由炼金之火和弩箭制成。",
 		"",
-		"When fired were ever they land alchemical fire will be set."
+		"发射后会在坠落点留下一片炼金之火。"
 	],
 	dependencies: [
 		"f7514f66"

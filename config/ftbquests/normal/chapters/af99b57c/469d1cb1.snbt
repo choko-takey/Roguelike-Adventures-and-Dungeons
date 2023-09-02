@@ -1,9 +1,9 @@
 {
-	title: "Adept Vamprie Hunter",
+	title: "入门级吸血鬼猎人",
 	icon: "vampirism:hunter_intel 1 2",
 	x: -3.0d,
 	y: 2.0d,
-	description: "Hunter Intel 5 - 7",
+	description: "猎人情报5~7",
 	text: [
 		""
 	],

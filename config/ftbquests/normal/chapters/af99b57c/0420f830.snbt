@@ -1,15 +1,15 @@
 {
-	title: "Repeatable Blood Drive",
+	title: "可重复的血液驱动",
 	x: -11.5d,
 	y: -4.0d,
 	text: [
-		"If you lost it a 3rd time you get this quest and this one is repeatable ",
+		"如果你失去了第三次机会，你可以尝试这个可重复的任务。",
 		"",
 		"",
 		"",
-		"§cWARNING FOR PLAYERS ON SERVERS",
+		"§c服务器玩家请注意：",
 		"",
-		"Be warned for players on a server and in a team claiming this quest will activate the vampire transformation effect on all players on the team that are currently online!"
+		"对服务器上在同一ftb队伍里的玩家，完成此任务将使队伍中所有在线玩家全部获得“吸血之疾”状态！"
 	],
 	can_repeat: true,
 	dependencies: [

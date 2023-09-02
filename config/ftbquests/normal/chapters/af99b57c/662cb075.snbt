@@ -1,12 +1,12 @@
 {
-	title: "Hunter Trainer",
+	title: "猎人教官",
 	x: -4.0d,
 	y: 1.0d,
-	description: "He's a professional",
+	description: "他是专业的",
 	text: [
-		"Vampire Hunter Trainers can be found in hunter controlled villages.",
+		"吸血鬼猎人教官可以在由猎人控制的村庄中找到。",
 		"",
-		"Trade them hunter intel to level up past level 4 as a hunter."
+		"与他们交易猎人情报，使猎人等级提升到4级以上"
 	],
 	dependencies: [
 		"46fe7899"

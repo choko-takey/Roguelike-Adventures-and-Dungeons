@@ -1,10 +1,10 @@
 {
-	title: "Diamonds are for Umbrellas",
+	title: "钻石，为雨伞而生",
 	x: -3.0d,
 	y: -2.5d,
-	description: "Shine on you crazy umbrella",
+	description: "让阳光照耀你那炫酷的雨伞",
 	text: [
-		"The best possible umbrella has the highest durabillity compared to all other vampire umbrellas."
+		"比起其它雨伞，这是你能做出最好的雨伞，拥有最高的耐久度。"
 	],
 	dependencies: [
 		"4e9af33c"

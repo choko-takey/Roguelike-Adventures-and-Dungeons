@@ -1,12 +1,12 @@
 {
-	title: "The Dark Tower",
+	title: "黑暗之塔",
 	x: -5.0d,
 	y: -5.5d,
-	description: "Because I'm Batman",
+	description: "因为我是蝙蝠侠",
 	text: [
-		"Real vampires have castles",
+		"真正的吸血鬼应该拥有自己的城堡。",
 		"",
-		"GO BUILD ONE NOW!!!"
+		"现在马上给我造一个！！！"
 	],
 	dependencies: [
 		"824b664e"

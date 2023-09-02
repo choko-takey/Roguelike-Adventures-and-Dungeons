@@ -1,10 +1,10 @@
 {
-	title: "Vampire Killer Arrow",
+	title: "血之箭",
 	x: 0.5d,
 	y: 5.0d,
-	description: "This one requires a closed casket",
+	description: "还要准备一个封闭的棺材",
 	text: [
-		"Instantly kills low level vampire npcs."
+		"秒杀低级吸血鬼NPC。"
 	],
 	dependencies: [
 		"d3aa3b0c"

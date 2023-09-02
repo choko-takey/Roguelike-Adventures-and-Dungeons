@@ -1,11 +1,11 @@
 {
-	title: "Faction Villages",
+	title: "派系分明的村庄",
 	x: -9.0d,
 	y: 2.0d,
 	text: [
-		"Villagers can either be controlled by hunters or vampires.",
+		"村民现在将被吸血鬼阵营或吸血鬼猎人阵营所控制。",
 		"",
-		"By looking at the totem near the villages center it will show which side controls the village."
+		"观察村庄中心附近的村庄图腾，它将指示哪一方正在控制村庄。"
 	],
 	dependencies: [
 		"6d6592b1"

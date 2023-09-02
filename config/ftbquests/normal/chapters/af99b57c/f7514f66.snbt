@@ -1,12 +1,12 @@
 {
-	title: "Be Purged in Holy Fire",
+	title: "用圣火清除污秽",
 	x: -8.0d,
 	y: 9.0d,
-	description: "Like fire Hellfire. This fire in my skin",
+	description: "像火，像地狱之火，使我倍感焦灼",
 	text: [
-		"Combine holywater and gunpowder to create alchemical fire",
+		"把圣水与火药混合可以得到炼金之火。",
 		"",
-		"All vampires fear the flame and are weak to it."
+		"所有的吸血鬼都害怕这种火焰，对它们来说是弱点。"
 	],
 	dependencies: [
 		"59b8760a"

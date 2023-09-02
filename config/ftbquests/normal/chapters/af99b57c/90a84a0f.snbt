@@ -1,15 +1,15 @@
 {
-	title: "Vampire's Ichor",
+	title: "吸血鬼的灵液",
 	x: -5.0d,
 	y: -1.5d,
-	description: "Sweeter than wine",
+	description: "比葡萄酒还甜",
 	text: [
-		"Pure blood is used for crafting certain materials and weapons.",
+		"纯净血液可用来制造特定的材料与武器。",
 		"",
-		"It can either be aquired from villagers at medium levels of purity.",
+		"可以从村民身上获得中品的纯净血液。",
 		"",
-		"Or for the real deal find a Vampire Baron in vampire forest and slay them for the highest",
-		"purity blood."
+		"或者前往吸血鬼森林找到当地的吸血鬼伯爵，击杀它们得到最高等级的纯净血液。"
+
 	],
 	dependencies: [
 		"944fae96"

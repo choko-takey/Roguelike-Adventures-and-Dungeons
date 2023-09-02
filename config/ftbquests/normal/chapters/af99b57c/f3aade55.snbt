@@ -2,10 +2,10 @@
 	x: -5.0d,
 	y: 8.0d,
 	text: [
-		"Depending on what hunter skills you choose you can craft an improved garlic diffusor this has a larger radius of effect than a regular core.",
+		"基于你选择的技能，你可以做出强化喷蒜器，比常规的核心拥有更大的作用范围。",
 		"",
 		"",
-		"(Depending on what skills you choose you may not be able to craft an Improved Garlic Diffusor Core)"
+		"（基于你选择的技能，你可能无法做出强化喷蒜器核心）"
 	],
 	dependencies: [
 		"39a1224b"

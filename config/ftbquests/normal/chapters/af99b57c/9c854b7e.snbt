@@ -1,8 +1,8 @@
 {
-	title: "Expert Vampire Hunter",
+	title: "专家级吸血鬼猎人",
 	x: -1.0d,
 	y: 2.0d,
-	description: "Hunter Intel 11 - 13",
+	description: "猎人情报11~13",
 	text: [
 		""
 	],

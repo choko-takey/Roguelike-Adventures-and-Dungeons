@@ -1,11 +1,11 @@
 {
-	title: "I Quit",
+	title: "跑路",
 	icon: "vampirism:injection 1 2",
 	x: -7.0d,
 	y: 3.0d,
 	text: [
-		"Tired of being a hunter?",
-		"Craft a sanguine injection and inject yourself with it to become normal again."
+		"不想当吸血鬼猎人了？",
+		"做一个嗜血注射器并把它注射到你的身体里，从而变回普通人。"
 	],
 	dependencies: [
 		"90371785"

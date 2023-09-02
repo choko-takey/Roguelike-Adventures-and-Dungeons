@@ -1,12 +1,12 @@
 {
-	title: "Blood Infusion",
+	title: "注入血液",
 	x: -7.0d,
 	y: -2.5d,
-	description: "Infusion transfusion what's the differecne",
+	description: "注液和输液的区别是什么？",
 	text: [
-		"Before you run off and start making blood weapons, it's reccomended to make a blood infuser.",
+		"在你准备起步并开始制作吸血鬼武器之前，推荐你先做一个血之基座",
 		"",
-		"Placing the blood infuser on top of a tank containing blood will allow it to drain blood from that tank to fuel certain items."
+		"把血之基座放在一个装有血液的容器上方，它将使用血液来为基座中的武器提供能量。"
 	],
 	dependencies: [
 		"79ece8a4"

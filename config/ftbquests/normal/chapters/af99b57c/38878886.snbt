@@ -1,10 +1,10 @@
 {
-	title: "The 10th Dentist",
+	title: "第10位牙医",
 	x: -9.0d,
 	y: -3.5d,
-	description: "There's a reason no one respects his opinions",
+	description: "人们不认可他的意见是有原因的",
 	text: [
-		"After becoming a vampire, your appearance will partially change. If you dont like how you face looks you can change it's apperance with",
+		"在变成吸血鬼之后，你的外观会有部分变化。如果你不喜欢现在的样子，可以用以下指令改变外貌：",
 		"",
 		"/vampirism fang"
 	],

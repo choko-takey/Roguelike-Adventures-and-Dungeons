@@ -1,12 +1,12 @@
 {
-	title: "The Heaviest Drip",
+	title: "沉重但轻盈",
 	x: -3.0d,
 	y: 4.0d,
-	description: "vampires tried to patent black clothing but hunters beat em to it",
+	description: "吸血鬼想要取得黑色衣服的专利，但猎人和他们想到一块去了",
 	text: [
-		"As a hunter depending on what skills you choose you will gain acess to hunter armour.",
+		"取决于你猎人技能的加点情况，你将得到不同种类的盔甲套装。",
 		"",
-		"Each armour set has it's own bonuses and negatives."
+		"每套盔甲都有各自的优缺点。"
 	],
 	dependencies: [
 		"7b483180"

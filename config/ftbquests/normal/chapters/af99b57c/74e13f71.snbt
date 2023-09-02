@@ -1,17 +1,17 @@
 {
-	title: "Path of the Vampire",
+	title: "吸血鬼之路",
 	x: -8.0d,
 	y: -2.5d,
-	description: "Haha Jonathan you stole my fangs",
+	description: "哈哈Jonathan，你偷了我的尖牙",
 	text: [
-		"Complete this quest and activate the rewards to be effected by the vampirism virus.",
+		"完成这个任务并激活奖励，从而被吸血鬼病毒感染。",
 		"",
-		"After a day has passed you will be reborn.",
+		"经过一个游戏日你将重生为吸血鬼。",
 		"",
-		"(If at any point you change your mind drink milk to remove the effect)",
-		"(In case you do something stupid you get 2 chances of vampirism)",
+		"（在此期间如果你改变想法了，可以喝牛奶解除效果）",
+		"（如果你不幸在此期间做了什么傻事，你还有第二次机会）",
 		"",
-		"Warning: Injecting yourself with garlic prevents you from becoming a vampire."
+		"警告：使用蒜头注射器会阻止你变成吸血鬼。"
 	],
 	dependencies: [
 		"185694e7"

@@ -1,12 +1,12 @@
 {
-	title: "Halleujah",
+	title: "哈利路亚",
 	x: -7.0d,
 	y: 9.0d,
-	description: "I'm melting I'm melting",
+	description: "要融化力（喜）",
 	text: [
-		"Hitting a vampire with holy water weakens them massively.",
+		"使用圣水可以大幅度削弱吸血鬼的能力。",
 		"",
-		"To create holy water you need blessed salt which can be brought from hunter villagers."
+		"想要制作出圣水，你需要祝福盐，可以在吸血鬼猎人村民那里买到。"
 	],
 	dependencies: [
 		"ce78bfd3"
