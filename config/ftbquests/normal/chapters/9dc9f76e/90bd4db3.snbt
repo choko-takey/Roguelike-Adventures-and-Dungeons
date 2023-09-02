@@ -1,10 +1,10 @@
 {
-	title: "Golden Granny",
+	title: "Golden Granny（NFT艺术品）",
 	x: 12.5d,
 	y: -4.5d,
-	description: "Nice and juicy.",
+	description: "好吃又多汁。",
 	text: [
-		"You'll eat some of these and you'll never want to pay for them again."
+		"你吃过之后就再也不会买这些了。"
 	],
 	dependencies: [
 		"52178774"

@@ -1,5 +1,5 @@
 {
-	title: "Platinum Coin Turn-In",
+	title: "铂金币回收",
 	x: -20.0d,
 	y: -2.0d,
 	can_repeat: true,

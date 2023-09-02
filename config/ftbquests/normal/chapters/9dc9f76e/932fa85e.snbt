@@ -1,16 +1,16 @@
 {
-	title: "Reminds Me of Someone from Terraria",
+	title: "让我想起了泰拉瑞亚的某人",
 	x: 4.0d,
 	y: -9.5d,
-	description: "At least this doesn't cost money?",
+	description: "至少这不用花钱？",
 	text: [
-		"Craft a Reforging Station.",
+		"制作一个锻造台。",
 		"",
-		"The Reforging Station can be used to reroll the Quality on a piece of armor or a weapon.",
+		"锻造台能随机改变一件装备或武器的品质。",
 		"",
-		"In order to do so, the appropriate material for the item must be placed in the bottom slot, and the item in the top slot.",
+		"你需要把合适的材料放在底下的格子，武器或装备放在上面的格子。",
 		"",
-		"If the item does not have a corresponding repair or reforging material, you will need to use a Nether Star to reroll the Quality of the item."
+		"如果物品没有相应的修复或重铸的材料，你就需要用下界之星来改变物品的品质了。"
 	],
 	dependencies: [
 		"ed20823b"

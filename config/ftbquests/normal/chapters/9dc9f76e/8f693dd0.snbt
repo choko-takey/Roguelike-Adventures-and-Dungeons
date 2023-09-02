@@ -1,10 +1,10 @@
 {
-	title: "Magic Rock",
+	title: "神奇的石头",
 	x: 5.5d,
 	y: -1.5d,
-	description: "Turns your tongue blue",
+	description: "让你的舌头变蓝",
 	text: [
-		"Please don't actually eat it."
+		"别真的吃它。"
 	],
 	dependencies: [
 		"98cd26ae"

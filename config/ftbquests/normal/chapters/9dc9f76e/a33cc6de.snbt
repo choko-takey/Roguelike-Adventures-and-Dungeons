@@ -1,20 +1,20 @@
 {
-	title: "Teleportation Systems",
+	title: "传送系统",
 	x: -13.75d,
 	y: -3.0d,
-	description: "Teleporting can be nauseating",
+	description: "瞬移可能造成反胃",
 	text: [
-		"Waystones from both the Waystones mod and the Signposts mod can be found in villages.",
+		"指路石mod和路标mod中的传送石都能在村庄中找到。",
 		"",
-		"Each works differently, though both are ridiculously simple to use.",
+		"两种工作方式不同，尽管两种使用方式都非常无脑。",
 		"",
-		"Waystones from the different mods cannot link to each other. Waystones from Waystones are typically easier to use, though they both spawn in Villages in the same structure, and have the possibility of being one or the other."
+		"不同mod的传送石之间不能链接。指路石的传送石通常更容易使用，尽管都能在村庄相同结构中生成，而且有可能只生成其中一种。"
 	],
 	size: 1.5d,
 	tasks: [{
 		uid: "9e0b0e1b",
 		type: "checkmark",
-		title: "Let's do it!"
+		title: "让我们开始吧！"
 	}],
 	rewards: [{
 		uid: "576e6f1e",

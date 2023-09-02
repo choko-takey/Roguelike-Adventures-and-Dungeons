@@ -1,14 +1,14 @@
 {
-	title: "At Your Knuckle Tips",
+	title: "关节处的小技巧",
 	x: 3.5d,
 	y: -18.0d,
-	description: "This one sounded better in my head",
+	description: "在我脑海里听着不错",
 	text: [
-		"This item will permanently apply a potion effect at the cost of experience when combined with an appropriate potion.",
+		"这个物品消耗一些经验与某些药水组合就可获得永久药水效果。",
 		"",
-		"Must be equipped to be active.",
+		"装备后才能生效。",
 		"",
-		"Can be reforged."
+		"也能重铸。"
 	],
 	dependencies: [
 		"020e073e"

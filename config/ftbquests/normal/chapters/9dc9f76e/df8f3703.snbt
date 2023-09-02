@@ -1,10 +1,10 @@
 {
-	title: "BACON?!",
+	title: "培根？！",
 	x: -3.5d,
 	y: 7.5d,
-	description: "Bacon bacon bacon BACON!!",
+	description: "培根，培根，培培根！！",
 	text: [
-		"Feed your doggy Master Treats up to level 60!"
+		"给你的狗狗喂专业口粮到60级！"
 	],
 	dependencies: [
 		"d75162de"

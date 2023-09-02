@@ -1,18 +1,18 @@
 {
-	title: "B Rated Restaurant but They Stay Open?!",
+	title: "B级餐厅，但他们继续营业？！",
 	x: 14.5d,
 	y: 0.0d,
-	description: "It's because no one reports the rats. They only report how good the food is.",
+	description: "因为没人说老鼠。他们只说食物有多好。",
 	text: [
-		"This burrito you're eating has never been surpassed by anything you've tasted within your lifetime, but you know it's bacteria infested and disease riddled because you saw the rat jump across the grill. Yet, you take another bite.",
+		"你吃的墨西哥卷饼从来没超越人生中品尝过的其他美食，但你知道它细菌滋生还疾病泛滥因为你看到一只老鼠跳过烧烤架。尽管如此，你又咬了一口（杆菌又微生）。",
 		"",
-		"Step 1 | Place the Mystical Grill on top of a boiling Cauldron.",
-		"Step 2 | Right-click your grill with 5 Nether Wart and 1 Unstable Essence.",
-		"Step 3 | Place either Raw Beef, Pork, Chicken, Mutton, Rabbit, Cod, Salmon, or a Potato onto the grill.",
-		"Step 4 | Wait 5 minutes. No flipping required.",
-		"Step 5 | Take that juicy mama off the grill and eat em up. The food item will have random potion effects.",
+		"步骤 1 | 在沸腾的坩埚上放下神秘烤架。",
+		"步骤 2 | 用5个地狱疣和1个不稳定精华右击烧烤架。",
+		"步骤 3 | 在烧烤架上放生牛、猪、鸡、羊、鳕鱼、鲑鱼或者土豆其一。",
+		"步骤 4 | 等5分钟。不用翻面。",
+		"步骤 5 | 拿起“咸霉多脂”的食物并吃下去。食物会有随机的药水效果。",
 		"",
-		"Effects on the food are random and cannot be controlled."
+		"食物上的效果是随机的且无法控制。"
 	],
 	dependencies: [
 		"a05c73b5"

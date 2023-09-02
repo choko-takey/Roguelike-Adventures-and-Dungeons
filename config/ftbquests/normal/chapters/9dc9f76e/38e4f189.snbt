@@ -1,10 +1,10 @@
 {
-	title: "Purple Diamonds!",
+	title: "紫色的钻石！",
 	x: 9.0d,
 	y: -4.5d,
-	description: "Yup... yup...",
+	description: "我懂…… 我懂……",
 	text: [
-		"Slightly rarer than Diamonds, this rare rock is used for an awesome squid recipe... and tools..."
+		"比钻石略微稀有，这种稀有石头可以用来合成一个很棒的鱿鱼…… 和一些工具……"
 	],
 	dependencies: [
 		"98cd26ae"

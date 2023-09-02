@@ -1,12 +1,12 @@
 {
-	title: "Emerald Tools",
+	title: "绿宝石工具",
 	x: 5.5d,
 	y: -7.0d,
-	description: "These are rather shiny don't you think?",
+	description: "你不觉得太亮了吗？",
 	text: [
-		"They're better than Diamond, so I don't know what to tell you. Emerald tools might be OP since they're better and can be produced by villagers. Only your imagination will tell.",
+		"比钻石更好，我不知道该怎么跟你说。绿宝石工具可能很OP，因为它们更好而且能从村民那里获得。只有你的想象力会告诉你。",
 		"",
-		"Craft all the Emerald gear."
+		"制作所有的绿宝石装备。"
 	],
 	dependencies: [
 		"2352b3e3"

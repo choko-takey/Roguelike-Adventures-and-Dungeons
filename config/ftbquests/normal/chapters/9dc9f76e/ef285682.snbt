@@ -1,12 +1,12 @@
 {
-	title: "Burn It!",
+	title: "烧掉它！",
 	x: -5.0d,
 	y: -5.5d,
-	description: "Chin check your fire pit, I dare you",
+	description: "阿成，管好你的火坑",
 	text: [
-		"It might hurt you more, but I promise it will never have attitude again.",
+		"它可能会更多地伤害你，但我保证它不会再这样了。",
 		"",
-		"You already know what this is used for and why you need it so bad."
+		"你已经知道它的用途以及为什么急需它。"
 	],
 	dependencies: [
 		"16c3f3d7"

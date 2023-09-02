@@ -1,18 +1,18 @@
 {
-	title: "Larry",
+	title: "拉里",
 	x: -6.0d,
 	y: 1.5d,
-	description: "A guy or something, I don't know I've never seen the movie.",
+	description: "一个男人或什么东西，我不知道，我没看过这部电影。",
 	text: [
-		"Storage Cables do nothing, essentially. They only link inventories, and have no innate function.",
+		"存储线缆没特殊作用。只用于链接，没有特殊功能。",
 		"",
-		"Simple Cables and Storage Link Cables will link all inventories connected to the single set of cabling. Connect these to a Storage Network Master block.",
+		"简易线缆和存储连接线缆可以将所有库存链接到一根线缆上。链接这些线缆到存储网络主机上。",
 		"",
-		"Export and Import Cables will only Export or Import from or into inventories they are connected to. Can be linked to Storage Network Masters. The full mechanics of doing this are not fully understood on my part.",
+		"输出和输入线缆只会输出或输入链接的库存中的物品。可连接到存储网络主机，我并不全了解这个机制。",
 		"",
-		"Go have some fun with your simple storage system! It's simple to use, but your imagination can make it advanced!",
+		"赶快体验一下简单存储系统吧！使用简单，但是发挥你的想象力，来做出更高级的系统！",
 		"",
-		"There are only two different types of piping in this modpack, and this is one of them. Don't be too afraid to dive into creating some type of Storage System. It isn't too scary once you start understanding how things work."
+		"这个整合包只有两种不同的管道，这个只是其中的一种。大胆的去建立一个存储系统吧。当你理解之后这个就不难了。"
 	],
 	dependencies: [
 		"a3713085"

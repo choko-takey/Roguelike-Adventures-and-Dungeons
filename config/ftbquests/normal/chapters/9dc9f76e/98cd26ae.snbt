@@ -1,12 +1,12 @@
 {
-	title: "Iron Tools",
+	title: "铁质工具",
 	x: 6.5d,
 	y: -3.0d,
-	description: "Your first set!",
+	description: "第一套工具！",
 	text: [
-		"How cute... you have no idea how fast you're gonna mine later.",
+		"太可爱了……你绝对想不到等会你挖矿会有多快。",
 		"",
-		"Craft a set of Iron Tools. All of them."
+		"制作一套铁工具。一整套工具。"
 	],
 	dependencies: [
 		"b325bb25"

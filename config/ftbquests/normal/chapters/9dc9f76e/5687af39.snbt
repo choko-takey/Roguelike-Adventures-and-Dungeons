@@ -1,20 +1,20 @@
 {
-	title: "Lily!!---",
+	title: "莉莉！！---",
 	x: -6.0d,
 	y: 8.5d,
-	description: "What I was yelling when I lost my dog in real life.",
+	description: "现实中我的狗丢了我就在大喊。",
 	text: [
-		"She came back though. All good.",
+		"她自己回来了。一切安好。",
 		"",
-		"Your dog has several modes. Its mode can be changed with the whistle!",
+		"狗有几个模式。可以用口哨改变模式！",
 		"",
-		"Docile - Your dog will wait for you to throw a bone, or a stick.",
+		"温顺 - 狗狗会等着你扔骨头或者棍子。",
 		"",
-		"Wandering - Your dog will wander around the area, but will stay close to a food bowl until commanded otherwise. To set a dog to a food bowl, make sure it is within 1 block of the food bowl when setting the dog to wander.",
+		"悠闲 - 狗狗会在碗附近一定区域内闲逛，除非改变指令。在发出悠闲指令时确保狗在狗食盆的附近一格，即可设置闲逛的碗。",
 		"",
-		"Aggressive - Your dog will assist you in combat, and defend you from being attacked.",
+		"好斗 - 狗狗会协助你战斗，为你保驾护航。",
 		"",
-		"Berserker - Your dog will follow you, immediately attacking any mob that gets too close to the player."
+		"狂暴 - 狗狗一直会紧紧跟着你，会立刻攻击靠你太近的生物。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

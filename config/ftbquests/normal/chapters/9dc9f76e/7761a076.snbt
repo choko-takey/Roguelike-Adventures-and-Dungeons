@@ -1,12 +1,12 @@
 {
-	title: "25 Gold Coin Turn-In",
+	title: "25枚金币回收",
 	x: -22.0d,
 	y: -1.0d,
-	description: "Big money moves!",
+	description: "巨额资金流动！",
 	text: [
-		"You've never seen so much cash at one time! You better have more coins...",
+		"从来没见过这么多现金！你肯定还有更多……",
 		"",
-		"Enables trading between players."
+		"支持玩家之间的交易。"
 	],
 	can_repeat: true,
 	tasks: [{

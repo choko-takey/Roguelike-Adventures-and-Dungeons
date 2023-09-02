@@ -1,16 +1,16 @@
 {
-	title: "Two Pen Clicks",
+	title: "双笔点击",
 	x: -15.5d,
 	y: -2.0d,
-	description: "Ruby Slippers on paper",
+	description: "纸上红宝石拖鞋",
 	text: [
-		"These scrolls can be made for one time consumption. They do not incur the long cooldown of using a Warpstone.",
+		"这些卷轴是一次性的消耗品。不会导致指路石进入很长的冷却时间。",
 		"",
-		"I am unsure of what Return Scrolls do, exactly. It is likely they return you to your last used Waystone, or your most recently arrived at Waystone.",
+		"我不是很确定回程卷轴干什么的。他很可能是返回到上次使用的指路石旁，或者最近的指路石旁。",
 		"",
-		"Bound Scrolls will teleport you to a Waystone they are bound to. Only one Waystone can be bound per scroll. Shift Right-Click to bind a scroll to a Waystone.",
+		"绑定卷轴则会把你传送到绑定的指路石旁。一个卷轴只能绑定一个指路石。Shift右击绑定指路石。",
 		"",
-		"Warp Scrolls will allow you to choose a Waystone to teleport to. It is not limited to being bound to a single Waystone."
+		"传送卷轴可以选择一个指路石传送。不限制只能绑定一个指路石。"
 	],
 	tasks: [{
 		uid: "6277195a",

@@ -1,11 +1,11 @@
 {
 	x: -9.0d,
 	y: 5.0d,
-	description: "I'm in a hurry!",
+	description: "我赶时间！",
 	text: [
-		"This is for when you waited until night time to set up your tent. Recommended you put Unbreaking III on this.",
+		"这会在你到了晚上才搭建帐篷时帮助你。建议你给它附魔个耐久III。",
 		"",
-		"The Super Tent Mallet will instantly build your tents at a higher total durability cost."
+		"超级帐篷固定槌可以立即搭建好帐篷，但会消耗更多的耐久。"
 	],
 	dependencies: [
 		"0be7c49b"

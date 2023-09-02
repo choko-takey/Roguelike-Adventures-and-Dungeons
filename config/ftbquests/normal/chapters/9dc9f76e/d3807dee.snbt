@@ -1,14 +1,14 @@
 {
-	title: "Premium Pole",
+	title: "高品质钓竿",
 	x: 0.5d,
 	y: -4.5d,
-	description: "Cost me like 1500$",
+	description: "花了我大约1500$",
 	text: [
-		"But it will never break! What fish is gonna bend iron?",
+		"但他永远不会坏！什么鱼能弯得动铁？",
 		"",
-		"Knock on wood...",
+		"碰运气……",
 		"",
-		"Applying anything above Lure V to your Rod will break it. Don't do that."
+		"任何高于饵钓V附魔施加在钓竿上都会损毁钓竿。别那样做。"
 	],
 	dependencies: [
 		"b325bb25"

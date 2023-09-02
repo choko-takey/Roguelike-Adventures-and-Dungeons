@@ -1,12 +1,12 @@
 {
-	title: "The Street Lights Are On!",
+	title: "街上的灯都亮着！",
 	x: 12.5d,
 	y: -1.5d,
-	description: "Mama has the slipper in her hand already. I can feel it.",
+	description: "妈妈已经把拖鞋提在手上了。我能猜到。",
 	text: [
-		"What time is it?",
+		"现在几点了？",
 		"",
-		"Time to stop asking so many questions. Go read my check marks!"
+		"别再问这么多问题了。先读一下复选标记！"
 	],
 	dependencies: [
 		"52178774"

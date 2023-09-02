@@ -1,12 +1,12 @@
 {
-	title: "Archeron's Libary",
+	title: "阿刻戎的图书馆",
 	x: 19.5d,
 	y: -1.0d,
-	description: "Their's a reason its called forbidden knowledge",
+	description: "它被称为禁忌知识是有原因的。",
 	text: [
-		"Hellshelves are like bookshelves but give more enchanting power, thus allowing you to apply higher level enchantments to your items.",
+		"下界书架可以提供更多的附魔等级，因此你可以给物品附更高等级的魔。",
 		"",
-		"The max level for an enchanting table with hellshelves is capped higher than wooden bookshelves."
+		"下界书架可达到的最高附魔等级高于木质书架。"
 	],
 	dependencies: [
 		"aaac6e3c"

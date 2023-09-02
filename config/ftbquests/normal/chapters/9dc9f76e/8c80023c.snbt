@@ -1,16 +1,16 @@
 {
-	title: "Crate Control",
+	title: "抽屉自定义",
 	x: -5.0d,
 	y: 4.0d,
-	description: "A real DIY project!",
+	description: "真·DIY！",
 	text: [
-		"The Framing Table is used to make custom Drawers!",
+		"镶框台用来自定义抽屉！",
 		"",
-		"Right-Click the table to open the GUI; the left side is where your Framed Drawer will go. Any Framed Drawer will work.",
+		"右击镶框台打开GUI；左侧放置镶框抽屉。任何镶框抽屉都可以。",
 		"",
-		"Place blocks into the appropriate slots until you receive a product you're satisfied with. Each slot changes the trim, front face, and body of the Drawer.",
+		"将方块放入任意的格子里直到出现你满意的外观。每个格子对应可以改变抽屉的外壳、正面和轮廓。",
 		"",
-		"You can exit before you extract your result, getting a preview of your Drawer."
+		"可以在取出成品前退出GUI，预览抽屉外观。"
 	],
 	dependencies: [
 		"7d3c81ce"

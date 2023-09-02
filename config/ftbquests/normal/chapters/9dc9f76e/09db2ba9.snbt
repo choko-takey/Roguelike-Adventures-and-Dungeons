@@ -1,16 +1,16 @@
 {
-	title: "Better Take Me Back Block",
+	title: "速速带我回",
 	x: -15.5d,
 	y: -4.0d,
-	description: "Stand tall and proud!",
+	description: "昂首挺胸！",
 	text: [
-		"Right-Click to \"discover\" a Waystone.",
+		"右击“发现”指路石。",
 		"",
-		"You can place, and name Waystones once they are picked up.",
+		"捡起来的指路石可以重新放下并重命名。",
 		"",
-		"Right-Click a placed Waystone to see and travel to other discovered Waystones.",
+		"右击指路石可以传送至其他发现的指路石。",
 		"",
-		"You will always be teleported within one block of these Waystones."
+		"你只需带着一块指路石就可以传送。"
 	],
 	tasks: [{
 		uid: "c5be8996",

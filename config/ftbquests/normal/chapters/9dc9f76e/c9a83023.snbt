@@ -1,12 +1,12 @@
 {
-	title: "Harder than a Hard Hat!",
+	title: "比安全帽还硬！",
 	x: 14.5d,
 	y: -4.5d,
-	description: "You're iced out!",
+	description: "你被排挤了！",
 	text: [
-		"Collect a full set of Diamond Armor.",
+		"收集全套钻石盔甲。",
 		"",
-		"Every 12 year old wants to get their hands on this stuff."
+		"每个12岁的孩子都想尝试这种东西。"
 	],
 	dependencies: [
 		"14d5a3cd"

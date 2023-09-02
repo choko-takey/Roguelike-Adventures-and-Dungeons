@@ -1,5 +1,5 @@
 {
-	title: "Starting Gear Selection!",
+	title: "初始装备选择！",
 	icon: {
 		id: "ftbquests:lootcrate",
 		tag: {
@@ -8,13 +8,13 @@
 	},
 	x: -7.0d,
 	y: -3.0d,
-	description: "Start your adventure TODAY!",
+	description: "从今日起开始你的冒险！",
 	text: [
-		"Don't want to waste time mining just to get some basic gear click the checkmark to complete this quest.",
+		"不想浪费时间挖矿做一些基础装备的话，就点击复选标记完成这个任务。",
 		"",
-		"Collect your reward by selecting a crate of starting gear which contain armour, weapon(s) and food.",
+		"选择一个装有盔甲，武器或食物的奖励箱以获得初始装备。",
 		"",
-		"You can select from a variety of gears."
+		"你可以选择各种装备。",
 	],
 	dependencies: [
 		"35def456"
@@ -22,7 +22,7 @@
 	tasks: [{
 		uid: "0616f076",
 		type: "checkmark",
-		title: "Ready to roll!"
+		title: "准备抽取！"
 	}],
 	rewards: [{
 		uid: "ea40f0d8",

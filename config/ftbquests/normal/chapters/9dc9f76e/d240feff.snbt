@@ -1,12 +1,12 @@
 {
-	title: "Woopty Wopty Stone",
+	title: "传传传传送石",
 	x: -15.0d,
 	y: -3.0d,
-	description: "Something like that",
+	description: "就像这样",
 	text: [
-		"Will teleport you to any discovered Waystone. ",
+		"将把你传送到发现的指路石处。",
 		"",
-		"Will incur a long cooldown, but the stone will never break."
+		"虽然有个很长的冷却时间，但是永远不会坏。"
 	],
 	tasks: [{
 		uid: "874cdd03",

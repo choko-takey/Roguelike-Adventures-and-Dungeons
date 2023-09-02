@@ -1,10 +1,10 @@
 {
-	title: "Gift of the Gods ",
+	title: "天赐礼物",
 	x: -2.0d,
 	y: -6.0d,
-	description: "Sea? He likes you",
+	description: "大海？他喜欢你",
 	text: [
-		"Obtain a piece of the Neptunium Armor."
+		"获得海王套装中任意一件。"
 	],
 	dependencies: [
 		"2dc7b27e"

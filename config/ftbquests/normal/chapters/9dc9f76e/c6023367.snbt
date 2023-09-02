@@ -1,10 +1,10 @@
 {
-	title: "Mark of the Doggy ",
+	title: "狗狗的印记",
 	x: -3.0d,
 	y: 8.5d,
-	description: "Keeping track of your dogs on a whole new level",
+	description: "用新技术追踪你的狗狗",
 	text: [
-		"Radio Collars are required to track your dog. The Radar will track ALL dogs with a Radio Collar. Recommended you only put a Radio Collar on dogs you take out with you. Also take your dogs with you on chains. ",
+		"雷达项圈用于追踪你的狗狗。雷达将会持续追踪所有有雷达项圈的狗狗。建议只给你带出去的狗带雷达项圈，也可以给狗拴狗链。",
 		""
 	],
 	hide_dependency_lines: true,

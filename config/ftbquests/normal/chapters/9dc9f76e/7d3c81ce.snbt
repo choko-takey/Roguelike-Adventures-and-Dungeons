@@ -1,12 +1,12 @@
 {
-	title: "Bigger Is Better!",
+	title: "越大越好！",
 	x: -5.0d,
 	y: 2.0d,
-	description: "Tons of space for tons of stuff you'll forget about!",
+	description: "大部分人和事你都可能会忘记！",
 	text: [
-		"These will exponentially increase the amount of items a drawer can hold.",
+		"这个会成倍增加抽屉容量。",
 		"",
-		"Right-click to use it on a drawer."
+		"对抽屉右击使用。"
 	],
 	dependencies: [
 		"c53bb728"

@@ -1,5 +1,5 @@
 {
-	title: "Buy 25 Copper Coins",
+	title: "买25枚铜币",
 	x: -23.0d,
 	y: -4.0d,
 	can_repeat: true,

@@ -1,12 +1,12 @@
 {
-	title: "Raisins in the Sun",
+	title: "阳光下的葡萄干",
 	x: 1.5d,
 	y: 2.0d,
-	description: "These ones taste like metal!",
+	description: "这些硬的像金属！",
 	text: [
-		"The only item you can place into the Drying Basin is Ironberries. This is intended.",
+		"唯一能放进蒸发皿的物品是铁树莓。这是故意的。",
 		"",
-		"Refer to the Almanac for more details on the Drying Basin."
+		"参考年历通书查看更多关于蒸发皿的信息。"
 	],
 	dependencies: [
 		"ecd0a29d"

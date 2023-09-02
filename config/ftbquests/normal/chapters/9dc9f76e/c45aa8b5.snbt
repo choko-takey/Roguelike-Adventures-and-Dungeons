@@ -1,12 +1,12 @@
 {
-	title: "Breeding Bone",
+	title: "生育骨头",
 	x: -6.0d,
 	y: 6.5d,
-	description: "Everyone loves puppies",
+	description: "人人都爱小狗",
 	text: [
-		"Give this bone to two different dogs to make them breed.",
+		"骨头喂给两只狗，让他们繁殖。",
 		"",
-		"What an item name... huh?"
+		"多好一物品名字……啊哈？"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

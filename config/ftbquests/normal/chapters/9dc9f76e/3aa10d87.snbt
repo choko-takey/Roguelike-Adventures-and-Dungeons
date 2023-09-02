@@ -1,13 +1,13 @@
 {
-	title: "How Teams and Team Rewards Work",
+	title: "团队以及团队奖励如何工作",
 	x: -10.0d,
 	y: -4.0d,
 	text: [
-		"Repeatable Quests do not award the reward to the entire Team; only to the individual who completed the quest.",
+		"可重复任务不会奖励整个队伍；只会奖励完成任务的人。",
 		"",
-		"Repeatable Quests' progress can be contributed towards by an entire Team.",
+		"可重复任务的进度整个团队都可贡献。",
 		"",
-		"In these circumstances, it is recommended you have ALL materials for a quest before turning it in. This way your progress is never \"stolen\" by another Team-mate."
+		"在这些情况下，建议你在上交任务之前准备好所有的材料。这样你的进度就不会被其他队友 “偷”走。"
 	],
 	tasks: [{
 		uid: "375fb43f",

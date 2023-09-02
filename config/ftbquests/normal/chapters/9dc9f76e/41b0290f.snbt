@@ -1,10 +1,10 @@
 {
-	title: "Meats for Days",
+	title: "悬肉为林",
 	x: -3.5d,
 	y: -5.5d,
-	description: "You'll be full forever",
+	description: "你永远都不会饿",
 	text: [
-		"Skewers are a very powerful beginning food item. They are twice as expensive as normal food items like Porkchops, but they are substantially more filling for your player."
+		"串是初期非常好的食物。虽然比普通食物贵双倍，但是能回复很高的饱和度。"
 	],
 	dependencies: [
 		"ef285682"

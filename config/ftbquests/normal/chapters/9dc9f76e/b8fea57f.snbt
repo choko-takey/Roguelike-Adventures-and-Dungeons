@@ -1,10 +1,10 @@
 {
-	title: "Your Guide to Simple Golemancy",
+	title: "傀儡手册",
 	x: -6.5d,
 	y: -5.5d,
-	description: "Neat",
+	description: "干净整洁",
 	text: [
-		"This guide will show you all of the available types of golems from Extra Golems."
+		"本手册给你展示更多傀儡中的所有傀儡类型。"
 	],
 	tasks: [{
 		uid: "415bfa44",

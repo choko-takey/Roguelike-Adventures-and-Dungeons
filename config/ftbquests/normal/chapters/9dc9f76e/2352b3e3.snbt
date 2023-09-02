@@ -1,10 +1,10 @@
 {
-	title: "Better Than Gold",
+	title: "比金子更好",
 	x: 6.5d,
 	y: -5.5d,
-	description: "Making villagers \"Hmm\" since 99'",
+	description: "从99年开始让村民发出“Hmm” ",
 	text: [
-		"You thought this was the best item in the game when you were 10, don't lie."
+		"10岁时你觉得这是游戏里最好的道具，别装了。"
 	],
 	dependencies: [
 		"98cd26ae"
