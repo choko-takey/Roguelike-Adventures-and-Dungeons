@@ -1,16 +1,16 @@
 {
-	title: "Of Fire and Ice",
+	title: "冰火传说",
 	icon: "iceandfire:dragon_skull 1 1",
 	x: 0.0d,
 	y: 0.0d,
-	description: "The most skilled slayer in many generations",
+	description: "几代人中最熟练的杀手",
 	text: [
-		"You've managed to slay every dragon you've come across so far."
+		"到目前为止，你已经成功地杀死了你遇到的每一条龙。"
 	],
 	tasks: [{
 		uid: "c142f5b5",
 		type: "kill",
-		title: "Slay 75 Fire Dragons",
+		title: "击杀75条火龙",
 		icon: "iceandfire:fire_dragon_blood",
 		entity: "iceandfire:firedragon",
 		value: 75L
@@ -18,7 +18,7 @@
 	{
 		uid: "5601e003",
 		type: "kill",
-		title: "Slay 75 Ice Dragons",
+		title: "击杀75条冰龙",
 		icon: "iceandfire:ice_dragon_blood",
 		entity: "iceandfire:icedragon",
 		value: 75L

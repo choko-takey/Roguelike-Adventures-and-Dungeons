@@ -1,10 +1,10 @@
 {
-	title: "The Triumphant Triune",
+	title: "《凯旋》",
 	x: 4.5d,
 	y: -5.0d,
-	description: "You can take someone's everything",
+	description: "你可以拿走某人的一切",
 	text: [
-		"Collect all three legendary aramaments."
+		"收集所有三种传说中的神器。"
 	],
 	tasks: [{
 		uid: "0233533e",

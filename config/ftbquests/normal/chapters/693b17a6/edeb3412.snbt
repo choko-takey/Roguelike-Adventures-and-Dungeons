@@ -1,12 +1,12 @@
 {
-	title: "Batter Bandit V",
+	title: "蛋糕大盗 V",
 	x: -13.0d,
 	y: -3.0d,
-	description: "There's no more cake... or is there?",
+	description: "还有没有蛋糕？",
 	text: [
-		"Steve has a tapeworm, evidently.",
+		"史蒂夫显然有绦虫。",
 		"",
-		"Eat 5,000 slices of cake."
+		"吃掉5000片蛋糕"
 	],
 	tasks: [{
 		uid: "5ec00a7b",

@@ -1,15 +1,15 @@
 {
-	title: "The Cockatrice Conundrum",
+	title: "鸡蛇之谜",
 	x: 0.5d,
 	y: 2.0d,
-	description: "Know what to do, when a Cocktrice looks at you",
+	description: "当鸡蛇看着你时，我想你知道该怎么做",
 	text: [
-		"Slay 75 Cockatrice (from Ice and Fire)."
+		"击杀75只鸡蛇（冰火传说的）"
 	],
 	tasks: [{
 		uid: "7b9cb4fe",
 		type: "kill",
-		title: "Slay 75 Demon Chickens",
+		title: "击杀75只鸡蛇",
 		icon: "iceandfire:rotten_egg",
 		entity: "iceandfire:if_cockatrice",
 		value: 75L

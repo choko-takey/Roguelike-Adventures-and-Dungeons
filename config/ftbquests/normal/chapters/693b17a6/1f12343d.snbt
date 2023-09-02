@@ -1,16 +1,16 @@
 {
-	title: "Mob Mobster II",
+	title: "屠戮者 II",
 	icon: "minecraft:bone",
 	x: -10.0d,
 	y: 0.0d,
-	description: "Keep on slaying!",
+	description: "继续杀戮！",
 	text: [
-		"Slay 5,000 mobs."
+		"击杀5000个生物"
 	],
 	tasks: [{
 		uid: "e54042d4",
 		type: "stat",
-		title: "Slay 5000 mobs",
+		title: "击杀5000个生物",
 		icon: "minecraft:bone",
 		stat: "stat.mobKills",
 		value: 5000

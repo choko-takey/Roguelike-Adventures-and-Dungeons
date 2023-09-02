@@ -1,16 +1,16 @@
 {
-	title: "Mob Mobster I",
+	title: "屠戮者 I",
 	icon: "minecraft:bone",
 	x: -10.0d,
 	y: 1.0d,
-	description: "Get those monsters good!",
+	description: "把那些怪物处理好！",
 	text: [
-		"Slay 1000 mobs."
+		"击杀1000只生物。"
 	],
 	tasks: [{
 		uid: "4d6fd0fe",
 		type: "stat",
-		title: "Slay 1000 mobs",
+		title: "击杀1000只生物",
 		icon: "minecraft:bone",
 		stat: "stat.mobKills",
 		value: 1000

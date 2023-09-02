@@ -1,15 +1,15 @@
 {
-	title: "Fisherman's Man's Man I",
+	title: "钓鱼佬 I",
 	x: -7.0d,
 	y: 1.0d,
-	description: "Reel them babies in!",
+	description: "把他们的孩子卷进来！",
 	text: [
-		"Catch 1,000 fish."
+		"捕获1000条鱼。"
 	],
 	tasks: [{
 		uid: "1a334309",
 		type: "stat",
-		title: "Catch 1,000 fish",
+		title: "捕获1000条鱼",
 		icon: "minecraft:fishing_rod",
 		stat: "stat.fishCaught",
 		value: 1000

@@ -1,11 +1,11 @@
 {
-	title: "Schools Out",
+	title: "停课",
 	icon: "xreliquary:mercy_cross",
 	x: 4.5d,
 	y: 7.5d,
-	description: "strike them down and they won't come back twice as strong",
+	description: "把他们打倒，他们就不会再回来了",
 	text: [
-		"Force 100 vampire hunter trainers to retire FROM LIFE!!!!"
+		"强迫100名吸血鬼猎人教官辞去生命！！！"
 	],
 	tasks: [{
 		uid: "eb7a4bae",

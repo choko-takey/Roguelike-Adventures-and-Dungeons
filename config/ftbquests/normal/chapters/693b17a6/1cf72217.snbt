@@ -1,10 +1,10 @@
 {
-	title: "Fiend Feller",
+	title: "恶魔",
 	icon: "vampirism:vampire_fang",
 	x: 5.5d,
 	y: 5.5d,
 	text: [
-		"Slay 1000 vampires and show them they should've worn neck protectors."
+		"击杀1000个吸血鬼，让他们知道戴护颈的重要性。"
 	],
 	tasks: [{
 		uid: "3987f560",

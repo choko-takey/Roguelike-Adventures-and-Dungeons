@@ -1,17 +1,17 @@
 {
-	title: "Trader Joe V",
+	title: "尔虞我诈 V",
 	x: -11.5d,
 	y: -3.0d,
-	description: "Smartest man alive, you know how to barter",
+	description: "世上最聪明的人，你知道如何交换",
 	text: [
-		"Trade with... anything...  15,000 times.",
+		"完成任意15000次交易",
 		"",
-		"Everyone knows you. And hates you. Because you talk them down to trading Nether Stars for Stone Bricks."
+		"每个人都认识你并且恨你。因为你说服他们用下界之星换石砖。"
 	],
 	tasks: [{
 		uid: "9d4e5633",
 		type: "stat",
-		title: "Make 15,000 Trades",
+		title: "完成15000次交易",
 		icon: "minecraft:book",
 		stat: "stat.tradedWithVillager",
 		value: 15000

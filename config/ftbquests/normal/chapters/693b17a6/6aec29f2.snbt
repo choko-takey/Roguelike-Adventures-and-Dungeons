@@ -1,13 +1,13 @@
 {
-	title: "Malevolent Shmevolent",
+	title: "原始恶意破除者",
 	icon: "chancecubes:chance_icosahedron",
 	x: 4.5d,
 	y: 1.0d,
-	description: "You're gonna die!",
+	description: "你会死的！",
 	text: [
-		"Destroy 15 Primordial Malevolents.",
+		"摧毁15个原始恶意。",
 		"",
-		"A reward is in order. Check your shop."
+		"奖励准备好了。快去看看你的商店。"
 	],
 	tasks: [{
 		uid: "5b6a4ccd",

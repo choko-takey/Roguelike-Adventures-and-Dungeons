@@ -1,17 +1,17 @@
 {
-	title: "Rekting Ball V",
+	title: "毁灭之球 V",
 	x: -8.5d,
 	y: -3.0d,
-	description: "You've dealt all the damage!",
+	description: "你造成了所有的伤害！",
 	text: [
-		"Deal 100,000,000 damage.",
+		"造成100000000点伤害。",
 		"",
-		"You're a nut, you know that? "
+		"你是个疯子，你知道吗？"
 	],
 	tasks: [{
 		uid: "41f8be9c",
 		type: "stat",
-		title: "Deal 100,000,000 damage",
+		title: "造成100000000点伤害",
 		stat: "stat.damageDealt",
 		value: 100000000
 	}],

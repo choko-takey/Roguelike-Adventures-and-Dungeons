@@ -1,11 +1,11 @@
 {
-	title: "Did You Do It With A Slingshot?",
+	title: "你是用弹弓做的吗？",
 	icon: "embers:golems_eye",
 	x: 4.5d,
 	y: -2.5d,
-	description: "How many times did they jumpscare you?",
+	description: "它们吓了你多少次？",
 	text: [
-		"Slay 1000 Ancient Golems."
+		"击杀1000个太古魔像"
 	],
 	tasks: [{
 		uid: "fe0e5a7b",

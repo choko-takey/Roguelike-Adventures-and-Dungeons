@@ -1,15 +1,15 @@
 {
-	title: "Fisherman's Man's Man III",
+	title: "钓鱼佬III",
 	x: -7.0d,
 	y: -1.0d,
-	description: "You caught driftwood this time, but you've got tons of experience now!",
+	description: "这次你钓到了浮木，但你现在有很多经验了！",
 	text: [
-		"Catch 25,000 fish."
+		"捕获25000条鱼."
 	],
 	tasks: [{
 		uid: "8f9702bd",
 		type: "stat",
-		title: "Catch 25,000 fish",
+		title: "捕获25000条鱼",
 		icon: "minecraft:fishing_rod",
 		stat: "stat.fishCaught",
 		value: 25000

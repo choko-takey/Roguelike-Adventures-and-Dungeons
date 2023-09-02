@@ -1,11 +1,11 @@
 {
-	title: "Shoulda Chosen the Sister",
+	title: "应该选择姐姐吗",
 	icon: "iceandfire:gorgon_head",
 	x: 1.0d,
 	y: 0.0d,
-	description: "Your friends were right... she's stone cold",
+	description: "你朋友说得对……我最恨她，像石头一样",
 	text: [
-		"You've slain 50 Gorgons. You're a stone cold killer."
+		"你已经杀了50个蛇发女妖。你是个冷血杀手。"
 	],
 	tasks: [{
 		uid: "ff734403",

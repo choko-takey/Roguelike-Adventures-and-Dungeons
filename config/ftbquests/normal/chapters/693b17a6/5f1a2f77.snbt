@@ -1,10 +1,10 @@
 {
-	title: "Batter Bandit II",
+	title: "蛋糕大盗 II",
 	x: -13.0d,
 	y: 0.0d,
-	description: "Where do you find all this cake?",
+	description: "你在哪里找到的这些蛋糕？",
 	text: [
-		"Eat 500 slices of cake."
+		"吃掉500片蛋糕。"
 	],
 	tasks: [{
 		uid: "27185c33",

@@ -1,11 +1,11 @@
 {
-	title: "What's 1000 More Years?",
+	title: "什么再给我一千年？",
 	icon: "vampirism:vampire_cloak",
 	x: 4.5d,
 	y: 6.5d,
-	description: "they lived long enough anyway",
+	description: "他们活得够久了。",
 	text: [
-		"Show 500 advanced vampires that they should not have left their coffin this night."
+		"让500个高阶吸血鬼知道，他们今晚不该离开棺材。"
 	],
 	tasks: [{
 		uid: "50972f5f",

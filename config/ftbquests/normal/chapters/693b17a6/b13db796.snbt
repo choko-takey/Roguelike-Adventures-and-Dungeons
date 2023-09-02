@@ -1,15 +1,15 @@
 {
-	title: "Magical Mystical Mythical Magician III",
+	title: "神奇的神秘的神话附魔师 III",
 	x: -4.0d,
 	y: -1.0d,
-	description: "So much magic!",
+	description: "太神奇了！",
 	text: [
-		"Enchant 5,000 items."
+		"附魔5000个物品。"
 	],
 	tasks: [{
 		uid: "de1b7a19",
 		type: "stat",
-		title: "Enchant 5,000 items",
+		title: "附魔5000个物品",
 		icon: "minecraft:enchanting_table",
 		stat: "stat.itemEnchanted",
 		value: 5000

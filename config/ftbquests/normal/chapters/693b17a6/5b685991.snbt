@@ -1,11 +1,11 @@
 {
-	title: "Osha Won't Save Them",
+	title: "职业安全与健康管理局不会拯救他们",
 	icon: "harvestcraft:bananaitem",
 	x: 4.5d,
 	y: 8.5d,
-	description: "hope they have life insurance",
+	description: "希望他们买了人寿保险",
 	text: [
-		"Show 500 minions that they should have checked the worker compensation forms."
+		"告诉500名吸血鬼仆从，他们应该检查一下工人补偿表。"
 	],
 	tasks: [{
 		uid: "42d86522",

@@ -1,15 +1,15 @@
 {
-	title: "Rekting Ball IV",
+	title: "毁灭之球 IV",
 	x: -8.5d,
 	y: -2.0d,
-	description: "These pixels can't stop you",
+	description: "这些像素无法阻止你",
 	text: [
-		"Deal 1,000,000 damage."
+		"造成10000000点伤害。"
 	],
 	tasks: [{
 		uid: "96bf8d49",
 		type: "stat",
-		title: "Deal 1,000,000 damage",
+		title: "造成1000000点伤害",
 		stat: "stat.damageDealt",
 		value: 1000000
 	}],

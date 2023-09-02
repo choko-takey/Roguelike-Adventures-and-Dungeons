@@ -1,16 +1,16 @@
 {
-	title: "Cheating Death IV",
+	title: "欺骗死神 IV",
 	icon: "dungeontactics:candy_skull",
 	x: -16.0d,
 	y: -2.0d,
-	description: "There's a knock on your door...",
+	description: "它们正在敲你的门……",
 	text: [
-		"Survive for 21 days."
+		"存活21天。"
 	],
 	tasks: [{
 		uid: "8a48a5dc",
 		type: "stat",
-		title: "Survive 21 days",
+		title: "存活21天",
 		stat: "stat.timeSinceDeath",
 		value: 36288000
 	}]

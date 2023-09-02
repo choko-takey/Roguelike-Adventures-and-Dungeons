@@ -1,15 +1,15 @@
 {
-	title: "Rekting Ball III",
+	title: "毁灭之球 III",
 	x: -8.5d,
 	y: -1.0d,
-	description: "You're a powerhouse!",
+	description: "你拥有强大的力量！",
 	text: [
-		"Deal 500,000 damage."
+		"造成500000点伤害。"
 	],
 	tasks: [{
 		uid: "992382a5",
 		type: "stat",
-		title: "Deal 500,000 damage",
+		title: "造成500000点伤害",
 		stat: "stat.damageDealt",
 		value: 500000
 	}],

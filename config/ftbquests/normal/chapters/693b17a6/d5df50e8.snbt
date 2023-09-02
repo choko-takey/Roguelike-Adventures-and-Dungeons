@@ -1,10 +1,10 @@
 {
-	title: "Troll Terminator",
+	title: "食人妖终结者",
 	x: 1.5d,
 	y: 2.0d,
-	description: "Stone, bones, it don't matter",
+	description: "石头，骨头，没关系",
 	text: [
-		"Kill 100 Trolls of any kind."
+		"击杀100只食人妖（各种）。"
 	],
 	tasks: [{
 		uid: "981e5b2b",

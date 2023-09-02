@@ -1,15 +1,15 @@
 {
-	title: "Bounty Boy",
+	title: "赏金牛仔",
 	x: -5.5d,
 	y: 1.0d,
-	description: "You did all the quests!",
+	description: "你完成了所有任务！",
 	text: [
-		"Complete 1,000 total bounties."
+		"共计完成1000件悬赏"
 	],
 	tasks: [{
 		uid: "37dcec16",
 		type: "stat",
-		title: "Complete 1,000 total bounties",
+		title: "共计完成1000件悬赏",
 		icon: "bountiful:bounty",
 		stat: "stat.bountiesCompleted",
 		value: 1000

@@ -1,15 +1,15 @@
 {
-	title: "Rekting Ball II",
+	title: "毁灭之球 II",
 	x: -8.5d,
 	y: 0.0d,
-	description: "Deal that damage!",
+	description: "造成那样的伤害！",
 	text: [
-		"Deal 100,000 damage."
+		"造成100000点伤害。"
 	],
 	tasks: [{
 		uid: "6c2fed1b",
 		type: "stat",
-		title: "Deal 100,000 damage",
+		title: "造成100000点伤害",
 		stat: "stat.damageDealt",
 		value: 100000
 	}],

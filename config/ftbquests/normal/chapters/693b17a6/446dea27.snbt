@@ -1,10 +1,10 @@
 {
-	title: "Hyper-Hydra-osis",
+	title: "九头蛇万岁！！！",
 	x: 7.5d,
 	y: 1.0d,
-	description: "Sweating because of how hot it is in this swamp",
+	description: "这片沼泽里有多热我就出了多少汗。",
 	text: [
-		"Slay 15 Hydra in the Twilight Forest."
+		"击杀15只暮色森林中的九头蛇。"
 	],
 	tasks: [{
 		uid: "e7f1a8b2",

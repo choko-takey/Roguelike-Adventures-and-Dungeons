@@ -1,15 +1,15 @@
 {
-	title: "Rekting Ball I",
+	title: "毁灭之球 I",
 	x: -8.5d,
 	y: 1.0d,
-	description: "Plowing through em!",
+	description: "碾碎他们！",
 	text: [
-		"Deal 25,000 damage."
+		"造成25000点伤害。"
 	],
 	tasks: [{
 		uid: "4fe1f0c5",
 		type: "stat",
-		title: "Deal 25,000 damage",
+		title: "造成25000点伤害",
 		stat: "stat.damageDealt",
 		value: 25000
 	}],
