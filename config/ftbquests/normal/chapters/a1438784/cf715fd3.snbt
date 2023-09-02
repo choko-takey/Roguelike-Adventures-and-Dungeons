@@ -1,12 +1,12 @@
 {
-	title: "Ring Ringers",
+	title: "叮，叮，叮！",
 	x: 9.5d,
 	y: 4.0d,
-	description: "You called?",
+	description: "你叫我？",
 	text: [
-		"No, they did.",
+		"不，是它们。",
 		"",
-		"*X Files Theme"
+		"*无法识别的，的，的，的......文件标题*"
 	],
 	hide: true,
 	size: 1.5d,

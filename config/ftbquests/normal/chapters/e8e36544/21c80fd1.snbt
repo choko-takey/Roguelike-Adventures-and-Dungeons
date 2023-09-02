@@ -1,16 +1,16 @@
 {
-	title: "Can You Keep a Secret?",
+	title: "你能保守秘密吗？",
 	x: 5.0d,
 	y: -3.5d,
-	description: "Shut up, big mouth!",
+	description: "闭嘴，大嘴巴！",
 	text: [
-		"That's no way to talk to your friends, John.",
+		"你不能这么跟朋友说话，约翰。",
 		"",
-		"This device will create a Redstone signal when the set password is typed into the chat. The block must be claimed by someone, and a password must be input for it to work. ",
+		"当在聊天中输入设置的密码后，该设备将发射红石信号。该方块必须认领，并且必须输入密码才能工作。",
 		"",
-		"This password should not be a common phrase, as chat will be disabled when entering the password, to prevent other players in Multiplayer from seeing your password.",
+		"这个密码不应该是一个常见的短语，当输入密码时聊天会被禁用，防止多人游戏中的其他玩家看到你的密码。",
 		"",
-		"You can also set who can use the password, nullifying the necessity to keep the password a secret."
+		"您还可以设置谁可以使用该密码，加强密码的保密性。"
 	],
 	tasks: [{
 		uid: "ced3f04a",

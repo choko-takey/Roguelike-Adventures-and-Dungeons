@@ -1,10 +1,10 @@
 {
-	title: "Eye Spy with My Salamander Eye",
+	title: "用我的蝾螈之眼监视一切",
 	x: -3.0d,
 	y: -5.5d,
-	description: "Something that isn't on fire!",
+	description: "没有着火的东西！",
 	text: [
-		"In a place like this, that's insane."
+		"在这里，这玩意儿太疯狂了。"
 	],
 	tasks: [{
 		uid: "0a441688",

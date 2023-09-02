@@ -1,16 +1,16 @@
 {
-	title: "You Don't Understand",
+	title: "你不明白",
 	x: -20.0d,
 	y: -5.5d,
-	description: "How fast I really am...",
+	description: "我要多快有多快……",
 	text: [
-		"The Pedometer will track some advanced movement stats like a Stopwatch.",
+		"计步器将跟踪一些高级运动数据，如秒表。",
 		"",
-		"Right-Click to activate, and start tracking your movement.",
+		"右击激活，并开始跟踪您的运动。",
 		"",
-		"Right-Clicking again will give you a readout in your chat about your movement stats.",
+		"再次右击在聊天中显示你的移动统计数据。",
 		"",
-		"Shift-Right-Clicking will reset your Pedometer."
+		"潜行右击重置计步器。"
 	],
 	tasks: [{
 		uid: "020894f5",

@@ -1,12 +1,12 @@
 {
-	title: "Is It Safe to Eat?",
+	title: "这玩意儿吃起来安全？",
 	x: 2.0d,
 	y: -8.5d,
-	description: "I mean we blessed it... but still",
+	description: "我觉得吃这个会带来福气……但我还是下不了嘴。",
 	text: [
-		"Craft some Glowing Bread.",
+		"制作一些荧光面包。",
 		"",
-		"The leaven from Heaven."
+		"使用来自天堂的发酵剂。"
 	],
 	tasks: [{
 		uid: "fc8c350b",

@@ -1,18 +1,18 @@
 {
-	title: "Let There Be... FIRE!",
+	title: "让这里起火吧！",
 	x: 1.0d,
 	y: 9.5d,
-	description: "Burn baby burn!",
+	description: "燃烧吧孩子！",
 	text: [
-		"The Igniter will set blocks ablaze when powered with Redstone, or when set on a certain mode.",
+		"当被红石信号激活，或者设定某些特定模式时，点火器会点燃方块。",
 		"",
-		"The Igniter has 3 modes:",
+		"点火器有三种模式：",
 		"",
-		"Toggle Fire - Ignites the block in front of the Igniter when powered, and extinguishes the flame when unpowered.",
+		"开关型火焰——被红石信号激活时点燃方块，红石信号消失后熄灭火焰。",
 		"",
-		"Ignite - Ignites the block in front when powered, does not extinguish when unpowered.",
+		"点燃——被红石信号激活时点燃方块，红石信号消失后不会熄灭火焰。",
 		"",
-		"Keep Ignited - Ignites the block in front of the Igniter on block updates."
+		"保持点燃——永远尝试点燃前方的方块。"
 	],
 	tasks: [{
 		uid: "1973f57a",

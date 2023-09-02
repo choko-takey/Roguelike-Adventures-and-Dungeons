@@ -1,16 +1,18 @@
 {
-	title: "Indiana Never Left Without His",
+	title: "印第安人从未离开过他的——",
 	x: -17.0d,
 	y: 7.5d,
-	description: "That was a whip, John",
+	description: "我寻思应该是鞭子……对吧约翰？",
 	text: [
-		"Oh... right",
+		"正确的，中肯的，一针见血的",
 		"",
-		"The Rope Coil can be placed on the bottoms of blocks. It will place down a Rope. ",
+		"绳卷只可以挂在方块上放置，之后手持绳卷不断右击已经放下来的绳卷即可向下延伸放置，绳卷可以攀爬。",
 		"",
-		"Right-Click anywhere on the Rope to send down more, until it reaches the bottom. You can then descend safely.",
+		"绳卷非常适合用于下到深邃的峡谷中去。",
 		"",
-		"Shift-Right-Click to retract the Rope, up to the level you're Right-Clicking on."
+		"shift右击可以收回绳索，会收到你单击的那个绳索为止。",
+		"",
+		"绳卷还可以把触底的方块吊上来。"
 	],
 	tasks: [{
 		uid: "1aa98d48",

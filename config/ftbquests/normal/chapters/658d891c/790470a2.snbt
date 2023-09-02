@@ -1,12 +1,12 @@
 {
-	title: "Mine Keeps Breaking",
+	title: "镐子逐渐破碎",
 	x: 14.5d,
 	y: -4.0d,
-	description: "These tools seem a bit brittle...",
+	description: "这些工具看起来有点脆……",
 	text: [
-		"The remains of a bug don't make for excellent tools, but they'll get the job done.",
+		"虫子的遗骸并不能成为优秀的工具，但它们会完成任务。",
 		"",
-		"You are required to make all tools to complete this quest."
+		"你需要制作所有的工具来完成这个任务。"
 	],
 	dependencies: [
 		"be5e424a"

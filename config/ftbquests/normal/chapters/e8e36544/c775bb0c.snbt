@@ -1,14 +1,14 @@
 {
-	title: "Leap of Faith",
+	title: "信仰之跃",
 	x: 4.5d,
 	y: -11.5d,
-	description: "More like Leap Of Fate",
+	description: "更像是命运之跃",
 	text: [
-		"You're fated to die by the way.",
+		"顺便说一下你注定要摔死。",
 		"",
-		"Not sure if that's the news you want before you use this thing.",
+		"在你使用这个设备之前，我不太确定你是否想要听到这样的消息。",
 		"",
-		"Entirely configurable settings for jumping when stepping onto the plate."
+		"可以配置踩上弹跳踏板后有关跳跃的参数。"
 	],
 	tasks: [{
 		uid: "63170706",

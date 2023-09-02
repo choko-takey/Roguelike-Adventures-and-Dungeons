@@ -1,12 +1,12 @@
 {
-	title: "Rite of Passage",
+	title: "仪式的纸",
 	x: -2.0d,
 	y: -1.0d,
-	description: "Quite literally",
+	description: "完全按照字面意思",
 	text: [
-		"This item is used to further research information in your Bestiary.",
+		"此物品用于让你进一步研究《异兽手记》中的信息。",
 		"",
-		"Try studying the pages at a Lectern."
+		"试着在书桌上学习这些页面。"
 	],
 	tasks: [{
 		uid: "b88bdc31",

@@ -1,10 +1,10 @@
 {
-	title: "You Have a Problem",
+	title: "你有问题",
 	x: 0.5d,
 	y: -6.5d,
-	description: "Rehab inc.",
+	description: "戒酒股份有限公司。",
 	text: [
-		"Craft all of the alcoholic concoctions added by Tropicraft."
+		"制作热带世界的所有鸡尾酒。"
 	],
 	dependencies: [
 		"efe5e354"

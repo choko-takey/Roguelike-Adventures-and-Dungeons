@@ -1,14 +1,14 @@
 {
-	title: "I THOUGHT YOU SAID NO AUTOMATION DREAMS",
+	title: "你不是说不要做自动化的梦吗",
 	x: 6.0d,
 	y: -13.0d,
-	description: "WE CAN BOOTLEG IT WITHOUT THIS ANYWAYS",
+	description: "没有这个我们也可以盗版",
 	text: [
-		"TAKE SOME THEN TAKE IT ALL",
+		"先拿一些，然后全部拿走",
 		"",
-		"GIVE ME MY MECHANICAL USERS BACK",
+		"把我的使用者还给我",
 		"",
-		"This is a threat."
+		"这是一个威胁。"
 	],
 	tasks: [{
 		uid: "73d0bf6e",

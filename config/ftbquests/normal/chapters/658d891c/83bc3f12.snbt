@@ -1,10 +1,10 @@
 {
-	title: "A Big Block of Crusties",
+	title: "一大块“地”壳",
 	x: 14.5d,
 	y: -5.0d,
-	description: "I dare you to lick it",
+	description: "我敢让你舔它",
 	text: [
-		""
+		"好吃吗？"
 	],
 	dependencies: [
 		"719a8eaa"

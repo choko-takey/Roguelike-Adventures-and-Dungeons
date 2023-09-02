@@ -1,10 +1,10 @@
 {
-	title: "Four Score and Six Buckets Ago",
+	title: "一共64桶",
 	x: 7.5d,
 	y: -4.5d,
-	description: "Back in the old days...",
+	description: "可以用很久...",
 	text: [
-		"Craft some fluid storage tanks for all that fluid you're gonna be making this playthrough."
+		"给所有流体做一个流体储罐，可以用到你通关整合包。"
 	],
 	tasks: [{
 		uid: "67db5cb9",

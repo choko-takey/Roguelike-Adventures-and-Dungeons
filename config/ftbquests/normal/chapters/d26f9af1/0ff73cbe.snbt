@@ -1,12 +1,12 @@
 {
-	title: "I Always Feel Like",
+	title: "我总觉得",
 	x: -3.5d,
 	y: -12.5d,
-	description: "Somebody's watching me!",
+	description: "有人在看着我！",
 	text: [
-		"You'll never have privacy with all these different snazzy types of glass which do crazy things. ",
+		"只要这些漂亮玻璃在这，你就永远没有隐私。",
 		"",
-		"Most are one way glass, some block light, and more."
+		"大多数都是单向玻璃，有些可以阻挡光线，等等。"
 	],
 	dependencies: [
 		"80f9d45b"

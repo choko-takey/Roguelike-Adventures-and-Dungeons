@@ -1,10 +1,10 @@
 {
-	title: "Familiar Following",
+	title: "熟悉的追随者",
 	x: 4.5d,
 	y: 0.5d,
-	description: "You've done this before...",
+	description: "你以前也做过这个……",
 	text: [
-		"Craft all of the materials used to create a Familiar."
+		"制作所有的材料用于复活朋友。"
 	],
 	dependencies: [
 		"c1f639fb"

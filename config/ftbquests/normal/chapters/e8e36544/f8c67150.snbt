@@ -1,10 +1,10 @@
 {
-	title: "Wireless Charging!",
+	title: "无线充电！",
 	x: 17.5d,
 	y: 7.5d,
-	description: "Supernatural shock!",
+	description: "超自然的技术！",
 	text: [
-		"Working similar to the Coil, the Spectre Charger will charge any items inside your inventory which take FE. You must be wearing the item for this effect to be active."
+		"和常规的线圈一样，通灵充电器能够为你物品栏中需要FE的设备充电。你需要穿戴这个设备来激活。"
 	],
 	dependencies: [
 		"4695c2a6"

@@ -1,12 +1,12 @@
 {
-	title: "Purple Pain!",
+	title: "Purple Pain!(八云紫的一首歌曲)",
 	x: -0.5d,
 	y: -4.0d,
-	description: "Some stay dry and some will feel the Flame",
+	description: "有些人会保持干燥，有些人会感受到火焰",
 	text: [
-		"The Duskflame Hex weapon will shoot and create purple fire upon impact.",
+		"黄昏魔杖将射击并在碰撞时产生紫色火焰。",
 		"",
-		"The fire is still permanent if placed on blocks which stay lit."
+		"如果放在保持燃烧的方块上，火仍然是永久的。"
 	],
 	dependencies: [
 		"efbea43d"

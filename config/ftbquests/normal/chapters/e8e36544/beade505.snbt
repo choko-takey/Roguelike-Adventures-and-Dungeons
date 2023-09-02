@@ -1,10 +1,10 @@
 {
-	title: "Neon Lights",
+	title: "霓虹灯光",
 	x: -2.0d,
 	y: 8.5d,
-	description: "Good for your alternate dimensions!",
+	description: "适合在不同维度交替放置",
 	text: [
-		"These blocks get kinda expensive... sheesh... but I think I'm ADDICTED!!!"
+		"这些方块有点小贵...天哪...但我觉得非常带感！！"
 	],
 	tasks: [{
 		uid: "f2b056b7",

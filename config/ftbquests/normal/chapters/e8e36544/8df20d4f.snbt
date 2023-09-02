@@ -1,15 +1,15 @@
 {
-	title: "I Know You're Out There!",
+	title: "我知道你在那儿！",
 	icon: "randomthings:entitydetector",
 	x: 0.5d,
 	y: 8.5d,
-	description: "I have night vision goggles!",
+	description: "我有夜视镜！",
 	text: [
-		"The Entity Detector emits a signal when a configurable type of entity enters a configurable radius around the block. You can set it up to 10x10x10.",
+		"当配置类型的实体进入方块配置半径时，实体探测器发出信号。 你可以设置为10x10x10。",
 		"",
-		"Right-Click to configure the settings. Inverting will invert the block to activate if it detects an entity that is NOT the set type. E.G activate if it is NOT a \"player\".",
+		"右击以配置设置。反转将反转方块的激活方式，若检测的实体不是设置的类型。例如，如果它不是一名“玩家”就会激活。",
 		"",
-		"Setting the detection to custom requires an Entity Filter. Entity Filters can only store one type of entity at a time.",
+		"自定义检测设置需要一个实体过滤器。实体过滤器一次只能存储一种类型的实体。",
 		""
 	],
 	tasks: [{

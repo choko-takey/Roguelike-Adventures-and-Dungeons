@@ -1,12 +1,12 @@
 {
-	title: "Snotty Snot",
+	title: "黏糊糊的鼻涕",
 	x: 13.5d,
 	y: 2.5d,
-	description: "This stuff looks contagious",
+	description: "这种东西看起来会传染",
 	text: [
-		"So THIS is where COVID came from!",
+		"所以这就是新冠病毒的来源！",
 		"",
-		"Obtain some Jungle Myrmex Resin."
+		"获取一些丛林恐蚁蚁脂。"
 	],
 	tasks: [{
 		uid: "45e20dbe",

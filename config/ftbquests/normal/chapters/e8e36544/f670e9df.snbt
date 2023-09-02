@@ -1,16 +1,16 @@
 {
-	title: "Say Something Nice!",
+	title: "说些高兴的事情吧！",
 	x: 7.5d,
 	y: -3.5d,
-	description: "Well John, the weather today is going to be hot",
+	description: "但是朋友，今天的天气看起来很热",
 	text: [
-		"And sweaty... and... sexy?",
+		"那就说点好听的...或者...涩涩的？",
 		"",
-		"Hey I think there's a typo on the scroller, John!",
+		"嘿，我觉得滚动条上好像有个错别字，朋友！",
 		"",
-		"This machine will display configurable text in front of itself. You can place it in front of blocks and all that kind of funky stuff. ",
+		"这个机器会在它面前显示由你设置的文字，你可以把它放在方块前面或者炫酷的小玩意附近。",
 		"",
-		"Get creative!"
+		"发挥创意！"
 	],
 	tasks: [{
 		uid: "fc47350a",

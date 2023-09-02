@@ -1,12 +1,12 @@
 {
-	title: "Icarus's Ring",
+	title: "伊卡洛斯之戒",
 	x: 14.5d,
 	y: -2.0d,
-	description: "Was it? No way to prove me wrong",
+	description: "是吗？但没什么能证明我错了",
 	text: [
-		"Maybe this thing weighed him down too much...",
+		"也许正是这个东西压垮了他……",
 		"",
-		"It is 24k gold."
+		"这可是24K金。"
 	],
 	dependencies: [
 		"31bf2fad"

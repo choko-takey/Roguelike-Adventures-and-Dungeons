@@ -1,10 +1,10 @@
 {
-	title: "White Caterpillars Are the Most Deadly of Them All",
+	title: "白毛虫是其中最致命的",
 	x: 17.5d,
 	y: 0.0d,
-	description: "No touchy touchy!",
+	description: "别碰这晦气玩意儿！",
 	text: [
-		"At least go wash your hands after!"
+		"至少之后要去洗手！"
 	],
 	tasks: [{
 		uid: "bac9f477",

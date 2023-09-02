@@ -1,10 +1,10 @@
 {
-	title: "Spooky Scary Scale-tons",
+	title: "诡异恐怖的蜥蜴骨架",
 	x: 2.5d,
 	y: -1.0d,
-	description: "This thing is as big as you are!",
+	description: "这东西和你一样大！",
 	text: [
-		"Dragon bones are obtained from Dragons, duh."
+		"龙的骨头是从龙身上获得的。"
 	],
 	dependencies: [
 		"0786946b"

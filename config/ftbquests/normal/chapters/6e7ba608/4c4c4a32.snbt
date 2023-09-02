@@ -1,10 +1,10 @@
 {
-	title: "Fishy Fellow",
+	title: "腥味相伴",
 	x: -4.0d,
 	y: -13.0d,
-	description: "Strictly seafood",
+	description: "严格来说是海鲜",
 	text: [
-		"Collect all of the seafood offered from Tropicraft."
+		"收集热带世界的所有鱼类。"
 	],
 	dependencies: [
 		"f61dcb12"

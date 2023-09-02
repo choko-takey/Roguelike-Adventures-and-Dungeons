@@ -1,12 +1,12 @@
 {
-	title: "Hercules Couldn't Do It",
+	title: "赫拉克勒斯都搬不起来",
 	x: -14.0d,
 	y: 10.5d,
-	description: "And neither can you!",
+	description: "你也不行！",
 	text: [
-		"This stone cannot be moved by pistons!",
+		"活塞推不动这东西",
 		"",
-		"They just arent stronk enough."
+		"也许只是它们推力不足而已……"
 	],
 	tasks: [{
 		uid: "4e5b3b40",

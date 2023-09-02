@@ -1,10 +1,10 @@
 {
-	title: "Fist Packs but More Fatal",
+	title: "沙包大的拳头，但更致命",
 	x: 1.5d,
 	y: -1.0d,
-	description: "For when you need it DONE",
+	description: "当你需要的时候",
 	text: [
-		"FAST."
+		"快如闪电。"
 	],
 	dependencies: [
 		"a4636105"

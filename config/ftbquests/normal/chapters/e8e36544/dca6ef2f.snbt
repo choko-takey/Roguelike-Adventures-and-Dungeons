@@ -1,12 +1,12 @@
 {
-	title: "The Crafting Cake",
+	title: "工作台蛋糕",
 	x: 12.035714285714292d,
 	y: -7.898809523809511d,
-	description: "See, I still got it... sometimes",
+	description: "有的时候还是能用上的",
 	text: [
-		"This item can be eaten to allow you to craft out of your inventory.",
+		"这个物品可以让你在物品栏直接进行工作台合成。",
 		"",
-		"You will need to set up a hotkey in your controls, or alternatively, you can select the \"C\" button under your Crafting Grid which should appear after consuming this item."
+		"你可能需要设置一下快捷键，或者在吃下蛋糕之后，点一下物品栏中应该会出现的C按钮。"
 	],
 	size: 1.5d,
 	tasks: [{

@@ -1,12 +1,12 @@
 {
-	title: "Bug Boogers",
+	title: "蚂蚁的鼻嘎",
 	x: 13.5d,
 	y: -4.5d,
-	description: "You're never gonna get all of this off your armor",
+	description: "这玩意粘上了可就不好弄下来了",
 	text: [
-		"You might as well burn your clothes.",
+		"你还不如烧掉你的衣服。",
 		"",
-		"Obtain some Desert Myrmex Resin."
+		"获取一些沙漠蚁脂。"
 	],
 	tasks: [{
 		uid: "8fb4e0b6",

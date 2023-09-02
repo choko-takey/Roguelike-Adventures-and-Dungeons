@@ -1,12 +1,12 @@
 {
-	title: "KISS Would Be Jealous of This Thing",
+	title: "你也许会嫉妒它可以亲所有东西",
 	x: 17.5d,
 	y: -2.0d,
-	description: "Rock on!",
+	description: "武装到牙齿！",
 	text: [
-		"Use these to drag things over to you!",
+		"用这个把东西拖过来！",
 		"",
-		"Being lazy has never been easier!"
+		"变成懒狗永远不简单！"
 	],
 	or_tasks: true,
 	tasks: [{

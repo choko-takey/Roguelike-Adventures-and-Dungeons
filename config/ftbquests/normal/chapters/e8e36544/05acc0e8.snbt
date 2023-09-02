@@ -1,14 +1,14 @@
 {
-	title: "This Is Crazy...",
+	title: "神经病吧这是。",
 	x: -31.0d,
 	y: 4.0d,
-	description: "Does it have rabies?",
+	description: "所以能不能把兔子装进去？",
 	text: [
-		"The Bat in a Bucket will cause nearby mobs to show through walls with a white outline for a short time; when you release him that is.",
+		"桶装蝙蝠右击使用后会放出一只蝙蝠，同时让周围的生物们高亮显示出来。（还会给予你几秒夜视）",
 		"",
-		"Good luck getting him back inside everytime you want your Bat friendo to be useful.",
+		"祝你好运……我是说你还能把放出去的蝙蝠抓回来……",
 		"",
-		"He's actually kinda useful by the way."
+		"这个东西在某些情况下也许很有用……"
 	],
 	tasks: [{
 		uid: "4441175d",

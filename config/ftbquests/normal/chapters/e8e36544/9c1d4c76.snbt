@@ -1,14 +1,14 @@
 {
-	title: "Invisilight",
+	title: "隐形之光",
 	x: -3.5d,
 	y: 12.5d,
-	description: "Not for your teeth!",
+	description: "不是给你的牙齿！",
 	text: [
-		"This lamp will emit a light level of 15, but the light will be invisible.",
+		"这盏灯会发出15级的光，但光是看不见的。",
 		"",
-		"The \"light\" emitted from the lamp will still prevent anything that requires light from spawning, though.",
+		"不过，灯发出的“光”仍不会使需要光的东西产生。",
 		"",
-		"Crops will also grow like normal."
+		"农作物也会正常生长。"
 	],
 	tasks: [{
 		uid: "2b64bcfb",

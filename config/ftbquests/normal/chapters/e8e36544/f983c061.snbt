@@ -1,12 +1,12 @@
 {
-	title: "So, This ISN'T for Dragons?",
+	title: "所以，这不是为龙准备的？",
 	x: 9.5d,
 	y: -4.5d,
-	description: "Disclaimer: Is not for dragons",
+	description: "免责声明：不适用于龙",
 	text: [
-		"Will extinguish the FLAMES from dragons, but will not extinguish the dragon itself.",
+		"可以熄灭龙的火焰，但不能熄灭龙本身。",
 		"",
-		"You have been warned."
+		"我们已经警告过你了。"
 	],
 	tasks: [{
 		uid: "c93d28b7",

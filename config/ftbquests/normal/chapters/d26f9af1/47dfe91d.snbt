@@ -1,14 +1,14 @@
 {
-	title: "Chesty Hands",
+	title: "箱手",
 	x: -4.0d,
 	y: -10.5d,
-	description: "That isn't what it sounds like",
+	description: "听起来不是这样的",
 	text: [
-		"Holds as much as a chest does.",
+		"能装的东西跟箱子一样多。",
 		"",
-		"&lPRONE TO BUGS AND DELETING ITSELF. USE WITH CAUTION.",
+		"&l-容-易-出-现-bug-删-除-自-身-。慎用。",
 		"",
-		"&rRight-Click to use the Bag of Holding."
+		"&r右击袋子使用。"
 	],
 	dependencies: [
 		"80f9d45b"

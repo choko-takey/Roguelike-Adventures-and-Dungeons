@@ -1,10 +1,10 @@
 {
-	title: "Me No Drum Drum, You Drum Drum!",
+	title: "我没桶桶，你有桶桶！",
 	x: -1.5d,
 	y: -13.5d,
-	description: "Bring me drum drum!",
+	description: "给我桶桶！",
 	text: [
-		"These drums will store all of your fluids... all of them."
+		"这些桶会储存你所有的液体……所有的。"
 	],
 	dependencies: [
 		"80f9d45b"

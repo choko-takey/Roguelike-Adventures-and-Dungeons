@@ -1,10 +1,10 @@
 {
-	title: "BONK!",
+	title: "砰！",
 	x: 21.5d,
 	y: 1.5d,
-	description: "CLUNK!",
+	description: "“砰”的一声！",
 	text: [
-		"You have to make this thing to see what it does. Quite fun."
+		"你必须制作这个东西，看看它能干什么。这会很有趣。"
 	],
 	tasks: [{
 		uid: "a26d5695",

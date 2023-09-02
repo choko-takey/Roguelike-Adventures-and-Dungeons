@@ -1,10 +1,10 @@
 {
-	title: "Reptilian Protection",
+	title: "爬行动物保护者",
 	x: -3.0d,
 	y: -16.0d,
-	description: "You're as mean as they are now!",
+	description: "你和他们现在一样卑鄙！",
 	text: [
-		"Craft a set of Iguana Scale Armor."
+		"制作鬣蜥鳞套装。"
 	],
 	dependencies: [
 		"e27d8e89"

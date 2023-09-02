@@ -1,10 +1,10 @@
 {
-	title: "Be Careful What You Touch",
+	title: "小心触摸",
 	x: 0.0d,
 	y: -4.5d,
-	description: "Don't be like Billy when he turned into chocalate",
+	description: "别像比利那样变成巧克力",
 	text: [
-		"Craft the Touchstone of Midas."
+		"制作迈达斯的点金石。"
 	],
 	tasks: [{
 		uid: "91798822",

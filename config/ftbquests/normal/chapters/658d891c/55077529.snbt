@@ -1,10 +1,10 @@
 {
-	title: "The Coldest Fires of the Nether",
+	title: "最冷的地狱之火",
 	x: 5.5d,
 	y: 5.5d,
-	description: "This is why man fears dragon",
+	description: "这就是为什么人类害怕龙",
 	text: [
-		"See if your tongue will stick to it!"
+		"看看你的舌头会不会粘在上面！"
 	],
 	dependencies: [
 		"c4923cb4",

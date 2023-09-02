@@ -1,10 +1,10 @@
 {
-	title: "Vip Access",
+	title: "Vip通道",
 	x: -4.5d,
 	y: 12.5d,
-	description: "You're a little special around here",
+	description: "你在这里有点特别",
 	text: [
-		"This glass will prevent other entities from passing through, but players can walk right on by."
+		"这个玻璃禁止其他实体通过，但玩家可以直接通过。"
 	],
 	tasks: [{
 		uid: "952a8387",

@@ -1,12 +1,12 @@
 {
-	title: "Stone Cold Scalies",
+	title: "冰冷的鳞片",
 	x: 7.0d,
 	y: 2.0d,
-	description: "These dragons have tons of attitude too!",
+	description: "这些龙也有很多态度！",
 	text: [
-		"Rough and .... nasty",
+		"粗暴且……待人不善",
 		"",
-		"Do whatever you're gonna do with these. I can't stop you."
+		"用这些做你想做的事。我无法阻止你。"
 	],
 	dependencies: [
 		"0786946b"

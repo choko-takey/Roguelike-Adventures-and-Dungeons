@@ -1,14 +1,14 @@
 {
-	title: "Like a Furnace, but with a Hat On",
+	title: "像熔炉，但戴着帽子",
 	x: 3.5d,
 	y: -11.5d,
-	description: "And Also Not A Furnace",
+	description: "也不是熔炉",
 	text: [
-		"And it's upside-down flipped backwards while doing a kickflip.",
+		"它上下颠倒前后反转并且再做kickflip（滑板动作）",
 		"",
-		"It burns stone, okay?",
+		"它能烧石头，有问题吗？",
 		"",
-		"Now go make some burnt stone, damn it..."
+		"现在去搞些烧过的石头，该死的……"
 	],
 	dependencies: [
 		"d27134fe"

@@ -1,12 +1,12 @@
 {
-	title: "Staying Together",
+	title: "形影不离",
 	x: -19.0d,
 	y: 12.5d,
-	description: "By force!",
+	description: "但并非自愿",
 	text: [
-		"Iron Chains will link boats or minecarts together!",
+		"铁锁链可以将矿车和船只栓在一起",
 		"",
-		"Chuga Chuga Choo Choo!"
+		"将军且看，此火可助我军大获全胜（？）"
 	],
 	tasks: [{
 		uid: "01ae378b",

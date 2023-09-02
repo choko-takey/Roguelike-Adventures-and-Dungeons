@@ -1,10 +1,10 @@
 {
-	title: "Death Worm Egg",
+	title: "死亡蠕虫卵",
 	x: 16.5d,
 	y: -1.5d,
-	description: "This thing is gonna grow up to be a Devil",
+	description: "这东西长大后会变成魔鬼",
 	text: [
-		"Is it hatching ALREADY?"
+		"它已经破壳了吗？"
 	],
 	tasks: [{
 		uid: "96dcef10",

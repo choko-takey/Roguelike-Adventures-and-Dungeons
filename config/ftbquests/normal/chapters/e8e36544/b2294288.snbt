@@ -1,12 +1,12 @@
 {
-	title: "The Common Mob Farmer's Friend",
+	title: "怪物农场的老朋友",
 	x: 7.5d,
 	y: -5.5d,
-	description: "Useful for all sorts of stuff, actually",
+	description: "实际上适合各种场景",
 	text: [
-		"Not really, just super good for mob farms.",
+		"不过真的，非常适合怪物农场。",
 		"",
-		"This fan is highly configurable."
+		"这个风扇可以高度定制化。"
 	],
 	tasks: [{
 		uid: "166a3e64",

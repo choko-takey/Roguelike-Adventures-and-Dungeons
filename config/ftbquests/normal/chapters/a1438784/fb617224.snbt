@@ -1,10 +1,10 @@
 {
-	title: "The Core Sage",
+	title: "神圣之核",
 	x: 4.5d,
 	y: 0.0d,
-	description: "Or whatever it's called",
+	description: "管它叫啥呢",
 	text: [
-		"This one looks kinda expensive."
+		"这个看起来挺值钱的。"
 	],
 	hide: true,
 	size: 1.5d,

@@ -1,12 +1,12 @@
 {
-	title: "Drink from It",
+	title: "从里面喝水",
 	x: -3.5d,
 	y: 7.5d,
-	description: "I dare you",
+	description: "你敢不敢",
 	text: [
-		"Will it make me hallucinate?",
+		"会让我产生幻觉吗？",
 		"",
-		"The Pitcher Plant will slowly fill nearby water storage blocks with water, including cauldrons."
+		"猪笼草将慢慢地填满附近的能够储水的方块，包括炼药锅。"
 	],
 	tasks: [{
 		uid: "f783ae8c",

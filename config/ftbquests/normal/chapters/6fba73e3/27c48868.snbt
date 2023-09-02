@@ -1,10 +1,10 @@
 {
-	title: "Hot Chicken Place",
+	title: "炸鸡店",
 	x: -4.0d,
 	y: -7.0d,
-	description: "If you know, you know",
+	description: "如果你知道了，那么你就知道了。",
 	text: [
-		"My cousin told me to try his hot chicken and didn't tell me it was the Carolina Reaper one."
+		"我的表弟叫我尝尝他的炸鸡，但没有告诉我那是卡罗莱纳收割者一号。"
 	],
 	tasks: [{
 		uid: "4632c727",

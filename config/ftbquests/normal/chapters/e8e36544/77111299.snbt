@@ -1,14 +1,14 @@
 {
-	title: "He Slipped and Slid Forever",
+	title: "他一直滑啊滑",
 	x: 11.0d,
 	y: 6.0d,
-	description: "The schmovers",
+	description: "滑着走！",
 	text: [
-		"The Super Lubricent Boots cause you to slide to the left, and the right.",
+		"超级滑滑靴可以让你向左或向右滑动。",
 		"",
-		"You will never lose velocity while wearing these.",
+		"穿上这些你永远不会失去速度。",
 		"",
-		"You're a speed demon. A really slippery one."
+		"你是个速度恶魔。真的很滑。"
 	],
 	tasks: [{
 		uid: "0dc98d85",

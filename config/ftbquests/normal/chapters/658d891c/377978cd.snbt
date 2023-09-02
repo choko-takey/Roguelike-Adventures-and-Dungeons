@@ -1,12 +1,12 @@
 {
-	title: "Right Below the Water",
+	title: "就在水下！",
 	x: -5.5d,
 	y: 1.5d,
-	description: "You missed!",
+	description: "哟哟哟~这都能空军啊！",
 	text: [
-		"Hold Right-Click, then release while looking at a pool of water. Will only catch Fish, Salmon, Clown Fish and Puffer Fish.",
+		"按住鼠标右键，然后松开，同时看着一池水。它只捕获鳕鱼、鲑鱼、小丑鱼和河豚。",
 		"",
-		"The craftsmanship seems exquisite. Someone who lives on ice must have made this."
+		"工艺似乎很精湛。这一定是一个生活在冰上的人做的。"
 	],
 	dependencies: [
 		"b17f9bd9"

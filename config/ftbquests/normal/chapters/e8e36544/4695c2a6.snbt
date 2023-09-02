@@ -1,16 +1,16 @@
 {
-	title: "It's Kinda Cold",
+	title: "有点冷",
 	x: 16.5d,
 	y: 9.5d,
-	description: "Well, it's metal",
+	description: "嗯，它是金属",
 	text: [
-		"No it isn't, John! It's obviously not metal!",
+		"不，不是的，约翰！这显然不是金属！",
 		"",
-		"Okay. So you're probably wondering who John is. I guess the Spectre quests is where I tell you.",
+		"好吧。你可能在想约翰是谁。我想通灵任务就是我告诉你的。",
 		"",
-		"He used to be my first and best friend. He used to play Minecraft, sometimes. And he was a cool dude. ",
+		"他是我第一个朋友，同时也是最好的朋友。他过去常玩Minecraft，他是个很酷的人。",
 		"",
-		"Rest in pepperoni friendo."
+		"在意大利香肠里休息吧，朋友。"
 	],
 	dependencies: [
 		"89ae8497"

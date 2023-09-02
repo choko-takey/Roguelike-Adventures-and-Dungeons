@@ -1,12 +1,12 @@
 {
-	title: "Jesus in Your Footwear",
+	title: "鞋子里的耶稣",
 	x: 11.0d,
 	y: 8.0d,
-	description: "The best gear affix is that of the holy spirit",
+	description: "最好的装备词缀是神圣祝福",
 	text: [
-		"These boots will let you walk on water.",
+		"这对靴子能让你在水上行走。",
 		"",
-		"They often nullify low fire damage."
+		"还可以让你免疫火焰伤害。"
 	],
 	dependencies: [
 		"97ad5d54",

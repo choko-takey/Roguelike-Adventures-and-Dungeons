@@ -1,10 +1,10 @@
 {
-	title: "It's a Trap!",
+	title: "是陷阱！",
 	x: 20.0d,
 	y: -4.5d,
-	description: "Is that copyrighted?",
+	description: "这有版权吗？",
 	text: [
-		"Traps that will make other players' lives hard. Or your own?"
+		"陷阱会让其他玩家的生活变得更加艰难。或者……你自己的生活？"
 	],
 	dependencies: [
 		"ffdb1cd1"

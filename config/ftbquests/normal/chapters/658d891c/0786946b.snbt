@@ -1,12 +1,12 @@
 {
-	title: "College All over Again",
+	title: "回到大学",
 	x: 0.0d,
 	y: -1.0d,
-	description: "People paying to get yelled at",
+	description: "花钱雇人示威游行",
 	text: [
-		"But it's smart yelling.",
+		"但示威游行是明智之举。",
 		"",
-		"The Lectern is where you will research things in your Bestiary using Manuscripts."
+		"书桌是你将使用手稿研究你的《异兽手记》的地方。"
 	],
 	dependencies: [
 		"b7c1fa7a"

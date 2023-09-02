@@ -1,10 +1,10 @@
 {
-	title: "Guide to Dungeon Weaponry",
+	title: "地牢战术武器指南",
 	x: 0.0d,
 	y: -3.5d,
-	description: "You CAN go wrong",
+	description: "也许你会犯错",
 	text: [
-		"This guide should inform you about everything you need to know on weapons offered by DungeonTactics."
+		"本指南会告诉你地牢战术武器的所有信息。"
 	],
 	size: 1.5d,
 	tasks: [{

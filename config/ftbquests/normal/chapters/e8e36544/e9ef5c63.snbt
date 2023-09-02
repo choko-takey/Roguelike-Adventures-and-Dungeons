@@ -1,14 +1,14 @@
 {
-	title: "Is It Here?",
+	title: "它在这里吗？",
 	x: 9.0d,
 	y: -3.5d,
-	description: "Is it there?",
+	description: "它在那里吗？",
 	text: [
-		"Is it anywhere?",
+		"它会在某处吗？",
 		"",
-		"Right-Clicking in a chunk will tell you all possible spawns for that chunk.",
+		"右键一个区块会告诉你这个区块能生成什么生物。",
 		"",
-		"Some data may look rather raw."
+		"有些数据可能比较原始。"
 	],
 	tasks: [{
 		uid: "b26304c6",

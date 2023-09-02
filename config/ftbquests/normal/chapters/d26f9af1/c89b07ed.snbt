@@ -1,12 +1,12 @@
 {
-	title: "Are You Who I'm Looking For?",
+	title: "你是我要找的人吗？",
 	x: 5.0d,
 	y: -13.0d,
-	description: "Yes?",
+	description: "是吗？",
 	text: [
-		"Tony Lazudo says hello.",
+		"Tony Lazudo向你问好。",
 		"",
-		"This item will constantly observe the block it is facing for certain properties or specifications, and if they match, or are TRUE, the Scanner will emit a signal at max strength."
+		"这个东西会不断地扫描前方的方块的属性和参数， 如果匹配，或是正确的，扫描仪就会发出单次强红石信号。"
 	],
 	tasks: [{
 		uid: "b6ab415f",

@@ -1,11 +1,11 @@
 {
-	title: "Bigger Death Worm Egg",
+	title: "更大的死亡蠕虫卵",
 	disable_toast: true,
 	x: 18.5d,
 	y: -1.5d,
-	description: "This thing is gonna grow up to be THE devil.",
+	description: "这东西长大后会变成魔鬼。",
 	text: [
-		"WARNING: May eat you"
+		"警告：可能会吃掉你"
 	],
 	dependency_requirement: "one_completed",
 	tasks: [{

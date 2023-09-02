@@ -1,10 +1,10 @@
 {
-	title: "SUPER BONK",
+	title: "超级重击！",
 	x: -1.0d,
 	y: -6.5d,
-	description: "BONK",
+	description: "重击！",
 	text: [
-		"Master of Bonking, wield these glorious weapons and smite your foes!"
+		"重击的掌控者，挥舞这些光荣的武器，击碎你的敌人！"
 	],
 	dependencies: [
 		"bbb78a8b"

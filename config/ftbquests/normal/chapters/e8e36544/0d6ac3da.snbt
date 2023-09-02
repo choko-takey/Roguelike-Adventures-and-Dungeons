@@ -1,10 +1,10 @@
 {
-	title: "Death Is a Nuissance",
+	title: "死亡是种麻烦",
 	x: 0.5d,
 	y: -14.5d,
-	description: "I cannot be killed by annoyance!",
+	description: "我不能这么恶心地死！",
 	text: [
-		"These charms will protect you from various small damages that happen when playing, like falling damage, drowning, fire and void damage."
+		"这些饰品将保护您免受游戏时发生的各种小伤害，例如坠落、溺水、火焰和虚空伤害。"
 	],
 	tasks: [{
 		uid: "ee7dfb43",

@@ -1,14 +1,14 @@
 {
-	title: "Back Bessy!",
+	title: "回来吧宝贝儿！",
 	x: -19.5d,
 	y: 9.75d,
-	description: "I SAID BACK!",
+	description: "我说 回来！",
 	text: [
-		"MOOOO!!",
+		"哇偶！！！",
 		"",
-		"Animals will not walk over Iron Grates. ",
+		"铁丝网可以阻拦动物们的去路，它们并不会主动越过这个东西。",
 		"",
-		"Items will fall directly through Iron Grates."
+		"物品则会无视铁丝网，直接掉下去。"
 	],
 	size: 1.5d,
 	tasks: [{

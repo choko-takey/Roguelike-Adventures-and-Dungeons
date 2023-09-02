@@ -1,14 +1,14 @@
 {
-	title: "Feed When You Need",
+	title: "需要时再喂食",
 	x: 0.0d,
 	y: -1.0d,
-	description: "Don't over eat now!",
+	description: "现在不要吃得太多！",
 	text: [
-		"Obese animals = Abuse.",
+		"让动物肥胖=虐待",
 		"",
-		"You can store the pets \"favorite food\" in this sack, saving inventory space!",
+		"你可以把宠物\"最喜欢\"的食物放在这个袋子里，以节省物品栏空间。",
 		"",
-		"Pets will automatically repair themselves as needed."
+		"宠物们会根据需要自动修复。"
 	],
 	tasks: [{
 		uid: "3c9e2aac",

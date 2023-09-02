@@ -1,10 +1,11 @@
 {
-	title: "Hot Kool-Aid",
+	title: "“热”Kool-Aid",
 	x: 9.0d,
 	y: -6.0d,
-	description: "I made this for you!",
+	description: "我特意为你做的！",
 	text: [
-		"It's a little spicy?"
+		"有点辣吗？"
+		"译者注：Kool-Aid为一种冷饮的商标名。"
 	],
 	dependencies: [
 		"6dbe8507"

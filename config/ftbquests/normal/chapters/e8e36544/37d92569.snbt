@@ -1,14 +1,14 @@
 {
-	title: "Wouldn't You Like to Know?",
+	title: "难道你不想知道吗？",
 	x: -12.0d,
 	y: 11.5d,
-	description: "Where are your parents?",
+	description: "难道你的父母不想知道吗？",
 	text: [
-		"The Weather Sensor will detect weather and emit a max signal when it is snowing or raining.",
+		"天气传感器会检测天气，并在雨雪天气和雷暴天气发出15级红石信号。",
 		"",
-		"If it is raining, but the biome you are in has no rain, it will emit a signal strength of 7.",
+		"如果其他群系在下雨，而你的群系没下，那么它会发出7格信号。",
 		"",
-		"Right-Click to invert the signal. This means it will turn OFF when it rains, and ON when it is not raining, instead."
+		"右击它可以反转检测模式，即下雨时不输出信号，不下雨时反之。"
 	],
 	tasks: [{
 		uid: "9fbad802",

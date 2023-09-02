@@ -1,12 +1,12 @@
 {
-	title: "Rise, Dragonknight of Flame",
+	title: "崛起，火焰龙骑",
 	x: 8.0d,
 	y: -10.5d,
-	description: "And ride out!",
+	description: "骑出去！",
 	text: [
-		"The vestige of a great hero. Wear it with pride.",
+		"这是伟大英雄的荣誉。务必自豪地穿着它。",
 		"",
-		"You are required to make all armor pieces to complete this quest."
+		"你需要制作全套盔甲来完成这个任务。"
 	],
 	dependencies: [
 		"efd81b2a"

@@ -1,12 +1,12 @@
 {
-	title: "The Plains Punisher",
+	title: "平原惩罚者",
 	x: -1.5d,
 	y: -8.0d,
-	description: "Tall grass never stood a chance",
+	description: "高草丛是没有机会的",
 	text: [
-		"Breaks foliage in a 3x3x3 area and drops the normal drops.",
+		"破坏3x3x3区域的树叶，掉落正常的掉落物。",
 		"",
-		"Can only be enchanted with Efficiency, Silk Touch, Unbreaking, Fortune, and Mending."
+		"只能附魔效率，精准采集，耐久，时运和经验修补。"
 	],
 	dependencies: [
 		"80f9d45b"

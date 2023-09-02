@@ -1,20 +1,20 @@
 {
-	title: "The Spectre What?",
+	title: "通灵是什么？",
 	x: 16.523809523809547d,
 	y: 11.994047619047606d,
-	description: "Here, I'll show you",
+	description: "来，我示范给你看",
 	text: [
-		"The Spectre Energy Injector is an item which allows you to charge your \"Buffer\" by providing energy to the block. Your Buffer can reach 1,000,000 FE.",
+		"通灵能量注入器是一种可以让你通过向方块提供能量来充电的物品。您的缓冲区可以达到1000000 FE。",
 		"",
-		"There are several ways to charge your Buffer.",
+		"有几种方法可以给饰品充电。",
 		"",
-		"Some of the easiest ways will be:",
+		"一些最简单的方法是:",
 		"",
-		"-Charging your Injector the same way you would activate Embers' devices.",
+		"-给你的注入器充电的方式和你激活余烬的设备一样。",
 		"",
-		"-Setting up a Peat-Fired Generator next to the Injector. Energy transfers automatically when the Generator is active.",
+		"-在填涂机旁边安装一个泥炭发电机。当发电机工作时，能量自动转移。",
 		"",
-		"-Placing a Battery from Cyclic next to the Injector, and placing Numbered Spectre Coils onto the Battery. Make sure to set the energy transfer to the correct side of the Battery! Use JourneyMap to help with the cardinal directions."
+		"-在注入器旁边放置一个循环的电池，并在电池上放置编号的通灵线圈。确保将能量传输设置在电池的正确一侧！使用旅行地图来帮助确定主要方向。"
 	],
 	dependencies: [
 		"403c8235"

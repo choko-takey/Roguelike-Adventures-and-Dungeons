@@ -1,14 +1,14 @@
 {
-	title: "You Traded Him What?!",
+	title: "你跟他交易了什么？！",
 	x: -16.973809523809507d,
 	y: 8.851190476190474d,
-	description: "Your life savings?",
+	description: "你的毕生积蓄？",
 	text: [
-		"But it's a snazzy backpack...",
+		"但是这个背包真的泰裤辣！",
 		"",
-		"The Backpack will double your normal inventory space, at the cost of needing to go on your chestpiece.",
+		"这是一个可以穿戴的背包，穿戴时，它会增加一倍你的背包栏。",
 		"",
-		"It can be obtained occasionally from Villagers."
+		"有时可以从皮匠那买到……"
 	],
 	size: 1.5d,
 	tasks: [{

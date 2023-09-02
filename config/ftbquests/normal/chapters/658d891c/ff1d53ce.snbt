@@ -1,10 +1,10 @@
 {
-	title: "Sasquatch",
+	title: "大脚怪",
 	x: 23.5d,
 	y: -1.0d,
-	description: "Their break stinks",
+	description: "他们的脚很臭",
 	text: [
-		"Obtain a set of Mountain Troll Armor."
+		"获得一套山地食人妖盔甲。"
 	],
 	tasks: [{
 		uid: "f5cd4ba5",

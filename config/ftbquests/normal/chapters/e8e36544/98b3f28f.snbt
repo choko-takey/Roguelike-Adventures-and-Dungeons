@@ -1,10 +1,10 @@
 {
-	title: "Beat Boxing",
+	title: "BBoxing",
 	x: -1.0d,
 	y: 5.0d,
-	description: "Hit him with an that hard metal jab!",
+	description: "用那沉重的金属音打他！",
 	text: [
-		"The Sound Box will play the sound on a Sound Pattern inside of it when powered by Redstone. Right-Click the Sound Box with a Sound Pattern to insert it, and Right-Click it again to take it out."
+		"当红石激活时，音箱将在其内部的声音模块上播放声音。右击带有声音图案的声音框来插入它，然后再次右击将其取出。"
 	],
 	tasks: [{
 		uid: "5ce280f0",

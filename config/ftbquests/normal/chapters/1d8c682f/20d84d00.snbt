@@ -1,12 +1,12 @@
 {
-	title: "The Great Tablets",
+	title: "伟大的石板",
 	x: -2.5d,
 	y: -0.5d,
-	description: "Ancient runes skitter on their surface",
+	description: "古老的符文在其表面闪烁",
 	text: [
-		"These tablets seem to be enchanted with some type of magic.",
+		"这些石板似乎被施了某种魔法。",
 		"",
-		"Even then... they seem relatively fragile."
+		"即使是这样……它们似乎也相对脆弱。"
 	],
 	dependencies: [
 		"d6d462e3"

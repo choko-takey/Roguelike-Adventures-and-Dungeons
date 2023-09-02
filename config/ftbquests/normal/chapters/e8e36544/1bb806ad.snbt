@@ -1,14 +1,14 @@
 {
-	title: "Okay We're Actually Playing Terraria?",
+	title: "好吧，我们真的在玩泰拉瑞亚？",
 	x: 7.0d,
 	y: -12.0d,
-	description: "Spawns go BRRRR",
+	description: "生成吧！",
 	text: [
-		"The Water Candle does what it say it do.",
+		"水蜡烛能做到它说的那样。",
 		"",
-		"This thing makes spawns go a little crazier.",
+		"这个东西会让刷怪变得更疯狂。",
 		"",
-		"Especially when you put it near some Cursed Earth."
+		"尤其是当你把它放在诅咒之土附近的时候"
 	],
 	tasks: [{
 		uid: "6ea035e2",

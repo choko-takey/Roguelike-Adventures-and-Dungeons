@@ -1,13 +1,13 @@
 {
-	title: "Critters and Crawlies",
+	title: "小动物和爬虫",
 	x: 0.0d,
 	y: 1.0d,
 	shape: "rsquare",
-	description: "More monsters, just what you need in your life!",
+	description: "更多的怪物，正是你生活中需要的！",
 	text: [
-		"These ones are bite sized.",
+		"这些都很小。",
 		"",
-		"They'll come in handy..."
+		"它们会派上用场……"
 	],
 	tasks: [{
 		uid: "d98d106e",

@@ -1,14 +1,14 @@
 {
-	title: "Escapé",
+	title: "逃脱！",
 	x: 9.5d,
 	y: 12.5d,
-	description: "P. Sherman 42 Wallaby Way, Sydney",
+	description: "P. Sherman 42 Wallaby Way, Sydney（悉尼歌剧院地址）",
 	text: [
-		"The Escape Rope might allow you to escape from a cave!",
+		"逃生绳可以让你从洞穴中逃生！",
 		"",
-		"Holding Right-Click with the Escape Rope will cause it to search for an exit. Keep holding, it's working its magic!",
+		"持有逃生绳时长按右键可以让它寻找出口。坚持住，它正在发挥它的魔力！",
 		"",
-		"Eventually, you'll be teleported to the surface, if there is a way out of the cave you're in. If not, you'll be teleported to the highest possible Y height in the cave system you're currently in."
+		"最终，你会被传送到地面，前提是有办法离开你所在的洞穴。如果没有，你将被传送到你目前所在洞穴系统的最高Y轴。"
 	],
 	tasks: [{
 		uid: "2e68a5fe",

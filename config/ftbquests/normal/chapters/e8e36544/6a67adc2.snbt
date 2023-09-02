@@ -1,12 +1,12 @@
 {
-	title: "Trophy Man",
+	title: "奖杯侠",
 	x: -17.0d,
 	y: -4.5d,
-	description: "You get it, John!",
+	description: "你懂得，约翰！",
 	text: [
-		"Collect any Trophy. They all do quirky little things, but none of them are useful.",
+		"收集任意奖杯。他们都要做一些古怪的小事情，但没有一个是有用的。",
 		"",
-		"They have a rare chance to drop from all Vanilla mobs."
+		"所有奖杯有很小机率由原版生物掉落。"
 	],
 	tasks: [{
 		uid: "dd4904c6",

@@ -1,14 +1,14 @@
 {
-	title: "I'm Really Resonating with You",
+	title: "我真的和你共振",
 	x: 1.5d,
 	y: -11.0d,
-	description: "Like, your vibe is just, good",
+	description: "就像，你的感应一样，棒",
 	text: [
-		"Do you wanna like, pet rocks with me and feel their energy?",
+		"你想和我一起抚摸石头感受它们的能量？",
 		"",
-		"Oh lord, sorry, I'm such a Capri Sun.",
+		"哦上帝，对不起， 我就是个Capri Sun（果汁名）",
 		"",
-		"The Redstone Resonating Crystal is used as a core for many of the machines in Extra Utilities 2."
+		"共振红石水晶是更多实用设备2中许多机器的核心。"
 	],
 	dependencies: [
 		"80f9d45b"

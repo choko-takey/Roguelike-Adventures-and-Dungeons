@@ -1,10 +1,10 @@
 {
-	title: "Hammer Away",
+	title: "一锤打飞",
 	x: -2.0d,
 	y: -2.0d,
-	description: "Be careful not to hit your fingers",
+	description: "注意不要打到自己的手指",
 	text: [
-		"The hammer is intended to be a weapon, but can be used to break down Cobblestone into Gravel, and Gravel into certain common materials."
+		"锤子本是一件武器，但也可以用来将圆石锤成沙砾，将沙砾锤成某些常见材料。"
 	],
 	dependencies: [
 		"a4636105"

@@ -1,12 +1,12 @@
 {
-	title: "Turn the Tunes On!",
+	title: "把音响开起来！",
 	x: 7.0d,
 	y: 0.5d,
-	description: "Jam out",
+	description: "接着奏乐，接着舞！",
 	text: [
-		"The Radio will play random vanilla discs.",
+		"这台收音机将随机播放原版唱片音乐。",
 		"",
-		"Right-click to turn the station."
+		"右击切换电台。"
 	],
 	tasks: [{
 		uid: "931ee662",

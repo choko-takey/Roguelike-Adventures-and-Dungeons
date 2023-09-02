@@ -1,10 +1,10 @@
 {
-	title: "Soul Saver",
+	title: "灵魂守护者",
 	x: 14.5d,
 	y: -4.5d,
-	description: "Just this once though, okay?",
+	description: "就这一次，好吗？",
 	text: [
-		"Death says she misses you, and that she's taking 5 XP levels because she let you live."
+		"死神说她想念你，但她仍然让你活了下去，作为代价，她拿走了5个经验等级。"
 	],
 	dependencies: [
 		"31bf2fad"

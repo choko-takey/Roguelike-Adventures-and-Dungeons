@@ -1,14 +1,14 @@
 {
-	title: "Waving the White Flag",
+	title: "挥舞白旗",
 	x: -17.5d,
 	y: -3.5d,
-	description: "I yield I yield!",
+	description: "我投降，我投降！",
 	text: [
-		"Flags are simply decorational.",
+		"旗帜只是装饰而已。",
 		"",
-		"They can change color, but do not need dye.",
+		"它们可以变色，但不需要染色。",
 		"",
-		"Simply Right-Click somewhere they can't be placed, like Glass, or Air."
+		"只需右击无法放置的位置，如玻璃或空气。"
 	],
 	tasks: [{
 		uid: "6128074c",

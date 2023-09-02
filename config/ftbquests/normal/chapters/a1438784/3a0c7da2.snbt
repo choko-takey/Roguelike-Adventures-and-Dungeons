@@ -1,14 +1,14 @@
 {
-	title: "Your Dad's Death Gift",
+	title: "你父亲的遗赠",
 	x: 3.0d,
 	y: 0.0d,
-	description: "Given to you right before he croaked",
+	description: "在他临咽气时交付与你的",
 	text: [
-		"Like a frog.",
+		"哦！就像一只青蛙。",
 		"",
-		"Ribbit, he's dead.",
+		"抑或是一只兔子一样，他逝去了。",
 		"",
-		"Collect all Brooches."
+		"集齐所有的胸针吧。"
 	],
 	dependencies: [
 		"fb617224"

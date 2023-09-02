@@ -1,12 +1,12 @@
 {
-	title: "Water Wisk-Awayer",
+	title: "除水器",
 	x: -4.5d,
 	y: -5.5d,
-	description: "More like water waster",
+	description: "更像是废水",
 	text: [
-		"People in a Badlands biome could use that water.",
+		"荒地生物群落中的人们可以使用这些水。",
 		"",
-		"This item will absorb water and make it NO MORE!"
+		"该物品将吸收水，使其不复存在！"
 	],
 	dependencies: [
 		"5064de44"

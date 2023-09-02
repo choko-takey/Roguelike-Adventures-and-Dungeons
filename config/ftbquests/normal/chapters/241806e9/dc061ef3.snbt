@@ -1,12 +1,12 @@
 {
-	title: "Pirate Perry",
+	title: "海盗佩里",
 	x: 0.0d,
 	y: -6.5d,
-	description: "Perry the Pirate",
+	description: "大海盗佩里",
 	text: [
-		"A pirate named Perry.",
+		"一个叫佩里的海盗。",
 		"",
-		"He lost his swords at sea."
+		"他在海上失去了佩剑。"
 	],
 	dependencies: [
 		"bbb78a8b"

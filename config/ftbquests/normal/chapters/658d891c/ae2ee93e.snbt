@@ -1,10 +1,10 @@
 {
-	title: "Silver Is Better Than Gold",
+	title: "银比金好",
 	x: -4.0d,
 	y: -1.5d,
-	description: "Prove me wrong",
+	description: "建议证明我错了",
 	text: [
-		"I hope the stock market crashes because all my money is in the metals."
+		"我希望股市崩盘，因为我所有的钱都在这些金属上。"
 	],
 	size: 2.0d,
 	tasks: [{

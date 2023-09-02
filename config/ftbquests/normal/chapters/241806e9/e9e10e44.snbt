@@ -1,12 +1,12 @@
 {
-	title: "Electric Fence",
+	title: "带电围栏",
 	x: 17.5d,
 	y: -2.0d,
-	description: "Pee on it",
+	description: "在上面撒尿",
 	text: [
-		"Does that even work?",
+		"它还能正常工作嘛？",
 		"",
-		"I bet it doesn't. Go try it."
+		"但愿不能，去试试。"
 	],
 	dependencies: [
 		"ffdb1cd1"

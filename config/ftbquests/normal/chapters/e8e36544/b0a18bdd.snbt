@@ -1,12 +1,12 @@
 {
-	title: "Ever Had Homemade Jerky?",
+	title: "有试过自制肉干吗？",
 	x: 17.0d,
 	y: -9.5d,
-	description: "It's great",
+	description: "棒极了",
 	text: [
-		"Try it with Rotten Flesh next time.",
+		"下次用腐肉做试试看。",
 		"",
-		"Water extracted from the Dehydrator will need to be extracted to another location, if the Dehydrator becomes full."
+		"如果脱水器满了，你需要把它从物品中抽出来的水排到其它地方去。"
 	],
 	dependencies: [
 		"ecd41947"

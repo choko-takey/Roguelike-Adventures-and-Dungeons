@@ -1,12 +1,12 @@
 {
-	title: "Ring Bling",
+	title: "闪闪发光的戒指~",
 	x: 8.0d,
 	y: 4.0d,
-	description: "You're icey!",
+	description: "摸起来好凉！",
 	text: [
-		"Who knew Rubies shine brighter than Diamonds?",
+		"你知道吗？红宝石的闪光比钻石的亮！",
 		"",
-		"Collect all Rings."
+		"集齐所有的指环吧。"
 	],
 	dependencies: [
 		"cf715fd3"

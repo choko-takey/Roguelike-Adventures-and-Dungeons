@@ -1,10 +1,10 @@
 {
-	title: "The Weakest Link",
+	title: "最弱一环",
 	x: -1.5d,
 	y: 0.0d,
-	description: "Only as strong as you are!",
+	description: "只有和你一样强壮！",
 	text: [
-		"These are kinda costly, but well worth it as an upgraded Lead."
+		"这些都有点贵，但作为一个升级的连接环是非常值得的。"
 	],
 	tasks: [{
 		uid: "b7fb5258",

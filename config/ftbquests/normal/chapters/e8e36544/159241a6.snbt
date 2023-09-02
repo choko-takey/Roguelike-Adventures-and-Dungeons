@@ -1,12 +1,12 @@
 {
-	title: "If Moses Was a Wizard?",
+	title: "如果摩西是巫师？",
 	x: 2.5d,
 	y: -8.0d,
-	description: "This is definitely what he would've done instead",
+	description: "他肯定会这么做的",
 	text: [
-		"This item do what it say it do.",
+		"这个物品说到做到。",
 		"",
-		"Some people don't think it be like it do, but it do be."
+		"有些人不认为它是这样的，但它确实是。"
 	],
 	tasks: [{
 		uid: "a987a423",

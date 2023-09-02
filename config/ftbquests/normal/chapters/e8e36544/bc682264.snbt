@@ -1,18 +1,19 @@
 {
-	title: "I Always Forgot Mine",
+	title: "我老是忘记下矿的路",
 	x: -24.0d,
 	y: -5.5d,
-	description: "Borrow pencils to get them to like you!",
+	description: "带支铅笔记一下",
 	text: [
-		"That's a real mind trick by the way.",
+		"所以你记住了吗",
 		"",
-		"Pencils can be used to draw invisible blocks which you CANNOT pass through",
+		"魔法铅笔可以画出不可见但是不可穿过的方块",
 		"",
-		"The invisible wall will still take up a block space, preventing anything else from being placed; however, you will not be able to see the block.",
+		"这种被魔法铅笔画出来的方块也会占用一个方块的空间，即你无法在原有的位置放置方块",
 		"",
-		"Pencil Glasses are needed to see Pencil Blocks. When Pencil Blocks are visible, they can be destroyed.",
+		"需要使用铅笔眼镜才能发现该方块，并且只有在这种状态下，该方块才能被挖掘",
 		"",
-		"Right-Clicking with the Pencil will place Pencil Blocks like normal. You may not be able to see them, if you're not wearing your glasses!"
+		"建议戴上眼镜再使用铅笔，不然你可能都不知道你放了啥",
+		"（隐形基岩但是可以破坏版）"
 	],
 	tasks: [{
 		uid: "4a8951ee",

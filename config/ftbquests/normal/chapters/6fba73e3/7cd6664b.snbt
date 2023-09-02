@@ -1,12 +1,12 @@
 {
-	title: "Prince Charming",
+	title: "白马王子",
 	x: -4.0d,
 	y: -3.0d,
-	description: "Except you don't charm the ladies",
+	description: "但你的魅力不足以吸引她。",
 	text: [
-		"Craft all of the possible mob charms.",
+		"制作所有怪物护符。",
 		"",
-		"You charm big ugly beasts."
+		"可你吸引了丑陋的野兽。"
 	],
 	tasks: [{
 		uid: "1194898e",

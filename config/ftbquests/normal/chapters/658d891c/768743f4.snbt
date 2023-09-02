@@ -1,12 +1,12 @@
 {
-	title: "I'm Not Ready to Be a Parent!",
+	title: "我还没有准备好做父母！",
 	x: 10.0d,
 	y: -1.0d,
-	description: "No one is",
+	description: "没有人准备好过",
 	text: [
-		"You've somehow obtained a Dragon Egg. Research your Bestiary on how to hatch it!",
+		"你不知怎么得到了一个龙蛋。研究一下你的《异兽手记》看看如何孵化它！",
 		"",
-		"You are only required to obtain one of any Dragon Egg to complete this quest."
+		"你只需要获得一个龙蛋就可以完成这项任务。"
 	],
 	size: 2.0d,
 	or_tasks: true,

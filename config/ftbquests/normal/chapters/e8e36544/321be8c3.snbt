@@ -1,12 +1,12 @@
 {
-	title: "It's All in the Wrist, John",
+	title: "全靠手腕，约翰",
 	x: 1.2023809523809632d,
 	y: -13.30357142857141d,
-	description: "Watch",
+	description: "看！",
 	text: [
-		"I don't understand how people can throw a ball at 90mph.",
+		"我不明白人们怎么能以每小时90英里的速度扔球。",
 		"",
-		"Anyways, these things go crazy."
+		"总之，这些东西很疯狂。"
 	],
 	size: 1.5d,
 	tasks: [{

@@ -1,14 +1,14 @@
 {
-	title: "So No Head?",
+	title: "所以没有头？",
 	x: -1.0d,
 	y: -9.0d,
-	description: "*Snaps skateboard*",
+	description: "*扣住滑板*",
 	text: [
-		"Chunks o' Head can be found out in the Overworld.",
+		"凝灰岩方块可以在主世界中获取。",
 		"",
-		"They are relatively rare.",
+		"它们比较罕见。",
 		"",
-		"Once you find one, break down the Head for Chunks o' Head."
+		"一旦你找到了一个凝灰岩方块，就把它的头部拆下来。"
 	],
 	dependencies: [
 		"f61dcb12"

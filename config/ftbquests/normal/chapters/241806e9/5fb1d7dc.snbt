@@ -1,14 +1,14 @@
 {
-	title: "You May Kiss the Bride",
+	title: "你可以亲吻新娘了",
 	x: 10.5d,
 	y: -3.0d,
-	description: "Newly-weds are always so annoying",
+	description: "新婚夫妇总是那么烦人",
 	text: [
-		"Rings can be enchanted with special effects from Dungeon Tactics. To have them active, place them into one of the first four slots in your inventory. The ones which bare a ring inside the slot.",
+		"指环可以使用地牢战术的效果附魔。将拥有附魔的指环放入物品栏中的前四个插槽，也就是物品栏中有指环图样的那些之一可以激活它们。",
 		"",
-		"To activate each slot, you'll need to check your Controls and Bindings to make sure your bind is not conflicting.",
+		"如果需要激活任意一个插槽，你需要检查控制和按键绑定，以确保按键绑定不冲突。",
 		"",
-		"If you do have a conflict, the Control can be found by searching \"Trinket\" and it will be 1 - 4."
+		"如果确实有冲突，可以通过搜索“Trinket”找到绑定按键，它将显示为Trinket 1-4。"
 	],
 	dependencies: [
 		"31bf2fad"

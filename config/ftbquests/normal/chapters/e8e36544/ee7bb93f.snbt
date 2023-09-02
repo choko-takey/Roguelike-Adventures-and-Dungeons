@@ -1,12 +1,12 @@
 {
-	title: "HOW THE TABLES HAVE TURNED",
+	title: "两 极 反 转",
 	x: 10.0d,
 	y: -5.5d,
-	description: "AHAHAHA",
+	description: "哈哈哈哈！",
 	text: [
-		"WHO'S THE MONSTER NOW!!!!!!",
+		"现在谁才是怪物！！！！",
 		"",
-		"Use this to mount any entity, without control."
+		"用这个来骑上任何实体，但是不受你控制。"
 	],
 	tasks: [{
 		uid: "2d077e0e",

@@ -1,12 +1,12 @@
 {
-	title: "Your Second Wind!",
+	title: "你的第二阵风！",
 	x: 12.0d,
 	y: 6.0d,
-	description: "It's like a Bag of Breath!",
+	description: "就像呼出的一口气！",
 	text: [
-		"The air in here stinks like old man beard cheese.",
+		"这里的空气就像老头胡子奶酪一样臭。",
 		"",
-		"At least it'll keep you from drowning..."
+		"至少它不会让你淹死……"
 	],
 	tasks: [{
 		uid: "64bf2669",

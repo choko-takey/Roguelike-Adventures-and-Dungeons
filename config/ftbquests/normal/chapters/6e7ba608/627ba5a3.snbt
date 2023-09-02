@@ -1,10 +1,10 @@
 {
-	title: "Bing Bang Bong",
+	title: "乒 邦 嘭",
 	x: -1.5d,
 	y: -15.0d,
-	description: "Slappa da drum",
+	description: "邦戈鼓",
 	text: [
-		"Craft your drums and play the song of your people!"
+		"制作你的鼓，为你的人民演奏！"
 	],
 	dependencies: [
 		"e27d8e89"

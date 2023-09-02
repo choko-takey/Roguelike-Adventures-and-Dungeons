@@ -1,10 +1,10 @@
 {
-	title: "They Say They Like Shiny Stuff",
+	title: "他们称他们对闪亮之物偏有颇爱",
 	x: -1.0d,
 	y: 8.0d,
-	description: "And they seem to be right",
+	description: "看来他们所言非虚",
 	text: [
-		"Obtain Atum's Bounty in order to fish things up in Atum's barren desert."
+		"获得阿图姆之御赐，在阿图姆这贫瘠的沙漠中钓点什么东西出来吧。"
 	],
 	dependencies: [
 		"b27aa160"

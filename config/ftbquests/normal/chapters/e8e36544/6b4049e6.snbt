@@ -1,14 +1,14 @@
 {
-	title: "Power Goes In, Power Goes Out",
+	title: "电力进，电力出",
 	x: 3.5d,
 	y: 9.0d,
-	description: "That's the grid for ya'",
+	description: "这就是你的网格",
 	text: [
-		"The Analog Emitter will take a single Redstone signal of ANY strength, and turn it into multiple Redstone signals of ANY strength.",
+		"模拟信号发生器会接收任意强度的单个红石信号，并将其转换为任意强度的多个红石信号。",
 		"",
-		"Right-Click to set the strength of the output signal from the Analog Emitter.",
+		"右击设置模拟信号发生器的输出信号的强度。",
 		"",
-		"Power the circular side of the Analog Emitter to produce a signal from all square sides."
+		"从模拟信号发生器的圆形一侧提供信号，所有方形侧面会产生信号。"
 	],
 	tasks: [{
 		uid: "0c148a38",

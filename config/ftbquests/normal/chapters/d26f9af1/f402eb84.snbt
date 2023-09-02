@@ -1,14 +1,14 @@
 {
-	title: "The Redstone Revolution",
+	title: "红石革命",
 	x: 2.0d,
 	y: -12.5d,
-	description: "Time to make the air bad!",
+	description: "是时候让空气变糟了！",
 	text: [
-		"This coal will gain efficacy with increased GP in your player grid.",
+		"此煤将随着你的玩家GP的增加而增加效率。",
 		"",
-		"Approx 600 GP in your player grid is required to hit 700%",
+		"在你的网络中大约需要600GP才能达到700%",
 		"",
-		"GP is not consumed."
+		"GP不会消耗。"
 	],
 	dependencies: [
 		"d27134fe"

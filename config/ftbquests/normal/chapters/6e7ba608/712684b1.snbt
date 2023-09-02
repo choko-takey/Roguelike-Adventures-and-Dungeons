@@ -1,12 +1,12 @@
 {
-	title: "Sea Shore Sally",
+	title: "海滨零元购",
 	x: 0.0d,
 	y: -12.0d,
-	description: "Selling seashells by the sea shore",
+	description: "去海边，那里卖贝壳",
 	text: [
-		"Collect all shell decorations.",
+		"收集所有贝壳装饰。",
 		"",
-		"They can be placed as wall objects."
+		"它们可以放在墙上。"
 	],
 	dependencies: [
 		"5ea1c5e5"

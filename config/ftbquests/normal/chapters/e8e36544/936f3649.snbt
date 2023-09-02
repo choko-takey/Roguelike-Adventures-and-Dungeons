@@ -1,10 +1,10 @@
 {
-	title: "Isn't This Supposed to Get Rid of Spiders?",
+	title: "这难道不是用来消灭蜘蛛的吗？",
 	x: -3.5d,
 	y: 11.5d,
-	description: "That's what they told me, John",
+	description: "他们是这么跟我说的，约翰",
 	text: [
-		"The Lapis Lamp will emit the max light level of 15, but will not prevent anything from spawning which requires darkness."
+		"青金石灯将发出15的最大亮度，但不会阻止任何需要黑暗的东西生成。"
 	],
 	tasks: [{
 		uid: "ac58bbb0",

@@ -1,12 +1,12 @@
 {
-	title: "Push-In ",
+	title: "插入式",
 	x: -17.0d,
 	y: -6.5d,
-	description: "Kinda like a toggle, but not as good",
+	description: "有点像开关，但没那么好",
 	text: [
-		"These Big Buttons will can have their time extended by Shift-Right-Clicking with an empty hand, and placing items inside.",
+		"这些大按钮可以通过潜行右击来延长时间，并在里面放置物品。",
 		"",
-		"Multiple items from a single stack will contribute to the time increase. Dirt is very handy for this."
+		"一组物品将增加时间。泥土是非常方便的。"
 	],
 	or_tasks: true,
 	tasks: [{

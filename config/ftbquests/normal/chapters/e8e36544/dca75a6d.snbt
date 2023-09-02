@@ -1,21 +1,21 @@
 {
-	title: "Who Said What Now?",
+	title: "谁在说什么？",
 	icon: "randomthings:globalchatdetector",
 	x: 1.5d,
 	y: 6.5d,
-	description: "You said \"What now?\"",
+	description: "你在说“什么”",
 	text: [
-		"The Chat Detector will detect messages from the player who placed the block. If the typed message matches the one inside the Chat Detector, the block will output a signal.",
+		"聊天检测器会检测放下这个方块的人所发出的信息，如果和它内部记录的信息匹配，将发出一个红石信号。",
 		"",
-		"The mode toggle will prevent your message from being sent to chat when it is the matching message inside your Chat Detector, like maybe your password. Remember that it will not detect chat from anyone but you, anyways.",
+		"更改模式可以让你的信息被过滤，当信息与内部记录匹配时，你的信息不会出现在聊天栏中，例如你可以设置过滤自己的密码。无论如何，这个检测器只会检测你一个人。",
 		"",
-		"The Global Chat Detector will detect chat from ANY player in chat.",
+		"全局聊天检测器会检测所有在聊天的玩家。",
 		"",
-		"If any public chat matches what's inside the Global Chat Detector, it will output a signal.",
+		"任何某个人的发言与内部记录匹配的话，检测器将发出一个红石信号。",
 		"",
-		"To prevent messages from being sent with the Global Chat Detector, you'll need an ID Card linked to the player who sent it, inside the Global Chat Detector. Make sure to put it on the correct toggle.",
+		"想要阻止某人发言，你需要用该玩家的身份证与检测器绑定，别忘了切换模式。",
 		"",
-		"Right-Click to link ID Cards."
+		"右键来与身份证绑定。"
 	],
 	tasks: [{
 		uid: "9b91fc2f",

@@ -1,16 +1,16 @@
 {
-	title: "The Fastest Farmer in the West",
+	title: "西部最速农民",
 	x: -2.0d,
 	y: -17.0d,
-	description: "Harvest twice a year!",
+	description: "一年收获两次！",
 	text: [
-		"Craft a Watering Can.",
+		"制作一个洒水壶。",
 		"",
-		"Right-Clicking on a water source block will fill the can.",
+		"右击水源填满壶。",
 		"",
-		"Right-Clicking on a growing crop will accelerate the growth of the crop by a small amount.",
+		"右击作物将会略微加速作物的生长。",
 		"",
-		"Holding, or rapidly Right-Clicking will accelerate the growth of a crop at a faster rate."
+		"按住或快速右击将加速作物的生长速度。"
 	],
 	tasks: [{
 		uid: "835ab7ee",

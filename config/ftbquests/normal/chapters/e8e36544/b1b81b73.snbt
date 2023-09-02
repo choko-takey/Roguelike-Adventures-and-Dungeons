@@ -1,12 +1,12 @@
 {
-	title: "The Great Beast Is Dead!",
+	title: "巨龙倒下了！",
 	x: -14.473809523809507d,
 	y: 6.851190476190467d,
-	description: "But for how long?",
+	description: "但是会持续多久呢？",
 	text: [
-		"Dragon Scales are obtained after killing the Ender Dragon for... not the first time.",
+		"龙鳞会在你...至少第二次击败末影龙时掉落。",
 		"",
-		"They can be combined with an Elytra to create a brand new one!"
+		"它可以和鞘翅合成，做出一个更酷更新的鞘翅。"
 	],
 	size: 1.5d,
 	tasks: [{

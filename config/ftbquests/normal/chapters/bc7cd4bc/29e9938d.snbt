@@ -1,13 +1,13 @@
 {
-	title: "Pet Pets!",
+	title: "宠物的宠物！",
 	x: -2.0d,
 	y: 1.0d,
 	shape: "rsquare",
-	description: "Pets that fit in your pocket!",
+	description: "适合放在口袋里的宠物！",
 	text: [
-		"Kinda like a Tamagotchi but WAY better.",
+		"有点像拓麻歌子，但比它好得多。",
 		"",
-		"Make sure you keep them fed! The pets will stop working if you don't!"
+		"确保你让它们吃饱! 否则这些宠物就会罢工！"
 	],
 	tasks: [{
 		uid: "5a9d6c88",

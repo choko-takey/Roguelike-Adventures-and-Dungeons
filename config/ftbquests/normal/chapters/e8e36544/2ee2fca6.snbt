@@ -1,18 +1,18 @@
 {
-	title: "The Unholy Trinity",
+	title: "邪恶的三位一体",
 	x: -2.0d,
 	y: -8.5d,
-	description: "What I used to call my boss, my co-worker, and I",
+	description: "我曾经这样称呼我的老板、同事还有我",
 	text: [
-		"When we got together, at LEAST 45 minutes of company time was wasted. Every time. Without fail.",
+		"当我们聚在一起时，至少有45分钟的时间被浪费了。每一次。没有例外。",
 		"",
-		"I miss that job.",
+		"我想念那份工作。",
 		"",
-		"Too bad they paid minimum wage.",
+		"可惜他们付的是最低工资。",
 		"",
-		"I was definitely the Sword of Evasion at that company... never seen... never heard from... but work got done.",
+		"我绝对是那家公司的闪避之剑……从来没有见过……从未收到……但是工作完成了。",
 		"",
-		"Just like how these swords are gonna work mobs into the dirt, at lower difficulties."
+		"就像在低难度下，这些剑能把怪物打到泥土里一样。"
 	],
 	dependencies: [
 		"efbea43d"

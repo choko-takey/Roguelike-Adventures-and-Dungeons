@@ -1,13 +1,13 @@
 {
-	title: "The Seed Slaver's Dream",
+	title: "种子丰收之梦",
 	disable_toast: true,
 	x: 9.5d,
 	y: -11.964285714285722d,
-	description: "For the manual farmer in you",
+	description: "为你这位手动收田的园丁特制",
 	text: [
-		"Sprint and hold Right-Click. You're welcome.",
+		"长按右键冲刺，不客气。",
 		"",
-		"Keep in mind, each scythe is indeed useful for something different. "
+		"需要记住的是，每种镰刀有特定的适用对象。"
 	],
 	size: 1.5d,
 	tasks: [{

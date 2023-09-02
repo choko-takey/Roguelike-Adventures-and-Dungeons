@@ -1,12 +1,12 @@
 {
-	title: "Is it real!?",
+	title: "他们不是假的！？",
 	x: 5.5d,
 	y: 2.0d,
-	description: "IT IS!",
+	description: "当然！",
 	text: [
-		"Iceeeee!",
+		"冷彻心扉！",
 		"",
-		"Collect all Necklaces."
+		"集齐所有的项链。"
 	],
 	dependencies: [
 		"f1e677e8"

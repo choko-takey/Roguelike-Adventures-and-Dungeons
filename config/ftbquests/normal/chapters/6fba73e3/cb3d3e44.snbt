@@ -1,10 +1,10 @@
 {
-	title: "Fortune Cookie? Coin? Same Thing.",
+	title: "幸运曲奇？硬币？这一类的东西。",
 	x: 2.0d,
 	y: -4.5d,
-	description: "It brings be the good stuff",
+	description: "它带来了好东西",
 	text: [
-		"Craft the Coin of Fortune."
+		"制作幸运硬币。"
 	],
 	tasks: [{
 		uid: "50bfaa46",

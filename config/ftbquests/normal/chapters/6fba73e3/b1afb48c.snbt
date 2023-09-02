@@ -1,10 +1,10 @@
 {
-	title: "Firecrackers",
+	title: "爆竹！",
 	x: 1.5d,
 	y: -5.5d,
-	description: "Don't hold em' for too long!",
+	description: "别握着这玩意儿太久！",
 	text: [
-		"Craft the Destruction Catalyst."
+		"制作毁灭触媒。"
 	],
 	tasks: [{
 		uid: "859541fd",

@@ -1,10 +1,10 @@
 {
-	title: "Fire Water",
+	title: "液态火",
 	x: 11.5d,
 	y: -1.5d,
-	description: "The stuff they drink in the reserves",
+	description: "他们储存起来的饮品",
 	text: [
-		"May not actually light you on fire."
+		"大概不会真的把你点燃。"
 	],
 	dependencies: [
 		"31bf2fad"

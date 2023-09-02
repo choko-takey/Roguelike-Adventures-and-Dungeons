@@ -1,10 +1,10 @@
 {
-	title: "Smack It Till It's Where You Want It!",
+	title: "把它拍到你想要的地方！",
 	x: -20.0d,
 	y: -7.5d,
-	description: "Bang! Pow! Boom! Crash!",
+	description: "砰！噗！嘣！欻！",
 	text: [
-		"The Big Metal Bar is used to rotate blocks from OpenBlocks which cannot normally be rotated, or you don't want to pick up because they'll drop the items inside."
+		"大金属棒用于从开放式方块中旋转通常不能旋转的方块，或者你不想拿起，因为它们会掉落里面的物品。"
 	],
 	tasks: [{
 		uid: "13763ae2",

@@ -1,20 +1,20 @@
 {
-	title: "Bootleg Alchemy",
+	title: "盗版炼金",
 	x: 6.5d,
 	y: 4.0d,
-	description: "That skull doesn't look FDA approved",
+	description: "这头颅看起来没经过美国食品药品管理局认证",
 	text: [
-		"The Imbuing Station can be used to craft elixirs which imbue the player with on hit effects.",
+		"灌注台可用来酿造灌注药水，为玩家提供攻击效果。",
 		"",
-		"See the JEI menu for recipes.",
+		"查阅JEI菜单获取配方。",
 		"",
-		"Fire - Set enemies on fire for 10 seconds.",
+		"火焰 - 使敌人着火，持续10秒。",
 		"",
-		"Poison - Applies Poison II to enemies for 10 seconds.",
+		"毒液 - 给予敌人中毒 II，持续10秒。",
 		"",
-		"Experience - Enemies killed drop 50% more experience.",
+		"经验 - 杀死目标后增加50%的经验掉落。",
 		"",
-		"Wither - Applies Wither II to enemies for 5 seconds."
+		"凋零 - 赋予敌人凋零 II，持续5秒。"
 	],
 	tasks: [{
 		uid: "15c7b24d",

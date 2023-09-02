@@ -1,20 +1,20 @@
 {
-	title: "Definitely Reminds Me of Something...",
+	title: "这让我想起了某些事...",
 	x: 0.5d,
 	y: 12.5d,
-	description: "This joke was in bad taste to begin with",
+	description: "这个笑话太没品味了",
 	text: [
-		"This device needs a sealed room that does not exceed 100 blocks in volume to function. The Vaporizer must be facing towards the inside of the room. It will also need a potion, and some fuel. Empty Glass Bottles are produced as potions are used.",
+		"这个设备需要一个体积不超过100格的密闭空间来工作。雾化器必须面朝房间内部，还需要一瓶药水和一些燃料。药水使用后会返还空瓶子。",
 		"",
-		"The Potion Vaporizer will fill a room with potion effort vapor bubbles and apply potion effects to entities that walk inside. ",
+		"药水雾化器会使药水雾化泡泡充满整个房间，并让进入房间的所有生物获得药水效果。",
 		"",
-		"Potion Vaporizers will \"vaporize\" for the same duration a potion would last if you consumed it normally.",
+		"药水雾化器完全雾化每瓶药水的持续时间和你平常喝药水的持续时间是一样的。",
 		"",
-		"It consumes fuel at the same rate a furnace does. However if it runs out of fuel midway, the rest of the potion will not be lost, it will simply wait until it has fuel again.",
+		"它消耗燃料的机制和熔炉完全一样。不过如果中途燃料不足了，它会保存剩余的药水并停止工作，直至重新添加燃料。",
 		"",
-		"Potion effects granted by the Vaporizer only last about 3 - 5 seconds. You'll lose the effect if you leave the area.",
+		"由雾化泡泡给予的药水效果只会持续3到5秒，如果离开区域很快就会失去效果。",
 		"",
-		"Good for boss-fight arenas? De-buffs? Buffs?"
+		"也许适合boss区域？给怪物上debuff？给自己上buff？"
 	],
 	tasks: [{
 		uid: "29dac09f",

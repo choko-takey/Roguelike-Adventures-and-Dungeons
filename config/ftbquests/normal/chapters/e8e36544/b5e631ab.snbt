@@ -1,10 +1,10 @@
 {
-	title: "Die Brick!",
+	title: "砖块？",
 	x: -1.0d,
 	y: 8.5d,
-	description: "No, John! Dye bricks!",
+	description: "不，朋友！是染色砖块！",
 	text: [
-		"RandomThings lets you dye bricks! See the JEI menu for recipes!"
+		"随意作品模组能让你给砖块染色！查看JEI找到染色配方！"
 	],
 	tasks: [{
 		uid: "c46f54f3",

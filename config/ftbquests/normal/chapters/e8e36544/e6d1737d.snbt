@@ -1,18 +1,18 @@
 {
-	title: "Not on My Watch!",
+	title: "不受我的监视！",
 	x: 6.5d,
 	y: 9.5d,
-	description: "Well, it's not on anyone's watch",
+	description: "好吧，也不受任何人的监视",
 	text: [
-		"We are on my schedule though.",
+		"我们正在按部就班。",
 		"",
-		"And we do things my way.",
+		"并且会按照我的方式做事。",
 		"",
-		"The clock says so.",
+		"这个钟也是这样的。",
 		"",
-		"Right-Click or Shift-Right-Click to set the desired time on your clock. ",
+		"右键或shift+右键来给月蚀计设置时间。",
 		"",
-		"Right-Click on your Eclipse Clock with Time in a Bottle, consuming time proportionate to the amount of time skipped. Remember, each hour in the game is one minute in real life."
+		"用时间之瓶右键月蚀计，消耗时间之瓶中等效的时间来跳过游戏时间。游戏中的1小时对应现实中的1分钟。"
 	],
 	dependencies: [
 		"198521c0"

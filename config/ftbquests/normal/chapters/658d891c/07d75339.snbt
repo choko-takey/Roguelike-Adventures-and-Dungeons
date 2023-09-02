@@ -1,12 +1,12 @@
 {
-	title: "Back Foul Beast!",
+	title: "后退！肮脏的野兽！",
 	x: 5.5d,
 	y: 0.5d,
-	description: "You won't be having dragon problems anymore!",
+	description: "你不会再有龙的问题了！",
 	text: [
-		"These look like they can be dipped in something.",
+		"这些看起来好像可以浸在什么东西里。",
 		"",
-		"You are required to make all weapons to complete this quest."
+		"你需要制造所有武器来完成这个任务。"
 	],
 	dependencies: [
 		"b37a814e"

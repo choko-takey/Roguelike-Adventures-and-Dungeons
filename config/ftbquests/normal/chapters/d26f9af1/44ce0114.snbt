@@ -1,14 +1,14 @@
 {
-	title: "You're a Thief, Huh?",
+	title: "你是个小偷，对吧？",
 	x: 0.5d,
 	y: -8.0d,
-	description: "Yea, so what?",
+	description: "是啊，那又怎样？",
 	text: [
-		"Just because I have a Glass Cutter, doesn't mean I'm a thief.",
+		"我有一把玻璃切割刀，并不意味着我是一个小偷。",
 		"",
-		"But yes I'm a thief...",
+		"但是，好吧，我是个小偷……",
 		"",
-		"And yes the Glass Cutter will cut glass... like Silk Touch but built in..."
+		"是的，玻璃切割刀能切割玻璃……就像自带精准采集……"
 	],
 	dependencies: [
 		"80f9d45b"
