@@ -1,10 +1,10 @@
 {
-	title: "Pharaoh Fighter",
+	title: "法老斗士",
 	x: -2.0d,
 	y: 5.5d,
-	description: "Beat that bag of bones up!",
+	description: "把那包骨头打起来！",
 	text: [
-		"Defeat 10 Pharoahs in their tomb."
+		"在金字塔击杀10只法老。"
 	],
 	can_repeat: true,
 	tasks: [{

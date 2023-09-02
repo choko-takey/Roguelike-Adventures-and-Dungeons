@@ -1,23 +1,23 @@
 {
-	title: "Just Stick to the Code!",
+	title: "我求求你看看书ok？",
 	x: 0.0d,
 	y: 0.0d,
-	description: "They know what they know",
+	description: "知之为知之……",
 	text: [
-		"He'll be gone for a while.",
+		"他走了……我想，至少现下是这样的。",
 		"",
-		"This Codex is gonna teach you The Street Code.",
+		"这块法典将会教会你“如何在街头混口饭吃”。",
 		"",
-		"Wrong book? Oh sorry, this book is gonna teach you about Dwarven Magic.",
+		"哎等等……抱歉，拿错书了哈。这本手册会教你如何驾驭地心的热量。",
 		"",
-		"Refer to The Codex, or The Guide for all of your Embers related interests.",
+		"阅读太古法典或者查阅FTB指南足够你了解余烬这个模组了。",
 		"",
-		"The Codex does a decent job at explaining the mod. You will need to read carefully though.",
+		"太古法典作为一本手册是十分优秀的，无论是文笔还是干货一等一的好。但是你得仔细阅读，毕竟再好的书，不去看，也只是一堆废纸。",
 		"",
-		"To search The Codex, type your search item. Tabs and boxes which glow slightly will contain the search word you are looking for.",
+		"如果你想搜索你想看的章节，点击搜索栏。橙色的光芒将会出现，在里面输入你想查阅的东西吧。",
 		"",
-		"The Guide will have a Chapter in it for Embers, gone over in advanced and in-depth detail.",
-		""
+		"FTB指南内专门为余烬提供了一章，你可以去那里了解更多内容。",
+		"（注：FTB指南里压根没有余烬章节，至少现下没有）"
 	],
 	size: 2.0d,
 	tasks: [{

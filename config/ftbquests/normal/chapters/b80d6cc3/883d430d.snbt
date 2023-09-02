@@ -1,10 +1,10 @@
 {
-	title: "It’s Getting Kinda Steamy in Here",
+	title: "有种朦胧美……",
 	x: 14.5d,
 	y: -3.0d,
-	description: "Is water vapor safe to breath in an enclosed room?",
+	description: "你说……在房间里呼吸水蒸气安全吗？",
 	text: [
-		"Who cares, we need POWER!"
+		"管这个干嘛？爱你的摸~~~~帕瓦！"
 	],
 	dependencies: [
 		"fb4de090"

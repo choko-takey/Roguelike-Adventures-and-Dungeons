@@ -1,10 +1,12 @@
 {
-	title: "Tear Fang?",
+	title: "提尔锋？",
 	x: 28.5d,
 	y: 3.0d,
-	description: "See, I'm good at this.",
+	description: "看好了，这可是我的拿手活计！",
 	text: [
-		"You guys need to keep up with me here."
+		"这方面我可是专家，兄弟！",
+		"（依据对方护甲造成额外真实伤害，很猛，打冰与火的龙和邪恶巫师很好使）",
+		"（别小看它，这刀巨猛！）"
 	],
 	dependencies: [
 		"0cb962a9"

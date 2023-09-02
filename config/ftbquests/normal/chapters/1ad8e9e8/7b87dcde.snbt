@@ -1,12 +1,12 @@
 {
-	title: "Shiny and Sparkling!",
+	title: "闪闪发光！",
 	x: 8.0d,
 	y: -3.0d,
-	description: "Like a diamond!",
+	description: "像是钻石！",
 	text: [
-		"Obtain a gemstone from the Betweenlands.",
+		"从交错次元中获得一颗宝石。",
 		"",
-		"They may grant special effects when infused with weapons and armor."
+		"当注入武器和护甲时，它们可能会产生特殊效果。"
 	],
 	dependencies: [
 		"5805bceb"

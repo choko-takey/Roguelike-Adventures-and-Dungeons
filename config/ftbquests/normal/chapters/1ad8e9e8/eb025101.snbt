@@ -1,16 +1,16 @@
 {
-	title: "O' Mighty Gods!",
+	title: "伟大的神啊！",
 	x: -5.5d,
 	y: 1.0d,
-	description: "Take this offering",
+	description: "拿走这个祭品",
 	text: [
-		"Simulacrums can grant certain blessings when offerings are left at Offering Tables near the Simulacrum.",
+		"雕像可以在附近的祭坛上有祭品留下时给予祝福",
 		"",
-		"Simulacrums must be broken and placed again for the effect to activate.",
+		"雕像必须被打破重新放置才能触发其效果",
 		"",
-		"They can be found rarely while exploring the Betweenlands.",
+		"它们可以在交错次元探索中小概率被发现",
 		"",
-		"Obtain one Simulacrum."
+		"获得一个雕像"
 	],
 	dependencies: [
 		"35775c9b"

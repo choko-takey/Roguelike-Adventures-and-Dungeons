@@ -1,10 +1,13 @@
 {
-	title: "Fertilizer is in the Air",
+	title: "呼吸施肥法",
 	x: 0.5d,
 	y: 1.5d,
-	description: "And not in the soil?",
+	description: "谁需要肥沃泥土啊",
 	text: [
-		"A Lamp of Growth makes plants grow faster. Uses Herba to function."
+		"催生灯通过消耗&aHerba&f源质来加速周围作物的生长。",
+		"一点&aHerba&f源质可以施肥20次。",
+		"工作范围为半径11格的圆，多个催生灯可以叠加效率。",
+		"（支持神秘农业）"
 	],
 	dependencies: [
 		"e976eaad"

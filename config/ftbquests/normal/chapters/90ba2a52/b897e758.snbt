@@ -1,10 +1,10 @@
 {
-	title: "Slime Slosher",
+	title: "史莱姆搅拌机",
 	x: 3.0d,
 	y: -5.5d,
-	description: "It's everywhere!",
+	description: "到处都是！",
 	text: [
-		"Kill 500 Slimes. Any cube counts."
+		"击杀500只史莱姆，各种大小都计数。"
 	],
 	can_repeat: true,
 	tasks: [{

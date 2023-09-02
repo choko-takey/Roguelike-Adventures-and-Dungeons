@@ -1,10 +1,10 @@
 {
-	title: "Molerats?!",
+	title: "鼹鼠？！",
 	x: 7.0d,
 	y: 9.5d,
-	description: "Almost...",
+	description: "差不多...",
 	text: [
-		"Kill 50 Crypt Crawlers."
+		"击杀50只地穴蠕行者。"
 	],
 	can_repeat: true,
 	tasks: [{

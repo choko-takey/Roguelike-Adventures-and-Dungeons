@@ -1,12 +1,12 @@
 {
-	title: "Stay Gold, Pony Boy",
+	title: "保持你的信心！我的小马！",
 	x: 19.0d,
 	y: -4.0d,
-	description: "I didn't know Pony Boy liked fidget spinners",
+	description: "我不确定小马会不会紧张来着……",
 	text: [
-		"Wanna know what they do? You need to read first.",
+		"这些东西是干啥的？你不会去看法典吗？",
 		"",
-		"You are only required to craft one item to complete this quest."
+		"你只需要制作一点点物品就可以完成这个任务。"
 	],
 	dependencies: [
 		"2fc72e67"

@@ -1,10 +1,10 @@
 {
-	title: "A Dire Circumstance",
+	title: "恶劣的环境",
 	x: 1.0d,
 	y: 1.0d,
-	description: "A call for great... help!",
+	description: "呼唤伟大的...帮助",
 	text: [
-		"Slay 25 of either type of large Wolf found in the Twilight Forest."
+		"击杀25只暮色森林大型狼（任一种）"
 	],
 	can_repeat: true,
 	or_tasks: true,

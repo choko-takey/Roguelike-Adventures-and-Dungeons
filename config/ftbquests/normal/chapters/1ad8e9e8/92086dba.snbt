@@ -1,12 +1,12 @@
 {
-	title: "The Most Angry Rock You've Ever Seen",
+	title: "你能见到的最生气的石头",
 	x: 5.0d,
 	y: -2.0d,
-	description: "Look at that face",
+	description: "瞧瞧那张脸",
 	text: [
-		"Angry Rocks will explode when thrown. Take max caution.",
+		"愤怒的卵石在扔出后会爆炸，请务必小心。",
 		"",
-		"These things are PISSED."
+		"这东西非常生气"
 	],
 	dependencies: [
 		"f093e2f7"

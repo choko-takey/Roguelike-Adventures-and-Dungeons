@@ -1,12 +1,12 @@
 {
-	title: "Like a Docking Station",
+	title: "像个拓展坞",
 	x: 20.5d,
 	y: 5.0d,
-	description: "It does it's job",
+	description: "这是工作啊宝",
 	text: [
-		"Only compatible with Embers devices.",
+		"只能为余烬装备充能。",
 		"",
-		"Putting a Siphon underneath will make your Charging Dock... do the opposite..."
+		"在下面放个灰烬能量虹吸器可以让它变成能量提取机……"
 	],
 	dependencies: [
 		"05276366"

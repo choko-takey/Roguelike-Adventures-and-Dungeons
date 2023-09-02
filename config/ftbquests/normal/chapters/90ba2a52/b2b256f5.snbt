@@ -1,16 +1,16 @@
 {
-	title: "Artefact Trader (Gold)",
+	title: "工艺品出售（金）",
 	x: 9.0d,
 	y: -3.5d,
-	description: "Gold stuffs for sale!",
+	description: "黄金出售！",
 	text: [
-		"Sell your unwanted Golden Artefacts.",
+		"卖掉你不想要的黄金工艺品。",
 		"",
-		"Submit ONE stack of Golden Artefacts to complete this quest.",
+		"提交一种黄金艺术品以完成此任务。",
 		"",
-		"Collect the reward after each completion.",
+		"每次完成后领取奖励。",
 		"",
-		"You will not receive rewards for more than one stack submission at a time."
+		"一次提交多种不会获得奖励。"
 	],
 	can_repeat: true,
 	or_tasks: true,

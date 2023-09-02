@@ -1,12 +1,12 @@
 {
-	title: "As Normal as It Gets",
+	title: "轻而易举的获取途径",
 	x: 10.5d,
 	y: 9.5d,
-	description: "This is really saying something, for this modpack",
+	description: "对于这个整合包而言，这东西很有意思",
 	text: [
-		"I wonder what it does?",
+		"什么作用？",
 		"",
-		"Hopefully something normal..."
+		"提拔孱弱者，挫钝锋锐者……"
 	],
 	dependencies: [
 		"020a4b1e"

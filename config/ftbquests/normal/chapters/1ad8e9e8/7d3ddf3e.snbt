@@ -1,12 +1,12 @@
 {
-	title: "Porcuspine",
+	title: "箭猪",
 	x: -12.0d,
 	y: 0.0d,
-	description: "Worse than anything Earth's animal defense mechanisms have to offer",
+	description: "比地球上的任何动物的防御机制都要糟糕",
 	text: [
-		"Obtain a Chiromaw Erupter.",
+		"获得一个翼手钩发射器。",
 		"",
-		"Right-clicking with this item in your mainhand will release a volley of quills in a 360 degree radius around your player."
+		"主手持有时右击触发其效果后，360度发射两轮翼手怪尖钩。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

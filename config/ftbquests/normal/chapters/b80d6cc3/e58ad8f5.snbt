@@ -1,10 +1,10 @@
 {
-	title: "The Hottest Fashion",
+	title: "追赶时代潮流的“热”浪",
 	x: 33.5d,
 	y: 3.0d,
-	description: "The opposite of being iced out... literally",
+	description: "与冷门相反……从各种意义是都是这样",
 	text: [
-		"You're dripping... no... melting?"
+		"你在流汗……不对，你在熔化？？？"
 	],
 	dependencies: [
 		"fe8f99b6"

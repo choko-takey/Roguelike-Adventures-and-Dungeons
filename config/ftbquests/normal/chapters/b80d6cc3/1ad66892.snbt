@@ -1,10 +1,10 @@
 {
-	title: "Atmometer",
+	title: "气量计",
 	x: 7.5d,
 	y: 1.5d,
-	description: "That's what it should've been called, anyways",
+	description: "不管怎么说，这就是它的名字",
 	text: [
-		"Tells you where the fires are."
+		"告诉你哪里更热，对就这样。"
 	],
 	dependencies: [
 		"322bb351"

@@ -1,12 +1,12 @@
 {
-	title: "Boom Bang Pow!",
+	title: "爆破之力！",
 	x: 33.0d,
 	y: 1.0d,
-	description: "And a crashing and burning!",
+	description: "以及一声巨响和冲天而起的火光……",
 	text: [
-		"And from the ashes, your player characer is born!",
+		"你于灰烬中诞生……",
 		"",
-		"I'm too good at telling stories."
+		"啧，我可真会讲故事哈！"
 	],
 	dependencies: [
 		"fe8f99b6"

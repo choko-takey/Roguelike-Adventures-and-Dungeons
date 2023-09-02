@@ -1,10 +1,10 @@
 {
-	title: "Pet Graveyard",
+	title: "宠物坟场",
 	x: -12.0d,
 	y: -5.5d,
-	description: "I miss my goldfish",
+	description: "我想我的金鱼了",
 	text: [
-		"Obtain the Ring of Gathering. It can be used to summon dead Betweenlands pets."
+		"得到召集之戒。 它可以召唤你死去的交错次元宠物。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

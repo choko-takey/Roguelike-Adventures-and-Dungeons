@@ -1,10 +1,10 @@
 {
-	title: "How Does Anyone Do Anything around Here?",
+	title: "这里满员了该怎么办？",
 	x: 10.0d,
 	y: 2.0d,
-	description: "With these babies",
+	description: "看法宝！",
 	text: [
-		"These things are your friend. If you don't have them, you only have enemies."
+		"这东西就像你的家人一样，如果没有他们，你举世皆敌。"
 	],
 	dependencies: [
 		"e07e8bcc"

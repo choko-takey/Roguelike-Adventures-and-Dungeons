@@ -1,10 +1,10 @@
 {
-	title: "Spunky Spores",
+	title: "活气满满的孢子",
 	x: 3.0d,
 	y: -1.5d,
-	description: "They're hyper!",
+	description: "它们正处于活性中！",
 	text: [
-		"Obtain Spores for animation."
+		"获得可活化的孢子。"
 	],
 	dependencies: [
 		"f093e2f7"

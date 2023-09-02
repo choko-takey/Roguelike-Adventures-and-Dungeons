@@ -1,10 +1,10 @@
 {
-	title: "Just a Fixer-Upper",
+	title: "只是个待修房",
 	x: -3.0d,
 	y: -7.5d,
-	description: "Nothing to worry about *boom*",
+	description: "没什么好担心的 *嘣*",
 	text: [
-		"Prepare for your dangerous adventures by crafting some of these."
+		"为了更好地准备你的危险冒险，合成一些。"
 	],
 	dependencies: [
 		"995ca541"

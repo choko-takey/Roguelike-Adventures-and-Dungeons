@@ -1,10 +1,10 @@
 {
-	title: "Angler Angler",
+	title: "钓鱼者鮟鱇鱼",
 	x: 13.0d,
 	y: 9.5d,
-	description: "Fishing for the foes!",
+	description: "为敌人钓鱼！",
 	text: [
-		"Kill 50 Anglers."
+		"击杀50只鮟鱇鱼。"
 	],
 	tasks: [{
 		uid: "8be31885",

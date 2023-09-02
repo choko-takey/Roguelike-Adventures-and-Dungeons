@@ -1,14 +1,14 @@
 {
-	title: "The Bark Amulet",
+	title: "树皮护身符",
 	x: -12.0d,
 	y: 5.0d,
-	description: "WOOF",
+	description: "汪汪汪~",
 	text: [
-		"Obtain The Bark Amulet.",
+		"获得树皮护身符",
 		"",
-		"No, it isn't a dog toy.",
+		"不，它不是狗玩具。",
 		"",
-		"Displays approximate health of nearby mobs... which is useless in this modpack..."
+		"能够显示附近生物的大致生命值……不过在本整合包中完全用不上……"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

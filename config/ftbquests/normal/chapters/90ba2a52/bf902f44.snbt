@@ -1,10 +1,10 @@
 {
-	title: "Ssssss",
+	title: "嘶嘶嘶~~",
 	x: 1.0d,
 	y: -5.5d,
-	description: "Ssssss",
+	description: "Ssssss~~~~~",
 	text: [
-		"Destroy 50 Creepers."
+		"击杀50只爬行者。"
 	],
 	can_repeat: true,
 	tasks: [{

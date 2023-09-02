@@ -1,14 +1,14 @@
 {
-	title: "Portability is Power",
+	title: "便携能量源",
 	x: 12.0d,
 	y: -2.0d,
-	description: "Rechargable too!",
+	description: "可充电电池！",
 	text: [
-		"These items will carry Ember power in your inventory.",
+		"这些东西可以存储余烬能量，供给那些需要使用能量的工具。",
 		"",
-		"Items in your inventory which use Ember will take Ember power from the Mantle Jar if needed.",
+		"使用需要余烬能量的工具时，它们会从这些地幔能量罐中抽取能量。",
 		"",
-		"You must hold the Mantle Cartridge in your hand to use its Ember power."
+		"你必须把地幔能量罐放在副手才可以让工具抽取其中的能量。"
 	],
 	dependencies: [
 		"bc1659db"

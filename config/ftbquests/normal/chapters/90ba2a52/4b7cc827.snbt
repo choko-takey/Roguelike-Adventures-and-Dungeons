@@ -1,10 +1,10 @@
 {
-	title: "Nip It at the Bud",
+	title: "咬它的枝芽",
 	x: -2.0d,
 	y: 0.0d,
-	description: "Right at the head",
+	description: "就在头上",
 	text: [
-		"Slay 5 Naga."
+		"击杀5只娜迦"
 	],
 	can_repeat: true,
 	tasks: [{

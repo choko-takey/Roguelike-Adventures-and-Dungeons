@@ -1,10 +1,10 @@
 {
-	title: "Lighter on Your Feet",
+	title: "平步青云",
 	x: 7.5d,
 	y: -3.5d,
-	description: "Feels like a few pounds were lost",
+	description: "我感觉我瘦了几十斤",
 	text: [
-		"The Cloudstepper Ring allows feather falling and a double jump."
+		"云霄指环可以让佩戴者二段跳。"
 	],
 	dependencies: [
 		"d61d7f87"

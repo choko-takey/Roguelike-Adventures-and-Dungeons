@@ -1,10 +1,10 @@
 {
-	title: "Ecologist",
+	title: "生态学者",
 	x: -3.5d,
 	y: -3.0d,
-	description: "You love critters, don't you?",
+	description: "你爱小生物，不是吗？",
 	text: [
-		"Collect all the critters and crawlies in the Betweenlands."
+		"收集交错次元的所有小生物和爬虫。"
 	],
 	dependencies: [
 		"e0f3a0f2"

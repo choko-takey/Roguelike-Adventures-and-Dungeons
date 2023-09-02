@@ -1,10 +1,10 @@
 {
-	title: "Don't Stare at the Sun",
+	title: "请勿直视太阳",
 	x: 4.75d,
 	y: -9.0d,
-	description: "You'll have vision damage, silly",
+	description: "你的眼睛可受不住太阳光的照射，小傻瓜",
 	text: [
-		"Collect all of the Celestial Notes."
+		"收集所有天象笔记（记得身上带上笔与墨和纸张）"
 	],
 	dependencies: [
 		"cbbc2be8"

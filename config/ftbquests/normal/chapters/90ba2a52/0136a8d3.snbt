@@ -1,16 +1,16 @@
 {
-	title: "Scale Seller (Dragons)",
+	title: "鳞片出售（龙）",
 	x: 16.0d,
 	y: -6.5d,
-	description: "Strong shiny scales for sale!",
+	description: "强烈闪亮的鳞片出售！",
 	text: [
-		"Sell your unwanted Dragon Scales.",
+		"卖掉你不想要的龙鳞。",
 		"",
-		"Submit ONE stack of Dragon Scales at a time to complete this quest.",
+		"每次提交一种龙鳞以完成此任务。",
 		"",
-		"Collect the reward after each completion.",
+		"每次完成后领取奖励。",
 		"",
-		"You will not receive rewards for more than one stack submission at a time."
+		"一次提交多组不会获得奖励。"
 	],
 	can_repeat: true,
 	or_tasks: true,

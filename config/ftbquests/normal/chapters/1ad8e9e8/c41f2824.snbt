@@ -1,10 +1,10 @@
 {
-	title: "Dimensional Disco Dance-Off",
+	title: "跨纬度迪斯科舞蹈大赛",
 	x: -5.5d,
 	y: -2.0d,
-	description: "Boogy-Bogman Ft. Scary Skeleton",
+	description: "恐怖生物与吓人骷髅的合作",
 	text: [
-		"Collect all of the musical discs scattered amongst the Betweenlands."
+		"收集交错次元中所有散落的音乐光盘"
 	],
 	dependencies: [
 		"35775c9b"

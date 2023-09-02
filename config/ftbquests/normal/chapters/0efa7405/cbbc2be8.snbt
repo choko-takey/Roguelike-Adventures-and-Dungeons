@@ -1,12 +1,12 @@
 {
-	title: "The Observational Assistant",
+	title: "世界之窗",
 	x: 3.0d,
 	y: -9.0d,
-	description: "Like an intern who you abuse",
+	description: "和那些无良企业压榨实习生一样",
 	text: [
-		"The Thaumometer will allow you to scan objects in your inventory by picking the item up, and hovering over other items inside your inventory, with the item in hand.",
+		"魔导透镜可以扫描你背包里的物品，使用方式是鼠标拿起透镜，然后移到物品上。",
 		"",
-		"You can also hold the item in your Main-Hand and Right-Click to observe objects, entities and blocks that have blue sparkles around them. This can advance research, and unlock theories."
+		"你也可以拿着它四处转悠，发现那些冒蓝光的方块就去右击扫描（有些需要按下shift）"
 	],
 	dependencies: [
 		"1af03bae"

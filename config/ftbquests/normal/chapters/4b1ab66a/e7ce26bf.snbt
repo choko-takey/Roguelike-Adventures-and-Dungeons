@@ -1,21 +1,21 @@
 {
-	title: "Brand New Kitchen-Aid",
+	title: "全新厨具辅助设备",
 	icon: "cookingforblockheads:oven",
 	x: 8.5d,
 	y: -5.5d,
-	description: "Your grandma is jealous of my grandma",
+	description: "你奶奶都羡慕我奶奶了",
 	text: [
-		"Your grandma can only DREAM of having a kitchen like this.",
+		"你奶奶都梦想着拥有这样的厨房",
 		"",
-		"All kitchen pieces will create a single linked inventory. The \"inventory\" is internal, meaning all items from all linked kitchen pieces will be available at each kitchen piece you can craft at.",
+		"所有的厨房用品都将创建连接着库存的路径，这个“库存”是内部的，这意味着所有链接厨房设备的物品都将可以在每个厨房设备中可用。",
 		"",
-		"In otherwords, having a Fridge and a Cooking Table next to each other allows the Cooking Table to \"access\" the inventory of the Fridge when crafting.",
+		"换句话说，冰箱和烹饪桌相邻，则烹饪桌可以在制作时访问冰箱内部库存。",
 		"",
-		"Additionally, Kitchen Flooring may be used to link kitchen pieces across rooms without having them next to each other. Simply place all of your kitchen pieces on top of the Kitchen Flooring to link them together.",
+		"此外，厨房地板也可以用于连接房间中的厨房设备，而无需令它们彼此相邻。只需要把所有厨房设备放在厨房地板上，就可以将它们联结在一起了。",
 		"",
-		"This being said, it is genuinely recommended you create a large space of Kitchen Flooring to place all kitchen pieces on. This is to ensure all pieces will definitely be linked for when you want to bust out those big meals.",
+		"话虽这么说，但我由衷地建议您，在厨房地板上建立一个巨大空间，以方便放置所有的厨房设备。这是在您想要吃大餐的时候，能够保证所有设备都会连接在一起。",
 		"",
-		"Additionally, racks, baskets and toasters must be placed on top/above kitchen pieces in order to be linked. Racks can also be placed on kitchen pieces themselves, but having a rack in front of your kitchen drawers may look a bit strange."
+		"对了，架子、篮子和烤面包机必须放置在厨房设备顶部，来保证连接起来。架子也可以安装在厨房设备上，但是厨房抽屉面前放个架子会不会看起来有点怪怪的？"
 	],
 	dependencies: [
 		"650e7f63"

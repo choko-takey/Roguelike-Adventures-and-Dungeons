@@ -1,20 +1,20 @@
 {
-	title: "Visit the Betweenlands",
+	title: "探索交错次元",
 	x: -6.5d,
 	y: -0.5d,
-	description: "Nice and cozy",
+	description: "又好又舒适",
 	text: [
-		"Visit the other-worldly Betweenlands.",
+		"探索异世界交错次元。",
 		"",
-		"Use great caution.",
+		"再小心都不为过。",
 		"",
-		"If you've spawned inside of a Sludge Plain or Deep Waters biome, it is suggested to head elsewhere.",
+		"如果你出生在污泥平原或深水生物群系，建议你动身前往别的地方。",
 		"",
-		"Those biomes do not have the required materials to progress through some of the mod.",
+		"这些生物群系没有足够的材料来完成模组的一些进程。",
 		"",
-		"This mod is probably one of the most difficult in the pack, especially if done at a higher world difficulty.",
+		"这个模组可能是整个整合包中最难的一个，特别是在更高的难度下。",
 		"",
-		"Good luck and have fun!"
+		"祝你好运，玩得开心！"
 	],
 	dependencies: [
 		"26c0736a"

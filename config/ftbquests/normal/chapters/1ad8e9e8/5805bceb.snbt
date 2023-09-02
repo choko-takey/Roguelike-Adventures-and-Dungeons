@@ -1,18 +1,18 @@
 {
-	title: "Two Is Better Than One",
+	title: "两个总比一个强",
 	x: 9.0d,
 	y: -0.5d,
-	description: "Got the dualies!",
+	description: "超级加倍！",
 	text: [
-		"And I'm not talkin tires!",
+		"我说的可不是斗地主。",
 		"",
-		"Craft a Dual Sulfur Furnace.",
+		"造一个双层硫磺熔炉",
 		"",
-		"Not as fast as the normal Furnace, it just looks pretty.",
+		"虽然没有普通熔炉那么快，但是外观可好看太多了。",
 		"",
-		"Powered with Sulfur.",
+		"燃料是硫磺。",
 		"",
-		"Adding Limestone Flux to the left fuel slot will add a chance to produce 2 Syrmorite or Octine Ingots per smelt."
+		"在左边的辅料格放置石灰粉，在熔炼赛摩铜矿石与炽炎铁矿石时，有几率消耗石灰粉获得双倍产物。"
 	],
 	dependencies: [
 		"3c192351"

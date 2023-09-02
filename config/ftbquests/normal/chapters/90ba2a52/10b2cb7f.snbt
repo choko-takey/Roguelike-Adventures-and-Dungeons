@@ -1,10 +1,10 @@
 {
-	title: "For Peat (Mummy) Sake!",
+	title: "为了泥炭（木乃伊）",
 	x: 4.0d,
 	y: 9.5d,
-	description: "This isn't your traditional mummy...",
+	description: "这不是传统木乃伊。。。",
 	text: [
-		"Slay 15 Peat Mummies."
+		"击杀15只泥炭木乃伊。"
 	],
 	can_repeat: true,
 	tasks: [{

@@ -1,10 +1,10 @@
 {
-	title: "Critter Catcher!",
+	title: "去抓小动物吧！",
 	x: -2.0d,
 	y: -3.0d,
-	description: "Gotcha!",
+	description: "抓到你了！",
 	text: [
-		"Craft a Net so you can catch all the little critters you've seen running around the dimension!"
+		"制作一个网，这样你就可以去抓你在这个维度里看到的所有小动物！"
 	],
 	dependencies: [
 		"00e136e8"

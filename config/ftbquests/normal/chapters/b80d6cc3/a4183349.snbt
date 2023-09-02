@@ -1,10 +1,10 @@
 {
-	title: "Under Pressure Performance",
+	title: "高压政策",
 	x: 14.5d,
 	y: 1.5d,
-	description: "Meeting all the quotas",
+	description: "全数达标！",
 	text: [
-		"Your co-workers are telling you to work slower."
+		"没人告诉过你不要卷的那么狠吗？"
 	],
 	dependencies: [
 		"899a9a02"

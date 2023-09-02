@@ -1,10 +1,10 @@
 {
-	title: "Wight Light",
+	title: "闪光阿飘",
 	x: -1.0d,
 	y: 9.5d,
-	description: "They brighten up your day!",
+	description: "它们让你的一天更加明亮！",
 	text: [
-		"Kill 50 Wights."
+		"击杀50只阴魂。"
 	],
 	can_repeat: true,
 	tasks: [{

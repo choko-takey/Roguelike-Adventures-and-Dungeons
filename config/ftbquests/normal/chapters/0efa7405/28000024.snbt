@@ -1,16 +1,16 @@
 {
-	title: "Basically the Bible",
+	title: "建议封为圣经",
 	x: -1.5d,
 	y: -9.0d,
-	description: "Atleast in this modpack, it is",
+	description: "至少在这个包里它就是圣经",
 	text: [
-		"This book guide you through the mod. Thaumcraft does a very good job of explaining and detailing instructions and how to do this to players.",
+		"这本书会伴随你研究神秘直至疯狂……好吧，TC在引导这方面确实做到挺好。",
 		"",
-		"Though at times you may have to use your brain a bit, this book has everything you need to know, and you can access it by clicking around inside the GUI when you open it. Click on everything. You might open some new information!",
+		"虽然大多数时候你都不需要消耗太多脑细胞在阅读和理解这本书上，但是如果你脑子比较灵光，我想你应该会有很多新点子……",
 		"",
-		"This book is similar to the FTB Questbook. You must complete objectives before you can move on with unlocking more content while exploring Thaumcraft.",
+		"这本书里的内容和FTB任务书差不多，你必须完成上面的任务才可以开启并完成新研究。",
 		"",
-		"Read all new info CAREFULLY. Some info is only available one time, and pages may change after hitting \"Complete\"."
+		"&4&o请仔细阅读！有些研究需要的物品是会消耗的！是会消耗的！！！！所以在你点击完成按钮前仔细阅读研究内容！！！！"
 	],
 	dependencies: [
 		"f40f0022"

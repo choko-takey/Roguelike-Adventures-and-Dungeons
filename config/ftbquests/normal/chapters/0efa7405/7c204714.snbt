@@ -1,12 +1,12 @@
 {
-	title: "Cast Iron",
+	title: "一口铁锅",
 	x: 7.0d,
 	y: -9.0d,
-	description: "Casting magic, that is",
+	description: "魔法大锅炖……是的，就是这样",
 	text: [
-		"You're like an Iron Chef if they used toxic chemicals.",
+		"如果你往里面投入一些有毒物质……那么你就是个料理铁人了。",
 		"",
-		"The Crucible will be necessary for many basic items and recipes in Thaumcraft. Be sure to read up, and study your Bible... I mean... Thaumonomicon!"
+		"坩埚是神秘时代里重要的合成站。有关它的更多内容，请翻阅你的圣经……我是说魔导手册！"
 	],
 	dependencies: [
 		"ff32fe90",

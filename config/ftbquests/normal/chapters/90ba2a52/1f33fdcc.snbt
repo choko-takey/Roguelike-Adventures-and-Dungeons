@@ -1,10 +1,10 @@
 {
-	title: "Steve the Giant Slayer",
+	title: "巨人杀手史蒂夫！",
 	x: -2.0d,
 	y: 1.0d,
-	description: "Climbing up to the clouds!",
+	description: "爬上云端！",
 	text: [
-		"Slay 25 Giants in the clouds of the Twilight Forest."
+		"在暮色森林的云层中杀死25个巨人。"
 	],
 	can_repeat: true,
 	tasks: [{

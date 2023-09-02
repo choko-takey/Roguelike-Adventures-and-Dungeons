@@ -1,10 +1,10 @@
 {
-	title: "Barbaric Bronze",
+	title: "铁血青铜",
 	x: 21.5d,
 	y: -2.5d,
-	description: "How crude...",
+	description: "粗糙而质朴",
 	text: [
-		"Whelp, better mass produce it!"
+		"小鬼！这都是为了批量化生产！"
 	],
 	dependencies: [
 		"bcb31588"

@@ -1,10 +1,10 @@
 {
-	title: "The Darkest Magic",
+	title: "最黑暗的魔法",
 	x: -2.0d,
 	y: 9.5d,
-	description: "What are they up to?",
+	description: "他们在干什么？",
 	text: [
-		"Strike down 30 Dark Druids."
+		"击杀30名黑暗德鲁伊。"
 	],
 	can_repeat: true,
 	tasks: [{

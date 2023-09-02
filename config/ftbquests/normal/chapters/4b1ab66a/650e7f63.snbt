@@ -1,12 +1,12 @@
 {
-	title: "Idiot Sandwich",
+	title: "傻瓜三明治",
 	x: 5.5d,
 	y: -4.5d,
-	description: "Yes, yes you are",
+	description: "对，说的就是你",
 	text: [
-		"These books will help you discover and strive towards new flavors!",
+		"这些书将帮助你发现并追求一些新风味！",
 		"",
-		"Flavortown here we come!"
+		"风味小镇我们来咯！"
 	],
 	dependencies: [
 		"e32d3b8b"

@@ -1,12 +1,12 @@
 {
-	title: "Chiromawnsters",
+	title: "翼手族",
 	x: 0.0d,
 	y: 9.5d,
-	description: "Evil little things",
+	description: "邪恶的小东西",
 	text: [
-		"Swat 100 Chiromaw",
-		"OR",
-		"Swat 15 Chiromaw Matriarchs"
+		"击杀100只翼手怪",
+		"或者",
+		"击杀15只翼手女王"
 	],
 	can_repeat: true,
 	or_tasks: true,

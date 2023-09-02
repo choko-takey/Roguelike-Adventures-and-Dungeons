@@ -1,10 +1,10 @@
 {
-	title: "C'mout Wher'ever Y'ar!",
+	title: "不管你在哪，快快离开！",
 	x: 1.5d,
 	y: -5.5d,
-	description: "Show y'self now!",
+	description: "速速现身！",
 	text: [
-		"Craft some Mummy Bait, and draw out the Dreadful Peat Mummy."
+		"制作一些木乃伊诱饵，引出可怕的泥炭木乃伊。"
 	],
 	dependencies: [
 		"00e136e8"

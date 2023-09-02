@@ -1,12 +1,15 @@
 {
-	title: "Essentia Sorter",
+	title: "源质分拣装置",
 	x: 15.0d,
 	y: -10.5d,
-	description: "Gotta stack them high",
+	description: "堆高高就对了",
 	text: [
-		"Arcane Alembics filter out the essentia from a Smeltery when stacked on top.",
+		"将蒸馏器堆在源质冶炼厂顶端时，会自动分拣源质冶炼厂中的一种源质并存入其中。",
 		"",
-		"You might need a few dozen and a ladder."
+		"也许你需要叠高一点……顺便准备一个梯子。",
+		"",
+		"",
+		"PS：别叠太高，三格就差不多了。叠几个附属黏浆泵比单纯堆高度要好得多。"
 	],
 	dependencies: [
 		"f8a63da8"

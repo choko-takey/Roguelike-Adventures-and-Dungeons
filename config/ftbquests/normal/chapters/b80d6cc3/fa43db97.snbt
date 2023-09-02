@@ -1,18 +1,18 @@
 {
-	title: "Mystical Mystery",
+	title: "神秘的精髓所在",
 	x: 21.0d,
 	y: -4.0d,
-	description: "Have fun figuring out which ones are the best for what!",
+	description: "玩的开心我的宝！这么多齿轮总有一款适合你",
 	text: [
-		"These gears can be used in the gearboxes from Embers.",
+		"这些齿轮大多都可以装在余烬奇械的齿轮箱上。",
 		"",
-		"The Black Hole and Iron Fan Gears will pull and push, respectively.",
+		"BlackHole和铁风扇分别可以将实体吸过来和吹走。",
 		"",
-		"There is a best gear, but the returns on all the gears are very similar.",
+		"每种齿轮都有一个最适合它们的档位，在满足它们的档位条件时，可以获得额外的机械能加成（什么原理？）",
 		"",
-		"The RAD Management Team might experiment with configuring the values for gears at a later time! :)",
+		"RAD的作者团队会根据玩家社区的反馈来调整齿轮数值的 :)",
 		"",
-		"You are only required to craft one item to complete this quest."
+		"你只需要制作一些物品就可以完成这个任务。"
 	],
 	dependencies: [
 		"2fc72e67"

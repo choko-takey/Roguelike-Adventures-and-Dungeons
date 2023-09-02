@@ -1,10 +1,10 @@
 {
-	title: "Whipping the Wildfire",
+	title: "给余烬之火一鞭子！",
 	x: 32.0d,
 	y: 0.5d,
-	description: "Whip it up!",
+	description: "好好干活！不许偷懒！",
 	text: [
-		"Skrrt."
+		"Skrrt！"
 	],
 	dependencies: [
 		"fe8f99b6"

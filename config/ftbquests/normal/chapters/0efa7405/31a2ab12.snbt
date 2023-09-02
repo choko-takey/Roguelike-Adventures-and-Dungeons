@@ -1,10 +1,10 @@
 {
-	title: "Got Swag?",
+	title: "这里头有暗兜吗",
 	x: 7.0d,
 	y: 1.5d,
-	description: "You sure as heck do!",
+	description: "嘿，简直完美",
 	text: [
-		"Infuse the Thaumium Fortress armor set."
+		"打造全套的神秘要塞盔甲"
 	],
 	dependencies: [
 		"d61d7f87"

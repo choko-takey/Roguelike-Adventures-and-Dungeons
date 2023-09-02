@@ -1,12 +1,12 @@
 {
-	title: "Voodoo V2",
+	title: "第二代巫毒面具",
 	x: -12.5d,
 	y: 6.0d,
-	description: "Are you scared?",
+	description: "你在害怕吗？",
 	text: [
-		"You should be!",
+		"你应该是！",
 		"",
-		"Obtain a Spirit Tree Mask of any size."
+		"获得一个任意尺寸的灵树面罩。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

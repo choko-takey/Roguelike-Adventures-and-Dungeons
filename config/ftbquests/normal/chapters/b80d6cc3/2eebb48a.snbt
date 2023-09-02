@@ -1,10 +1,10 @@
 {
-	title: "Now This Is Real Alchemy!",
+	title: "这才叫炼金术！",
 	x: 27.0d,
 	y: 5.5d,
-	description: "The true test of transmutation!",
+	description: "抛却所能抛却的，标记值得留下的",
 	text: [
-		"Finally, something that won't burn me, hopefully."
+		"小心点，别烫着了！"
 	],
 	dependencies: [
 		"0cb962a9"

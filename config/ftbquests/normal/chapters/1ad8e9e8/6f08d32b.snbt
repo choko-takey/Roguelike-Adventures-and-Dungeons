@@ -1,14 +1,14 @@
 {
-	title: "Wight's Are Always Right",
+	title: "阴魂总是对的",
 	x: -12.5d,
 	y: -1.0d,
-	description: "Sike, you thought",
+	description: "蹲下，正如你想的",
 	text: [
-		"Now die!",
+		"现在去死！",
 		"",
-		"Obtain Wight's Bane.",
+		"获得鬼魂杀手。",
 		"",
-		"This item will instanly kill any Wights it touches."
+		"这个东西会立刻杀死它碰到的任意阴魂。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

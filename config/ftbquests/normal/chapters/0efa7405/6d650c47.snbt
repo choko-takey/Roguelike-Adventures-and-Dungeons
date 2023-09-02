@@ -1,10 +1,11 @@
 {
-	title: "Essentia WiFi",
+	title: "源质信号塔",
 	x: 22.5d,
 	y: -7.0d,
-	description: "Saves you on pipes later",
+	description: "管道？过时的老东西……",
 	text: [
-		"As the name suggests, the Emptying Essentia Transfuser empties the corresponding jar, while the Filling Essentia Transfuser fills the jar."
+		"这对机械无需配对使用。源质析出装置会将它贴着的源质存储设备里的源质输送到它正对面11*11内所有的空罐子里（就近原则）",
+		"源质注入装置会从它正对面11*11范围内的罐子里抽取源质以填充自身贴着的机械内部的源质存储。（炼金塔的标配）"
 	],
 	dependencies: [
 		"aa162004"

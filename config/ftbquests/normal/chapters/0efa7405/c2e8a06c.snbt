@@ -1,10 +1,12 @@
 {
-	title: "Minecraft 1.19?",
+	title: "幽匿感测体？",
 	x: 7.5d,
 	y: 4.5d,
-	description: "At least we don't have Warden in 1.12.2",
+	description: "当然1.12你是见不到坚守者的",
 	text: [
-		"Arcane Ears function similar to Warden Sensers. However, the Arcane Ear must be tuned to a note block to respond to."
+		"奥术之耳有着和幽匿感测体类似的能力：接收声音并发出红石信号",
+		"",
+		"不过它绑定的是音符盒……"
 	],
 	dependencies: [
 		"9e146a1f"

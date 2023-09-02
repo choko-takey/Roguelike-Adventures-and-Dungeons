@@ -1,16 +1,16 @@
 {
-	title: "Kitchen-Aid+",
+	title: "厨房辅助设备Plus",
 	x: -5.5d,
 	y: -3.0d,
-	description: "This is the expensive #%@&",
+	description: "这可是最贵的啊啊啊！！#%@&",
 	text: [
-		"Grandma paid good money for this stuff, so don't break it!",
+		"我奶奶花了很多钱买这些东西，所以请别弄坏了！",
 		"",
-		"These items will aid you in creating certain Pam's Harvest recipes.",
+		"这些物品将帮助你创造一些潘马斯农场的食谱。",
 		"",
-		"Have fun exploring Flavortown now!",
+		"尽情探索风味小镇吧！",
 		"",
-		"Craftin all stations is required."
+		"需要制作所有的设备。"
 	],
 	dependencies: [
 		"9b9366c6"

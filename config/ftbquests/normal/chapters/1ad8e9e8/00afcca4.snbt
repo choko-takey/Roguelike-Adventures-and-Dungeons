@@ -1,12 +1,12 @@
 {
-	title: "The Old Fashioned Way",
+	title: "流传下来的好方法",
 	x: 3.5d,
 	y: 1.5d,
-	description: "This is how I make my guac",
+	description: "这就是我做牛油果酱的方法",
 	text: [
-		"Craft a Mortar and Pestle.",
+		"合成一个研磨器。",
 		"",
-		"This station is used to grind up certain items to be used in the Infuser."
+		"这用于研磨特定的物品，然后可以添加到炼药器中。"
 	],
 	dependencies: [
 		"3c192351"

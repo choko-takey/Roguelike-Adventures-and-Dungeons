@@ -1,13 +1,14 @@
 {
-	title: "Infernal Furnace",
+	title: "炼狱熔炉",
 	icon: "minecraft:nether_brick",
 	x: 4.5d,
 	y: 2.5d,
-	description: "It doesn't have respect to any items it smelts",
+	description: "它不会返还任何丢入其内的物品……",
 	text: [
-		"Follow the Thaumonomicon on how to construct this.",
+		"怎么搭建？请参阅你的圣经……",
 		"",
-		"You put the items in; it spits the items out."
+		"向里面丢入可熔炼物品，然后过一会它会把产物吐出来（支持箱子）",
+		"（别把你的神剑神镐丢进去了！）"
 	],
 	dependencies: [
 		"187ba0b2"

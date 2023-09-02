@@ -1,12 +1,12 @@
 {
-	title: "Power Rangers in Tool Form",
+	title: "更有帕瓦的工具",
 	x: 10.0d,
 	y: 1.5d,
-	description: "Together, you have the best tools",
+	description: "这大概是你在这个包里可以拿到的最好的工具了",
 	text: [
-		"Lest you become insane because of it.",
+		"不过代价是什么呢？",
 		"",
-		"Infuse this tool set."
+		"管他呢，造它就完啦！"
 	],
 	dependencies: [
 		"d61d7f87"

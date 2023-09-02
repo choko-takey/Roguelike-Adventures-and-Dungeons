@@ -1,10 +1,10 @@
 {
-	title: "Goblin Goons",
+	title: "妖精打手",
 	x: 3.0d,
 	y: 1.0d,
-	description: "They're up to no good",
+	description: "他们做得不好",
 	text: [
-		"Slay 25 of any Goblin found in the Twilight Forest."
+		"杀死25个暮色森林中发现的任何妖精。"
 	],
 	can_repeat: true,
 	or_tasks: true,

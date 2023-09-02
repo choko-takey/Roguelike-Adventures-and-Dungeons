@@ -1,10 +1,10 @@
 {
-	title: "Let Em' Rip!",
+	title: "让他们裂开",
 	x: -1.0d,
 	y: -3.0d,
-	description: "Your worst nightmare come true",
+	description: "你最可怕的噩梦成真了",
 	text: [
-		"Kill 50 Spinouts."
+		"击杀50只回旋石英刃。"
 	],
 	can_repeat: true,
 	tasks: [{

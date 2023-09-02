@@ -1,16 +1,16 @@
 {
-	title: "Back to the Styx!",
+	title: "回到黄泉！",
 	x: 1.0d,
 	y: 6.5d,
-	description: "Un-Die!",
+	description: "不死！",
 	text: [
-		"Slay 50 Forsaken",
-		"OR",
-		"Slay 50 Mummies",
-		"OR ",
-		"Slay 50 Wraiths",
-		"OR",
-		"Slay 50 Bonestorms"
+		"击杀50只被遗忘者",
+		"或者",
+		"击杀50只木乃伊",
+		"或者",
+		"击杀50只怨灵",
+		"或者",
+		"击杀50只骨头风暴"
 	],
 	can_repeat: true,
 	or_tasks: true,

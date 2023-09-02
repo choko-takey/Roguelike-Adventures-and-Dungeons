@@ -1,10 +1,10 @@
 {
-	title: "Worse Than Tremors",
+	title: "比震颤更糟糕",
 	x: 1.0d,
 	y: 9.5d,
-	description: "To the windows, to the walls!",
+	description: "对着窗户，对着墙壁！",
 	text: [
-		"Stomp 100 Sludge Worms."
+		"击杀100只大型烂泥蠕虫。"
 	],
 	can_repeat: true,
 	tasks: [{

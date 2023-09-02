@@ -1,14 +1,14 @@
 {
-	title: "Ancient Armaments",
+	title: "古代装备",
 	x: -12.0d,
 	y: -4.0d,
-	description: "Older than you!",
+	description: "比你还老！",
 	text: [
-		"Obtain all of the Ancient armor and weapons.",
+		"获取所有古代盔甲和武器",
 		"",
-		"Ancient Armor will protect the user from magic damage.",
+		"古代盔甲可以保护使用者免受魔法伤害。",
 		"",
-		"Ancient weapons do not have any special effects other than doing large amounts of damage."
+		"古代武器没有任何特殊效果，只能朴素的造成大量的伤害。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

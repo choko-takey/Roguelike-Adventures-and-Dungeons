@@ -1,16 +1,16 @@
 {
-	title: "Your Momium",
+	title: "令堂",
 	x: 12.5d,
 	y: -11.5d,
-	description: "Got you good",
+	description: "啊对",
 	text: [
-		"That's my best one yet.",
+		"这简直太完美了。",
 		"",
-		"Make all of the Thaumium armor and tools.",
+		"制作全套的神秘锭盔甲和工具。",
 		"",
-		"Yes, you might flood your base with Flux, but that's okay.",
+		"是的，这个过程可能会产生很多咒波，但那又怎么样呢。",
 		"",
-		"Actually it isn't; be very careful."
+		"好吧似乎确实不太行，你还是小心点吧。"
 	],
 	dependencies: [
 		"1ce5751a"

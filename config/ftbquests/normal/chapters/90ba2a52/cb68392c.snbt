@@ -1,13 +1,13 @@
 {
-	title: "Apocalypse Now",
+	title: "现代启示录",
 	icon: "minecraft:rotten_flesh",
 	x: -1.0d,
 	y: -5.5d,
-	description: "World War Z didn't have a thing on this game",
+	description: "僵尸世界大战对这个游戏毫无影响",
 	text: [
-		"Kill 50 Zombies",
-		"OR",
-		"Kill 50 Husks"
+		"击杀50只僵尸",
+		"或者",
+		"击杀50只尸壳"
 	],
 	can_repeat: true,
 	or_tasks: true,

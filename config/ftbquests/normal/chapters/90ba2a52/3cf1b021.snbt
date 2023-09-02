@@ -1,10 +1,10 @@
 {
-	title: "Mim-I-Cry",
+	title: "我想我哭了",
 	x: 1.0d,
 	y: 4.0d,
-	description: "I cry because I thought it was loot",
+	description: "因为我以为这是宝箱",
 	text: [
-		"Slay 50 Mimics."
+		"击杀50只拟箱怪。"
 	],
 	can_repeat: true,
 	tasks: [{

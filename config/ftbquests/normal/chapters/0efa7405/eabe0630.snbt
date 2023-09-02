@@ -1,12 +1,14 @@
 {
-	title: "The Coolest Hologram in RAD",
+	title: "这个包最酷的全息投影",
 	x: 0.75d,
 	y: 5.0d,
-	description: "Comes with a white and purple toggle!",
+	description: "配有白色和紫色的波动条",
 	text: [
-		"The white option shows how much aura is in the surrounding chunks.",
+		"白色部分表明周围区块的灵气含量",
 		"",
-		"The purple option shows how much flux is in the surrounding chunks."
+		"紫色部分表明周围区块的咒波含量",
+		"",
+		"（以及我感觉白色的部分其实是蓝色）"
 	],
 	dependencies: [
 		"187ba0b2"

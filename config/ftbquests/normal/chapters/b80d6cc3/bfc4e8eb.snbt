@@ -1,12 +1,12 @@
 {
-	title: "I Hear You!",
+	title: "我听见你了！",
 	x: 11.5d,
 	y: 9.5d,
-	description: "What am I listening for, John?",
+	description: "什么动静？约翰？",
 	text: [
-		"The sounds of stone... literally... kinda... yea... basically...",
+		"聆听一下石头的心声……额……大概……是这样的？",
 		"",
-		"Stone songs."
+		"石之颂歌。"
 	],
 	dependencies: [
 		"020a4b1e"

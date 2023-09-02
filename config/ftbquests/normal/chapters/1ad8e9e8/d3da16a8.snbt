@@ -1,12 +1,12 @@
 {
-	title: "Scab-- what?",
+	title: "痂壳-- 什么？",
 	x: 8.5d,
 	y: 1.5d,
-	description: "Don't pick at it",
+	description: "别把它捡起来",
 	text: [
-		"Obtain some Scabyst.",
+		"收集一些痂壳晶",
 		"",
-		"Found in the depths below the Betweenlands."
+		"在交错次元的地下深处能够找到。"
 	],
 	dependencies: [
 		"5805bceb"

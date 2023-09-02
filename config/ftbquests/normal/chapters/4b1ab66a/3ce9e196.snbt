@@ -1,10 +1,10 @@
 {
-	title: "Home Improvements!",
+	title: "改良家居！",
 	x: 10.5d,
 	y: -5.5d,
-	description: "Don't want your equity going down now",
+	description: "希望你的股票不会下跌",
 	text: [
-		"These upgrades will add nifty features to your kitchenware."
+		"这些升级将会为您的厨具增添实用的功能。"
 	],
 	dependencies: [
 		"e7ce26bf"

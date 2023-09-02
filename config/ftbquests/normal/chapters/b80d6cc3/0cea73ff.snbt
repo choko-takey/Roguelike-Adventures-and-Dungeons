@@ -1,10 +1,10 @@
 {
-	title: "Oh Yea, This Has to Be the Way ",
+	title: "那必须的嘛！",
 	x: 7.5d,
 	y: -4.0d,
-	description: "Right? Right, John?",
+	description: "你确定吗约翰？",
 	text: [
-		"John! You're supposed to be giving me directions!"
+		"你怎么不告诉我路在哪呢约翰？"
 	],
 	dependencies: [
 		"3756e9bc"

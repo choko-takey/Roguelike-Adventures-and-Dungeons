@@ -1,11 +1,10 @@
 {
-	title: "It Ain’t Much, and It’s Hard Work ",
+	title: "并不难，但是好慢",
 	x: 12.0d,
 	y: 0.0d,
-	description: "I'm tired grandpa!",
+	description: "我等的花都谢了",
 	text: [
-		"Hehehe... THAT'S TOO DAMN BAAADDD!",
-		""
+		"呵呵……我求求您我的开采机大爹啊！您快点吧！"
 	],
 	dependencies: [
 		"e07e8bcc"

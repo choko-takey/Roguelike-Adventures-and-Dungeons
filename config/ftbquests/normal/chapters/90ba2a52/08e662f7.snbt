@@ -1,10 +1,10 @@
 {
-	title: "Bat outta' Hell",
+	title: "蝙蝠离开地狱",
 	x: 4.0d,
 	y: -3.0d,
-	description: "Well, I suppose this is IN Hell...",
+	description: "嗯，我想这是在地狱……",
 	text: [
-		"Destroy 10 Firebats."
+		"击杀10只九狱焱蝠。"
 	],
 	tasks: [{
 		uid: "cb08ed3e",

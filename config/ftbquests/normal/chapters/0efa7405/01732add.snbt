@@ -1,10 +1,10 @@
 {
-	title: "Efficiency at Best",
+	title: "效率至上",
 	x: 18.0d,
 	y: -7.0d,
-	description: "The safest bet",
+	description: "更安全了（？",
 	text: [
-		"A Thaumium Essentia Smeltery is much like an Essentia Smelter, but has 10% more effieciency and 100% higher slurry process speed."
+		"神秘源质冶炼厂的冶炼速度是源质冶炼厂的两倍！而且源质分解效率比一般冶炼厂高出10%。"
 	],
 	dependencies: [
 		"f8a63da8"

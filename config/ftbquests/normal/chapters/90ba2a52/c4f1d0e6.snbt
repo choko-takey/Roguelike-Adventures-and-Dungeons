@@ -1,10 +1,10 @@
 {
-	title: "More Minotaurs!",
+	title: "更多的牛头人！",
 	x: 0.0d,
 	y: 1.0d,
-	description: "They just don't stop!",
+	description: "他们就是不停！",
 	text: [
-		"Slay 25 Minotaur."
+		"击杀25只米诺陶。"
 	],
 	can_repeat: true,
 	tasks: [{

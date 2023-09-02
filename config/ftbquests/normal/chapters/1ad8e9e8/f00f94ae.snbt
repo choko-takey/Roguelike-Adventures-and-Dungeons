@@ -1,12 +1,12 @@
 {
-	title: "Sticky Icky",
+	title: "黏糊糊的",
 	x: -7.5d,
 	y: 1.0d,
-	description: "Smells too",
+	description: "也不好闻",
 	text: [
-		"Balls of Sap can be used to remove Decay from your player.",
+		"食用凝胶系列物品可以恢复玩家的残蚀值。",
 		"",
-		"Having lots of Decay can lead to negative effects. Keep it away with Sap!"
+		"残蚀值降低会带来许多负面效果，用凝胶来避免吧！"
 	],
 	dependencies: [
 		"35775c9b"

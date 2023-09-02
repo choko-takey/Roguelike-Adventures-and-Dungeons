@@ -1,16 +1,16 @@
 {
-	title: "Scale Seller (Sea Serpents)",
+	title: "鳞片出售（海蟒）",
 	x: 17.0d,
 	y: -6.5d,
-	description: "Scales here! Buy your scales here!",
+	description: "这里有鳞片！在这里购买您的鳞片！",
 	text: [
-		"Sell your unwanted Sea Serpent Scales.",
+		"卖掉你不想要的海蟒鳞片。",
 		"",
-		"Submit ONE stack of Sea Serpent Scales at a time to complete this quest.",
+		"每次提交一种海蟒鳞片以完成此任务。",
 		"",
-		"Collect the reward after each completion.",
+		"每次完成后领取奖励。",
 		"",
-		"You will not receive rewards for more than one stack submission at a time."
+		"一次提交多种不会获得奖励。"
 	],
 	can_repeat: true,
 	or_tasks: true,

@@ -1,15 +1,15 @@
 {
-	title: "We Need More Aura",
+	title: "我们需要更多！",
 	x: -5.5d,
 	y: -4.75d,
-	description: "Got a solution?",
+	description: "所以谁去干这事？",
 	text: [
-		"Yes, we do.",
-		"A Workbench Charger amplifies the local aura on the workbench you're using.",
+		"答案是我们一起上。",
+		"奥术工作台充能器可以放在核心镶饰台和奥术工作台上，让它们从更大的区域内抽取灵气（3*3）",
 		"",
-		"It allows crafting of items that uses a large amount of aura.",
+		"当然，制作它也需要大量的灵气。",
 		"",
-		"Obtain a Workbench Charger."
+		"所以做一个吧。"
 	],
 	dependencies: [
 		"bee95934"

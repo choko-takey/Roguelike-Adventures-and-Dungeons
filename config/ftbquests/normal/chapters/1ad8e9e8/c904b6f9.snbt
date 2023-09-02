@@ -1,12 +1,12 @@
 {
-	title: "Edgy Mask Boy",
+	title: "阴森面具男",
 	x: -11.5d,
 	y: 7.5d,
-	description: "It's not even Halloween yet",
+	description: "现在甚至还不是圣诞节呢",
 	text: [
-		"I can't see a damn thing!",
+		"我啥都看不见了！",
 		"",
-		"At least Wights can't use their Possession attack on you while wearing this item."
+		"至少你戴着它时，阴魂不能对你使用附身攻击。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

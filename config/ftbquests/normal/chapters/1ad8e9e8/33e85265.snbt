@@ -1,14 +1,14 @@
 {
-	title: "Never Lost",
+	title: "永不迷路",
 	x: -2.0d,
 	y: -2.0d,
-	description: "We're lost, aren't we, John?",
+	description: "我们迷路了，不是吗，约翰？",
 	text: [
-		"No, just follow the smell, fruity trail, something something.",
+		"不，顺着气味就行，水果气味之类的。",
 		"",
-		"This trail is slimey... actually.",
+		"实际上这条小路很黏……。",
 		"",
-		"Craft a Caving Rope."
+		"合成一个洞穴引路绳。"
 	],
 	dependencies: [
 		"00e136e8"
