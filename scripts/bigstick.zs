@@ -12,4 +12,4 @@ bigstick.maxDamage = 3200;
 bigstick.glowing = false;
 bigstick.register();
 
-game.setLocalization("item.contenttweaker.bigstick.name", "§l§o§6Big Stick");
+game.setLocalization("item.contenttweaker.bigstick.name", "§l§o§6大木棍");

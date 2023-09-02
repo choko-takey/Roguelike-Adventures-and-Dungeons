@@ -1,1 +1,1 @@
-<lost_aether:agility_boots>.addTooltip(format.darkAqua("This item can cause a memory leak use with caution!"));
+<lost_aether:agility_boots>.addTooltip(format.darkAqua("此物品可能会导致内存泄漏，请小心使用！"));
