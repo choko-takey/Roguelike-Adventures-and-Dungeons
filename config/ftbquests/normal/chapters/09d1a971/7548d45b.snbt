@@ -1,11 +1,11 @@
 {
-	title: "Lands of Icaria",
+	title: "伊卡利亚大陆",
 	icon: "landsoficaria:icaria_portal",
 	x: 3.5d,
 	y: 0.0d,
-	description: "Bring your airship and beware of dragons!",
+	description: "带上你的飞艇，小心点儿龙！",
 	text: [
-		"To activate the icaria portal throw a greek fire grenade at its center."
+		"传送门建成后，可以用希腊火榴弹激活。"
 	],
 	dependencies: [
 		"7f66815a"
