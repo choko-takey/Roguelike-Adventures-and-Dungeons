@@ -1,5 +1,5 @@
 {
-	title: "Primary Vis Crystals",
+	title: "原始要素水晶",
 	loot_size: 3,
 	rewards: [{
 		item: {
@@ -75,7 +75,7 @@
 	}],
 	loot_crate: {
 		string_id: "primary_vis_crystals",
-		item_name: "Crate of Primary Vis Crystals",
+		item_name: "一阶魔力水晶板条箱",
 		color: 11711154,
 		drops: {
 			boss: 0,

@@ -1,5 +1,6 @@
 {
-	title: "Thief Gear",
+	title: "盗贼装备",
+
 	loot_size: 50,
 	rewards: [{
 		item: {
@@ -14,9 +15,9 @@
 				Quality: {},
 				display: {
 					Lore: [
-						"Gloves used for climbing along walls it's worn out from extensive usage."
+						"用来飞檐走壁的手套由于大量使用已经变得破旧不堪了。"
 					],
-					Name: "Thief's Worn Climbing Gloves"
+					Name: "盗贼的破旧登山手套"
 				},
 				"Quark:RuneAttached": 1b
 			},
@@ -31,9 +32,9 @@
 				"Quark:ItemNameDye": 11,
 				display: {
 					Lore: [
-						"Cheese 'borrowed' from the most high class cheese seller."
+						"从最高级的奶酪商人那里“借来”的奶酪。"
 					],
-					Name: "Luxurious Cheese"
+					Name: "奢华奶酪"
 				}
 			}
 		},
@@ -58,9 +59,9 @@
 				Quality: {},
 				display: {
 					Lore: [
-						"A dagger common amongst thieves."
+						"盗贼中常见的匕首。"
 					],
-					Name: "Thief's Dagger"
+					Name: "盗贼之匕"
 				},
 				"Quark:RuneAttached": 1b
 			}
@@ -88,7 +89,7 @@
 					Name: "quality.lucky.name"
 				},
 				display: {
-					Name: "Thief's Lucky Hat"
+					Name: "盗贼的幸运帽子"
 				}
 			}
 		},
@@ -115,7 +116,7 @@
 					Name: "quality.protective.name"
 				},
 				display: {
-					Name: "Thief Chainmail"
+					Name: "盗贼锁子甲"
 				}
 			}
 		},
@@ -142,7 +143,7 @@
 					Name: "quality.protective.name"
 				},
 				display: {
-					Name: "Thief Leggings"
+					Name: "盗贼护腿"
 				}
 			}
 		},
@@ -171,10 +172,10 @@
 						Operation: 2,
 						Name: "qualitytools"
 					}],
-					Name: "Swift"
+					Name: "迅捷的"
 				},
 				display: {
-					Name: "Thief's Silent Boots"
+					Name: "盗贼的无声之靴"
 				},
 				"Quark:RuneAttached": 1b
 			}
@@ -183,7 +184,7 @@
 	}],
 	loot_crate: {
 		string_id: "thief",
-		item_name: "Crate Of Thief Gear",
+		item_name: "盗贼装备板条箱",
 		color: 16777215,
 		drops: {
 			boss: 0,

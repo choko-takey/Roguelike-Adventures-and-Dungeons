@@ -1,5 +1,5 @@
 {
-	title: "Quarternary Vis Crystals",
+	title: "四级要素水晶",
 	loot_size: 3,
 	rewards: [{
 		item: {
@@ -171,7 +171,8 @@
 	}],
 	loot_crate: {
 		string_id: "quarternary_vis_crystals",
-		item_name: "Crate of Quarternary Vis Crystals",
+		item_name: "四阶魔力水晶板条箱",
+
 		color: 16777215,
 		drops: {
 			boss: 0,

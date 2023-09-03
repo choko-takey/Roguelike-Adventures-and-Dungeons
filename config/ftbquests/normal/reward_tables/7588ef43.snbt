@@ -1,5 +1,5 @@
 {
-	title: "Legendary Tier Rewards",
+	title: "传奇级奖励",
 	loot_size: 3,
 	rewards: [{
 		item: "contenttweaker:reforge_cat",
@@ -65,7 +65,7 @@
 	}],
 	loot_crate: {
 		string_id: "legendary_tier_rewards",
-		item_name: "Crate Of Legendary Tier Rewards",
+		item_name: "传奇奖励板条箱",
 		color: 16766720,
 		glow: true,
 		drops: {

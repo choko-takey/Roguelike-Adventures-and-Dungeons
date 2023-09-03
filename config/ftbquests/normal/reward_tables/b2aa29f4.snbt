@@ -1,5 +1,5 @@
 {
-	title: "Runic Plates",
+	title: "符文石板",
 	icon: "ancientspellcraft:runic_plate 1 410",
 	loot_size: 1,
 	rewards: [{
@@ -48,7 +48,7 @@
 	}],
 	loot_crate: {
 		string_id: "runic_plates",
-		item_name: "Crate of Runic Plates",
+		item_name: "符文石板板条箱",
 		color: 9598865,
 		drops: {
 			boss: 0,

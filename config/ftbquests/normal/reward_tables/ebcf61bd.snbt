@@ -1,5 +1,5 @@
 {
-	title: "Samurai Gear",
+	title: "武士装备",
 	loot_size: 50,
 	rewards: [{
 		item: "minecraft:arrow",
@@ -12,7 +12,7 @@
 			tag: {
 				Quality: {},
 				display: {
-					Name: "Shogun Chestplate"
+					Name: "幕府将军胸甲"
 				}
 			}
 		},
@@ -24,7 +24,7 @@
 			tag: {
 				Quality: {},
 				display: {
-					Name: "Shogun Greaves"
+					Name: "幕府将军护胫"
 				}
 			}
 		},
@@ -36,7 +36,7 @@
 			tag: {
 				Quality: {},
 				display: {
-					Name: "Shogun Boots"
+					Name: "幕府将军靴子"
 				}
 			}
 		},
@@ -68,7 +68,7 @@
 					Name: "quality.tough.name"
 				},
 				display: {
-					Name: "Samurai's Mask"
+					Name: "武士面罩"
 				}
 			}
 		},
@@ -84,7 +84,7 @@
 					Lore: [
 						"A blade passed through your family for generations wield it with honour"
 					],
-					Name: "Shusui"
+					Name: "秋水"
 				}
 			}
 		},
@@ -97,7 +97,7 @@
 				"Quark:ItemNameDye": 8,
 				Quality: {},
 				display: {
-					Name: "Hamayumi"
+					Name: "破魔之弓"
 				}
 			}
 		},
@@ -105,7 +105,7 @@
 	}],
 	loot_crate: {
 		string_id: "samurai",
-		item_name: "Crate Of Samurai Gear",
+		item_name: "武士装备板条箱",
 		color: 16777215,
 		drops: {
 			boss: 0,

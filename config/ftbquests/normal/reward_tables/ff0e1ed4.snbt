@@ -1,5 +1,5 @@
 {
-	title: "Epic Wizard Artifacts",
+	title: "史诗级巫师饰品",
 	loot_size: 1,
 	rewards: [{
 		item: {
@@ -430,7 +430,7 @@
 	}],
 	loot_crate: {
 		string_id: "epic_wizard_artifacts",
-		item_name: "Crate of Epic Artifacts",
+		item_name: "史诗级巫师饰品板条箱",
 		color: 11027104,
 		drops: {
 			boss: 0,

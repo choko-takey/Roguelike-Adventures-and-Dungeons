@@ -1,5 +1,5 @@
 {
-	title: "Uncommon Wizardry Artefacts",
+	title: "罕见巫术饰品",
 	loot_size: 1,
 	rewards: [{
 		item: {

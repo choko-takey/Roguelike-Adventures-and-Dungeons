@@ -1,5 +1,5 @@
 {
-	title: "Atum Modbox",
+	title: "阿图姆模组盲盒",
 	icon: {
 		id: "atum:iron_khopesh",
 		tag: {
@@ -136,7 +136,7 @@
 	}],
 	loot_crate: {
 		string_id: "atum_modbox",
-		item_name: "Crate of Wanderer's Equipment",
+		item_name: "漂泊者装备板条箱",
 		color: 13485370,
 		drops: {
 			boss: 0,

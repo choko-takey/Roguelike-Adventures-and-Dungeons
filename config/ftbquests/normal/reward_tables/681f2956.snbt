@@ -1,5 +1,5 @@
 {
-	title: "Dwarf Gear",
+	title: "矮人装备",
 	loot_size: 50,
 	rewards: [{
 		item: {
@@ -8,7 +8,7 @@
 				"Quark:ItemNameDye": 3,
 				Quality: {},
 				display: {
-					Name: "Dwarven Tin Shield"
+					Name: "矮人铁皮盾"
 				}
 			}
 		},
@@ -30,7 +30,7 @@
 				Quality: {},
 				display: {
 					Lore: [
-						"Every Dwarf needs a trusty pick"
+						"每个矮人都需要一个可靠的选择"
 					],
 					Name: "Ol Besty"
 				}
@@ -55,7 +55,7 @@
 				"Quark:ItemNameDye": 3,
 				Quality: {},
 				display: {
-					Name: "Dwarf Hammer"
+					Name: "矮人战锤"
 				}
 			}
 		},
@@ -68,7 +68,7 @@
 				"Quark:ItemNameDye": 3,
 				Quality: {},
 				display: {
-					Name: "Dwarf Boots"
+					Name: "矮人战靴"
 				}
 			}
 		},
@@ -81,7 +81,7 @@
 				"Quark:ItemNameDye": 3,
 				Quality: {},
 				display: {
-					Name: "Dwarf Leggings"
+					Name: "矮人护腿"
 				}
 			}
 		},
@@ -94,7 +94,7 @@
 				"Quark:ItemNameDye": 3,
 				Quality: {},
 				display: {
-					Name: "Dwarf Chestplate"
+					Name: "矮人胸甲"
 				}
 			}
 		},
@@ -107,7 +107,7 @@
 				"Quark:ItemNameDye": 3,
 				Quality: {},
 				display: {
-					Name: "Dwarf Helmet"
+					Name: "矮人头盔"
 				}
 			}
 		},
@@ -141,9 +141,9 @@
 				"Quark:ItemNameDye": 14,
 				display: {
 					Lore: [
-						"A Mighty Ale all dwarfs enjoy drinking"
+						"所有矮人都喜欢喝的啤酒"
 					],
-					Name: "Dwarf Grog"
+					Name: "矮人格罗格酒"
 				}
 			}
 		},
@@ -152,7 +152,7 @@
 	}],
 	loot_crate: {
 		string_id: "dwarf",
-		item_name: "Crate Of Dwarf Gear",
+		item_name: "矮人装备板条箱",
 		color: 16777215,
 		drops: {
 			boss: 0,

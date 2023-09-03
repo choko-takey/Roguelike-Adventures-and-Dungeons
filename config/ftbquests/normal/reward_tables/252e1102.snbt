@@ -1,5 +1,5 @@
 {
-	title: "Embers Modbox",
+	title: "余烬模组盲盒",
 	icon: "embers:ember_cluster",
 	loot_size: 30,
 	rewards: [{
@@ -46,7 +46,7 @@
 	}],
 	loot_crate: {
 		string_id: "embers_modbox",
-		item_name: "Embers Engineering Supply Crate",
+		item_name: "余烬工程师的补给板条箱",
 		color: 13391104,
 		drops: {
 			boss: 0,

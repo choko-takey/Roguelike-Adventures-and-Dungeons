@@ -1,5 +1,5 @@
 {
-	title: "Betweenlands Modbox",
+	title: "交错次元模组盲盒",
 	icon: "thebetweenlands:sapling_weedwood",
 	loot_size: 30,
 	rewards: [{
@@ -138,7 +138,7 @@
 	}],
 	loot_crate: {
 		string_id: "betweenlands_modbox",
-		item_name: "Crate of Soggy Supplies",
+		item_name: "浸水补给板条箱",
 		color: 1132048,
 		drops: {
 			boss: 0,

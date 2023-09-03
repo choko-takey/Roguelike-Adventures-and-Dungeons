@@ -1,5 +1,5 @@
 {
-	title: "Tropicraft Modbox",
+	title: "热带世界模组盲盒",
 	icon: {
 		id: "tropicraft:cocktail",
 		tag: {
@@ -35,7 +35,7 @@
 		only_one: true
 	},
 	{
-		title: "Sunet Command",
+		title: "日落指令",
 		icon: "inventorypets:sun_pet",
 		auto: "enabled",
 		command: "/time set 12000",
@@ -43,7 +43,7 @@
 	}],
 	loot_crate: {
 		string_id: "tropicraft_modbox",
-		item_name: "Drink & Chair Low Needs Combo Crate",
+		item_name: "饮料和椅子的低需求组合板条箱",
 		color: 16762112,
 		drops: {
 			boss: 0,

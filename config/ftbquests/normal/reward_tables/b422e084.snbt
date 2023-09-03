@@ -1,5 +1,5 @@
 {
-	title: "Bishop Gear",
+	title: "主教装备",
 	loot_size: 50,
 	rewards: [{
 		item: "minecraft:cooked_fish 1 1",
@@ -12,10 +12,10 @@
 			tag: {
 				generation: 3,
 				pages: [
-					"{\"text\":\"1 - Thou shalt smite any undead they lay eyes upon\\n2 - Thou shalt not commit any unholy acts\\n3 - Thou shalt not steal\\n4 - Thou shalt praise thy divine one upon each sunrise\\n5 - Thou shalt do the dance\"}"
+					"{\"text\":\"1 - 杀死他们看到的所有亡灵生物\\n2 - 不可做任何不洁之事\\n3 - 不可偷盗\\n4 - 每次日出，你都要赞美你的神\\n5 - 你应该跳舞\"}"
 				],
 				author: "????",
-				title: "5 Commandments",
+				title: "5条戒律",
 				resolved: 1b
 			}
 		},
@@ -27,7 +27,7 @@
 			tag: {
 				Quality: {},
 				display: {
-					Name: "Priest Boots"
+					Name: "神父靴子"
 				}
 			}
 		},
@@ -40,7 +40,7 @@
 				"Quark:ItemNameDye": 15,
 				Quality: {},
 				display: {
-					Name: "Priest Leggings"
+					Name: "神父护腿"
 				}
 			}
 		},
@@ -53,7 +53,7 @@
 				"Quark:ItemNameDye": 15,
 				Quality: {},
 				display: {
-					Name: "Priest Gown"
+					Name: "神父法衣"
 				}
 			}
 		},
@@ -65,7 +65,7 @@
 			tag: {
 				Quality: {},
 				display: {
-					Name: "Priest Helmet"
+					Name: "神父头盔"
 				}
 			}
 		},
@@ -79,9 +79,9 @@
 				Quality: {},
 				display: {
 					Lore: [
-						"A cross found in the midnight sea"
+						"午夜之海中发现的神圣十字架"
 					],
-					Name: "Holy Diver"
+					Name: "神圣潜水员"
 				}
 			}
 		},
@@ -100,7 +100,7 @@
 				Quality: {},
 				display: {
 					Lore: [
-						"Bash and Bludgeon until it is done"
+						"一锤又一锤，直到搞定为止"
 					],
 					Name: "Undead Basher"
 				},
@@ -126,10 +126,10 @@
 				CustomPotionColor: 16777215,
 				display: {
 					Lore: [
-						"Used For Purging Unholy beings",
-						"or annoying neighbours"
+						"用于净化邪恶的生物",
+						"或者聒噪的邻居"
 					],
-					Name: "Holy Water"
+					Name: "圣水"
 				}
 			}
 		},
@@ -138,7 +138,7 @@
 	}],
 	loot_crate: {
 		string_id: "bishop",
-		item_name: "Crate Of Bishop Gear",
+		item_name: "主教装备板条箱",
 		color: 16777215,
 		drops: {
 			boss: 0,

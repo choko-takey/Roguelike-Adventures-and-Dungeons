@@ -1,5 +1,5 @@
 {
-	title: "Blade Dancer Gear",
+	title: "剑刃舞者装备",
 	loot_size: 50,
 	rewards: [{
 		item: {
@@ -8,7 +8,7 @@
 				"Quark:ItemNameDye": 9,
 				Quality: {},
 				display: {
-					Name: "Gae Bolg"
+					Name: "盖伯尔加之矛"
 				}
 			}
 		},
@@ -26,7 +26,7 @@
 				"Quark:ItemNameDye": 9,
 				Quality: {},
 				display: {
-					Name: "Dancer Helmet"
+					Name: "舞者头盔"
 				}
 			}
 		},
@@ -39,7 +39,7 @@
 				"Quark:ItemNameDye": 9,
 				Quality: {},
 				display: {
-					Name: "Dancer Chestplate"
+					Name: "舞者胸甲"
 				}
 			}
 		},
@@ -52,7 +52,7 @@
 				"Quark:ItemNameDye": 9,
 				Quality: {},
 				display: {
-					Name: "Dancer Leggings"
+					Name: "舞者护腿"
 				}
 			}
 		},
@@ -68,9 +68,10 @@
 				UUIDLeast: -4719180196403979358L,
 				display: {
 					Lore: [
-						"A bundle of throwing knives very efficient in frozen time."
+						"时停期间非常好用的飞刀"
+
 					],
-					Name: "Maid's Knife Bundle"
+					Name: "女仆刀"
 				},
 				enchChecked: 1b,
 				Original: 1b
@@ -117,10 +118,10 @@
 						Operation: 0,
 						Name: "qualitytools"
 					}],
-					Name: "Graceful"
+					Name: "优美的"
 				},
 				display: {
-					Name: "Dancer's Lightweight Boots"
+					Name: "舞者轻靴"
 				},
 				"Quark:RuneAttached": 1b
 			}
@@ -129,7 +130,7 @@
 	}],
 	loot_crate: {
 		string_id: "dancer",
-		item_name: "Crate Of Blade Dancer Gear",
+		item_name: "剑刃舞者宝箱",
 		color: 16777215,
 		drops: {
 			boss: 0,

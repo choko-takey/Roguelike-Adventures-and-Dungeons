@@ -1,5 +1,5 @@
 {
-	title: "Thaumcraft Modbox",
+	title: "神秘时代模组盲盒",
 	icon: "thaumcraft:curio 1 6",
 	loot_size: 1,
 	rewards: [{
@@ -136,7 +136,7 @@
 	}],
 	loot_crate: {
 		string_id: "thaumcraft_modbox",
-		item_name: "Crate of Cultist Equipment",
+		item_name: "血腥教徒装备板条箱",
 		color: 12990291,
 		drops: {
 			boss: 0,

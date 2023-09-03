@@ -1,5 +1,5 @@
 {
-	title: "Castle Decor",
+	title: "古堡装饰",
 	loot_size: 5,
 	rewards: [{
 		item: "rustic:chandelier_gold",
@@ -30,7 +30,7 @@
 	}],
 	loot_crate: {
 		string_id: "castle_decor",
-		item_name: "Castle Decor",
+		item_name: "古堡装饰箱",
 		color: 16711680,
 		drops: {
 			boss: 0,

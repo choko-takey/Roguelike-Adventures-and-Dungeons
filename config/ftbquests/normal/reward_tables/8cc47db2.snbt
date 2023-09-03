@@ -1,5 +1,5 @@
 {
-	title: "Troll Weapons",
+	title: "食人妖武器",
 	icon: "iceandfire:troll_weapon.column_forest",
 	loot_size: 1,
 	rewards: [{
@@ -60,7 +60,7 @@
 	}],
 	loot_crate: {
 		string_id: "troll_weapons",
-		item_name: "Crate of Trollish Weaponry",
+		item_name: "食人妖武器板条箱",
 		color: 6842472,
 		drops: {
 			boss: 0,

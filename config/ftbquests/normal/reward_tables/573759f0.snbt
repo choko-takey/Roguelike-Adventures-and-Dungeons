@@ -1,5 +1,5 @@
 {
-	title: "Uncommon Wizard Artifacts",
+	title: "罕见巫师饰品",
 	loot_size: 1,
 	rewards: [{
 		item: {
@@ -368,7 +368,7 @@
 	}],
 	loot_crate: {
 		string_id: "uncommon_wizard_artifact",
-		item_name: "Crate of Uncommon Artifacts",
+		item_name: "罕见饰品板条箱",
 		color: 11907676,
 		drops: {
 			boss: 0,

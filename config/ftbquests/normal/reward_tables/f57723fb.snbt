@@ -1,5 +1,5 @@
 {
-	title: "Valkyrie Gear",
+	title: "女武神战备",
 	loot_size: 50,
 	rewards: [{
 		item: {
@@ -159,7 +159,7 @@
 	}],
 	loot_crate: {
 		string_id: "valkyrie",
-		item_name: "Crate Of Valkyrie Gear",
+		item_name: "女武神战备箱",
 		color: 16777215,
 		drops: {
 			boss: 0,

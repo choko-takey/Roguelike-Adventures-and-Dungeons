@@ -1,5 +1,5 @@
 {
-	title: "Hippogryph Eggs",
+	title: "骏鹰蛋",
 	icon: "iceandfire:hippogryph_egg 1 4",
 	loot_size: 1,
 	rewards: [{
@@ -25,7 +25,7 @@
 	}],
 	loot_crate: {
 		string_id: "hippogryph_eggs",
-		item_name: "Box of Hippogryph Eggs",
+		item_name: "骏鹰蛋箱",
 		color: 12433817,
 		drops: {
 			boss: 0,

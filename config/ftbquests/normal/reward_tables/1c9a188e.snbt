@@ -1,5 +1,5 @@
 {
-	title: "Modbox Kits",
+	title: "模组宝箱组合包",
 	loot_size: 1,
 	rewards: [{
 		item: {

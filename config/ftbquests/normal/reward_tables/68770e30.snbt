@@ -1,5 +1,5 @@
 {
-	title: "Quark Runes Table",
+	title: "夸克符文战利品表",
 	icon: "quark:rune 1 15",
 	loot_size: 3,
 	rewards: [{
@@ -55,7 +55,7 @@
 	}],
 	loot_crate: {
 		string_id: "quark_runes_table",
-		item_name: "Crate of Colored Runes",
+		item_name: "彩色符文板条箱",
 		color: 3556687,
 		drops: {
 			boss: 0,

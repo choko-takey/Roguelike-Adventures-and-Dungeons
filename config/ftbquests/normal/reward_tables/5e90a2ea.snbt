@@ -1,5 +1,5 @@
 {
-	title: "Starter Gear Boxes",
+	title: "新手装备箱",
 	loot_size: 1,
 	rewards: [{
 		item: {

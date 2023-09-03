@@ -1,5 +1,5 @@
 {
-	title: "Garden Tables (Pam's HarvestCraft)",
+	title: "菜园奖励表（潘马斯农场）",
 	icon: "harvestcraft:frostgarden",
 	loot_size: 2,
 	rewards: [{
@@ -34,7 +34,7 @@
 	}],
 	loot_crate: {
 		string_id: "garden_tables_pam_s_harvestcraft_",
-		item_name: "Box of Gardens",
+		item_name: "菜园箱",
 		color: 32768,
 		drops: {
 			boss: 0,
