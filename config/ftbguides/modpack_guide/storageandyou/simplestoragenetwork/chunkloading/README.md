@@ -1,15 +1,15 @@
-#MAJOR INFORMATION
+#主要信息
 
-#Chunk Loading
+#区块加载
 
-For your simple storage network to always be active even when your in other dimensions or not at your base it must be chunk loaded (chunks are a system that are way to complicated and long to explain in this guide but in simple terms it's a 16x16 area of any minecraft world that goes from bedrock to y256 to see the chunks around you either press f3 + g will show chunk borders or f9 which shows chunk borders or regions.)
+为了让你的简单存储网络一直可用（即使你在其他的维度），它所在的区块必须被持续加载（区块，解释起来说来话长，但简而言之就是一个从基岩延伸至y=256的16x16的区域。按F3+G或F9以显示区块边界）。
 
-But there are solutions to this that being chunk loading blocks or methods the easiest and simple method is the block literally called a chunk loader ( their are also spot loaders or ender anchors)
+最简单的方法是使用一种叫做区块载入器的方块（或是使用节点载入器或末影锚也可以）。
 
-![Chunk example](chunkborder.png)
+![一个区块](chunkborder.png)
 
-The chunk loader will keep the chunk loaded as long as you are in game
+区块载入器会使该区块在你游戏时一直被加载。
 
-![Chunk loader recipe](chunkloader.png)
+![区块载入器合成配方](chunkloader.png)
 
-#Warning:NEVER HAVE YOUR SIMPLE STORAGE NETWORK IN MULTIPLE CHUNKS ESPECIALLY IF THEY ARE NOT BEING CHUNK LOADED.
+#警告：不要使你的简单存储网络跨越多个区块，尤其是当这些区块没有都被持续加载的时候！

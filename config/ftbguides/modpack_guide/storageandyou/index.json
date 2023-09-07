@@ -1,22 +1,22 @@
 [
  {
   "id": "luggage",
-  "title": "Me & My Luggage",
+  "title": "我和我的行李",
   "icon": "item:openblocks:luggage"
  },
  {
   "id": "mobilestorage",
-  "title": "Storage On The Go",
+  "title": "移动存储",
   "icon": "item:improvedbackpacks:backpack"
  },
  {
   "id": "stationairystorage",
-  "title": "Storage That Stays At Your Base",
+  "title": "基地存储",
   "icon": "item:storagedrawers:framingtable"
  },
  {
   "id": "simplestoragenetwork",
-  "title": "Me, My base and its chunk sized storage network",
+  "title": "我，我的基地，我的存储网络",
   "icon": "item:storagenetwork:master"
  }
 ]

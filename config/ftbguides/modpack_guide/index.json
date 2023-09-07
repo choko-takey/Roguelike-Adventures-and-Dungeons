@@ -1,42 +1,42 @@
 [
  {
   "id": "gettingstarted",
-  "title": "Getting Started!",
+  "title": "入门!",
   "icon": "item:minecraft:grass"
  },
  {
   "id": "gearingup",
-  "title": "Gearing Up!",
+  "title": "做好准备!",
   "icon": "item:minecraft:iron_sword"
  },
  {
   "id": "foodandhealth",
-  "title": "All You Can Eat",
+  "title": "食物",
   "icon": "item:harvestcraft:southernstylebreakfastitem"
  },
  {
   "id": "mods",
-  "title": "Additional Mods In The Pack",
+  "title": "扩展模组",
   "icon": "item:qualitytools:reforging_station"
  },
  {
   "id": "storageandyou",
-  "title": "Storage & You",
+  "title": "储存与你",
   "icon": "item:minecraft:chest"
  },
  {
   "id": "tipsandtricks",
-  "title": "Modpack Tips & Tricks",
+  "title": "技巧&窍门",
   "icon": "item:minecraft:redstone_torch"
  },
   {
   "id": "bringoutyourdead",
-  "title": "Bring Out Your Dead",
+  "title": "死亡知识",
   "icon": "item:tombstone:ankh_of_pray"
  },
   {
   "id": "notesandcredits",
-  "title": "Notes & Credits",
+  "title": "笔记&贡献",
   "icon": "item:minecraft:experience_bottle"
  }
 ]

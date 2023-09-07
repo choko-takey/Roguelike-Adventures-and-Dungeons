@@ -1,17 +1,17 @@
-The cutest form of storage you will ever see luggage are little walkers that can store 27 items when not upgraded
+最可爱的存储设备！行李箱是在你身边溜达的小实体，未升级的行李箱有27个储物格子。
 
-![A Luggage when placed in the world](luggageimage.png)
+![放出的行李箱](luggageimage.png)
 
-They are also pretty cheap to craft 
+它很容易制作。
 
-![Luggage recipe](luggagerecipe.png)
+![行李箱配方](luggagerecipe.png)
 
-They are also near immortal beings impossible to kill through normal means so no worry about them getting destroyed while you're fighting a dragon.
+它无法被常规手段杀死，所以不必担心它会在你打龙时被摧毁。
 
-Upgrading them is pretty simple, just hit them with anything that causes thunder (electric spells from electroblob’s wizardry or engraved thunder to name a few).
+升级它也很简单，只要用任何可以引雷的东西打它就行了（例如巫术学的雷电魔法或者镌刻闪电之杖）。
 
-![Charged luggage](chargedluggage.png)
-To pick up your luggage just sneak click on it and it will turn it into an item don’t worry it will keep all the items you stored it in when it’s picked up.
+![充能的行李箱](chargedluggage.png)
+潜行点击它使它作为物品回收进物品栏。不用担心，它存储的物品会被保留。
 
-Also remember you can never have too much luggage!
-![LUGGAGE HORDE](luggagehorde.png)
+还有，千万不要召唤过多的行李箱！
+![行李箱军团！](luggagehorde.png)

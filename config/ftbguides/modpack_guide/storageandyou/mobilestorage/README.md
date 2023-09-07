@@ -1,2 +1,2 @@
-All the storage items shown here are able to be carried with you in your inventory
+这里介绍的所有存储设备都可以随身携带！
 

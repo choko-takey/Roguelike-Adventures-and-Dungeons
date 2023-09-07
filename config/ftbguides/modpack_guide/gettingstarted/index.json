@@ -21,7 +21,7 @@
  },
 {
   "id": "scalinghealth",
-  "title": "Scaling Health",
+  "title": "阶梯式难度",
   "icon": "item:scalinghealth:heartcontainer"
- },
+ }
 ]

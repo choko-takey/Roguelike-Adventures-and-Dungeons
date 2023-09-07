@@ -1,27 +1,27 @@
-Did you ever think to yourself what if drawers were portable but also worked like backpacks?
+你有没有想过，如果抽屉可以像背包一样随身携带会怎样？
 
-Introducing dank nulls combing the item stacking size of storage drawers with the portability of backpacks.
+向你介绍Dank Null！它结合了抽屉的物品堆叠数量和背包的便携性。
 
-Dank nulls have similar features to drawers; most notable is that it’s able to save the item stored in a specific slot as well as pickup that item and store it inside itself.
+Dank Null的功能和抽屉相近，最值得注意的是，它不但可以存储物品，还可以自动拾取槽位中的物品并存储起来！
 
-![A null set to keep 16 Fish stored inside it](nullextract.png)
+![一个存储了16条鱼的Null](nullextract.png)
 
-Backpacks do have some advantages over dank nulls and vice versa each null can only hold a certain stack size of any item if it collects any more it will void that item this makes it great for mining in caves and getting rid of any excess amount of cobblestone.
+不过背包也有优于Null的地方，每个Null只能堆叠一定量的某种物品，如果它再收集，多出来的物品就会被销毁。这让它非常适合用来处理挖矿时多余的圆石。
 
-Another utility is that any blocks stored inside can be placed depending on what mode you set the dank null to.
+Null的另一个实用的功能是，任何存储在它里面的方块都可以被放置出来，这取决于它的模式。
 
-![A null set to be able to place wooden stairs](nullplacement.png)
+![一个设置为可以放置木楼梯的Null](nullplacement.png)
 
-Docking Station
+拓展坞
 
-![Docking Station Recipe] (nulldockstation.png)
+![拓展坞合成配方] (nulldockstation.png)
 
-Unlike backpacks nulls cannot be placed to place them down in the world you have to place them on a docking station this allows the null to act like any other placeable storage block.
+和背包不一样，Null不能直接放下来，它需要被放在拓展坞上，这样它就变得像可放置的存储方块一样了。
 
-![Null placed inside a docking station](nullplaced.png)
+![一个放在拓展坞上的Null](nullplaced.png)
 
-Nulls can also be opened while in you inventory or have the selected item/block cycled through but you have to bind keys to use this features.
+Null在物品栏中时也可以直接被打开，或循环切换选择放置的方块。这两个功能都需要你绑定快捷键。
 
-![Null overlay](nullkeybinds.png)
+![Null信息概览](nullkeybinds.png)
 
-#Warning: Don’t store dank nulls inside of other storage inventories it can lead to issues!!
+#警告：不要将Null放在其他的存储设备中，否则可能会出现问题！

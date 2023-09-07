@@ -1,2 +1,2 @@
-This Section Covers Storage Inventories that you will mainlly be using at your base
+本节将介绍一些常用于你的基地的存储设备。
 
