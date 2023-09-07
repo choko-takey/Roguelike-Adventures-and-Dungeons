@@ -1,12 +1,12 @@
 {
-	title: "Puny Magnite",
+	title: "微弱的超硝石",
 	x: -8.5d,
 	y: -1.5d,
-	description: "Hope you have pickaxe insurance",
+	description: "希望你给你的镐子上了保险",
 	text: [
-		"Equipment made from magnite has terrible durabillity.",
+		"超硝石制作的工具耐久度很低。",
 		"",
-		"I wonder if it makes up for that downside in some way?"
+		"我想知道它是否在某种程度上弥补了这一缺点？"
 	],
 	dependencies: [
 		"95ebb0fe"
@@ -15,6 +15,9 @@
 		uid: "c55afc98",
 		type: "item",
 		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
 			id: "cavern:magnite_sword",
 			tag: {
 				Quality: {}
@@ -27,6 +30,9 @@
 		uid: "e9584a10",
 		type: "item",
 		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
 			id: "cavern:magnite_shovel",
 			tag: {
 				Quality: {
@@ -61,6 +67,9 @@
 		uid: "78ca25b8",
 		type: "item",
 		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
 			id: "cavern:magnite_axe",
 			tag: {
 				Quality: {}
@@ -73,6 +82,9 @@
 		uid: "f3525234",
 		type: "item",
 		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
 			id: "cavern:magnite_pickaxe",
 			tag: {
 				Quality: {

@@ -1,14 +1,16 @@
 {
-	title: "Adept Miner",
+	title: "熟练手",
 	x: -9.5d,
 	y: -0.5d,
-	description: "Dwarf training 101",
+	description: "矮人训练101",
 	text: [
-		"As you mine ore's in caverns you will gain miner rank.",
+		"随着你在洞穴里不断的挖掘矿石，你会发现你的手法逐渐从生疏到熟练",
 		"",
-		"Certain ore's will award more mining exp than others.",
+		"直到Ding的一声，你将成为“铁级矿工”",
 		"",
-		"To gain acess to the second type of basic caverns, you need to reach a rank of Iron Miner."
+		"随着你矿工等级的提升，你会获得新的技能，和进入更加凶险而美丽的洞穴的资格",
+		"",
+		"加油吧！"
 	],
 	dependencies: [
 		"9cc8a946"
@@ -16,7 +18,12 @@
 	tasks: [{
 		uid: "e16ca07f",
 		type: "advancement",
-		icon: "minecraft:iron_pickaxe",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:iron_pickaxe"
+		},
 		advancement: "cavern:iron_miner",
 		criterion: ""
 	}],

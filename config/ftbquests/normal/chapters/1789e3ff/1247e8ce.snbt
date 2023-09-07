@@ -1,6 +1,9 @@
 {
-	title: "Someone's Watching Me",
+	title: "有什么东西在盯着我看",
 	icon: {
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		},
 		id: "openblocks:trophy",
 		tag: {
 			entity_id: "minecraft:guardian"
@@ -9,11 +12,11 @@
 	},
 	x: -3.5d,
 	y: -0.5d,
-	description: "I'm just an average dwaf with an average pickaxe",
+	description: "我只是个拿着镐子的矿工而已啊",
 	text: [
-		"They see you when you're mining.",
+		"它们像观赏风景那样观赏着你挖矿的背影",
 		"",
-		"Be careful of the shimmering mines one eyed guardians."
+		"小心点，它们的目光灼热带电！"
 	],
 	dependencies: [
 		"5ca0cd0e"
@@ -29,10 +32,14 @@
 		uid: "12e97895",
 		type: "observation",
 		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
 			id: "openblocks:trophy",
 			tag: {
 				entity_id: "minecraft:guardian"
-			}
+			},
+			Damage: 26s
 		},
 		match_type: "entity_id",
 		match: "minecraft:guardian",
