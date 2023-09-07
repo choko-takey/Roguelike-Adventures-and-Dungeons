@@ -1,10 +1,10 @@
 {
-	title: "§3§lThe Weezer Super Fan",
+	title: "§3§lWeezer狂热粉丝",
 	x: -0.5d,
 	y: 2.0d,
-	description: "Return title",
+	description: "重新获取头衔",
 	text: [
-		"Returns title if you end up losing it."
+		"如果你的头衔遗失了，可以在这里重新获取。"
 	],
 	can_repeat: true,
 	dependencies: [
@@ -18,7 +18,7 @@
 	rewards: [{
 		uid: "e10a8acf",
 		type: "command",
-		title: "&3&lThe Weezer Super Fan",
+		title: "&3&lWeezer狂热粉丝",
 		command: "/titles add @p titles:the_weezersuperfan"
 	}]
 }

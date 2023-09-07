@@ -1,10 +1,10 @@
 {
-	title: "The Clown",
+	title: "小丑",
 	x: 0.5d,
 	y: 7.0d,
-	description: "All you're missing are the boots",
+	description: "你现在只缺一双靴子了",
 	text: [
-		"Are you being called a clown for getting this title or using it? The many mysteries of the minecraftverse."
+		"你因为得到或使用这个头衔而被称为小丑了吗？MC诗句中的神秘的人。"
 	],
 	tasks: [{
 		uid: "e4460fe0",
@@ -46,7 +46,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any foodKetchup"
+					Name: "任意食品番茄酱"
 				}
 			}
 		}],

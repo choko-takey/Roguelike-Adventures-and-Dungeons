@@ -1,11 +1,11 @@
 {
-	title: "The Edgelord",
+	title: "边缘领主",
 	icon: "xreliquary:twilight_cloak",
 	x: -1.5d,
 	y: 4.0d,
-	description: "Damn bro thats so edgy",
+	description: "该死的，这东西太靠边了，老兄",
 	text: [
-		"So edgy you cut part of your title in half."
+		"太靠边了，以至于你把一部分标题切成了两半。"
 	],
 	tasks: [{
 		uid: "1ca32427",

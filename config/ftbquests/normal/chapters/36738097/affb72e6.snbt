@@ -1,9 +1,9 @@
 {
-	title: "Wayfinder of the Void",
+	title: "虚空向导",
 	x: -7.5d,
 	y: 4.0d,
 	text: [
-		"Enter the Void and live to tell the tale."
+		"进入虚空，并活着回来讲述这个故事。"
 	],
 	tasks: [{
 		uid: "b73da9e6",

@@ -1,10 +1,10 @@
 {
-	title: "The 1%",
+	title: "百里挑一",
 	x: -3.5d,
 	y: -1.0d,
-	description: "Remind me not to take spending advice from you",
+	description: "提醒我不要接受你的消费建议",
 	text: [
-		"Would have been better to gamble this much dough into megaloot crates."
+		"把这么多钱全存进巨型板条箱里也许会更好。"
 	],
 	tasks: [{
 		uid: "3cf457b9",

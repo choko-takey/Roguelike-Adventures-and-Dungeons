@@ -1,10 +1,10 @@
 {
-	title: "[TITLE NAME REDACTED]",
+	title: "[头衔名称已编辑]",
 	x: -2.5d,
 	y: 0.0d,
-	description: "Not worth it I bet",
+	description: "这不值得，我打赌",
 	text: [
-		"No spoilers for the title until you waste your time GETTING ALL THAT COBBLE."
+		"在你浪费时间获得所有那些圆石之前，没有什么剧透！"
 	],
 	can_repeat: true,
 	dependencies: [
@@ -18,7 +18,7 @@
 	rewards: [{
 		uid: "8970513f",
 		type: "command",
-		title: "&7&lNo Looking!",
+		title: "&7&l不要看！",
 		command: "/titles add @p titles:the_insane"
 	}]
 }

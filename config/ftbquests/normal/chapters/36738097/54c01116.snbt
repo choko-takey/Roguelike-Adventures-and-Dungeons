@@ -1,12 +1,12 @@
 {
-	title: "Oceanman",
+	title: "海洋之子",
 	x: 0.5d,
 	y: -1.0d,
-	description: "Take me by the hand",
+	description: "牵着我的手",
 	text: [
-		"Lead me to the land that you understand!",
+		"带领我去你知道的地方！（译注：Ocean Man歌词）",
 		"",
-		"(Complete this quest to find out why its optional)."
+		"（完成了此任务就会知道它为什么是可选的了）。"
 	],
 	optional: true,
 	tasks: [{

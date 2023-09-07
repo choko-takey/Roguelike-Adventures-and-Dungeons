@@ -1,12 +1,12 @@
 {
-	title: "Titles Refresh",
+	title: "刷新头衔",
 	x: -6.5d,
 	y: 1.0d,
-	description: "A little refresh",
+	description: "稍微刷新一下",
 	text: [
-		"If your updating a world from an older version you may not have the newly added titles given by completing advancements if so do /titles refresh.",
+		"如果你是从老版本的世界升级上来的话，你可能没有这些新添加的通过成就获得的头衔。如果是这样，请使用/titles refresh。",
 		"",
-		"Warning: This command will remove any quest gained titles!!"
+		"警告：此命令将清除所有由任务获得的头衔！！"
 	],
 	tasks: [{
 		uid: "bfa979e4",

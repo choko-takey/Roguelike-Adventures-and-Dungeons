@@ -1,10 +1,10 @@
 {
-	title: "§a§lThe §2§lOne §a§lWho §2§lForgot §a§lEnchanting §2§lExisted",
+	title: "§a§l忘§2§l记§a§l附§2§l魔§a§l的§2§l人",
 	x: -2.5d,
 	y: -3.0d,
-	description: "Return title",
+	description: "重新获取头衔",
 	text: [
-		"Returns title if you end up losing it."
+		"如果你的头衔遗失了，可以在这里重新获取。"
 	],
 	can_repeat: true,
 	dependencies: [
@@ -18,7 +18,7 @@
 	rewards: [{
 		uid: "7bb90f03",
 		type: "command",
-		title: "&a&lThe &2&lOne &a&lWho &2&lForgot &a&lEnchanting &2&lExisted",
+		title: "&a&l忘&2&l记&a&l附&2&l魔&a&l的&2&l人",
 		command: "/titles add @p titles:the_exptank"
 	}]
 }

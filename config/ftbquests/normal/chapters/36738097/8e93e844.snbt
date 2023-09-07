@@ -1,10 +1,10 @@
 {
-	title: "The Anti-Lorax",
+	title: "抵制砍伐",
 	x: 0.5d,
 	y: 0.0d,
-	description: "Smokey would not be proud",
+	description: "护林熊不会感到骄傲的",
 	text: [
-		"Just be happy the modded ones don't require 100k submitted."
+		"你应该感到高兴，因为现在你不需要提交10万个了。"
 	],
 	tasks: [{
 		uid: "58ba1d2b",

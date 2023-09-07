@@ -1,16 +1,16 @@
 {
-	title: "I Go By Many Names",
+	title: "我有许多名字",
 	x: -5.5d,
 	y: 1.0d,
 	text: [
-		"Ever wanted to show off to your friends what cool achievements you got every time you talked? Titles is here to save the day open the gui apply a titles and",
-		"boom next to your name you get a cool little title. Most titles are locked behind advancements see if you can get them all while others are rewarded from",
-		"quest. To open the gui press T (default keybind)."
+		"你每次和朋友聊天都想炫耀你取得了什么了不起的成就吗？头衔就是为此而生的！打开GUI，选择一个头衔，",
+		"然后你的名字旁边就会弹出一个很酷的小头衔。大多数头衔都在获得成就后解锁，看看你能不能都拿到，而另",
+		"一些头衔则是做任务获得的奖励。要打开GUI，请按T（默认按键）。"
 	],
 	tasks: [{
 		uid: "2d4beda5",
 		type: "checkmark",
-		title: "I Go By Many Names",
+		title: "我有许多名字",
 		icon: "titles:titlearchive"
 	}],
 	rewards: [{

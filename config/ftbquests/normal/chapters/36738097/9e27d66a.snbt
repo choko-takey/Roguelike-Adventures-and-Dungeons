@@ -1,10 +1,10 @@
 {
-	title: "Dank Master Supreme",
+	title: "超级Dank Master",
 	x: -3.5d,
 	y: 6.0d,
-	description: "There's no hemp soooo",
+	description: "这里没有大麻",
 	text: [
-		"This is definetly sugar right nothing else RIGHT!!!"
+		"这真的就是糖，是的，没有别的东西，对！！！"
 	],
 	tasks: [{
 		uid: "99a9a529",

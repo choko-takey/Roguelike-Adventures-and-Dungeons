@@ -1,10 +1,10 @@
 {
-	title: "§6§lThe 0.1 Percent",
+	title: "§6§l千分之一",
 	x: -2.5d,
 	y: -2.0d,
-	description: "Return title",
+	description: "重新获取头衔",
 	text: [
-		"Returns title if you end up losing it."
+		"如果你的头衔遗失了，可以在这里重新获取。"
 	],
 	can_repeat: true,
 	dependencies: [
@@ -18,7 +18,7 @@
 	rewards: [{
 		uid: "32484d5c",
 		type: "command",
-		title: "&6&lThe 0.1 Percent",
+		title: "&6&l千分之一",
 		command: "/titles add @p titles:the_zeroonepercent"
 	}]
 }

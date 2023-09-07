@@ -1,10 +1,10 @@
 {
-	title: "§5§l§nWayfinder of the Void",
+	title: "§5§l§n虚空向导",
 	x: -8.5d,
 	y: 4.0d,
-	description: "Return title",
+	description: "重新获取头衔",
 	text: [
-		"Returns title if you end up losing it."
+		"如果你的头衔遗失了，可以在这里重新获取。"
 	],
 	can_repeat: true,
 	dependencies: [
@@ -18,7 +18,7 @@
 	rewards: [{
 		uid: "ec0aeaff",
 		type: "command",
-		title: "&5&l&nWayfinder of the Void",
+		title: "&5&l&n虚空向导",
 		command: "/titles add @p titles:the_voidwalker"
 	}]
 }

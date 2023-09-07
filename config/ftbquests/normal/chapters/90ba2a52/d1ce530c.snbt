@@ -2,7 +2,7 @@
 	title: "女王杀手",
 	x: -2.0d,
 	y: 3.0d,
-	description: "看，这称号挺不错的",
+	description: "看，这头衔挺不错的",
 	text: [
 		"击杀5只武神女王。"
 	],

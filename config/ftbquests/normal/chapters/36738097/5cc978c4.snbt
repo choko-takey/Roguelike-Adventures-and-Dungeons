@@ -1,10 +1,10 @@
 {
-	title: "The Obisidian hoarder",
+	title: "黑曜石囤积者",
 	x: -1.5d,
 	y: 0.0d,
-	description: "Wanna Tip",
+	description: "我想要提示",
 	text: [
-		"Tip: Don't do this unless you really hate obsidian."
+		"提示：除非你真的很讨厌黑曜石，否则别这么做！"
 	],
 	tasks: [{
 		uid: "0125e666",

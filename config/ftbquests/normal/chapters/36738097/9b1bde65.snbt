@@ -1,10 +1,10 @@
 {
-	title: "§5§lThe Master of Eldritch Knowledge",
+	title: "§5§l邪术大师",
 	x: -6.5d,
 	y: 3.0d,
-	description: "Return title",
+	description: "重新获取头衔",
 	text: [
-		"Returns title if you end up losing it."
+		"如果你的头衔遗失了，可以在这里重新获取。"
 	],
 	can_repeat: true,
 	dependencies: [
@@ -18,7 +18,7 @@
 	rewards: [{
 		uid: "a665cd0c",
 		type: "command",
-		title: "&l&5The Master of Eldritch Knowledge",
+		title: "&l&5邪术大师",
 		command: "/titles add @p titles:the_thaumaddict"
 	}]
 }

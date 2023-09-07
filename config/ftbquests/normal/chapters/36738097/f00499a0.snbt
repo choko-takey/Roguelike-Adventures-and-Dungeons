@@ -1,10 +1,10 @@
 {
-	title: "§8§lThe §4§lEdge§8§l§mlord",
+	title: "§0§l边§4§l缘§0§l§m领主",
 	x: -0.5d,
 	y: 4.0d,
-	description: "Return title",
+	description: "重新获取头衔",
 	text: [
-		"Returns title if you end up losing it."
+		"如果你的头衔遗失了，可以在这里重新获取。"
 	],
 	can_repeat: true,
 	dependencies: [
@@ -18,7 +18,7 @@
 	rewards: [{
 		uid: "71338039",
 		type: "command",
-		title: "&8&lThe &4&lEdge&8&l&mlord",
+		title: "&8&l边&4&l缘&8&l&m领主",
 		command: "/titles add @p titles:the_edgelord"
 	}]
 }

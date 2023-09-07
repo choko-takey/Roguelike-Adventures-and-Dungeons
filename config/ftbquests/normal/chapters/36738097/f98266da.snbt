@@ -1,11 +1,11 @@
 {
-	title: "The Rainbow",
+	title: "彩虹",
 	icon: "quark:rune 1 16",
 	x: -3.5d,
 	y: 4.0d,
-	description: "TASTE THE RAINBOW",
+	description: "吃定彩虹（译注：Skittles广告词）",
 	text: [
-		"You get a rainbow title, you get a rainbow title EVEYONE GETS A RAINBOW TITLE."
+		"你得到了彩虹头衔。你得到了彩虹头衔，所有人都得到了彩虹头衔！"
 	],
 	tasks: [{
 		uid: "d0484b45",

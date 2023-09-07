@@ -1,10 +1,10 @@
 {
-	title: "The Headcase",
+	title: "头颅展柜",
 	x: -1.5d,
 	y: 3.0d,
-	description: "off with their heads",
+	description: "砍掉它们的头",
 	text: [
-		"Instead of displaying those heads on your wall why not swap them out for a title."
+		"比起把这些头陈列在墙上，为什么不用它们换一个头衔呢？"
 	],
 	tasks: [{
 		uid: "787a3a87",
