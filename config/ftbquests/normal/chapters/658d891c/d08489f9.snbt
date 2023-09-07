@@ -1,16 +1,16 @@
 {
-	title: "Forged In Blood & Steel",
+	title: "以血与钢锻之",
 	x: 14.0d,
 	y: -1.0d,
-	description: "I craved the strength and certainty of steel",
+	description: "我渴望钢铁般的力量和坚定",
 	text: [
-		"A dragonforge is a 3x3 multiblock structure used in the creation of dragonsteel.",
+		"龙息锻炉是一个3x3的多方块结构，用于制造龙钢。",
 		"",
-		"It consist of 3 layers and 4 different blocks dragonbone blocks, dragonforge bricks,d ragon aperture and a dragonforge core.",
+		"它由三层四种方块组成：龙骨块，锻炉砖块，锻炉焰孔以及一个锻炉核心",
 		"",
-		"The top and bottom layers should be a plus shape of dragonforge bricks with bone blocks in each corner.",
+		"顶部与底部应是用加号形状的锻炉砖块，每个角都放上骨块。",
 		"",
-		"The middle layer has a U shape of dragonforge bricks and with the center being a dragon forge core and infront of it an aperture."
+		"中间层为U形锻炉砖块，中心为锻炉核心，其前方为焰孔。"
 	],
 	dependencies: [
 		"55077529",

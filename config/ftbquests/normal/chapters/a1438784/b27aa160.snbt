@@ -1,12 +1,12 @@
 {
-	title: "Shiny Scarab",
+	title: "闪亮的圣甲虫",
 	x: -1.0d,
 	y: 10.0d,
-	description: "Glimmers in the light",
+	description: "在光中闪烁",
 	text: [
-		"Craft a golden Scarab.",
+		"合成一个金圣甲虫。",
 		"",
-		"Baptise it within the water of the atum structure you've placed."
+		"将它浸入你放置的阿图姆结构的水中。"
 	],
 	dependencies: [
 		"09cad9b8"
