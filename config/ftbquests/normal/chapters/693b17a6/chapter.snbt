@@ -1,7 +1,0 @@
-{
-	title: "光辉事迹",
-	icon: "atum:scroll",
-	always_invisible: false,
-	group: 0,
-	default_quest_shape: ""
-}

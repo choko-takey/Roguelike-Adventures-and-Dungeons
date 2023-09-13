@@ -1,1 +1,0 @@
-<roots:fire_starter>.addTooltip(format.darkAqua("使用此物品会导致游戏崩溃。请使用打火石！"));

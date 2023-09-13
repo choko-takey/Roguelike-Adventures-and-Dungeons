@@ -1,1 +1,0 @@
-<randomthings:summoningpendulum>.addTooltip(format.darkRed("请勿将此物品存放在巨型箱子中，否则可能会发生溢出崩溃！"));

@@ -1,7 +1,0 @@
-{
-	title: "更多实用设备",
-	icon: "extrautils2:angelblock",
-	always_invisible: false,
-	group: 0,
-	default_quest_shape: ""
-}

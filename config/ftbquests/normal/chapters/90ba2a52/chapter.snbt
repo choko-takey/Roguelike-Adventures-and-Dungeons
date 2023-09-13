@@ -1,7 +1,0 @@
-{
-	title: "无尽挑战",
-	icon: "xreliquary:mob_ingredient 1 10",
-	always_invisible: false,
-	group: 0,
-	default_quest_shape: ""
-}

@@ -1,9 +1,0 @@
-game.setLocalization("title.ebwizardry.root", "§f法师");
-game.setLocalization("title.ebwizardry.discover_spell", "§f初阶法师");
-game.setLocalization("title.ebwizardry.advanced", "§7巫师");
-game.setLocalization("title.ebwizardry.max_out_wand", "§3能工巧匠");
-game.setLocalization("title.ebwizardry.warlock", "§7巫术士");
-game.setLocalization("title.ebwizardry.battlemage", "§4战斗法师");
-game.setLocalization("title.ebwizardry.discover_master_spell", "§5奥术奇才");
-game.setLocalization("title.ebwizardry.all_artefacts", "§6§l奥术§d§l收藏家");
-game.setLocalization("title.ebwizardry.all_spells", "§5§k奥术§8§l宗师");

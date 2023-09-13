@@ -1,7 +1,0 @@
-{
-	title: "圣遗物 （古代文物！）",
-	icon: "xreliquary:mercy_cross",
-	always_invisible: false,
-	group: 0,
-	default_quest_shape: ""
-}
