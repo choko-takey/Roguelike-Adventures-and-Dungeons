@@ -1,0 +1,12 @@
+[
+ {
+  "id": "harvestcraft",
+  "title": "Pam's Harvestcraft",
+  "icon": "item:harvestcraft:cherry_sapling"
+ },
+ {
+  "id": "mysticalagriculture",
+  "title": "Mystical Agriculture",
+  "icon": "item:mysticalagriculture:crafting"
+ }
+]

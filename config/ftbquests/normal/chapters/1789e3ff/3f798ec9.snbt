@@ -1,0 +1,129 @@
+{
+	title: "You're a Dwarf Harry",
+	x: -4.5d,
+	y: -1.5d,
+	description: "The ocean is a magical place",
+	text: [
+		"Aqua caverns contain an abudance of wizardy ores.",
+		"",
+		"Thus making it the ideal caverns for any wizard; novice or master."
+	],
+	dependencies: [
+		"5ca0cd0e"
+	],
+	tasks: [{
+		uid: "6a7c707e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "ancientspellcraft:devoritium_ingot"
+		}],
+		count: 64L
+	},
+	{
+		uid: "7c3ed9e2",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "ebwizardry:magic_crystal",
+			Damage: 1s
+		}],
+		count: 64L
+	},
+	{
+		uid: "93752e83",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "ebwizardry:magic_crystal",
+			Damage: 7s
+		}],
+		count: 64L
+	},
+	{
+		uid: "d98d485b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "ebwizardry:magic_crystal",
+			Damage: 5s
+		}],
+		count: 64L
+	},
+	{
+		uid: "40e05331",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "ebwizardry:magic_crystal",
+			Damage: 3s
+		}],
+		count: 64L
+	},
+	{
+		uid: "f587feff",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "ebwizardry:magic_crystal",
+			Damage: 2s
+		}],
+		count: 64L
+	},
+	{
+		uid: "b87ec2fb",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "ebwizardry:magic_crystal",
+			Damage: 6s
+		}],
+		count: 64L
+	},
+	{
+		uid: "ff294347",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "ebwizardry:magic_crystal",
+			Damage: 4s
+		}],
+		count: 64L
+	}],
+	rewards: [{
+		uid: "c166f5d9",
+		type: "loot",
+		table: 36
+	},
+	{
+		uid: "341eba30",
+		type: "choice",
+		table: 36
+	},
+	{
+		uid: "d55f6a92",
+		type: "xp_levels",
+		xp_levels: 50
+	},
+	{
+		uid: "7070e486",
+		type: "ftbmoney:money",
+		ftb_money: 250L
+	}]
+}

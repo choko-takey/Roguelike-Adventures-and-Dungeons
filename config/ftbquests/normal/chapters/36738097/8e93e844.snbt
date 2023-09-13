@@ -1,0 +1,221 @@
+{
+	title: "The Anti-Lorax",
+	x: 0.5d,
+	y: 0.0d,
+	description: "Smokey would not be proud",
+	text: [
+		"Just be happy the modded ones don't require 100k submitted."
+	],
+	tasks: [{
+		uid: "61a70165",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:log"
+		}],
+		count: 100000L
+	},
+	{
+		uid: "b012a5c3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:log",
+			Damage: 1s
+		}],
+		count: 100000L
+	},
+	{
+		uid: "fe1b77f8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:log",
+			Damage: 2s
+		}],
+		count: 100000L
+	},
+	{
+		uid: "70458e36",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:log",
+			Damage: 3s
+		}],
+		count: 100000L
+	},
+	{
+		uid: "e1db3872",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:log2"
+		}],
+		count: 100000L
+	},
+	{
+		uid: "a687abca",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "minecraft:log2",
+			Damage: 1s
+		}],
+		count: 100000L
+	},
+	{
+		uid: "ae21c307",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thaumcraft:log_greatwood"
+		}],
+		count: 10000L
+	},
+	{
+		uid: "e6048601",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "thaumcraft:log_silverwood"
+		}],
+		count: 10000L
+	},
+	{
+		uid: "31ab4afe",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:aether_log",
+			Damage: 1s
+		}],
+		count: 10000L
+	},
+	{
+		uid: "857c5803",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "aether_legacy:aether_log"
+		}],
+		count: 10000L
+	},
+	{
+		uid: "ea375ddf",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:twilight_log"
+		}],
+		count: 10000L
+	},
+	{
+		uid: "bef77b9d",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:twilight_log",
+			Damage: 1s
+		}],
+		count: 10000L
+	},
+	{
+		uid: "c5d2a0e3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:twilight_log",
+			Damage: 2s
+		}],
+		count: 10000L
+	},
+	{
+		uid: "44429ea3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "twilightforest:twilight_log",
+			Damage: 3s
+		}],
+		count: 10000L
+	},
+	{
+		uid: "246a4d73",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "tropicraft:log"
+		}],
+		count: 10000L
+	},
+	{
+		uid: "d4bf68a4",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "tropicraft:log",
+			Damage: 1s
+		}],
+		count: 10000L
+	},
+	{
+		uid: "7d466026",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "randomthings:spectrelog"
+		}],
+		count: 10000L
+	}],
+	rewards: [{
+		uid: "d4254e29",
+		type: "command",
+		team_reward: false,
+		command: "/titles add @p titles:the_lorax"
+	},
+	{
+		uid: "21358d57",
+		type: "xp_levels",
+		xp_levels: 2500
+	},
+	{
+		uid: "46cfc2ed",
+		type: "ftbmoney:money",
+		ftb_money: 500000L
+	}]
+}

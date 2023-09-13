@@ -1,0 +1,24 @@
+{
+	title: "§8§lThe §4§lEdge§8§l§mlord",
+	x: -0.5d,
+	y: 4.0d,
+	description: "Return title",
+	text: [
+		"Returns title if you end up losing it."
+	],
+	can_repeat: true,
+	dependencies: [
+		"1cd26427"
+	],
+	hide: true,
+	tasks: [{
+		uid: "a0e6a442",
+		type: "checkmark"
+	}],
+	rewards: [{
+		uid: "71338039",
+		type: "command",
+		title: "&8&lThe &4&lEdge&8&l&mlord",
+		command: "/titles add @p titles:the_edgelord"
+	}]
+}

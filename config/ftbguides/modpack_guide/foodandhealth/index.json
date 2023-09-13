@@ -1,0 +1,12 @@
+[
+ {
+  "id": "crops",
+  "title": "Gotta Eat Your Greens!",
+  "icon": "item:harvestcraft:broccoliitem"
+ },
+{
+  "id": "kitchen",
+  "title": "Kitchen Utilities (Must-Read!)",
+  "icon": "item:cookingforblockheads:kitchen_floor"
+ }
+]
