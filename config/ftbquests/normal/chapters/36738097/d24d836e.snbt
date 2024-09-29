@@ -1,10 +1,10 @@
 {
-	title: "Weezer Superfan",
+	title: "Weezer狂热粉丝",
 	x: -1.5d,
 	y: 2.0d,
-	description: "Idk its weezing time",
+	description: "我不知道，现在是weezing时间",
 	text: [
-		"I was joking about submitting 10 of these enjoy your title."
+		"我说要提交10个是开玩笑的。享受你的头衔吧！"
 	],
 	tasks: [{
 		uid: "9a2e99bb",
@@ -18,7 +18,7 @@
 	rewards: [{
 		uid: "5cf00a80",
 		type: "command",
-		title: "&3&lThe Weezer Super Fan",
+		title: "&3&lWeezer狂热粉丝",
 		auto: "enabled",
 		command: "/titles add @p titles:the_weezersuperfan"
 	},

@@ -1,10 +1,10 @@
 {
-	title: "The Herbivore",
+	title: "草药学家",
 	x: -1.5d,
 	y: 7.0d,
-	description: "Vegetables have feelings too",
+	description: "植物也有感情",
 	text: [
-		"I hope you were using a harvester to farm all the crops for this."
+		"为此我希望你是用收割机来收割所有庄稼的。"
 	],
 	tasks: [{
 		uid: "fb75f98f",

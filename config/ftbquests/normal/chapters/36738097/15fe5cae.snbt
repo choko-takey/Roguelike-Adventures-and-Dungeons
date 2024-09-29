@@ -1,8 +1,8 @@
 {
-	title: "The Aeronaught",
+	title: "气球旅行者",
 	x: -5.5d,
 	y: 2.0d,
-	description: "Come fly with me, let's fly, let's fly away",
+	description: "和我一起飞翔吧，让我们远走高飞吧（译注：Come Fly With Me歌词）",
 	text: [
 		""
 	],

@@ -1,10 +1,10 @@
 {
-	title: "The Colonel",
+	title: "上校",
 	x: 0.5d,
 	y: 6.0d,
-	description: "Finger Licking Good",
+	description: "Finger Licking Good（译注：KFC广告词）",
 	text: [
-		"If this is supposed to be unhealthy for you then why did they make it taste so nice."
+		"如果这玩意儿不健康的话，他们为什么要把它做的那么好吃"
 	],
 	tasks: [{
 		uid: "7ad2d760",

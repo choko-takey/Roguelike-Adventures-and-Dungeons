@@ -1,12 +1,12 @@
 {
-	title: "Built in Titles",
+	title: "内置头衔",
 	x: -3.5d,
 	y: 1.0d,
-	description: "They're cool I guess",
+	description: "他们很酷，我猜",
 	text: [
-		"The book you recieved as a quest reward has some titles that can be brought with the mods own currency. ",
-		"To add currency to the book have title fragments on right side of the book.",
-		"Then sneak click while holding the book to add them."
+		"任务奖励获得的书中有一些头衔，可以用该模组自己的货币换取。",
+		"若要向书中充值货币，请在书的右侧放置头衔碎片。",
+		"然后手持书时潜行点击以充值。"
 	],
 	dependencies: [
 		"d0e06856"

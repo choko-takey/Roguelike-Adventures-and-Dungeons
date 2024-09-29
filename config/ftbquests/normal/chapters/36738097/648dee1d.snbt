@@ -1,12 +1,12 @@
 {
-	title: "The Hell Scribe",
+	title: "地狱书吏",
 	x: -3.5d,
 	y: 5.0d,
-	description: "You feel your past due books crawling on your back",
+	description: "你觉得逾期未还的书在你背上阴暗地爬行",
 	text: [
-		"Hope you have a good excuse for not returning those books ",
+		"希望你有个好借口不还那些书",
 		"",
-		"I don't think trading books for a title will cut it."
+		"我并不认为说我用书换头衔了能应付得了"
 	],
 	tasks: [{
 		uid: "3b844b8a",

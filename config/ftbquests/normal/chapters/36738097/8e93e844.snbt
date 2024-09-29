@@ -1,13 +1,13 @@
 {
-	title: "The Anti-Lorax",
+	title: "抵制砍伐",
 	x: 0.5d,
 	y: 0.0d,
-	description: "Smokey would not be proud",
+	description: "护林熊不会感到骄傲的",
 	text: [
-		"Just be happy the modded ones don't require 100k submitted."
+		"你应该感到高兴，因为现在你不需要提交10万个了。"
 	],
 	tasks: [{
-		uid: "61a70165",
+		uid: "58ba1d2b",
 		type: "item",
 		items: [{
 			ForgeCaps: {
@@ -15,10 +15,11 @@
 			},
 			id: "minecraft:log"
 		}],
-		count: 100000L
+		count: 100000L,
+		consume_items: true
 	},
 	{
-		uid: "b012a5c3",
+		uid: "27a35529",
 		type: "item",
 		items: [{
 			ForgeCaps: {
@@ -27,10 +28,11 @@
 			id: "minecraft:log",
 			Damage: 1s
 		}],
-		count: 100000L
+		count: 100000L,
+		consume_items: true
 	},
 	{
-		uid: "fe1b77f8",
+		uid: "74475d6d",
 		type: "item",
 		items: [{
 			ForgeCaps: {
@@ -39,10 +41,11 @@
 			id: "minecraft:log",
 			Damage: 2s
 		}],
-		count: 100000L
+		count: 100000L,
+		consume_items: true
 	},
 	{
-		uid: "70458e36",
+		uid: "dbd4be8b",
 		type: "item",
 		items: [{
 			ForgeCaps: {
@@ -51,10 +54,11 @@
 			id: "minecraft:log",
 			Damage: 3s
 		}],
-		count: 100000L
+		count: 100000L,
+		consume_items: true
 	},
 	{
-		uid: "e1db3872",
+		uid: "41553551",
 		type: "item",
 		items: [{
 			ForgeCaps: {
@@ -62,10 +66,11 @@
 			},
 			id: "minecraft:log2"
 		}],
-		count: 100000L
+		count: 100000L,
+		consume_items: true
 	},
 	{
-		uid: "a687abca",
+		uid: "596b254e",
 		type: "item",
 		items: [{
 			ForgeCaps: {
@@ -74,10 +79,11 @@
 			id: "minecraft:log2",
 			Damage: 1s
 		}],
-		count: 100000L
+		count: 100000L,
+		consume_items: true
 	},
 	{
-		uid: "ae21c307",
+		uid: "d327fae1",
 		type: "item",
 		items: [{
 			ForgeCaps: {
@@ -85,10 +91,11 @@
 			},
 			id: "thaumcraft:log_greatwood"
 		}],
-		count: 10000L
+		count: 10000L,
+		consume_items: true
 	},
 	{
-		uid: "e6048601",
+		uid: "b6d4fc99",
 		type: "item",
 		items: [{
 			ForgeCaps: {
@@ -96,10 +103,11 @@
 			},
 			id: "thaumcraft:log_silverwood"
 		}],
-		count: 10000L
+		count: 10000L,
+		consume_items: true
 	},
 	{
-		uid: "31ab4afe",
+		uid: "5b310114",
 		type: "item",
 		items: [{
 			ForgeCaps: {
@@ -108,10 +116,11 @@
 			id: "aether_legacy:aether_log",
 			Damage: 1s
 		}],
-		count: 10000L
+		count: 10000L,
+		consume_items: true
 	},
 	{
-		uid: "857c5803",
+		uid: "42dc554a",
 		type: "item",
 		items: [{
 			ForgeCaps: {
@@ -119,10 +128,11 @@
 			},
 			id: "aether_legacy:aether_log"
 		}],
-		count: 10000L
+		count: 10000L,
+		consume_items: true
 	},
 	{
-		uid: "ea375ddf",
+		uid: "6fe13921",
 		type: "item",
 		items: [{
 			ForgeCaps: {
@@ -130,10 +140,11 @@
 			},
 			id: "twilightforest:twilight_log"
 		}],
-		count: 10000L
+		count: 10000L,
+		consume_items: true
 	},
 	{
-		uid: "bef77b9d",
+		uid: "cd87cab5",
 		type: "item",
 		items: [{
 			ForgeCaps: {
@@ -142,10 +153,11 @@
 			id: "twilightforest:twilight_log",
 			Damage: 1s
 		}],
-		count: 10000L
+		count: 10000L,
+		consume_items: true
 	},
 	{
-		uid: "c5d2a0e3",
+		uid: "75ca0009",
 		type: "item",
 		items: [{
 			ForgeCaps: {
@@ -154,10 +166,11 @@
 			id: "twilightforest:twilight_log",
 			Damage: 2s
 		}],
-		count: 10000L
+		count: 10000L,
+		consume_items: true
 	},
 	{
-		uid: "44429ea3",
+		uid: "2a3cc4b7",
 		type: "item",
 		items: [{
 			ForgeCaps: {
@@ -166,10 +179,11 @@
 			id: "twilightforest:twilight_log",
 			Damage: 3s
 		}],
-		count: 10000L
+		count: 10000L,
+		consume_items: true
 	},
 	{
-		uid: "246a4d73",
+		uid: "e2fd6ad5",
 		type: "item",
 		items: [{
 			ForgeCaps: {
@@ -177,10 +191,11 @@
 			},
 			id: "tropicraft:log"
 		}],
-		count: 10000L
+		count: 10000L,
+		consume_items: true
 	},
 	{
-		uid: "d4bf68a4",
+		uid: "a62fa5e6",
 		type: "item",
 		items: [{
 			ForgeCaps: {
@@ -189,18 +204,8 @@
 			id: "tropicraft:log",
 			Damage: 1s
 		}],
-		count: 10000L
-	},
-	{
-		uid: "7d466026",
-		type: "item",
-		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "randomthings:spectrelog"
-		}],
-		count: 10000L
+		count: 10000L,
+		consume_items: true
 	}],
 	rewards: [{
 		uid: "d4254e29",

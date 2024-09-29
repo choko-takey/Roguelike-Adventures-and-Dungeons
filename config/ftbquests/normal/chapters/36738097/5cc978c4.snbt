@@ -1,13 +1,13 @@
 {
-	title: "The Obisidian hoarder",
+	title: "黑曜石囤积者",
 	x: -1.5d,
 	y: 0.0d,
-	description: "Wanna Tip",
+	description: "我想要提示",
 	text: [
-		"Tip: Don't do this unless you really hate obsidian."
+		"提示：除非你真的很讨厌黑曜石，否则别这么做！"
 	],
 	tasks: [{
-		uid: "205b5f2a",
+		uid: "0125e666",
 		type: "item",
 		items: [{
 			ForgeCaps: {
@@ -15,7 +15,8 @@
 			},
 			id: "minecraft:obsidian"
 		}],
-		count: 1000000L
+		count: 1000000L,
+		consume_items: true
 	}],
 	rewards: [{
 		uid: "a3936569",

@@ -1,10 +1,10 @@
 {
-	title: "§8§lThe §7§lGreatest §8§lObsidian §7§lHater",
+	title: "§0§l黑曜石§8§l宿§8§l敌",
 	x: -0.5d,
 	y: 0.0d,
-	description: "Return title",
+	description: "重新获取头衔",
 	text: [
-		"Returns title if you end up losing it."
+		"如果你的头衔遗失了，可以在这里重新获取。"
 	],
 	can_repeat: true,
 	dependencies: [
@@ -18,7 +18,7 @@
 	rewards: [{
 		uid: "1722fc33",
 		type: "command",
-		title: "&8&lThe &7&lGreatest &8&lObsidian &7&lHater",
+		title: "&0&l黑曜石&8&l宿&8&l敌",
 		command: "/titles add @p titles:the_obsidian"
 	}]
 }

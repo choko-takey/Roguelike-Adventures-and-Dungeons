@@ -1,10 +1,10 @@
 {
-	title: "Arms Master",
+	title: "武器大师",
 	x: -3.5d,
 	y: 3.0d,
-	description: "I hope you have weapon insurance",
+	description: "我希望你有武器保险",
 	text: [
-		"Now collect everyone weapon in game and earn the super secret hidden title that you can show off to your friends!!"
+		"收集游戏中所有的武器，即可获得超级秘密的隐藏头衔，向你的朋友们炫耀吧！！"
 	],
 	tasks: [{
 		uid: "866745c9",

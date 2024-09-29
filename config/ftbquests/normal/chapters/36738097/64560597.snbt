@@ -1,10 +1,10 @@
 {
-	title: "§fThe §bClo§cwn",
+	title: "§f小§b丑",
 	x: 1.5d,
 	y: 7.0d,
-	description: "Return title",
+	description: "重新获取头衔",
 	text: [
-		"Returns title if you end up losing it."
+		"如果你的头衔遗失了，可以在这里重新获取。"
 	],
 	can_repeat: true,
 	dependencies: [
@@ -18,7 +18,7 @@
 	rewards: [{
 		uid: "5f2b9a79",
 		type: "command",
-		title: "&fThe &bClocwn",
+		title: "&f小&b丑",
 		command: "/titles add @p titles:the_clown"
 	}]
 }

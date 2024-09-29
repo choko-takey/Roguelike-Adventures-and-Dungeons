@@ -1,10 +1,10 @@
 {
-	title: "[TITLE NAME REDACTED]",
+	title: "[头衔名称已编辑]",
 	x: -3.5d,
 	y: 0.0d,
-	description: "Honestly, don't even attempt at this quest please",
+	description: "老实说，请不要尝试这个任务",
 	text: [
-		"I have one question for the sun god WHY!! would you do this to yourself it's not even worth the title."
+		"我不理解我的老天，为什么！！你会这样对自己？这甚至不值得这个头衔。"
 	],
 	hide_text_until_complete: true,
 	tasks: [{
@@ -32,10 +32,10 @@
 			tag: {
 				generation: 3,
 				pages: [
-					"{\"text\":\"Enjoy your title\"}"
+					"{\"text\":\"享受你的头衔吧\"}"
 				],
 				author: "Redacted",
-				title: "...."
+				title: "……"
 			}
 		}
 	},

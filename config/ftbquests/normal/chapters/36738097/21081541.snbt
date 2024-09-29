@@ -1,10 +1,10 @@
 {
-	title: "§6§lOf Rock and Stone",
+	title: "§6§l岩石",
 	x: -6.5d,
 	y: 4.0d,
-	description: "Return title",
+	description: "重新获取头衔",
 	text: [
-		"Returns title if you end up losing it."
+		"如果你的头衔遗失了，可以在这里重新获取。"
 	],
 	can_repeat: true,
 	dependencies: [
@@ -18,7 +18,7 @@
 	rewards: [{
 		uid: "a59ea4f3",
 		type: "command",
-		title: "&6&lOf Rock and Stone",
+		title: "&6&l岩石",
 		command: "/titles add @p titles:the_rock"
 	}]
 }

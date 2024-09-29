@@ -1,10 +1,10 @@
 {
-	title: "§2§l§nThe Greatest Tree Feller to Desecrate the Land",
+	title: "§2§l§n亵渎自然的伐木工",
 	x: 1.5d,
 	y: 0.0d,
-	description: "Return title",
+	description: "重新获取头衔",
 	text: [
-		"Returns title if you end up losing it."
+		"如果你的头衔遗失了，可以在这里重新获取。"
 	],
 	can_repeat: true,
 	dependencies: [
@@ -18,7 +18,7 @@
 	rewards: [{
 		uid: "9c3e34f4",
 		type: "command",
-		title: "&2&l&nThe Greatest Tree Feller to Desecrate the Land",
+		title: "&2&l&n亵渎自然的伐木工",
 		command: "/titles add @p titles:the_lorax"
 	}]
 }

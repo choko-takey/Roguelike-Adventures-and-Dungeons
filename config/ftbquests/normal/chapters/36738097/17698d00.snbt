@@ -1,9 +1,9 @@
 {
-	title: "Reborn from the Nothingness",
+	title: "自虚无中重生",
 	x: -7.5d,
 	y: 3.0d,
 	text: [
-		"Enter the realm between life and death."
+		"步入生死之间的领域。"
 	],
 	tasks: [{
 		uid: "8f0f1668",

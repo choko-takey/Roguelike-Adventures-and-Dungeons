@@ -1,10 +1,10 @@
 {
-	title: "§aThe Herbivore",
+	title: "§a草药学家",
 	x: -0.5d,
 	y: 7.0d,
-	description: "Return title",
+	description: "重新获取头衔",
 	text: [
-		"Returns title if you end up losing it."
+		"如果你的头衔遗失了，可以在这里重新获取。"
 	],
 	can_repeat: true,
 	dependencies: [
@@ -18,7 +18,7 @@
 	rewards: [{
 		uid: "5ad63b8d",
 		type: "command",
-		title: "&aThe Herbivore",
+		title: "&a草药学家",
 		command: "/titles add @p titles:the_herbivore"
 	}]
 }

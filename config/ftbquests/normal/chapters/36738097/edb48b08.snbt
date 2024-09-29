@@ -1,10 +1,10 @@
 {
-	title: "The Carnivore",
+	title: "肉食动物",
 	x: -1.5d,
 	y: 6.0d,
-	description: "Looks like meat's back on the menu boys",
+	description: "看起来菜单上又有肉了兄弟们",
 	text: [
-		"I hope your able to live with the guilt of all those innocent animals your murdered weighing on your conscious."
+		"我希望你能忍受活在谋杀那些无辜动物的罪恶中。"
 	],
 	tasks: [{
 		uid: "4c1cea85",

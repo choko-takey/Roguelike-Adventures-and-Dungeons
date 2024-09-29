@@ -1,10 +1,10 @@
 {
-	title: "Weezer Fan",
+	title: "Weezer后援团",
 	x: -3.5d,
 	y: 2.0d,
-	description: "Insert funny subtitle",
+	description: "加上有趣的副标题",
 	text: [
-		"If you were a real fan you would get the title that requires 10 of these"
+		"如果你是一个真正的粉丝，你就可以获得这个需要提交10个这东西的头衔"
 	],
 	tasks: [{
 		uid: "9e590860",

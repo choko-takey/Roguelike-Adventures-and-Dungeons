@@ -1,10 +1,10 @@
 {
-	title: "The Master of Eldritch Knowledge",
+	title: "邪术大师",
 	x: -5.5d,
 	y: 3.0d,
-	description: "I hope you've been checking your warp",
+	description: "我希望你一直有在检查你的扭曲值",
 	text: [
-		"I got corrupted and all I have to show is a stupid title!"
+		"我堕落了，而我能展示的只有一个愚蠢的头衔！"
 	],
 	dependencies: [
 		"aa162004"

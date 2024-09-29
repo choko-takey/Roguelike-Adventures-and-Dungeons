@@ -1,10 +1,10 @@
 {
-	title: "The One Who Forgot Enchanting Existed",
+	title: "忘记附魔的人",
 	x: -3.5d,
 	y: -3.0d,
-	description: "I wont say how much exp this cost",
+	description: "我不在乎这个要花多少经验",
 	text: [
-		"To be honest that was pretty cheap quest alone probably give you enough."
+		"好吧老实说，这相当便宜。光是做任务得到的经验就差不多够了。"
 	],
 	hide_text_until_complete: true,
 	tasks: [{

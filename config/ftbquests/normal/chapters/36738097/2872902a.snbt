@@ -1,10 +1,10 @@
 {
-	title: "The 0.1%",
+	title: "千分之一",
 	x: -3.5d,
 	y: -2.0d,
-	description: "Still a better investment than nfts",
+	description: "还是比NFTS更好的投资",
 	text: [
-		"So many things to spend all that dough on and you buy a title. A sound investment I say!"
+		"这么多钱可以买那么多种东西，而你就买了一个头衔。我说，这是一笔不错的投资！"
 	],
 	tasks: [{
 		uid: "c504f4a0",
