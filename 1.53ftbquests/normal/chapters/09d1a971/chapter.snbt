@@ -1,7 +1,0 @@
-{
-	title: "High Flyin'",
-	icon: "vc:item_airship_ignition",
-	always_invisible: false,
-	group: 0,
-	default_quest_shape: ""
-}
