@@ -1,3 +1,3 @@
-#Credits & Thanks
+#贡献&鸣谢
 
-This section is dedicated to those who dedicated a large part of their time to support this modpack and help it grow.
+本节献给那些花了许多时间支持与帮助这个整合包发展的人。

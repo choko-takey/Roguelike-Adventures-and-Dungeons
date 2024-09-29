@@ -1,41 +1,42 @@
-Storage Drawers
+储物抽屉
 
-The best solution for storing a single item or sets of items Storage drawers
+储存单种物品的最佳方案！
 
-![Storage Drawers](drawers.png)
+![储物抽屉](drawers.png)
 
-In order from left to right
+顺序：从左到右
 
-Basic drawer 2x2  un-upgraded is able to hold 8 stacks of any item (512)
-Basic drawer single un-upgraded is able to hold 32 stacks of any item (2048)
-Basic drawer 1x2 un-upgraded is able to hold 16 stacks of any item (1024)
+2x2基础抽屉（未升级），可存储4种物品，每种8组。（512）
+基础抽屉（未升级），可存储1种物品，32组。（2048）
+1x2基础抽屉（未升级），可存储2种物品，每种16组。（1024）
 
-Compacting drawers are a unique type of drawer better used for ore blocks that can output the item into other simple craftables it can be turned into as shown above gold into ingots,blocks or nuggets.
+压缩抽屉是一种特殊的抽屉，适用于矿物这样的可压缩物品。它会自动将三种形式的该物品合并存储，取出时可直接取出任一形式的该物品。如上图所示，存储的金子可取出为金锭、金块或金粒。
 
-Drawers have many uses a simple one being is adding them below a hopping bonsai for it to collect items
+抽屉用途繁多，比如把它放在漏式盆栽的下面以收集物品。
 
-![Drawers with hoping bonsais ontop](drawersinaction.png)
+![上面放了漏式盆栽的抽屉](drawersinaction.png)
 
-Drawer keys  
-4 types for the basic drawers the two I recommend are
-Quantify key so you can keep track of how much of any item a drawer has
+抽屉钥匙
+基础抽屉共有4种钥匙。推荐以下两种：
+量化钥匙，使你可以查看抽屉中的物品数量。
 
-![Quantify key recipe](drawerkey.png)
+![量化钥匙配方](drawerkey.png)
 
-Drawer key locks the contents of a drawer so that it can only store the items that are locked into it (also has the added benefit of showing which items are locked in even if all are taken).
+抽屉钥匙，使被上锁的抽屉只能存入面板上的物品，无法取出物品。（还可以给物品保留占位，即使该物品已被全部取出）。
 
-![Locking drawer key recipe](drawerkeyrecipe.png)
+![抽屉钥匙配方](drawerkeyrecipe.png)
 
-![Locked drawer](drawerseggs.png)
+![上锁的抽屉](drawerseggs.png)
 
-Depending on what you use it for you might find your drawer filling up fast don’t worry there are upgrades to help with that.
+你的抽屉可能很快就装满了（这取决于你用它来干什么），不过不用担心，你可以给抽屉加装升级。
 
-![All drawer upgrades](drawerupgrades.png)
+![所有的抽屉升级](drawerupgrades.png)
 
-At most you only need one Storage upgrade V (the emerald one) and you never have to worry about item storage again. It increases storage by 32 multiplied by the default amount of the drawer. For example 2x2 would store 16k items with just one emerald upgrade.
+大多数情况你只需要一个抽屉容量升级（V）（绿宝石那个）便可再无后顾之忧。它可以使抽屉容量变为基础抽屉的32倍。例如一个2x2的抽屉将可以存储4种物品，每种16384个。
 
-There are other upgrades that can give uses for different purposes.
+还有其它的升级，它们可以满足些别的需求。
 
-Drawer Controller a unique type of drawer any item piped into it will be auto deposited into any drawers attached.
+抽屉控制器
+一种特殊的抽屉，它可以将存入其中的物品自动分类存入与其连接的抽屉中。
 
-![Drawer controller attached to an automatic farm](drawercontroller.png)
+![安装在自动农场的抽屉控制器](drawercontroller.png)

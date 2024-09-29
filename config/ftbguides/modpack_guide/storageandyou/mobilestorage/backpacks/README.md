@@ -1,14 +1,14 @@
-Backpacks
+背包
 
-A staple item of modded minecraft backpacks are one of the cheaper options when it comes to mobile storage crafted with following items (Remember to use jei to see how to craft certain items).
+整合包中重要的物品。背包是一种更便宜的移动存储工具，由以下物品合成（记得用JEI查询物品配方！）。
 
-![Backpack Recipe](backpack.png)
+![背包配方](backpack.png)
 
-Crafting this will give you the most basic Backpack with a total of 18 slots fret not this can be upgraded with the following set of items
+这个配方合成的是最基础的背包，共有18个储物格子。它可以使用下面的一系列物品来升级。
 
-![Backpack upgrades](backpackupgrades.png)
+![背包升级](backpackupgrades.png)
 
-Storage upgrades being 5 tiers each one adding 9 slots to the backpack and very cheap to make allows for you to easily get a maxed backpack before you even halfway into your first dungeon.
-But be warned you cannot skip upgrade tiers each upgrade has to be added in order
-Wood > Stone > Iron > Gold > Diamond.
-A max upgraded backpack supports storing 63 items which unsurprisingly is most likely not enough to store all the loot you're getting while plowing through a dungeon (you can always carry multiple).
+存储升级共有5个等级，每级可为背包添加9个格子。这些存储升级都很容易制作，你甚至还没探索完第一个地牢的一半就可以做出满级的背包了。
+存储升级不可以越级！要按顺序添加！
+木>石>铁>金>钻石。
+一个有63个格子的满级背包往往装不下你扫荡一个地牢获得的全部战利品（你可以多带几个）。

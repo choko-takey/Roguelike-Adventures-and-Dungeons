@@ -1,12 +1,12 @@
 [
  {
   "id": "crops",
-  "title": "Gotta Eat Your Greens!",
+  "title": "一定要吃绿色食品！",
   "icon": "item:harvestcraft:broccoliitem"
  },
 {
   "id": "kitchen",
-  "title": "Kitchen Utilities (Must-Read!)",
+  "title": "厨房实用工具（必读！）",
   "icon": "item:cookingforblockheads:kitchen_floor"
  }
 ]

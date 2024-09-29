@@ -1,76 +1,74 @@
-# Little knife, big rewards
+# 小匕首，大收获
 ___
 
-The Soulium Dagger
+灵魂匕首
 
-![Stats on the Soulium Dagger](souliumdagger.png)
+![灵魂匕首属性](souliumdagger.png)
 
-This item is the only way to obtain Mob Chunks.
+你只能通过此物品获得怪物灵魂碎片。
 
-By landing the killing blow on mobs with this weapon, you have a chance to obtain Mob Chunks on the killing blow. The type of Chunk depends on which mob is killed.
+使用该武器杀死生物，会有概率获得怪物灵魂碎片。灵魂碎片的类型取决于被杀死的生物。
 
-Step 1: Craft your Soulium Ingots. Which is a painfully unnecessary process.
+第一步：制作灵魂锭。这是一个痛苦而套娃且不必要的过程。
 
-![The process begins](souliumrecipe1.png)
+![过程之初](souliumrecipe1.png)
 
-Obtain stone (cooked Cobblestone), and Soul Sand.
+获得石头（烧制过的圆石）和灵魂沙。
 
-![More...?](souliumrecipe2.png)
+![然后呢……？](souliumrecipe2.png)
 
-Cook it.
+烧它。
 
-![Are we done yet? No?](souliumrecipe3.png)
+![我们完成了吗？没有？](souliumrecipe3.png)
 
-Acquire Prudentium and combine it with your Soul Dust.
+获得初级精华并与灵魂沙合成。
 
-![Finally!](souliumrecipe4.png)
+![最后一步!](souliumrecipe4.png)
 
-Cook it again. And then you have the Soulium Ingots needed to craft your dagger!
+烧制它。然后你就获得了制作灵魂匕首所需的灵魂锭！
 
-But wait, you're missing the hilt!
+但是等等，怎么没有刀柄!
 
-You'll need some Prosperity Shards and a Stick.
+你需要一些活化水晶碎片和一根木棍。
 
-![This is just a stick but I guess](stick.png)
+![但我猜这只是一根棍子](stick.png)
 
-Combine everything together to finally obtain your Soulium Dagger!
+将以上所有东西组合起来，就能获得灵魂匕首！
 
-Now you can go and slice down enemies for a chance at Mob Chunks!
+现在你可以去击杀敌人获得怪物灵魂碎片了！
 
-Chunk tiers are as follows:
+灵魂碎片等级如下：
 
--Zombies are the only Tier 1 Mob Chunk.
+-僵尸是唯一的1级怪物灵魂碎片。
 
--Farm animals come in at Tier 2.
+-农场动物为2级。
 
--Overworld mobs at Tier 3.
+-主世界生物为3级。
 
--Most Nether mobs at Tier 4.
+-大多数下界生物为4级。
 
--Wither Skeletons at Tier 5.
+-凋灵骷髅为5级。
 
-![A Zombie Mob Chunk in a Furnace](cookedchunk1.png)
+![熔炉中的的僵尸灵魂碎片](cookedchunk1.png)
 
-You can cook Mob Chunks in order to receive the basic Mob Chunk at whatever tier the monster correlates to.
+你可以烧制怪物灵魂碎片，以获得对应等级的基础怪物灵魂碎片。
 
-![Finished product](cookedchunk2.png)
+![成品](cookedchunk2.png)
 
-Here you can see, from a Zombie Mob Chunk, we receive a basic Tier 1 Mob Chunk.
+如图所示，通过一个僵尸灵魂碎片，得到一个1级基础怪物灵魂碎片。
 
-With the basic chunk, we can craft it into seeds for other mobs. However, with Zombie being the only mob you can "grow" at Tier 1, this example is not so great.
+有了基础灵魂碎片，我们可以将它制作成其他生物的种子。然而，由于僵尸是你在第1级唯一可以“种植”的怪物，所以这个例子就不那么恰当了。
 
-In the case with a Tier 2 Mob Chunk, you could use the basic chunk to transition Sheep Chunks to Cow Chunks
+在2级怪物碎片的情况下，你可以使用基础灵魂碎片来将羊碎片变成牛碎片
 
-Note: Each chunk also has its own special drop chance.
+注意：每种碎片掉落的概率互不相同。
 
-![Example](creeperseeds.png)
+![例如](creeperseeds.png)
 
-As you can see here, we are trying to make Creeper Seeds.
- 
-Take notice that Creeper Seeds require Intermedium Essence to be crafted.
+如你所见，我们正在尝试制作苦力怕种子。
 
-Creeper Seeds are a Tier 3 seed and will require the third tier of essence to be crafted.
+请注意，苦力怕种子需要中级精华才能制作。
 
-This goes for all seeds and their tiers, respectively.
+苦力怕种子是三级的种子，需要三级精华才能制作。
 
-
+这适用于所有种子和它们的层级。

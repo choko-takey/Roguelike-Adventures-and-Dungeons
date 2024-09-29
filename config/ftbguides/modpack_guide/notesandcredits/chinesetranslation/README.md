@@ -1,15 +1,15 @@
-A Special Thanks To all  contributors of VM translation group for translating the entire quest book and other aspects of the modpack to chinese.
+特别鸣谢参与汉化本整合包任务书以及其他部分的VM汉化组成员。
 
-Translating information to an entirely new language is not an easy feat and the entire rad 1 team is grateful to have a dedicated community who will support doing such a task.
+将这些东西翻译为一种全新的语言并不是一件容易的事。整个rad 1团队都非常感激有一个专门的团队来支持完成这样一个任务。
 
-Thank you to all the members of the VM translation group who contributed to this project and continue to do so.
+感谢为本项目做出并将继续做出贡献的所有VM汉化组成员。
 
-#Leader of the group
+#VM汉化组组长
 
-![yiquvi](yiquvi.png)
+![曲逸](yiquvi.png)
 
-#A List Of Members Who Contributed To Rad 1 Translation
+#为Rad 1汉化做出贡献的成员名单
 
-![A Full List Of The Groups Members](vmtranslationgroup.png)
+![VM汉化组全体成员名单](vmtranslationgroup.png)
 
-#Find Out More Here - https://www.bilibili.com/read/cv25214830
+#了解更多 - https://www.bilibili.com/read/cv25214830

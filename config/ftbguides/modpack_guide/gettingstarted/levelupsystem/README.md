@@ -1,23 +1,23 @@
-# The Level-Up System!
+# 升级系统！
 
-To access the Level-Up menu, check your Controls. It is likely conflicting with other bindings.
+要访问Level-Up的菜单，请检查你的键位。它很可能与其他按键相冲突。（默认为B）
 
-The Level-Up system allows players to select and upgrade certain passive skills which increase quality of life.
+升级系统允许玩家选择和升级某些被动技能。
 
-Players can access the menu and exchange 5 Experience Levels for 1 Skill Point.
+玩家可以进入菜单，用5经验等级换取1技能点。
 
-They can then select a skill to upgrade from among many different options.
+然后他们可以从许多不同的选项中选择一个技能来升级。
 
-Players are permitted a core skill upon their first click. This core skill will increase experience gains from participating in the selected activity. All core skills can be gained.
+玩家在第一次点击时可以选择一个核心技能。这个核心技能将增加从参与选择的活动中获得的经验值。所有核心技能都可以获得。
 
-![Smelting Efficiency perk, found under the Crafting tab in the Level-Up skills menu](goodburn.png)
+![冶炼达人能力，可在Level-Up的菜单的创造标签下找到。](goodburn.png)
 
-All skills grant powerful bonuses in the long-run, but the most important of them all is the Smelting Efficiency perk under Crafting.
+从长远来看，所有的技能都会给予强大的奖励，但其中最重要的是创造下的冶炼达人能力。
 
-This perk allows for a chance at double output from smelting ore, but only with a Furnace bound to the player.
+这项能力允许有机会从冶炼矿石中获得双倍的产出，但只限于与玩家绑定的熔炉。
 
-Players may bind one Furnace and one Brewing Stand. To bind a station, Shift Right-click with an empty hand.
+玩家可以绑定一个熔炉和一个酿造台。要想绑定，请空手Shift右键。
 
-# Leveling Up Fast!
+# 快速升级！
 
-To level up with more efficiency, be sure to constantly turn in your levels when you're below level 15. The book only cares about levels, and not total experience. Leveling up to 15 is much easier than leveling to 30, before you turn in all of your experience for skill points.
+为了更高效地升级，请确保在低于15级时不断提交你的等级。这本书只关心等级，而不关心总经验。升级到15级比升级到30级要容易得多，在你将所有经验兑换成技能点之前。

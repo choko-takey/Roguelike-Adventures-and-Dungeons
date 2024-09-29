@@ -1,5 +1,5 @@
-# This section is a guide to all storage related mods in the pack
+# 本节将介绍整合包中所有的存储类模组！
 
-In R.A.D you're going to find your inventory filling up in the first 5 minutes of gameplay and after a while the double chest won't be able to cut it. Worry not adventurer by reading this guide you will find multiple ways of storing your items.
+在R.A.D里，你的物品栏将会在开局5分钟之内就被塞满。很快，大型箱子也将难以负担海量的物品。不过别担心，冒险者，这份指南会告诉你很多种存储你的物品的方法。
 
-#Click Above to investigate Each one
+#点击上方链接了解它们！

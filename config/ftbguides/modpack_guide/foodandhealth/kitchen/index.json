@@ -1,17 +1,17 @@
 [
  {
   "id": "howthekitchenworks",
-  "title": "Rules Of The Kitchen!",
+  "title": "厨房守则！",
   "icon": "item:cookingforblockheads:oven"
  },
  {
   "id": "importantingredients",
-  "title": "Staying Stocked Up!",
+  "title": "保持足够的储备！",
   "icon": "item:harvestcraft:doughitem"
  },
 {
   "id": "guidebooks",
-  "title": "Blockhead Cooking",
+  "title": "懒人厨房",
   "icon": "item:cookingforblockheads:recipe_book"
  }
 ]

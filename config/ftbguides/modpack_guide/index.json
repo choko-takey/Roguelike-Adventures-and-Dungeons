@@ -1,37 +1,37 @@
 [
  {
   "id": "gettingstarted",
-  "title": "Getting Started!",
+  "title": "入门!",
   "icon": "item:minecraft:grass"
  },
  {
   "id": "foodandhealth",
-  "title": "All You Can Eat",
+  "title": "可以吃的东西",
   "icon": "item:harvestcraft:southernstylebreakfastitem"
  },
  {
   "id": "storageandyou",
-  "title": "Storage & You",
+  "title": "储存与你",
   "icon": "item:minecraft:chest"
  },
  {
   "id": "tipsandtricks",
-  "title": "Modpack Tips & Tricks",
+  "title": "整合包技巧&窍门",
   "icon": "item:minecraft:redstone_torch"
  },
   {
   "id": "bringoutyourdead",
-  "title": "Bring Out Your Dead",
+  "title": "死亡知识",
   "icon": "item:tombstone:ankh_of_pray"
  },
  {
   "id": "decoration101",
-  "title": "Decoration 101",
+  "title": "装饰101",
   "icon": "item:bibliocraft:furniturepaneler"
  },
  {
   "id": "notesandcredits",
-  "title": "Notes & Credits",
+  "title": "笔记&贡献",
   "icon": "item:scalinghealth:heartcontainer"
  }
 ]

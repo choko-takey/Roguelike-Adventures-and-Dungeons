@@ -1,8 +1,8 @@
-# Kitchen-Aid and how to use it!
+# 厨房助手以及如何使用它！
 ___
 
-This section of the guide will show you how to utilize a kitchen to its fullest potential!
+指南的这一部分将告诉你如何充分发挥厨房的潜力！
 
-You have no idea what kind of cooking is waiting for you!
+你不知道有什么样的烹饪在等着你！
 
-This is my favorite section of the pack... - Soracial
+这是我最喜欢的部分…… - Soracial

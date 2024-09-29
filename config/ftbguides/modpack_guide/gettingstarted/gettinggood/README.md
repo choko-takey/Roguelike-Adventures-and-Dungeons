@@ -1,63 +1,62 @@
-# Obtaining decent weapons and armor!
+# 获得像样的武器和盔甲！
 
-You're going to fight a lot of tough enemies throughout your adventures.
+在整个冒险过程中，你将与很多强大的敌人战斗。
 
-You're going to want to get geared from the get-go!
+你从一开始就应该准备好！
 
-Besides basic tools like the pickaxe, axe, and shovel, you're going to need a sturdy weapon!
+除了像镐、斧和锹这样的基本工具外，你还需要一个牢靠的武器！
 
-![The greatest thing you'll ever see before you get iron](woodaxe.png)
+![在你得到铁之前，这是最重要的东西](woodaxe.png)
 
-Though the attack speed is lower than a Diamond Sword, the Wooden Battleaxe deals a staggering 1.2 more damage than everyones' basic dream weapon.
+虽然攻击速度低于钻石剑，但木制战斧的伤害比每个人的梦寐以求的武器多出1.2点伤害，真令人吃惊。
 
-This item should help you plow through enemies in the early game, until you can obtain something more reliable. You will realistically only have this weapon for about 10 to 15 minutes, if you're searching for a better place to mine or live.
+这个物品应该能帮助你在早期游戏中击败敌人，直到你能够获得更可靠的武器。如果你正在寻找更好的采矿或居住地点，你实际上只会拥有这个武器大约10到15分钟。
 
-![Your bread and butter weapon for the rest of your playthrough](irongreatsword.png)
+![你在之后的游戏中的战斗武器](irongreatsword.png)
 
-The Iron Greatsword is your direct upgrade to the Wooden Battleaxe. With a higher attack speed and 1.8 more damage, this item will aid you heavily as you continue to push through an increasing difficulty.
+铁大剑是你从木制战斧直接升级而来的武器。拥有更高的攻击速度和1.8点额外伤害，这个物品将在你面对越来越大的困难时给予你很大的帮助。
 
-![A Pickaxe obtained from RandomLoot](randomlootpickaxe.png)
+![通过战利品袋获得的镐子](randomlootpickaxe.png)
 
-You may sometimes obtain loot cases from either RandomLoot or MegaLoot. These mods are separate and have separate stations to repair their items at. Keep this in mind.
+你有时可能会获得随机战利品或超级战利品的战利品箱。这些模组是独立的，并且有独立的方块来修复它们的物品。请牢记这一点。
 
-This aside, each tool, or piece of armor from the mod(s) has special effects on it. These items can become very powerful if time and resources are invested into them, and especially if you get lucky and get a good one.
+另外，模组中的每件工具或盔甲都有特殊的效果。如果投入时间和资源，这些物品可以变得非常强大，特别如果你是欧皇，会更容易得到宝贝。
 
-Players constantly ask which gear from which mod is better. On average, items from MegaLoot are consistently more powerful. However, RandomLoot has its fair share of useful items that you can get lucky with.
+总是有玩家问，哪个模组的装备更好。平均而言，来自超级战利品的物品一直比较强大。然而，随机战利品也有不少有用的物品，你可能会有幸得到。
 
-Loot cases from both mods can be purchased from the Shop or found by exploring the Overworld, and Battle Towers.
+两个模组的战利品箱都可以从商店购买，或者通过探索主世界或战斗高塔找到。
 
-Please note: ARMOR from RANDOMLOOT is bugged, and will lose its effects and stats when upgraded. This is a known bug. It cannot be fixed.
+请注意：来自随机战利品的盔甲有问题，升级后会失去其效果和状态。这是一个已知的bug。它无法被修复。
 
-![The best weapon in the game, by default stats and effects](dragonsteelgreatsword.png)
+![按默认的属性和效果计算，游戏中最好的武器](dragonsteelgreatsword.png)
 
-The Dragonsteel Greatsword (Ice or Fire) is the most powerful weapon in the game, straight out of the Crafting Table.
+龙钢大剑（霜钢或炎钢）是游戏中最强大的武器，可以直接使用工作台制作。
 
-Dragonsteel weapons and armor will be obtainable much farther into your adventure.
+在进一步的冒险过程中，你将可以获得龙钢武器和盔甲。
 
-See the Ice and Fire Guide or refer to your Bestiary for more information on Dragonsteel.
+参见冰火传说指南或参考你的异兽手记以了解更多关于龙骨的信息。
 
-![Studded Leather armor is very effective in the early game, and can save you some Iron!](studdedleather.png)
+![铆钉盔甲在游戏早期非常有效，可以为你省一些铁！](studdedleather.png)
 
-If you can't get tons of Iron in the early game, or want to save some of your resources, Studded Leather is a great alternative to the complete set of Iron Armor.
+如果你在游戏早期无法获得大量的铁，或者想节省一些资源，那么铆钉装备是全套铁甲的最佳替代品。
 
-In the end, crafting Studded Leather over the complete set of Iron armor will save you about 10 ingots.
+最后，在整套铁甲上制作铆钉将为你节省约10个锭。
 
-![A lucky piece of armor from an Epic MegaLoot Case](megalootarmor.png)
+![一件来自传奇超级战利品箱的幸运盔甲](megalootarmor.png)
 
-Armor from MegaLoot can be extremely powerful, and even comes with bonus effects when a partial set is worn. This gives leniency towards the player, allowing them to equip other supplemental gear found on their adventure.
+超级战利品的盔甲非常强大，甚至在穿戴部分套装时还会有额外的效果。这使得玩家可以在冒险中装备其他辅助装备，给予其更高的灵活性。
 
-Some armor can even grant flight!
+有些盔甲甚至可以赋予飞行能力！
 
-Some armor has even better stats than Dragonsteel!
+有些盔甲的属性甚至比龙钢还要好！
 
-As mentioned above, MegaLoot cases can be purchased from the Shop.
+如上所述，超级战利品的箱子可以从商店购买。
 
-![The basic stats on a Dragonsteel Chestplate](dragonsteelarmor.png)
+![龙钢胸甲的基础数据](dragonsteelarmor.png)
 
-Dragonsteel armor has the best basic stats in this modpack.
+在这个整合包中，龙钢盔甲的基础属性是最好的。
 
-As was mentioned before, view the Ice and Fire Guide or refer to your Bestiary for more information on how to obtain Dragonsteel.
-
+如前所述，请查看冰与火指南或参考你的异兽手机，以了解更多关于如何获得龙钢的信息。
 
 
 

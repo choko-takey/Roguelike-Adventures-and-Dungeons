@@ -1,85 +1,85 @@
-# Ingredients to stay stocked up on!
+# 保持足够的食材储备！
 ___
 
-# Eggs
+# 鸡蛋
 ___
 
-![Eggs...](eggs.png)
+![鸡蛋……](eggs.png)
 
-Eggs... Eggs... More Eggs!
+鸡蛋……鸡蛋……更多鸡蛋！
 
-There are several ingredients which go through high intensity use in the kitchen. You're always going to be busting this item out of the cabinets for that next meal.
+在厨房里有几种食材经常需要使用。你总是要为下一餐而从柜子里拿出它们。
 
-In order to alleviate your stress when you find that you're low, this section of the guide will help you stay stocked up on your most important cooking materials!
+当你发现你的储备不足时，为了减轻你的压力，本节指南将帮助你储备你最重要的烹饪食材！
 
-# Milk & Heavy Cream
+# 牛奶 & 多脂奶油
 ___
 
-![The good stuff](milkandcream.png)
+![好东西](milkandcream.png)
 
-If you've reviewed prior sections of this Guide, then you'll know that you can obtain an infinite supply of Milk. Make sure you have that.
+如果你回顾过本指南的前几节，那么你会知道你可以获得无限的牛奶。这是此节的先决条件。
 
-Heavy Cream is another important ingredient as both Milk itself and Heavy Cream are used in a plethora of recipes, including other basic ingredient recipes.
+多脂奶油是另一种重要的食材，因为牛奶本身和多脂奶油都被用于大量的配方中，包括其他基础食材的配方。
 
-# Dough
+# 生面团
 ___
 
-![Dough on a Fruit Basket](dough.png)
+![水果篮中的生面团](dough.png)
 
-I can't explain how important it is to stay stocked up on this item. I'd say atleast 30% of all prepared foods in Pam's Harvestcraft will require Dough in some form or another. Be sure to keep some in the fridge for later!
+我无法解释保持这个物品的储备是多么重要。我想说的是，在潘马斯农场中，至少有30%的熟食需要用各种形式的面团制作。一定要留一些在冰箱里备用！
 
-Dough is also used to create Batter for other recipes!
+生面团也可以用来制作面糊！
 
-# Sugar & Honey
+# 糖 & 蜂蜜
 ___
 
-![Sugar in a Fruit Basket, and an Apiary](sugarandhoney.png)
+![水果篮中的糖以及一个蜂房](sugarandhoney.png)
 
-These two ingredients can be largely used interchangeably, but there are some recipes which will require only honey.
+这两种食材经常可以互相替代，但有一些配方只能用蜂蜜。
 
-![Apiary UI](bees.png)
+![蜂房UI](bees.png)
 
-Honey is gathered by finding Queen Bees in Bee Hives out in the wild. You will then placed your Queen Bee into an Apiary from Pam's Harvest to farm honey and other bee related items.
+在野外的蜂窝中找蜂后可以收集蜂蜜。然后，把你的蜂后放入潘马斯农场的蜂房，就可以收获蜂蜜和其他与蜜蜂有关的物品。
 
-After the Queen Bee is just about used up, it will release another Queen Bee it it's stead IF THERE IS ROOM IN THE APIARY.
+蜂后消耗完之后，如果蜂房里有空间，它就会让另一只蜂后来代替它。
 
-Keep this in mind, as there have been mishaps; but for the most part, if you just set up a Hopper and a chest of some sort below, or an Upper and a chest of some sort above, you'll be fine.
+请记住这一点，因为曾经发生过意外；但在大多数情况下，如果你只是在下面设置了一个漏斗和某种箱子，或在上面设置了一个上吸漏斗和某种箱子，就没有问题。
 
-It should be a no-say that these are definitely ingredients you want nearby.
+这些绝对是你想要的食材。
 
-# Cooking Oil
+# 食油
 ___
 
-![Cooking Oil being crafted at the Cooking Table](cookingoil.png)
+![正在合成食油的烹饪桌](cookingoil.png)
 
-You can't cook very much without something to cook it in.
+巧妇难为无米之炊。
 
-Cooking Oil is made with the Juicer and two of the same seed.
+食油是用榨汁机和两个相同的种子制成的。
 
-Saturated fats are the best kinds of fats!
+饱和脂肪是最好的脂肪种类！
 
-# Butter
+# 黄油
 ___
 
-![Buter](buter.png)
+![黄油](buter.png)
 
-Has your own household ever been without butter?
+你家里曾经是否没有黄油？
 
-This is another basic ingredient you should keep a good supply of on hand.
+这是另一种你应该保持足够储备的基础食材。
 
-Most sweets are going to take Butter, so if you've got a sweet tooth, better have some Butter on the counter!
+大多数甜食都需要使用黄油，所以如果你喜欢吃甜食，最好在柜台上准备一些黄油。
 
-![Buter recipe](butterrecipe.png)
+![黄油配方](butterrecipe.png)
 
-Note: If your kitchen is linked up properly and you have the following: a Cooking Table, a Sink, and a Cow in a Jar, you should be able make a few sticks of Butter directly from your Cooking Table, without having to look at any other stations.
+注：如果你的厨房链接得很好，并且有以下东西：一个烹饪桌、一个水槽和一个罐中奶牛，你应该能够直接从烹饪桌上制作几个黄油，而不必使用其他的台子。
 
-# Spice Leaves & Ginger
+# 香叶 & 生姜
 ___
 
-![Ginger & Spice Leaves in a Fruit Basket](gingerandspice.png)
+![水果篮中的生姜 & 香叶](gingerandspice.png)
 
-These two ingredients add great kick to most platters, and are a must have in the kitchen.
+这两种食材为大多数菜品增添了辛辣，是厨房中的必备品。
 
-Make sure you have some in the pantry, somewhere.
+确保你的储藏室里有存货。
 
-You'll regret it if you don't, with the 37 pages of recipes both of these items have.
+如果你不这样做，你会后悔的，这两样东西都有37页的配方。

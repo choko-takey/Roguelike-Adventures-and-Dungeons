@@ -1,27 +1,26 @@
-This is a short guide covering some of the features of bibliocraft 
+这是收藏馆模组的部分功能的简短介绍
 
-If you ever wanted to spruce up your home bibliocraft has all the furniture you will ever need.
+如果你想过要美化你的家，那收藏馆模组中有你需要的所有家具。
 
-For the best option when customizing use framed furniture.
+要自定义装饰你的家，镶框家具是最好的选择。
 
-To create it you will need a saw!
+制造它们需要一把锯子！
 
-![Saw Recipe](sawrecipe.png)
+![镶框锯配方](sawrecipe.png)
 
-After you acquire a saw, saw down some planks into framing sheets and boards.
+获得锯子以后，你就可以把木板锯成镶框片和镶框板了。
 
-![Framing Sheet Recipe](framingsheetrecipe.png)
+![镶框片配方](framingsheetrecipe.png)
 
-![Framing Board Recipe](framingboardrecipe.png)
+![镶框板配方](framingboardrecipe.png)
 
-Once you've made some framed furniture insert inside a framed furniture paneler
-with this block you can add different wooden and log textures to framed blocks.
+制造了一些镶框家具后，你可以使用镶框家具板材机来给镶框方块添加不同的木制和原木纹理。
 
-![A Framing Table With Redwood Inserted](framingtable.png)
+![放入了红木的镶框家具板材机](framingtable.png)
 
 
-![A Room Decorated With Framed Blocks](decoratedroom.png)
+![使用镶框方块装饰的房间](decoratedroom.png)
 
-#Optifine can cause issues with this mod use with caution
+#Optifine与本mod一起使用可能会发生问题。请谨慎使用！
 
-#If you wish to find out more check the mods wiki - https://www.bibliocraftmod.com/
+#如果你想了解更多，请参阅本mod的wiki - https://www.bibliocraftmod.com/

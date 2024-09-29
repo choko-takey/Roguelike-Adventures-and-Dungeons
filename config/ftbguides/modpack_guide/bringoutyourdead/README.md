@@ -1,11 +1,11 @@
-If you're reading this I’m dead but worry not adventurer you can avoid the same fate as me.
+当你读这篇文章时，我已经死了。不过不用担心，冒险者，你可以避免重蹈我的覆辙。
 
-#Knowledge of death 
+#死亡知识 
 
-![Knowledge of death menu](knowledgeofdeathmenu.png)
+![死亡知识菜单](knowledgeofdeathmenu.png)
 
-If only I had known about this menu before I died.
+要是我死前知道这个菜单就好了……
 
-Bind a key to this menu then read the compendium and you will avoid the terrible fate I suffered!!
+给这个菜单绑定一个热键，然后阅读它的概要，你就可以不用承受像我一样可怕的命运了！
 
-![Knowledge of death keybind](knowledgekeybind.png)
+![死亡知识热键](knowledgekeybind.png)

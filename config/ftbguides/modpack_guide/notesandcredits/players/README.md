@@ -1,15 +1,15 @@
-#A Thank You To You
+#感谢你们
 
-This area is dedicated to you the player
+这个部分献给你们玩家
 
-To all players who supported the modpack in any way.
+献给所有支持本整合包的玩家们。
 
-Those that suggested new mods that improved overall experience in the modpack
+那些推荐新的mod以改善整合包整体体验的人
 
-Players that reported bugs, exploits or oversights that helped smooth out the pack.
+那些报告了bug、漏洞或疏忽的玩家，这些都有助于本整合包的优化。
 
-Players that still continue to play or have started playing the modpack.
+仍在继续玩或已开始玩本整合包的玩家。
 
-Players who shared content online in regards to the modpack from videos to forum posts.
+在网上分享有关本整合包的视频、论坛帖子等内容的玩家。
 
-![Thank You](radplayersheart.png)
+![谢谢你们](radplayersheart.png)

@@ -1,110 +1,110 @@
-# The Kitchen and how it works!
+# 厨房及如何运作
 ___
 
-![An example of a very small kitchen, which features all Kitchen-Aid blocks](basickitchen.png)
+![这是一个非常小的厨房，但它包含了所有的厨房方块。](basickitchen.png)
 
-Note: For the sake of shortening the mod title "Cooking For Blockheads", we will call kitchen items "Kitchen-Aid".
+注：为了缩短模组名“懒人厨房”，我们将把厨房物品称为“厨房方块”。
 
-The Kitchen can be complicated, but it doesn't have to be!
+厨房可能很复杂，但不一定非得如此！
 
-![Kitchen Floor will help you link together Kitchen-Aid items that are otherwise not connected, by acting as the floor; snazzy!](kitchenfloor.png)
+![厨房地板将帮助你把本来不相干的厨房方块连接起来；这真时髦！](kitchenfloor.png)
 
-If we're going to be short here, Kitchen-Aid on the ground should be connected by Kitchen Floor if it is not connected to the largest portion of your food storage.
+简而言之，地面上的厨房方块如果没有连接到你大部分的食物存储，就需要由厨房地板连接。
 
-Many portions of your Kitchen-Aid set can be used to store food in the first place.
+首先，你的厨房方块的许多部分可以用来储存食物。
 
-This being said, in order to link the inventories of storage blocks to your food crafting stations, you must have each block touching eachother, either side to side, or diagonally.
+这就是说，为了将容器的物品栏与你的食品加工站联系起来，你必须让每个容器相互接触，要么是边对边，要么是角对角。
 
-![Example of Kitchen Cabinets being linked together by a 1 block distance. The inventories of the Cabinets and the crafting stations are linked](kitchencabinet.png)
+![连在一起的相距一格的厨柜示例。厨柜和加工站的存储是互通的。](kitchencabinet.png)
 
-In the case of Kitchen Cabinets, the block will need to be one to two blocks above your station. It does not seem to work when it is placed outside of a certain range, but will link inventories when close to another station or Kitchen-Aid storage block.
+对于厨柜，它需要放在你的加工站上方一到两格。放置位置超出一定范围时，它就无法工作了，但可链接靠近的另一个加工站或厨房方块储物方块的物品栏。
 
-![Cooking Oven UI](cookingoven.png)
+![烤箱UI](cookingoven.png)
 
-In the case of the Cooking Oven, you will need to power it with Coal. However, if the inventory link between the Cooking Oven and other storage blocks seems strange, here it is in short detail.
+烤箱需要用煤供能。然而，如果烤箱和其他容器的物品栏的链接看起来很奇怪，那这里有些细节。
 
-![coldchicken.png :)](coldchicken.png)
+![冷烤箱鸡.png :)](coldchicken.png)
 
-There is indeed Raw Chicken in this Fridge... so I must be able to cook Chicken.
+这个冰箱里确实有生鸡肉……所以我得烹饪鸡肉。
 
-![Chicken.. Yes][chicken.png]
+![鸡肉...好极了](chicken.png)
 
-As long as it has fuel to burn, you can craft everything you need at the Cooking Table. If there is fuel in the Cooking Oven, and Raw Chicken in a linked storage block, the Cooked Chicken recipe should appear in the Cooking Table. Click it once to select the recipe. Further attempts will move the Raw Chicken from where ever it is to the Oven to be cooked.
+只要有燃料就可以燃烧，你就可以在烹饪桌上制作你需要的一切。如果烹饪桌中有燃料，而链接的容器中有生鸡肉，熟鸡肉的配方会出现在烹饪桌中。点击一次就可以选择该配方，然后生鸡肉就会被从它所在的地方转移到炉子里进行烹饪。
 
-The Cooked Chicken must then be manually moved or can be used straight out of the Oven for other recipes, from the Cooking Table.
+然后，必须手动移动熟鸡肉，或者可以直接从烤箱中取出，用于烹饪桌中的其他配方。
 
-Note 2: As long as inventories are linked, you can do anything from just about anywhere in your Kitchen!
+注2：只要方块的物品栏是链接的，你就可以在厨房的任何地方做任何事情！
 
-![The racks will ensure the linking of inventories between ground stations and storage blocks, and the cabinets above](linkinginventories.png)
+![这些架子将保持地上的工作站和容器以及上方的柜子之间的物品栏链接](linkinginventories.png)
 
-Note 3: ALL Kitchen-Aid items will link invetories together.
+注3：所有的厨房方块物品都会将物品栏链接在一起。
 
-As seen in the basic picture above, all blocks are placed on Kitchen Floor. This will link all ground block inventories together.
+从上面的基础图片中可以看出，所有的方块都放在厨房地板上。这将把所有地面方块的物品栏链接在一起。
 
-However, you also see racks above the ground blocks. These will link the Kitchen Cabinets, in the event the Cabinets do not link themselves (as they link one to two blocks above other Kitchen-Aid blocks). Think of the racks as a precautionary measure to ensure all inventories are totally linked.
+然而，你还可以看到地面方块上方的架子。这些将链接厨柜（因为它们在其他厨房方块上方链接了一到两个方块）。把架子看成是一种预防措施，以确保所有物品栏完全链接在一起。
 
-This way, you never miss out or forget about any ingredients you have on hand!
+这样，你就不会找不到或忘记你手头的任何材料了！
 
-With how big cooking is in this modpack, the kitchen shown in the example is NOT going to cut it for you, if you really enjoy cooking.
+在这个整合包中，烹饪是多么的重要，如果你真的喜欢烹饪，例子中的厨房是无法满足你的要求的。
 
-Seek solutions on how to make an enormous kitchen that is still aesthetically pleasing!
+去找一个使巨大的厨房仍然具有美感的解决方案！
 
-# Kitchen tools and utensils
+# 厨房用具
 ___
 
-![Kitchen tools in order](kitchentoolsnumbered.png)
+![井井有条的厨具](kitchentoolsnumbered.png)
 
-The kitchen contains several tools that you're going to need to craft and keep on hand. You never have to have them in your inventory, if you've made a kitchen to begin with.
+厨房里有几种工具，你需要制作并随时准备好。如果你一开始就做了一整套厨具，你就不必再做一次了。
 
-Kitchen tools can be used from Kitchen-Aid storage blocks or from Tool Racks connected to your kitchen inventory.
+厨具可以从厨房方块容器中使用，也可以在连接到厨房物品栏的厨具架上使用。
 
-![Kitchen Tools](kitchentools.png)
+![厨房用具](kitchentools.png)
 
-The kitchen tools shown are named from left to right:
+图中的厨具从左至右依次名为：
 
--Cutting Board; this item can be placed as a decorational item, on top of a block; the usage of the tool will be linked
+-刀砧板；这个物品可以作为一个装饰方块，放在一个方块的顶部；工具的使用将被链接起来。
 
-All other items must be stored in a linked inventory, or on a rack (this is also a linked inventory).
+所有其他物品必须存放在链接的物品栏中，或存放在一个架子上（这也是一个链接的物品栏）。
 
--Pot
--Skillet
--Saucepan
--Bakeware
--Mortar & Pestle
--Mixing Bowl
--Juicer
+-锅
+-平底锅
+-深平底锅
+-烤盘
+-研钵与研杵
+-搅拌钵
+-榨汁机
 
-There are 8 kitchen tools in total.
+总共有8个厨具。
 
-2 other items may be counted as tools.
+其他2件物品可以算作厨具。
 
-![Toaster](toaster.png)
+![吐司机](toaster.png)
 
-The Toaster is used to manually toast bread. It is a slower process than putting Bread through a furnace. It is a nice decorational item. The Toaster will give Harvestcraft Toast.
+吐司机是用来手动烤面包的。这比把面包放在熔炉里更慢。这是一个不错的装饰品。吐司机烤出的是潘马斯农场的吐司。
 
-![Milk Jar](milkjar.png)
+![牛奶罐](milkjar.png)
 
-The second item, Cow in a Jar, will provide Milk to recipes which need it when it is on top of or linked to a Kitchen-Aid block. The Milk Jar will only store milk, so it seems.
+第二个物品，罐中奶牛，当它在一个厨房方块的顶部与之相连时，将为需要它的食谱提供牛奶。牛奶罐只能储存牛奶，看起来是这样。
 
-It may sometimes be recommended to create multiple Cows in a Jar in order to create more milk. 1 bucket = 1000ml of milk.
+建议在一个罐子里制造多头奶牛，以便创造更多的牛奶。1桶=1000毫升的牛奶。
 
-# Upgrades? For Kitchen-Aid? Waaaaaaaaaaaaaaaaaaaa
+# 升级？对于厨房方块？Waaaaaaaaaaaaaaaaaaaaa
 ___
 
-To use upgrades, Right-click the respective station.
+要使用升级，请右键各方块。
 
-![Upgrades](upgrade1.png)
+![升级](upgrade1.png)
 
-This upgrade allows you to power your Cooking Oven using FE energy, saving Coal. You can power your Cooking Oven with a Spectre Disc, or a Battery, or any other form of energy connection you can come up with.
+这个升级允许你使用FE能量为你的烤箱供电，以节省煤炭。你可以用通灵线圈，或电池，或其他任何你能想到的能源连接为你的烤箱供电。
 
-![Upgrades](upgrade2.png)
+![升级](upgrade2.png)
 
-This upgrade will preserve ingredients down to 1 item in whatever slot is being extracted from.
+这种升级将使最后一格物品被保存，并被提取出来。
 
-![Upgrades](upgrade3.png)
+![升级](upgrade3.png)
 
-This upgrade will allow your Fridge to produce Snow and Ice for whatever recipes require it.
+这一升级将使你的冰箱能够为任何需要它的配方生产雪和冰。
 
-E.g - If there is 1 stack of Heavy Cream and 1 stack of Salt, and you make Butter, this upgrade will prevent you from using all 64, and only permit you to make 63 Butter from your Cooking Station.
+例如 - 如果有一组多脂奶油和一组盐，而你想制作黄油，这个升级将阻止你使用所有材料，只允许你的烹饪站制作63个黄油。
 
-Convenient for quick-depositing items into your Fridge if you find yourself manually sorting oftens more than not, like myself. 
+如果你像我一样，经常自己手动分类，那么就可以方便地将物品快速存入你的冰箱。

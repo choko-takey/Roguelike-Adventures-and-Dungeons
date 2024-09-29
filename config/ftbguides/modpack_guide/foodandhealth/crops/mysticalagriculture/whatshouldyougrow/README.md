@@ -1,130 +1,129 @@
-# The best crops
+# 最佳作物
 ___
 
-1 - Dye Seeds
+1 - 染料种子
 
-![Dye Seeds Recipe](dyecluster.png)
+![染料花簇配方](dyecluster.png)
 
-You will need some Dye Clusters in order to craft the seeds.
+你需要一些染料花簇制作种子。
 
-The dyes in the recipe are required to craft these clusters, unfortunately.
+不幸的是，制作这些花簇的配方需要染料。
 
-![Dye Seeds Recipe](dyeseeds.png)
+![染料种子配方](dyeseeds.png)
 
-Afterwards, you can combine everything together with some Tier 2 Prudentium Essence to create Dye Seeds.
+之后，你可以把所有的东西和一些初级精华结合在一起，创造染料种子。
 
-With these seeds, you can craft every basic colored dye. With each basic color, you'll be able to craft all of the different combinations without ever having to hassle yourself with gathering flowers!
+有了这些种子，你可以制作基础染料。有了基础颜色，你就能使用不同的组合创造出更多颜色，这样就不必再为收集鲜花而烦恼了！
 
-Be sure to check the JEI menu for assistance with crafting Dye Essence into different colors.
+请务必查看JEI菜单，以了解如何将染料精华制作成不同颜色。
 
 
-2 - Cow and Sheep Seeds
+2 - 牛和羊种子
 
-![Cow Essence recipe](cow.png)
+![牛精华配方](cow.png)
 
-Cow Essence can be turned into a good source of Leather without the hassle of having so many cows taking up tons of space around your base.
+牛精华是一个很好的皮革来源，省去了一大群牛占用基地周围大量空间的麻烦。
 
-![Sheep Essence recipe](sheep.png)
+![羊精华配方](sheep.png)
 
-Same goes with Sheep Essence, which can be used as a reliable source of Wool.
+羊精华也是如此，它可以作为羊毛的可靠来源。
 
-You can use the Wool to build, or break it down into String for other recipes.
+你可以用羊毛用于建筑，或将其分解成线用于其他配方。
 
 
-3 - Zombie and Skeleton Seeds
+3 - 僵尸和骷髅种子
 
-![Zombie Essence recipe](zombie.png)
+![僵尸精华配方](zombie.png)
 
-Zombie Essence can be a decent source of Rotten Flesh. Rotten Flesh is used in several recipes including creating Leather, and certain low level foods. 
+僵尸精华可以成为一个不错的腐肉来源。腐肉可用于几种配方，包括制造皮革和某些低级食物。
 
-However, the most important and often overlooked use of Rotten Flesh is the creation of Fertilized Dirt. Fertilized Dirt, as it stands, is the most powerful block to grow crops on; but the crafting of the block becomes relatively expensive in massive quantities.
+然而，腐肉最重要且经常被忽视的用途是制作沃土。就目前而言，沃土是种植农作物最有用的方块；但大量制作的成本相对昂贵。
 
-This is where your naturally sourced Rotten Flesh comes in!
+这就是你天然的腐肉来源！
 
-![Skeleton Essence recipes](skelebones.png)
+![骷髅精华配方](skelebones.png)
 
-Skeleton Essence is a great source of Bones for the few important recipes that require actual Bones, instead of Bonemeal or something else.
+对于少数需要骨头而不是骨粉或其他东西的重要配方来说，骷髅精华是一个重要的骨头来源。
 
-It is not likely you'll need to grow tons of this crop, but this is not the most valuable recipe from this essence either!
+这好像不太需要很多这种作物，但这也不是这种精华最有价值的配方！
 
-![Skeleton Essence recipes](skelehead.png)
+![骷髅精华配方](skelehead.png)
 
-Skeleton Essence can also be used to create Skulls.
+骷髅精华也可以用来制造头颅。
 
-Skulls can be placed atop Guardian Altars (DungeonTactics), or use in other important recipes like Graves and Tombstones as well as the Monster Masher from Prefab.
+头颅可以放在地牢战术的守护者方块上，或用于其他重要的配方，如坟墓和墓碑以及预制建筑的怪物磨床。
 
-![Wither Skeleton recipe](witherskelehead.png)
+![凋灵骷髅配方](witherskelehead.png)
 
-Once you've acquired access to Tier 5 resource seeds, you'll be able to grow Wither Skeleton Essence and combine it with Blank Skulls to create a reliable supply of Wither Skeleton Skulls.
+一旦你获得了5级资源种子，你就可以种植凋灵骷髅精华，并将其与空白头颅相结合，成为凋灵骷髅头颅的可靠来源。
 
-4 - Guardian and Ghast Seeds
+4 - 守卫者和恶魂种子
 
-Two of the most elusive creatures in this pack; you're definitely going to want to stock up on these supplies.
+在整合包中，有两种最难以捉摸的生物；你肯定会想囤积这些物资。
 
-![Guardian Essence recipes](guardianrecipes.png)
+![守卫者精华配方](guardianrecipes.png)
 
-With OTG, Oceans may not be visible for thousands of blocks from spawn. To alleviate this problem, if you can obtain even the slightest amount of Guardian materials, you can start your resource farm.
+在OTG地形生成中，从出生点开始的数千格都可能看不到海洋。为了缓解这个问题，只要你获得了很少的的守护者材料，你就可以建造你的资源农场了。
 
-Guardian Essence can be used to craft both Prismarine Shards and Crystals!
+守卫者精华可以用来制作海晶碎片碎片和海晶砂粒！
 
-![Fishy](fishtoo.png)
+![鱼的](fishtoo.png)
 
-You can even craft Fish with the essence!
+你甚至可以用精华制作鱼！
 
-![Ghast Essence recipe](ghast.png)
+![恶魂精华配方](ghast.png)
 
-Ghast Essence is one way to farm Ghast Tears.
+恶魂精华是获得恶魂之泪的一种方式。
 
-Being important in the usage of several powerful recipes, as well as Alchemy, this is one handful of seeds you're going to want.
+作为几个强大的配方以及炼药中非常重要的材料，这是你需要的种子。
 
 
-5 - Blaze Seeds
+5 - 烈焰人种子
 
-![Blazey Boi](blaze.png)
+![烈焰兄弟](blaze.png)
 
-I shouldn't even have to explain the important of Blaze Rods. Especially in this mod pack. They're used for tons of important and powerful recipes.
+我甚至不用解释烈焰棒的重要性。特别是在这个整合包中。它们被用于大量重要和强大的配方。
 
 
-6 - Important Ore Seeds
+6 - 重要的矿石种子
 
-![Coal, Iron and Gold Essences](essences.png)
+![煤，铁，金精华](essences.png)
 
-Coal, Iron and Gold are all important seeds to grow if you can get your hands on a nice plot of land to grow them. They will turn into an important source of basic materials for you.
+煤，铁和金都是重要的种子，如果你能找到一块好的土地来种植它们。它们将成为你一个重要的基础材料来源。
 
-The amount of Coal, Iron and Gold you will go through in this modpack in the long-term is absolutely understated.
+从长远来看，你在这个整合包中消耗的煤、铁和金的数量绝对是被低估的。
 
-![Rare minerals](rareminerals.png)
+![稀有矿物](rareminerals.png)
 
-Rare materials like Amber and Quicksilver should also be grown in bulk if possible.
+如果可能的话，像琥珀和水银这样的稀有材料也应该大量种植。
 
-These items are very supplementary to mods like Thaumcraft. Amber also makes for a nice aesthetic block.
+这些物品对于像神秘时代这样的模组来说是非常重要的。琥珀也是一个不错的装饰方块。
 
-![Thaumium and Void Metal Essences](thaumcraft.png)
+![神秘锭和虚空金属精华](thaumcraft.png)
 
-Thaumium and Void Metal Ingots always create Vis when smelted in the Crucible.
+神秘锭和虚空金属锭在坩埚中冶炼时会产生灵气。
 
-Growing them organically circumvents the issue of creating fallout from the Crucible.
+有机地种植它们可以规避坩埚泄露咒波的问题。
 
-![Betweenlands Minerals](betweenlands.png)
+![交错次元矿物](betweenlands.png)
 
-Minerals from The Betweenlands should be grown as well. The Betweenlands underground ore density is not particularily good.
+来自交错次元的矿物也应该被种植。交错次元的地下矿石密度并不高。
 
-The materials gained from growing these seeds should grant a substantial benefit to your resource pool.
+种植这些种子获得的材料应该会给你的资源库带来大量好处。
 
-![Twilight Forest materials](twilightforest.png)
+![暮色森林矿物](twilightforest.png)
 
-Materials like Steel Leaf and Knight Metal from Twilight Forest are not abundant; Steel Leaf actually only comes in limited quantites by finding it in chests in the Twilight Forest.
+暮色森林的钢叶和骑士金属等材料并不常见；钢叶实际上只能在暮色森林的箱子里找到，数量实在有限。
 
-Growing these two materials should help you gain a good handful of each item until you're satisfied with your stash. 
+种植这两种材料可以帮助你获得它们，直到你觉得你拥有的够多了。
 
-Steel Leaf makes for a great fall-back for armor when you need to repair your main set, or you've died and need to recover items from your grave.
+当你需要修复你的主要装备时，或者你已经死亡并需要从坟墓中重新获取物品时，钢叶是一个很好的备用盔甲。
 
-![Jade Essence recipe](jade.png)
+![翡翠精华配方](jade.png)
 
-Jade, being as ridiculously rare as it is, should also be grown as a nice supplement to your resource pool.
+翡翠，罕见得离谱，因此你也应该种一些作为你资源库的储备。
 
-The Erebus and it's plethora of bugs never give up on trying to kill you as you dig your way to find this previous green gem, so why should you give them the time of day when you can grow your very own in your backyard!
-
+当你挖地三尺寻找这块绿色宝石时，混沌之地和它的大量虫子从未放弃尝试杀死你，所以当你可以在自家后院种植它时，你为什么要给虫子们机会？
 
 
 

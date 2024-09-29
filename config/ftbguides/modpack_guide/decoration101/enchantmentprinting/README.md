@@ -1,37 +1,35 @@
-# Enchantment Printing
+# 复印附魔
 ___
 
-Wanna more guaranteed way of getting enchants why not duplicate them?
+想通过更有保障的方式获得附魔？为什么不复制它们呢？
 
-To begin you will need a typesetting table and printing press.
+你需要一个排版台和一个拓印机。
 
-![Typesetting Table Recipe](typesettingtablerecipe.png)
+![排版台配方](typesettingtablerecipe.png)
 
-![Printing Press Recipe](printingpressrecipe.png)
+![拓印机配方](printingpressrecipe.png)
 
-After crafting them, place them down.
+合成好之后，把它们放下来。
 
-With those blocks setup your onto the next step.
+准备好这些方块，你就可以进入下一步了。
 
-The printing press will need an enchanted book placed in it as well as print press cases.
+将一本附魔书和拓印槽放入排版台。
 
-![Plate Recipe](printpresscase.png)
+![拓印槽配方](printpresscase.png)
 
-![Typesetting table with plates and enchanted book inserted](printingpressandbook.png)
+![放入了拓印槽和附魔书的排版台](printingpressandbook.png)
 
-To duplicate enchants sneak click the book and it will be turned into a enchanted plate
+要复制附魔，潜行点击书，它就会变成附魔片
 
-![Enchanted Plate](enchantedplate.png)
+![附魔片](enchantedplate.png)
 
-This process cost levels to activate, to see how many levels are needed
-you can wear reading glasses or monocle.
+这个操作需要消耗经验等级，佩戴老花镜或单片眼镜以查看所需经验等级。
 
-![Reading Glasses Recipe](glassesrecipe.png)
+![老花镜配方](glassesrecipe.png)
 
-![Typesetting table viewed with glasses](printingpressglasses.png)
+![透过眼镜看到的排版台](printingpressglasses.png)
 
 
-Moving on to the typesetting table place ink sacs inside it and books 
-when you place an enchanted plate inside it will begin to print the enchantment from the plate onto any attached books.
+接下来我们看看拓印机。放入墨囊、书和附魔片，它就会开始将附魔打印到书上。
 
-![Printing press with a printed book](typesettingtablewithbook.png)
+![印好了一本书的拓印机](typesettingtablewithbook.png)

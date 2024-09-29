@@ -1,78 +1,78 @@
-# Wireless Redstone Circuits
+# 无线红石电路
 ___
 
-In this section, I'll show you how to set-up some wireless Redstone so you don't have to back huge wire paths all over the place ever again!
+在这一节中，我将向你展示如何设置一些无线红石，这样你就不必再搭建庞大的红石路径了！
 
-# Basic circuit and how it works
+# 基础电路和工作原理
 ___
 
-![A basic wireless circuit](wireless1.png)
+![基础无线电路](wireless1.png)
 
-Here we can see a Wireless Transmitter and Receiver.
+这里我们可以看到一个无线发信器和接收器。
 
-On each side of the Stone blocks is a lever to activate each end.
+在石头方块的每一侧都有一个拉杆，用于激活两端。
 
-However, this is only for example sake. 
+然而，这仅仅是为了举例说明。
 
-Note, the lever on the side of the Receiver (red) will not activate the circuit.
+注意，接收器（红色）侧面的拉杆不会激活电路。
 
-Only the activation of the Transmitter (blue) will activate the circuit.
+只有激活发信器（蓝色）才能激活电路。
 
-![An activated wireless circuit](wireless2.png)
+![一个激活的无线电路](wireless2.png)
 
-The circuit is now activated. We can see that the Transmitter (blue) will activate the Receiver (red).
+现在电路被激活了。我们可以看到，发信器（蓝色）将激活接收器（红色）。
 
-Notice that the Transmitter does not activate the Redstone placed next to it, but the Receiver does.
+注意，发信器不会激活放在它旁边的红石，但接收器会。
 
-The Transmitter will never produce a Redstone signal itself, and only produces the signal at the selected location. If there is a Receiver at the location, a signal will activate.
+发信器本身不会产生红石信号，只在选定的位置产生信号。如果在该地点有一个接收器，就会激活信号。
 
-If there is no signal, or a different type of Redstone other than a Wireless Receiver, it will do nothing.
+如果没有信号，或除了无线接收器外，还有其他类型的红石，它就不会做任何事情。
 
-# Wireless IF Switch
+# 无线IF开关
 ___
 
-![Wireless IF Circuit](wirelessif1.png)
+![无线IF电路](wirelessif1.png)
 
-This circuit will open one pathway when the other is closed. You can set up several different paths to react differently once you have comprehended this part of the Guide.
+这个电路将在另一个电路关闭时打开一个。一旦你理解了指南的这部分内容，你可以设置几个不同的路径来做出不同的反应。
 
-In the picture we can see another Wireless Transmitter and Receiver. We can see the Receiver is outputing to a Stone block with a Redstone Torch on it; the Redstone Torch is then connected to a Redstone Lamp.
+在图片中，我们可以看到另一个无线发信器和接收器。我们可以看到接收器输出到一个有红石火把的石头方块上；然后红石火把被连接到红石灯。
 
-There is also another Redstone Lamp connected directly to the Receiver, instead of through a proxy.
+还有一个红石灯直连到接收器，而不是通过代理。
 
-Take notice that the Transmitter/Receiver is off, but one lamp is still active.
+注意到发信器/接收器已关闭，但有一个灯仍在工作。
 
-![Wireless IF Circuit](wirelessif2.png)
+![无线IF电路](wirelessif2.png)
 
-In this picture, you can see the Transmitter/Receiver is on, and the opposite lamp has turned on.
+在这张图片中，你可以看到发信器/接收器是打开的，而对面的灯已经打开。
 
-You'll also notice the Receiver has turned off the Redstone Torch.
+你也会注意到接收器已经关闭了红石火把。
 
-The Redstone Torch is not necessarily off, but is more so being inverted, or suppressed from activating.
+红石火把不一定是关闭的，但更多的是被倒置，或者说被压制在激活状态。
 
-The Receiver turns the Redstone Torch off with its own activation, and inverts the status of the torch. This means anything that was turned on by being connected to that torch will be turned off.
+接收器通过自身的激活关闭红石火把，并反转火把的状态。这意味着任何通过与该火把连接而开启的东西都将被关闭。
 
-Anything connected directly to the Receiver will then be turned on.
+然后，任何直接连接到接收器的东西都将被打开。
 
-Once the Transmitter/Receiver is turned off once again, the lamp connected directly to the Receiver will turn off, and the Redstone Torch will no longer be "suppressed", turning on the lamp that IT is connected to.
-
-
-This circuit can be easily utilized in mob farms and is actually done with the Monster Masher from Prefab.
-
-Step 1: Create the IF Circuit on top of the roof of your farm; place the Receiver at the top of your farm, and connect it with Redstone to a block surrounded by Redstone Torches on the 3 remaining sides (as shown in the example).
-
-Remember to connect your Transmitter to your Receiver at the top. Then place your Transmitter where you will activate it with a lever. Likely near the bottom of your farm, or where ever your activation room is.
-
-Step 2: Take a second set of Transmitter/Receivers and connect your Transmitter with Redstone to the Receiver at the top of your farm. This way, when you activate it from the bottom, your second Transmitter will also be activated.
-
-Take your second Receiver and place it near a lamp by your activation area. Connect it with Redstone.
+一旦发信器/接收器再次关闭，直接连接到接收器的灯将关闭，红石火把将不再被 "压制"，打开它所连接的灯。
 
 
-Once everything is set up, the lamps at the ceiling, shining into the spawn area, will be lit up; this prevents mobs from spawning and saves you from lag.
+这个电路可以很轻松地在刷怪场中利用，实际上是用Prefab的怪物磨床完成的。
 
-The lamp in your activation area should be off, because its direct connection to the Transmitter/Receivers is OFF.
+第一步：在你的农场屋顶上建立IF电路；将接收器放在你的农场顶部，用红石连接到其余三面都有红石火把的方块上（如例子所示）。
 
-Activating your farm should cause the lamp in the activation area to light up, and the lamps at the ceiling of your farm to turn off, allowing mobs to spawn.
+记得把发信器连接到屋顶上的接收器。然后把发信器放在你要用拉杆激活它的地方。可能是在你的刷怪场底部附近，或者你的控制室所在的地方。
+
+第二步：拿出第二套发信器/接收器，用红石将发信器连接到屋顶的接收器。这样，当你从底部激活它时，你的第二个发信器也将被激活。
+
+拿出你的第二个接收器，把它放在激活区旁边的一盏灯旁。用红石连接它。
 
 
-(Pictures not included for this explanation. Instructions are quite clear; go ham!)
+一切就绪时，天花板上可照亮刷怪区的灯就会亮起来；这可以使它停止刷怪，将你从延迟中拯救出来。
+
+你的激活区的灯应该是关闭的，因为它与发信器/接收器的直连是关闭状态的。
+
+激活刷怪场会使激活区的灯亮起来，而你刷怪场天花板上的灯则会关闭，允许怪物生成。
+
+
+(本解释不包括图片。说明很清楚；去吧！)
 

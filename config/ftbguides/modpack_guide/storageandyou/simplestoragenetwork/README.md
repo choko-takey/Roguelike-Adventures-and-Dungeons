@@ -1,60 +1,58 @@
-#READ THE ABOVE GUIDE BEFORE CONTINUING HERE
+#请先阅读上面的指南！
 
-If you’ve looked at all the other guides you’ll realize there is one simple thing missing and issue at some point you're going to have to return to your base to return all your loot which interrupts all the time you could have for looting or raiding dungeons.
+如果你把其它指南都看完了，那你一定感觉少了些什么。在某个时候，你将不得不返回基地以存放你的战利品，这往往会打断你劫掠地牢的行动。
 
-Don’t worry adventurer there’s a solution to that being the mod simple storage network as its name implies it’s a simple mod that adds a way of remotely taking items or storing items while on the go but it does require some setting up before you go running off and there are other factors to take into account.
+不过不要担心，冒险者，这里有一个解决办法，那就是简单存储模组。顾名思义，简单存储模组提供了一个远程存取物品的简单方法。不过在你出去跑图之前，你得先做些准备措施。
 
-#For future refrence simple storage network will be shortened to SSN
+#简单存储网络，简称SSN
 
 
-The brain of the system every simple storage network needs one before it can even work 
-It keeps track of the following
-How many slots are not being used in a chest
-How many wires are connected to it
-If a request or inventory cable is connect to it
+简单存储网络系统的大脑，每个系统都需要一个大脑才能工作。
+它可以监测以下信息：
+箱子中空余格数
+与它连接的线缆种类&条数
+是否连接存储合成台或存储终端
 
-![Simple storage network master recipe](ssnmaster.png)
+![存储网络主机配方](ssnmaster.png)
 
-Storage Inventory
+存储终端
 
-This is needed so you can access items while interacting with the network master it's attached directly next to the master
+这使你可以与存储网络互动。存储终端必须紧挨着存储网络主机摆放。
 
-![SSN inventory recipe](ssntable.png)
+![存储终端合成配方](ssntable.png)
 
-![Viewing SSN using inventory](ssnviewer.png)
+![使用存储终端访问简单存储网络](ssnviewer.png)
 
-Storage Request Table
+使你可以在访问存储网络的同时合成物品。存储合成台需要紧挨着存储网络主机摆放或使用线缆与主机连接。
 
-The request table allows you to craft items while accessing the network from it, it must be connected to the master either directly or with cables.
+![存储合成台合成配方](ssncrafter.png)
 
-![SSN request table recipe](ssncrafter.png)
+![三巨头](ssnlayout1.png)
 
-![The big three](ssnlayout1.png)
+现在最有趣的地方来了！把你所有的箱子接入存储网络！
 
-Now for the fun part connecting all your chest to your ssn
+![各种颜色的线缆](ssncables.png)
 
-![SSN coloured cables](ssncables.png)
+使用下面几种有色线缆将存储设备接入存储网络。紫色的线缆是最基础的线缆（高度推荐，如果你不打算拿这个存储网络做更复杂的事情的话）。
 
-One of the following cables must be attached to the inventory you want to access from your storage network master; the most basic one is purple (recommended if you don't plan on doing anything complicated with your ssn).
+这样，你的简单存储网络就可以使用了。每个存储设备只需要用一种有色线缆连接到网络（存储设备是任何能够存放东西的方块的统称）。使用存储线缆以连接各个有色线缆。
 
-So your ssn has no issues and you dont cause any issues for yourself. Only one colored cable needs to be attached to any inventory(An inventory is any block that can store items) to connect coloured cables between each other. One must use storage cables.
+![存储线缆配方](ssncable.png)
 
-![Storage Cable Recipe](ssncable.png)
+![简单存储网络的基本布局](ssnchestexample.png)
 
-![SSN Basic layout](ssnchestexample.png)
+远程存储
+简单存储网络指南的最后一个部分！你一定想知道，如果这些东西都设在你的基地，那你不在基地时该怎么访问存储网络？这时候就该远程存储终端登场了。
 
-Remotes
-The final part of the ssn guide you’ve probably been wondering how the heck do you access this if it’s all at your base here’s were storage remotes come in
+![远程存储终端，你最好的朋友！](ssnremote.png)
 
-![Your best friend the ssn remote](ssnremote.png)
+（忽略红框中的两个东西，它们没什么用）
+用远程存储右击存储网络主机即可将它连接到你的简单存储网络。
 
-(ignore the ones highlighted in red their useless)
-To connect a remote to your ssn simply just click the network master with the remote and it's connected.
+![远程存储升级合成配方](ssnremotenormal.png)
 
-![Upgraded storage remote recipe](ssnremotenormal.png)
+远程存储升级可以无视距离访问同维度的存储网络。它唯一的缺点是你得在每个维度中建立单独的存储网络，并使用相对应的远程存储。好吧我开玩笑的，其实只要做一个高级远程存储就可以解决问题。（升级远程存储的姊妹们）
 
-This allows network access from any distance in the same dimension the only downside is unless you want to setup an ssn in each dimension along with there own remote you will end up having to store items from other dimensions in your base; Just kidding that's were the Advanced Storage remote comes in aka (Upgraded Storage Remotes cooler older sibling).
+![高级远程存储配方](ssnremoteadvanced.png)
 
-![Advanced storage remote recipe](ssnremoteadvanced.png)
-
-This allows for access to your ssn from any dimension and any distance.
+它可以无视距离和维度访问你的存储网络。

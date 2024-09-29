@@ -1,25 +1,25 @@
-# What's for dinner?
+# 晚饭吃什么？
 
-Your first task is finding something to eat!
+你的第一个任务是找到吃的东西！
 
-Something sustainable, to be more precise.
+更准确地说，是一些可以一直吃的东西。
 
-Something you'll be able to obtain with relative ease over and over again.
+你能够以相对轻松的方式获得一些东西。
 
-![Different types of gardens](gardens.png)
+![不同类型的菜园](gardens.png)
 
-Gardens are one type of food source players will encounter early on in the game. These gardens from Pam's Harvestcraft will contain random fruits/vegetables for you to eat or grow. In order to turn the food into a plantable seed, simply place it in your crafting grid and extract the result.
+菜园是玩家在游戏前期会遇到的一种食物来源。潘马斯农场的这些菜园包含随机的水果/蔬菜供你食用或种植。要把食物变成可种植的种子，只需把它放到你的合成界面里提取就行了。
 
-![Animals available for purchase in the Shop](meatsources.png)
+![可在商店购买的动物](meatsources.png)
 
-Alternatively, players can purchase certain animals from the Shop after earning gold from completing quests.
+另外，玩家可以完成任务赚取金币，从商店购买某些动物。
 
-![An easy source of food, skewers fill players hunger bars very quickly](veggieskewer.png)
+![作为一种简单的食物来源，烤串能快速填满玩家的胃。](veggieskewer.png)
 
-Skewers can also be an easily accessible source of food for early game players. While the meat variations may be slightly more expensive, Veggie Skewers provide an easy source of tons of hunger and saturation.
+烤串也可以成为游戏前期玩家可以轻松获得的食物。肉串可能会稍微贵一点，蔬菜串或许可作为大量饥饿值和饱和度的简单来源。
 
-![Fish skewers are also easily accessible, since Pam's Harvest Craft and Aquaculture aid with the amount of fish players can obtain in a shorter period of time!](fishskewer.png)
+![鱼肉串也很容易获得，因为潘马斯农场和水产品有助于玩家在短时间内获得很多鱼！](fishskewer.png)
 
-Fish Skewers are another great source of good eats. Players can use fish from mods within the pack to craft these skewers. With Aquaculture, certain fish will give a higher number of fillets depending on the size or rarity of the fish!
+鱼肉串是另一种很好的小吃。玩家可以使用整合包内的模组中的鱼来制作这些烤串。在水产品模组中，某些鱼可以制作鱼排，这取决于鱼的大小或稀有程度！
 
-This allows for you to craft several skewers from only a handful of fish and saves time farming for food in a fresh run.
+这可以让你用少量的鱼能制作出好几串鱼肉串，节省了在新的游戏中耕种食物的时间。

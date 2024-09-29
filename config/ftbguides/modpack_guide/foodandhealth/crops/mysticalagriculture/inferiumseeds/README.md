@@ -1,81 +1,80 @@
-# Inferium Seeds and Essences
+# 精华种子与精华
 ___
 
-Inferium Essence has a 20% chance to drop from any killed hostile mob.
+击杀任意敌对生物都有20%的概率掉落下级精华。
 
-![The 5 different types of essences available in this mod](essences.png)
+![模组中五种不同的可获得的精华](essences.png)
 
-Inferium, Prudentium, Intermedium, Superium and Supremium Essences are all used to craft their respective tier of Inferium Seed.
+下级、初级、中级、高级和终极精华都可用来制作各自等级的精华种子。
 
-Tier 1 is used with the basic Inferium Essence obtained by killing mobs.
+1级是击杀怪物获得的下级精华。
 
-![Tier 1 Inferium Seed crafting recipe. See JEI menu for help](inferiumseedstier1.png)
+![下级精华种子合成配方。查看JEI以获得帮助](inferiumseedstier1.png)
 
-Inferium Seeds can be crafted by surrounding normal seeds with Inferium Essence.
+精华种子可以通过用下级精华包围普通种子来制作。
 
-![Tier 2 Inferium Seed crafting recipe. See JEI menu for help](inferiumseedstier2.png)
+![初级精华种子合成配方。查看JEI以获得帮助](inferiumseedstier2.png)
 
-Progressive tiers are created by surrounding the previous tier of seed with the next tier of essence.
+升级是通过用下一等级的精华包围上一等级的种子合成。
 
-Speaking of essences; here is how to progress the power of each essence.
+说到精华；这是升级每种精华的方法。
 
-![Infusion Crystal recipe](infusioncrystal.png)
+![注魔水晶配方](infusioncrystal.png)
 
-Infusion Crystals are needed to infuse multiple essences into a single more potent essence.
+注魔水晶可以将多个精华浓缩到一个精华中。
 
-An Infusion Crysal has a limited number of uses, and will break after infusing too much essence.
+注魔水晶的使用次数有限，灌注过多的精华后会损坏。
 
-Once you have obtained enough Supremium, you can craft the unbreaking Master Infusion Crystal.
+如果你获得了足够的终极精华，你就可以制作无法破坏的终极注魔水晶。
 
-![Prosperity Shard item](prosperityshard.png)
+![活化水晶碎片物品](prosperityshard.png)
 
-Prosperity Shards can be found while mining underground. They are used to create Base Crafting Seeds, and will be the foundation for the seeds you'll grow in the future.
+在地下挖矿时可以找到活化水晶碎片。它们可以用来制作基础合成种子，这会是你未来种植的种子的基础。
 
-![Base Crafting Seed recipe](basecraftingseed.png)
+![基础合成种子](basecraftingseed.png)
 
-Base Crafting Seeds will be needed to create other tiers of crafting seeds. Each tier of crafting seed contains recipes which will allow you to grow valuable resources like Coal, Iron and even Diamonds.
+基础合成种子用于制作其他等级的合成种子。每一等级的合成种子都可以制作别的种子，让你可以种植有价值的资源，如煤、铁甚至钻石。
 
-![Example](stoneseedsrecipe1.png)
+![例子](stoneseedsrecipe1.png)
 
-As we can see in this example, surrounding a Tier 1 Crafting Seed with some extra Inferium (Tier 1) Essence, and some stone, will create Stone Seeds.
+正如我们在这个例子中看到的，用一些额外的下级精华和石头包围一级合成种子，就能制作出石头种子。
 
-![Example Cont.](stoneseedsrecipe2.png)
+![继续这个例子](stoneseedsrecipe2.png)
 
-Stone is obviously a very early game resource. Stone Seeds can easily be obtained early game, as well as several other groups of resources. Check them all out in the JEI menu by searching "@MysticalAgriculture".
+石头显然是一种早期游戏资源。石种子可以在游戏早期轻松获得，还有其他一些资源也是如此。在JEI菜单中搜索“@MysticalAgriculture”，就可以看到它们。
 
-Higher tier seeds will require higher tier essence to create the Crafting Seed needed for the recipe. 
+更高等级的种子需要更高等级的精华所制作的合成种子。
 
-Diamond Seeds, being a Tier 5 Seed, will require a decent amount of Supremium Essence to create.
+钻石种子作为5级种子，需要相当多的终极精华来制作。
 ___
 
-# Really getting down to business
+# 步入正轨
 ___
 
-If you really want to rush through this mod and get to farming for that precious Valonite, here's how to do it.
+如果你真的想速通这个MOD，那就去耕种那珍贵的法罗钠吧，这里是耕作的方法。
 
-![The supplies you'll need to bust through this mod](supplies.png)
+![完结这个模组你需要的物品](supplies.png)
 
-You're going to need the following:
--32 Seeds
--256 Inferium Essence
--32 Fertilized Dirt (but you're going to want to get more, so you can plant more seeds later)
--2 Lilypads of Fertility (they help tons, but are not required)
--2 Sprinkler Systems
+你将需要以下物品：
+-32个种子
+-256个下级精华
+-32个沃土（但你会想得到更多，这样你以后就可以种更多的种子了）
+-2个富饶莲叶（他们很重要，但不是必须的）
+-2套洒水器系统
 
-Step 1: Create your Tier 1 Inferium Seeds. You should end up with 32 Tier 1 Seeds.
+第一步：制作下级精华种子。你一共需有32个下级种子。
 
-Step 2: Plant your seeds into your Fertilized Dirt. Make sure they've got light!
+第二步：把你的种子种到沃土上。确保它们有光源！
 
-Step 3: Place your Lilypads of Fertility somewhere in the middles of your farm. They will need to be placed on a water source block, so you will need to give up a single crop plot for the Lilypad.
+第三步：把你的富饶莲叶放在农场中间的某个地方。它们需要放在一个水源方块上，因此你需要为了莲叶放弃一块耕地。
 
-Step 4: Set up your 2 Sprinkler Systems to ensure they reach all sides of your farm. Increase the number of Sprinklers as you expand your farm to keep crop growth at a high rate.
+第四步：建立2套洒水器系统，确保它们可以浇灌到你农场中所有的地方。
 
-Step 5: Step up a collection system. This is up to you. I manually collect all of my crops in my Survival World.
+第五步：增强你的收集系统。这看你怎么想。反正我在我的生存中是手动收集所有农作物的。
 
-Step 6: Once you've collected lots of Inferium Essence, start turning it into higher tiers of essence. With that, create higher tiers of Inferium Seeds. Higher tier Inferium Seeds will yield more Inferium per harvest.
+第六步：收集到了大量的下级精华之后，你就可以把它们升级成更高级的精华，从而制作更高级的精华种子了。更高级的精华种子每次收获的精华会更多。
 
-Note: All tiers of Inferium Seeds will always only yield Inferium Essence. It is simply a higher amount.
-
+注意：所有等级的精华种子都只能种出下级精华。只是产量变多了而已。
 
 
 

@@ -1,98 +1,98 @@
-Rad 1 Contribution Credits 
+Rad 1贡献
 
-Total Approximate Hours of Development: 2000+ hrs over the course of 2 ½ years of active development. 
+大致开发总小时数：在两年半的活跃开发进程中，大约花费了2000+小时。
 
-Please be sure to thank your nearest RAD developer in the Discord!
+请务必感谢Discord中离您最近的RAD开发人员！
 
-The official team behind Roguelike Adventures and Dungeons 1
+Roguelike Adventures and Dungeons 1背后的官方团队
 
-#Lead Pack Developer
+#首席整合包开发人员
 
 ![Dreams01](dreams01.png)
 
-The lead developer of RAD and multiple modpacks; without Dreams01, this modpack would not exist.
+RAD以及另一些整合包的首席开发人员；没有Dreams01，就没有这个整合包。
 
-Development Team: “A special thanks from all members behind RAD 1 for allowing us to help with this modpack and even others you publish!.”
+开发团队：“来自RAD 1幕后的全体成员的特别鸣谢！感谢你给我们帮助制作这个整合包以至你的其他作品的机会！”
 
-#Lead Revamp Developer
+#首席改造开发人员
 
 ![Mastarin](mastarin.png)
 
-The main developer and kickstarter of the RAD Revamp; revamped the quest system, 
+RAD重置的主要开发者和启动者；改进了任务系统，
 
--Introduced balancing changes
+-引入平衡变化
 
--New quality-of-life recipes, and pushed for the addition of many new mods you see in the pack today, 
+-新的探索生活配方，并推动了现在包中有的许多新mod的添加， 
 
-as well as assisted the development team with conceptualizing new mechanics and systems now used in RAD. 
+以及协助开发团队构思现在RAD中使用的新机制和系统。
 
-Mastarin dedicated a lot of time to overhauling all quests used in the modpack and the rewards behind them.
+Mastarin花了很多时间来修改整合包中所有的任务及其奖励。
 
-Without their help, this process would have taken a much longer time, or may even still be a WIP today
+没有他们的帮助，这将需要多得多的时间，甚至到现在都还是个半成品
 
-Personal note from Mastarin to the RAD community: “The immense contributions and the increased sense of community within the development team formed by the kickstarting of the Revamp is something I take great pride in. 
+Mastarin给RAD社区的个人笔记：“RAD重置项目所带来的巨大贡献和充满凝聚力的开发团队，是最令我骄傲的事情。
 
-The Revamp would not be what it is today without each individual member of our team having done their part. 
+如果没有我们团队的每一位成员的贡献，RAD重置就不会是今天的样子。 
 
-Please be sure to thank them in Discord!” 
+请务必在Discord中感谢他们！” 
 
-#Script Maintainers
+#脚本维护者
 
 ![Zarchyar](zarchyar.png)
 
-Major contributions through scripting, config changes and extensive gameplay and bug testing during development.
+在开发过程中进行了脚本的编写、配置的更改、大量的游戏测试和bug调试，做出了重大贡献。
 
-Without him, we would have had a much harder time figuring out what works and what doesn’t.
+如果没有他，要弄清楚什么能运行，什么不能运行将是一件困难得多的事情。
 
 ![Bizzoula](bizzoula.png)
 
-Developer of multiple new scripts used in the modpack, not limited to brand new mods and additions for use exclusively in RAD.
+整合包中多个新脚本的开发人员，不限于专为RAD编写的全新的mod和附加。
 
-Bizzoula has helped shape certain visions which were previously only dreamt of. 
+Bizzoula帮助构建了以前只存在于梦想中的版本的框架。
 
-This individual provided work which other individuals were not capable of. We were truly blessed to acquire his assistance during development. 
-Give him a special thanks in the Discord!
+这个人完成了其他人无法胜任的工作。我们真的很幸运在开发过程中得到了他的帮助。
+在Discord中给他一个特别感谢吧！
 
-#Modpack Optimization
+#整合包优化
 
 ![Hawk.eye](hawk.eye.png)
 
-A major contributor in helping with the modpacks performance and optimization. 
+整合包的性能和优化方面的主要贡献者。 
 
-Created multitudes of pre-generated worlds throughout updates. 
+在整个更新过程中创建了大量预制的世界。 
 
-Conducted experiments with the objective goal of creating a more optimized user experience. 
+进行了大量以优化用户体验为目标的实验。
 
-Without him, many players may have struggled to play this modpack due to the limitations of their PCs.
+如果没有他，许多玩家可能会由于个人电脑的限制而难以游玩这个整合包。
 
-#Builder & Github Maintainer
+#创建者&Github维护者
 
 ![Samsara](samara__.png)
 
-The lead maintainer of Rad 1 GitHub. A special thanks to them for keeping track of multiple reports and fixing issues related to the modpack. 
-Also provided occasional configuration changes when necessary.
+Rad 1 GitHub的主要维护者。特别感谢他们跟踪多个报告并修复与整合包相关的问题。 
+还在必要时提供临时的配置更改。
 
-Sole contributor of all current builds used in the Amazing Architects Chapter. Without Samara, we would not have a basis of content for this feature which was only dreamt of working in the past. 
-Check out their builds in the Questbook and be sure to submit your own!
+目前“建筑小帮手”章节中拥有的所有建筑的贡献者。如果没有Samsara，我们就没有这个曾经只能在梦想中实现的功能的基础。
+在任务书中查看他们的建筑，并提交自己的建筑！
 
-#Config Overhauling & Quest Contributor
+#配置修改&任务贡献者
 ![Doctor Mage](doctor_mage.png)
 
-Extensive changes and overhauls to the configuration and balancing of the modpack to produce a more organically challenging experience. 
-Without them, we’d probably still be fighting Zombies with 2,000Hp. 
+对整合包的配置和平衡进行了广泛的更改和大修，以获得更好的挑战体验。
+如果没有他们，我们可能还在与2000点血的僵尸作战。 
 
-Assisted with the development and concepting of multiple quests, especially after the discontinuation of Mastarin’s ability to aid the development team. 
+协助开发和构思多个任务，特别是在Mastarin停止对开发团队的帮助之后。
 
-A message from Doctor Mage “If you get all the references I’ve made in quest and starting gear you earn a free cookie :3.”
+一条来自Doctor Mage的消息：“如果你获得了我在任务和启动装备中提供的所有参考，你就可以获得一块免费的曲奇:3。”
 
-#Modpack Balance
+#整合包平衡
 
 ![Samiel Flame](samielflame.png)
 
 ![Recycling Tiger](recyclingtiger.png)
 
-Provided an agenda for the development team by consistently reporting priority bugs and issues.
+持续报告优先级bug和问题，为开发团队提供议程。
 
-Without their contribution, many quests may have had issues for extensive periods of time, posing an inconvenience to players. 
+如果没有他们，许多任务可能在很长一段时间内都是有问题的，给玩家带来了不便。 
 
 

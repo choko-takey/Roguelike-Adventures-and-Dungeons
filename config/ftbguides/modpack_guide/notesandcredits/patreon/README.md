@@ -1,38 +1,38 @@
-#To My Patreons
+#致我的Patreons
 
-This section is dedicated to all my Patreon supporters!
+这个部分献给我在Patreon上所有的支持者！
 
-No matter how long or how short they've supported me for.
+无论他们支持的时间的长短。
 
-There support has helped immensely and I’m glad to have so many people who are willing support me thanks to the content I produce.
+他们的支持对我帮助很大，我很高兴有这么多人愿意支持我制作的内容。
 
-They're the best people <3 and I can't thank them enough!
+他们是最好的人<3 我感激不尽！
 
 ![](heart.png)
 
 AnnLS 
 
-![Crank is a donut](plua.png)
+![Crank是个甜甜圈](plua.png)
 
 Crankonator
 
-![Did you know that LS is actually a donut? It's true, i have proof!](crankonator.png)
+![你知道LS实际上是个甜甜圈吗？这是真的，我保证！](crankonator.png)
 
 Lexi Lee-Ranson
 
-![Trans Rights](lexileexx.png)
+![跨性别者](lexileexx.png)
 
 Phillip Capps
 
-![Shadow Demon Fox](fox.png)
+![暗影妖狐](fox.png)
 
 Emerald
 
-![Void contains free donuts!](emerald.png)
+![虚空里有免费的甜甜圈！](emerald.png)
 
 gNecrOz
 
-![Grand-Necrologist Zein](gnecr0z.png)
+![大亡灵学家Zein](gnecr0z.png)
 
 Kruscle
 
@@ -156,6 +156,6 @@ realkarmakun
 julie johnson
 börtl
 
-![THANK YOU FOR YOUR SUPPORT](thank.png)
+![感谢你们的支持！](thank.png)
 
-If you subbed and want a custom image here - msg me (dreams) anywhere and we will arrange it!
+如果你也订阅了，并想要在这里加上你的图像 - 在任何地方联系我（dreams），我们就会安排上的！

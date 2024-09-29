@@ -1,36 +1,35 @@
-The largest storage item in the modpack crafted as a multiblock structure with a hollow core depending on the size and material of the chest it can store a whooping 864k items.
+这个整合包中最大的存储设备！它是一个中空的多方块结构，存储容量取决于它的大小和材质，最多能达到离谱的864k个物品！
 
-![Credits to Zarchyar#3407 for this neat guide on how much each chest can store](zarchyarexcel2.png)
+![Zarchyar#3407制作的巨型箱子存储容量的导图非常棒！](zarchyarexcel2.png)
 
-#Warning chest larger than 10x10 may cause issues with performance
+#警告：大于10x10的巨型箱子可能导致性能问题！
 
-Colossal chest are made up of 2 or 3 multi-blocks
+巨型箱子由2至3个多方块结构构成
 
-The wall
+巨型箱子外壁
 
-![Colossal chest wall recipe](collosalchestrecipe.png)
+![巨型箱子外壁配方](collosalchestrecipe.png)
 
-The main part of the chest forms all the multiblocks that will make the chest recognise itself as being connected to the core.
+巨型箱子的主要构成部分。
 
-![For colossal chest larger than 2x2 the inside must have no blocks](hollowcollosalchest.png)
+![大于2x2的巨型箱子内部必须是中空的](hollowcollosalchest.png)
 
-![Unformed Colossal chest missing one of the blocks](unformedcollosalchest.png)
+![由于缺失了一个方块而无法形成的巨型箱子](unformedcollosalchest.png)
 
-![Formed colossal chest](formedcollosalchest.png)
+![已形成的巨型箱子](formedcollosalchest.png)
 
-The Core
+巨型箱子核心
 
-![Colossal chest core recipe](collosalchestcore.png)
+![巨型箱子核心合成配方](collosalchestcore.png)
 
-The core is the main part of any colossal chest and is a requirement for it to work. It acts as the brain of the system and keeps all items inside.
+巨型箱子必须拥有一个核心才能工作。核心就像是巨型箱子的大脑，所有的物品都储存在核心里面。
 
-#(WARNING:UNDER NO CIRCUMSTANCES DO YOU EVER DESTROY THE CORE. IF PART OF THE WALLS ARE BROKEN BUT CORE IS LEFT INTACT IT WILL KEEP ALL ITEMS BUT IF THE CORE IS DESTROYED WHILE THE CHEST IS UN-FORMED ALL ITS CONTENTS WILL BE VOIDED.)
+#（警告：永远不要破坏巨型箱子核心！即使巨型箱子的外壁受损，只要其核心完好无损，你存在里面的物品就还被保留着。但如果核心被破坏了，这个巨型箱子里存储的所有物品就会全部消失！）
+巨型箱子交互组件
 
-The Interface
+![巨型箱子交互组件配方](collosalchestinterface.png)
 
-![Colossal chest interface recipe](collosalchestinterface.png)
+交互组件可以将管道连接到巨型箱子。把巨型箱子连接到农场之类的装置通常需要用到它。
 
-The interface block allows for pipes to be connected to the chest normally used if you have the chest connected to some sort of farm
-
-![Example automatic wheat farm with a chest to store wheat and seeds in](collosalchestfarm.png)
+![例如，这是一个用巨型箱子来存储小麦和种子的自动麦田](collosalchestfarm.png)
 

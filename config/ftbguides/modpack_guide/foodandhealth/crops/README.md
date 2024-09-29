@@ -1,5 +1,5 @@
-# Easy pickings
+# 唾手可得
 
-Fruits and vegetables are quite abundant if you stop and take a careful look around.
+如果你停下来仔细观察周围，会发现水果和蔬菜是相当丰富的。
 
-View each section to figure out different ways to source food from different mods in the pack.
+查看每个指南，了解获取整合包中不同模组的不同食物的不同方法。
