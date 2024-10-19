@@ -1,5 +1,5 @@
 {
-	title: "Hunter Hunted",
+	title: "猎杀猎人",
 	icon: {
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
@@ -8,9 +8,9 @@
 	},
 	x: 4.5d,
 	y: 4.5d,
-	description: "They don't like a taste of their own medicine",
+	description: "他们都不愿意尝一尝自己的药",
 	text: [
-		"Show 500 advanced hunters that the real monsters were humans all along."
+		"让500名高阶猎人知道，真正的恶魔永远都是人类。"
 	],
 	tasks: [{
 		uid: "2dc6450b",

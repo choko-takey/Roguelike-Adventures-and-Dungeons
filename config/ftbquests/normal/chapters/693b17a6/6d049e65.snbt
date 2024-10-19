@@ -1,10 +1,10 @@
 {
-	title: "Snake Charmer",
+	title: "耍蛇者",
 	x: 9.5d,
 	y: 5.5d,
-	description: "This better not awaken anything in me",
+	description: "最好不要让我觉醒奇怪的爱好",
 	text: [
-		"Show those snake ladies who's really in charge of the desert."
+		"让这些沙地女妖知道谁才是沙漠的主宰。"
 	],
 	tasks: [{
 		uid: "5ccabeec",

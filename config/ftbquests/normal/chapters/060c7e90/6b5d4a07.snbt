@@ -1,12 +1,12 @@
 {
-	title: "This Feels a Bit Sheer",
+	title: "感觉有点怪……",
 	x: -11.0d,
 	y: 11.5d,
-	description: "Can you see my undies?",
+	description: "嘿？你是不是看见我内衣了？",
 	text: [
-		"Craft some basic raiments.",
+		"制作巫师的基本制服。",
 		"",
-		"They'll help you... cover up."
+		"它们可以让你……避免衣不蔽体的窘态……"
 	],
 	dependencies: [
 		"42a3a057"

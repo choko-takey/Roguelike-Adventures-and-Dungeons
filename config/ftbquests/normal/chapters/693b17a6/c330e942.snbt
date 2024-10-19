@@ -1,10 +1,10 @@
 {
-	title: "Attack On Titans",
+	title: "进击的巨人",
 	x: 8.5d,
 	y: 4.5d,
-	description: "You would make david proud",
+	description: "David为你感到骄傲",
 	text: [
-		"Cut down 10 giants and show them size is not everything."
+		"干倒10名巨人，向它们证明只拥有庞大的身躯毫无用处。"
 	],
 	tasks: [{
 		uid: "a1544f31",

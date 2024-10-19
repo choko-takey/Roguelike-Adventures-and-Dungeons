@@ -1,5 +1,5 @@
 {
-	title: "Apprentice Vampire Hunter",
+	title: "学徒级吸血鬼猎人",
 	icon: {
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
@@ -9,11 +9,11 @@
 	},
 	x: -2.0d,
 	y: 2.0d,
-	description: "Hunter Intel 8 - 10",
+	description: "猎人情报8~10",
 	text: [
-		"Congratulations on making it so far not many can say the same.",
+		"祝贺你达到了多数人都无法达到的境界。",
 		"",
-		"Your journey is not over yet become stronger and be the hero villagers need!"
+		"不过你的旅程还没有结束，进一步变强并成为村民们所期待的英雄吧！"
 	],
 	dependencies: [
 		"469d1cb1"
@@ -21,7 +21,7 @@
 	tasks: [{
 		uid: "63c2052f",
 		type: "item",
-		title: "Hunter Intel 8",
+		title: "猎人情报8",
 		items: [{
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
@@ -33,7 +33,7 @@
 	{
 		uid: "6f1cb1e6",
 		type: "item",
-		title: "Hunter Intel 9",
+		title: "猎人情报9",
 		items: [{
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
@@ -45,7 +45,7 @@
 	{
 		uid: "07421457",
 		type: "item",
-		title: "Hunter Intel 10",
+		title: "猎人情报10",
 		items: [{
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}

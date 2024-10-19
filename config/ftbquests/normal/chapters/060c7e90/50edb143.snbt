@@ -1,14 +1,14 @@
 {
-	title: "Hey, Bighead!",
+	title: "嘿你个自负鬼！",
 	x: -21.0d,
 	y: 16.0d,
-	description: "I think she likes you",
+	description: "我想她和你差不多",
 	text: [
-		"No, no. She's only giving you attention because of all the Spells you know.",
+		"不不不，她只不过是看上了你所知晓的咒语罢了。",
 		"",
-		"She's really just trying to get you to do her Wizard-work!",
+		"她只是想让你替她干活而已。",
 		"",
-		"Sage Tomes can hold more Spells than normal. However, they receive a lower Potency bonus to their respective elements."
+		"贤者宝典可以学习更多的法术（真正的秘法），不过，它们提供的法术加成比起魔杖要差一些。"
 	],
 	dependencies: [
 		"a68a3bfa"

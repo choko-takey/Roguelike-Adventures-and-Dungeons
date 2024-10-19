@@ -1,10 +1,10 @@
 {
-	title: "Heresy",
+	title: "异端邪说",
 	x: 8.5d,
 	y: 6.5d,
-	description: "Fanatic finisher",
+	description: "狂热的信徒",
 	text: [
-		"Make 200 zealots wish they never picked the school of dark magic."
+		"让200个狂热信徒知道他们当初在学校就不该学习黑魔法。"
 	],
 	tasks: [{
 		uid: "3c57ac7b",

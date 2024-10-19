@@ -1,12 +1,12 @@
 {
-	title: "Bunny Monarch",
+	title: "弹跳之王",
 	x: 3.0d,
 	y: -21.0d,
-	description: "It's so fluffy",
+	description: "摸起来毛茸茸的",
 	text: [
-		"Aerbunnies are native to the aether.",
+		"天跃兔是天境的本土物种。",
 		"",
-		"If you see one put it on your head just do it trust me!"
+		"如果你有幸遇到一只就把它放到头上吧，相信我！"
 	],
 	dependencies: [
 		"979d8bdd"
@@ -14,7 +14,7 @@
 	tasks: [{
 		uid: "b39bb8d6",
 		type: "observation",
-		title: "Lay Eyes Upon An Aerbunny",
+		title: "观察一只天跃兔",
 		icon: {
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}

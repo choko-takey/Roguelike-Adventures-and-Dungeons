@@ -1,5 +1,5 @@
 {
-	title: "Sage",
+	title: "贤者",
 	icon: {
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
@@ -9,9 +9,9 @@
 	x: -17.0d,
 	y: 12.5d,
 	text: [
-		"To begin learning sage spells you need to aquire a scribe and  experiment tome.",
+		"想要开始学习贤者法术，你需要获得scribe法术书和experiment法术书。",
 		"",
-		"They can be crafted by surronding an empty mystic tome with magic crystals."
+		"它们可以在工作台上通过将空神秘法术书周围围上半圈魔力水晶制作而成。"
 	],
 	dependencies: [
 		"f3967f6c"

@@ -1,12 +1,12 @@
 {
-	title: "You're a Dwarf Harry",
+	title: "哈利波特，但是矮人血统",
 	x: -4.5d,
 	y: -1.5d,
-	description: "The ocean is a magical place",
+	description: "海洋是魔法的故乡，从来如此",
 	text: [
-		"Aqua caverns contain an abudance of wizardy ores.",
+		"含水洞穴盛产各种魔法水晶矿石",
 		"",
-		"Thus making it the ideal caverns for any wizard; novice or master."
+		"因此，无论是初出茅庐的学徒还是博学老成的大师都喜欢那里"
 	],
 	dependencies: [
 		"5ca0cd0e"

@@ -1,12 +1,12 @@
 {
-	title: "The Dead Return",
+	title: "亡灵返乡",
 	x: 7.5d,
 	y: 6.5d,
-	description: "This time hope they stay dead",
+	description: "希望这次它们死透了",
 	text: [
-		"Show 200 Nekros that even though they can save others from death.",
+		"让200只Nekros知道即使它们能让其他人死而复生。",
 		"",
-		"They can't save themselves."
+		"也无法拯救它们自己。"
 	],
 	tasks: [{
 		uid: "c2b743ba",

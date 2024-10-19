@@ -1,5 +1,5 @@
 {
-	title: "Bark Wood!",
+	title: "哀嚎木！",
 	icon: {
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
@@ -8,9 +8,9 @@
 	},
 	x: 3.0d,
 	y: 8.5d,
-	description: "Aren't those the same thing?",
+	description: "这些不是同一回事吗？",
 	text: [
-		"Slay 10 Spirit Trees."
+		"击杀10只大型灵魂树脸。"
 	],
 	can_repeat: true,
 	tasks: [{

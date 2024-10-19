@@ -1,12 +1,12 @@
 {
-	title: "Now What?",
+	title: "然后呢？",
 	x: -3.5d,
 	y: -1.0d,
-	description: "Getting your hands dirty",
+	description: "该大开杀戒了",
 	text: [
-		"To harvest the remains of a dead dragon right click it with an empty hand.",
+		"空手右键龙的残骸来收获战利品。",
 		"",
-		"If you wish to gain blood use a bottle, this will reduce the chance of scales and other materials dropping."
+		"如果你想要龙血就拿着空瓶子右键，不过这会减少龙鳞以及其它材料的掉落量。"
 	],
 	dependencies: [
 		"834eaa9f"

@@ -1,10 +1,10 @@
 {
-	title: "A Rift Apart",
+	title: "时空跳转",
 	x: 8.5d,
 	y: 5.5d,
-	description: "I'm a firin mah lazer",
+	description: "吃我大激光",
 	text: [
-		"Send 150 Rifted enderman back to were they came from."
+		"将150只裂隙末影人送回老家。"
 	],
 	tasks: [{
 		uid: "c9f419b7",
