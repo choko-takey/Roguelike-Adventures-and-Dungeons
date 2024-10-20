@@ -1,12 +1,12 @@
 {
-	title: "Why Was The Skeleton Lonely",
+	title: "为何骷髅如此孤单",
 	x: 8.5d,
 	y: 7.5d,
-	description: "Because he ain't got no body",
+	description: "因为它没有肉体（nobody）",
 	text: [
-		"Prove the theroy of two heads being worse than one.",
+		"请证明：两个脑袋不如一个脑袋好使。",
 		"",
-		"Cut down 200 bonepiles."
+		"干掉200只bonepile."
 	],
 	tasks: [{
 		uid: "d0d76d69",

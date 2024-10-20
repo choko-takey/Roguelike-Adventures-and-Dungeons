@@ -1,10 +1,10 @@
 {
-	title: "A Real Kingpin",
+	title: "真正的金并",
 	x: 7.5d,
 	y: 7.5d,
-	description: "I want pictures of spider zombies!",
+	description: "想看到蜘蛛僵尸！",
 	text: [
-		"Show 500 Bouldering zombies how dangerous climbing is."
+		"让500只攀岩僵尸知道攀岩究竟有多危险。"
 	],
 	tasks: [{
 		uid: "8bbafed5",

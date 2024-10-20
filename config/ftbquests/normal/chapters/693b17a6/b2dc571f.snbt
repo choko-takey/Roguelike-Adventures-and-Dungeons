@@ -1,5 +1,5 @@
 {
-	title: "Baron Butcher",
+	title: "伯爵屠夫",
 	icon: {
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
@@ -9,9 +9,9 @@
 	},
 	x: 4.5d,
 	y: 5.5d,
-	description: "Take that dracula",
+	description: "拿下那个德古拉。",
 	text: [
-		"Show 50 Vampire Barons that there reign is over."
+		"告诉50名吸血鬼伯爵，他们的统治已经结束了。"
 	],
 	tasks: [{
 		uid: "fe7f28f1",

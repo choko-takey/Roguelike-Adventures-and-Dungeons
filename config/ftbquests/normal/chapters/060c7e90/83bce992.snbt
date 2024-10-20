@@ -1,12 +1,12 @@
 {
-	title: "The Magic Of Books",
+	title: "书中的魔法",
 	x: -19.0d,
 	y: 12.5d,
-	description: "Reading is truly a magical experience",
+	description: "阅读确实会让你有种魔法般的体验",
 	text: [
-		"To obtain more sage spell books craft an empty mystic tome and place it on a mystic lectern.",
+		"想要获得更多的贤者法术书，制作一本空神秘法术书并把它放在神秘讲台上。",
 		"",
-		"Then cast the scribe spell on it."
+		"然后对其施放scribe法术。"
 	],
 	dependencies: [
 		"dd542464"

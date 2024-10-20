@@ -1,5 +1,5 @@
 {
-	title: "Knight in Shining Armor",
+	title: "闪银骑士",
 	icon: {
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
@@ -8,9 +8,9 @@
 	},
 	x: -5.5d,
 	y: -4.0d,
-	description: "There's no princess anywhere, only more dragons",
+	description: "到处都没有公主，只有更多的龙",
 	text: [
-		"Alternative To Iron Armor. Is only 2 Armor lower when wearing the full set."
+		"铁甲的替代品。穿着全套装备时，仅低2护甲。"
 	],
 	dependencies: [
 		"ae2ee93e"

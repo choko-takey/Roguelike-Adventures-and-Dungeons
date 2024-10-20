@@ -1,5 +1,5 @@
 {
-	title: "Wrong Line Of Work",
+	title: "错误的路线",
 	icon: {
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
@@ -8,9 +8,9 @@
 	},
 	x: 3.5d,
 	y: 5.5d,
-	description: "It was for the greater good",
+	description: "这是为了上上善道。",
 	text: [
-		"Murder 1000 Vampire hunters just trying to make the world a safer place."
+		"我是为了让世界更安全，才谋杀了100名吸血鬼猎人。"
 	],
 	tasks: [{
 		uid: "184f9d30",

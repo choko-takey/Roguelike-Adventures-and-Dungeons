@@ -1,10 +1,13 @@
 {
-	title: "Master Miner",
+	title: "挖矿专家",
 	x: -6.5d,
 	y: -1.5d,
-	description: "Now you're a real dwarf",
+	description: "深岩没了银河公司提醒您：欢迎来到CavernII",
 	text: [
-		"The highest of high you can now consider yourself. Overlord of the caverns, you showed those ores whose boss."
+		"这是你在CavernII中取得的至高成就，我们祝贺您，您已使主世界，CavernII所有维度，甚至所有拥有矿石的维度臣服于您！",
+		"",
+		"真的吗？",
+		"现在我要告诉你：欢迎来到CavernII！"
 	],
 	dependencies: [
 		"30651e46"
@@ -12,7 +15,7 @@
 	tasks: [{
 		uid: "dcb28c58",
 		type: "advancement",
-		title: "Reach Diamond Miner Rank",
+		title: "成为钻石级矿工",
 		icon: {
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}

@@ -1,10 +1,10 @@
 {
-	title: "Lycans Are Real Scared Now",
+	title: "狼人现在真的很害怕",
 	x: -6.0d,
 	y: -3.0d,
-	description: "Good thing they don't exist in this modpack",
+	description: "幸好他们不存在于这个整合包中",
 	text: [
-		"Provides an advantage against the Undead."
+		"提供对抗亡灵的优势。"
 	],
 	dependencies: [
 		"ae2ee93e"

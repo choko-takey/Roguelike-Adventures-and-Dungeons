@@ -1,9 +1,9 @@
 {
-	title: "Hunter's Apprentice",
+	title: "猎人学徒",
 	x: -9.0d,
 	y: 5.0d,
 	text: [
-		"To begin the quest chapters for the hunter path either find and interact with a hunter research table or craft one and interact with it."
+		"要开启作为吸血鬼猎人的任务章节，你需要找到或制作一张猎人研究台，并与它交互。"
 	],
 	dependencies: [
 		"6d6592b1"

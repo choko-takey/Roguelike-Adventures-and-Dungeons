@@ -1,12 +1,12 @@
 {
-	title: "That Was Random",
+	title: "幸运方矿",
 	x: -10.5d,
 	y: -1.5d,
 	description: "01110010 01100001 01101110 01100100 01101111 01101101",
 	text: [
-		"Randomite ore is a unique type of ore found only in caverns.",
+		"奇异矿石是你在初始洞穴里遇到的几种新矿物之一",
 		"",
-		"It drops a random item when mined."
+		"它能掉的东西比你想到的还多……"
 	],
 	dependencies: [
 		"9cc8a946"
@@ -14,7 +14,7 @@
 	tasks: [{
 		uid: "a65f466c",
 		type: "advancement",
-		title: "Mine Some Randomite",
+		title: "挖掘一些奇异矿",
 		icon: {
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}

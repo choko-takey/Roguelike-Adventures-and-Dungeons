@@ -1,10 +1,10 @@
 {
-	title: "Catch em' All!",
+	title: "把他们都抓住！",
 	x: -3.0d,
 	y: -0.5d,
-	description: "You're a fisherman's man's man",
+	description: "你是钓鱼佬中的钓鱼佬",
 	text: [
-		"Collect all sea life offered by Aquaculture. I bet most of them taste pretty good too!"
+		"收集到水产品中所有海洋里的生物。我赌他们尝起来一定不错！"
 	],
 	dependencies: [
 		"c42172ba"

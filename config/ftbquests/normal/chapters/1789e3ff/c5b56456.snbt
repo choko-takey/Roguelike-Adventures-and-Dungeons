@@ -1,17 +1,19 @@
 {
-	title: "The Most Illusive Libary",
+	title: "最虚幻的书局……",
 	x: -1.0d,
 	y: -0.5d,
-	description: "You saw nothing",
+	description: "隐形的塞拉皮雍？",
 	text: [
-		"Rarely while digging around you can come across mirage libaries breaking them can rarely drop a mirage book.",
+		"那些书架是隐形的——也许只是对那些眼神不好的人来说是这样的……",
+		"当你在基础洞穴里挖矿时，这座图书馆（的废墟）总是会在不恰当的时间出现在你面前",
+		"挖掘它们有时候会掉落一些同样虚幻的书籍",
 		"",
-		" These mirage books can be used to access unique worlds."
+		"这些书籍通向另一个世界……"
 	],
 	tasks: [{
 		uid: "e5e8953a",
 		type: "observation",
-		title: "Glance At A Mirage Bookshelf",
+		title: "观察幻象书架",
 		icon: {
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}

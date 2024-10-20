@@ -1,10 +1,10 @@
 {
-	title: "The Puppet Master",
+	title: "魔偶奇谭",
 	x: 7.5d,
 	y: 5.5d,
-	description: "Just like punch & judy",
+	description: "就像潘趣和朱迪一样",
 	text: [
-		"Show 15 Vessels who's really pulling the strings."
+		"让15个剧场人偶知道谁才是操纵人偶线的人。"
 	],
 	tasks: [{
 		uid: "b3e47bbb",

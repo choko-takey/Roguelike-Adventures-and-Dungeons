@@ -1,12 +1,12 @@
 {
-	title: "Legendary Vampire Hunter",
+	title: "传说级吸血鬼猎人",
 	x: 0.0d,
 	y: 2.0d,
-	description: "Hunter Intel 14",
+	description: "猎人情报14",
 	text: [
-		"Your at your journey's end the apex of vampire hunters just the mere mention of your name makes them run in fear.",
+		"你已达到吸血鬼猎人的最高境界，现在吸血鬼光是听到你的名字就会四散而逃。",
 		"",
-		"You would make Van Helsing blush with how powerful you've become."
+		"连范海辛都会因为你的力量而对自己羞愧。"
 	],
 	dependencies: [
 		"9c854b7e"
@@ -15,7 +15,7 @@
 	tasks: [{
 		uid: "5e9ab061",
 		type: "item",
-		title: "Hunter Intel 14",
+		title: "猎人情报14",
 		items: [{
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}

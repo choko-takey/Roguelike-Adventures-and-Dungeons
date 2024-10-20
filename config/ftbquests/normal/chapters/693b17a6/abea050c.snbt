@@ -1,10 +1,10 @@
 {
-	title: "Ice Ice Baby",
+	title: "冰雪宝贝",
 	x: 9.5d,
 	y: 7.5d,
-	description: "Ice em",
+	description: "冰！",
 	text: [
-		"Put 400 Frostwalkers on ice."
+		"把400个急冻漫游者推到冰上。"
 	],
 	tasks: [{
 		uid: "c3a9a0ab",

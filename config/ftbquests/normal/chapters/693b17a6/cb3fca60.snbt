@@ -1,10 +1,10 @@
 {
-	title: "Ghostbuster",
+	title: "捉鬼敢死队",
 	x: 9.5d,
 	y: 6.5d,
-	description: "Who you gonna call",
+	description: "你打算叫谁？",
 	text: [
-		"Show 200 ghost you ain't afraid of any of them."
+		"让200个迷失幽灵知道你一点都不怕它们。"
 	],
 	tasks: [{
 		uid: "254e7fd4",
