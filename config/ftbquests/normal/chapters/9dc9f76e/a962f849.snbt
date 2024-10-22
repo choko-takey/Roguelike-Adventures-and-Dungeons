@@ -1,10 +1,10 @@
 {
-	title: "Stink Eye",
+	title: "发臭的眼睛",
 	x: 6.0d,
 	y: -14.5d,
-	description: "The worst one you've ever received",
+	description: "这是你收到的最糟糕的东西",
 	text: [
-		"Didn't your mama ever tell you it's rude to stare?"
+		"你妈妈没告诉过你盯着别人看是不礼貌的吗？"
 	],
 	dependencies: [
 		"ca494ea6"

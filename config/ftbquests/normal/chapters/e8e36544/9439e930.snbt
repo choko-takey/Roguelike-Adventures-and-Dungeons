@@ -1,13 +1,13 @@
 {
-	title: "Aggressively Catch Them All!",
+	title: "快抓住他们所有人！",
 	x: -16.5d,
 	y: -8.0d,
-	description: "Or else they will catch you!",
+	description: "不然他们会抓住你的！",
 	text: [
-		"Kill all sorts of monsters and bring them to extinction to obtain all of these trophies!",
-		"(Some monsters were left out for ease-of-completion)",
+		"杀死各种各样的怪物，把他们灭绝，以获得所有这些奖杯！",
+		"（为了便于完成，有些怪物被省略了）",
 		"",
-		"All are needed to complete this quest."
+		"所有这些都是完成这项任务所必需的。"
 	],
 	tasks: [{
 		uid: "3611c8c6",

@@ -1,10 +1,10 @@
 {
-	title: "I Cry Because I Don't Know How This Works",
+	title: "我哭是因为我不知道这是怎么回事",
 	x: 7.0d,
 	y: -9.0d,
-	description: "Where does all the stuff go?",
+	description: "所有的东西都去哪儿了？",
 	text: [
-		"Craft a Void Tear."
+		"制作虚空之泪。"
 	],
 	tasks: [{
 		uid: "a5907cbe",

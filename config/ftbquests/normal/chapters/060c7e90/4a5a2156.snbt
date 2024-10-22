@@ -1,12 +1,12 @@
 {
-	title: "20 Years of Study",
+	title: "再学它个20年！",
 	x: 3.5d,
 	y: -5.5d,
-	description: "Now you think you're getting somewhere!",
+	description: "现在你算是有所建树了",
 	text: [
-		"This item is used to upgrade your wand!",
+		"这本书可以升级你的魔杖！",
 		"",
-		"See the Wizard's Handbook for more info."
+		"详见巫师手札。"
 	],
 	dependencies: [
 		"48ac2c5e"

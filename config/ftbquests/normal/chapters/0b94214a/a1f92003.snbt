@@ -1,10 +1,10 @@
 {
-	title: "My Little Monster",
+	title: "我的小怪物",
 	x: -7.0d,
 	y: 1.5d,
-	description: "They grow up so fast",
+	description: "他们成长得如此迅速",
 	text: [
-		"Craft or obtain a Tier 1 Mob Chunk."
+		"制作或获得一块1级基础怪物灵魂碎片。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

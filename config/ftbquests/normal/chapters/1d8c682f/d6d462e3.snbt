@@ -1,10 +1,10 @@
 {
-	title: "Death Is Just the Beginning",
+	title: "死亡只是开始",
 	x: 0.0d,
 	y: 0.5d,
-	description: "Or is it? (It is, don't worry)",
+	description: "真的是这样吗？（是的，别担心）",
 	text: [
-		"The dust seems to fall from the sides of your hands, but the pile never gets any smaller."
+		"灰尘似乎从你的手的两侧落下，但那堆灰尘从来没有变小过。"
 	],
 	size: 2.0d,
 	tasks: [{

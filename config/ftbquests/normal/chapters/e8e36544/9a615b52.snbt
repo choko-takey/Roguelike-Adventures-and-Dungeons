@@ -1,10 +1,10 @@
 {
-	title: "The OG Beacon",
+	title: "我的天！信标",
 	x: 1.095238095238102d,
 	y: -16.553571428571416d,
-	description: "''Back in my day''",
+	description: "“在我的时代”",
 	text: [
-		"''We had to make our own effects for our own Beacons''"
+		"“我们必须为自己的信标制作自己的效果”"
 	],
 	size: 1.5d,
 	tasks: [{

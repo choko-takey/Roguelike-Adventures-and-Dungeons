@@ -1,13 +1,13 @@
 {
-	title: "Skill Issue",
+	title: "关于技能",
 	icon: "levelup2:skillbook",
 	x: -8.0d,
 	y: 0.0d,
-	description: "Everyone gets a freebie",
+	description: "每个人都可以获得免费赠品",
 	text: [
-		"Levelup reloaded allows for you turn to 5 levels into skill points (These levels cannot be refuned!!).",
+		"升级！重置允许你将5经验等级兑换成技能点（经验等级不能被取出来！！）",
 		"",
-		"You can then invest those points into skills."
+		"然后你可以用技能点升级技能。"
 	],
 	dependencies: [
 		"6494abb4"

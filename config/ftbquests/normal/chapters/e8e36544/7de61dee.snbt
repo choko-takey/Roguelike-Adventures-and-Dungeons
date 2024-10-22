@@ -1,10 +1,10 @@
 {
-	title: "Scary AND Spooky!",
+	title: "惊吓和幽灵！",
 	x: -14.5d,
 	y: 5.5d,
-	description: "Increases your voodoo",
+	description: "增加你的霉运",
 	text: [
-		"Candles will increase the enchanting power of nearby Enchanting Tables equal to one Bookshelf. They do not count as a Bookshelf for activation of the Enchanting Table."
+		"蜡烛可增加相当于一个书架的附魔量。但对附魔台来说，它们不算作书架。"
 	],
 	tasks: [{
 		uid: "fd52a44d",

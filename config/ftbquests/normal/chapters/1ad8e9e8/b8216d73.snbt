@@ -1,10 +1,10 @@
 {
-	title: "Ciminnanon.. Cinnimom... Syrmorite",
+	title: "塞迷农……赛你锰……赛摩铜",
 	x: 7.0d,
 	y: 1.5d,
-	description: "Syrmorite challenge",
+	description: "赛摩铜挑战",
 	text: [
-		"Smelt some Syrmorite into an ingot."
+		"把一些赛摩铜矿熔炼成锭"
 	],
 	dependencies: [
 		"5805bceb"

@@ -1,10 +1,10 @@
 {
-	title: "Growing Gold, Literally",
+	title: "种植金子，就是字面意思",
 	x: 3.5d,
 	y: -8.0d,
-	description: "Right in your own backyard!",
+	description: "就在你自己的后院！",
 	text: [
-		"Craft some Tier 4 Crafting Seeds."
+		"制作一些四级合成种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

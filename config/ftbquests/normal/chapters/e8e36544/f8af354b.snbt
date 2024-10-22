@@ -1,16 +1,16 @@
 {
-	title: "CAUTION: WET",
+	title: "警告：地面湿滑",
 	x: -1.5d,
 	y: 7.5d,
-	description: "Not just, wet. It's WET",
+	description: "不只是湿，它很滑！",
 	text: [
-		"Super slippery slippy sliders.",
+		"超级滑溜溜滑冰。",
 		"",
-		"This ice is just ridiculously slippery.",
+		"这个冰块光滑得不可思议。",
 		"",
-		"Ride a boat on it, and travel back in time.",
+		"尝试开船在上面滑行，然后及时返回。",
 		"",
-		"(Entities which slide on this ice DO NOT lose velocity)"
+		"（所有实体在上面移动不会因为阻力减小速度）"
 	],
 	tasks: [{
 		uid: "c187802b",

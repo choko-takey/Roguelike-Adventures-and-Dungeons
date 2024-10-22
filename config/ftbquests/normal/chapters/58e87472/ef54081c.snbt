@@ -1,14 +1,14 @@
 {
-	title: "Begone Foul Demon!",
+	title: "滚开，恶魔！",
 	x: -9.5d,
 	y: -3.0d,
-	description: "Back to the void from whence you came!",
+	description: "回到虚空中去吧！",
 	text: [
-		"This item will aid players in removing the large black swirls you sometimes come across when exploring the world.",
+		"这个物品将帮助玩家消除有时你在探索世界时会遇到的大型黑色漩涡。",
 		"",
-		"The swirls are not dangerous, because the mod was discontinued, but they are annoying, and can get absolutely enourmous if left unattended.",
+		"漩涡并不危险，因为该模组已经停更，但它们很烦人，如果不加注意，绝对会恶化。",
 		"",
-		"Right-Click around where a Rift is centered, and it should remove the Rift immediately, or over time, depending on its size."
+		"右击裂痕中心，它可以立即移除裂痕，或者渐渐移除，取决于它的大小。"
 	],
 	dependencies: [
 		"e1eb55c6"

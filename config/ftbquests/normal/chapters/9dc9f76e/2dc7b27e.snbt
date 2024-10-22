@@ -1,12 +1,12 @@
 {
-	title: "The One That Couldn't Get Away",
+	title: "那个逃不掉的人（与The One That Got Away歌曲相关）",
 	x: -0.5d,
 	y: -5.5d,
-	description: "With this rod? It was never gonna get away.",
+	description: "有了这个鱼竿？ta绝对不会离你而去。",
 	text: [
-		"A diamond fishing pole? You must really like fishing. It's okay. The man who made this questing section likes fishing too.",
+		"一个钻石钓鱼竿？你一定非常喜欢钓鱼。那太棒了。做这个任务章节的人也喜欢。",
 		"",
-		"Applying anything above Lure V to your Rod will break it. Don't do that."
+		"任何高于饵钓V的附魔附加到钓竿上都会损毁钓竿。别那样做。"
 	],
 	dependencies: [
 		"d3807dee"

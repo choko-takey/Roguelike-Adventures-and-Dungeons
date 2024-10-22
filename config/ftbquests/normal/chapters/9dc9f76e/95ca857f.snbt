@@ -1,10 +1,10 @@
 {
-	title: "Redstone Ready!",
+	title: "红石就绪！",
 	x: 7.5d,
 	y: -1.5d,
-	description: "No you're not",
+	description: "还差一点点",
 	text: [
-		"Engineers love this stuff."
+		"生电玩家的心头宝。"
 	],
 	dependencies: [
 		"98cd26ae"

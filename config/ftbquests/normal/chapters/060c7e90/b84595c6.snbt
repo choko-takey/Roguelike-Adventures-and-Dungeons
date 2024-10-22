@@ -1,10 +1,10 @@
 {
-	title: "Dead Wisdom",
+	title: "腐朽之智",
 	x: -18.0d,
 	y: 10.5d,
-	description: "The stuff no one uses anymore",
+	description: "没人用这些东西的",
 	text: [
-		"These Necromancers don't let anything go to waste do they?"
+		"亡灵法师从不浪费，对吗？"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

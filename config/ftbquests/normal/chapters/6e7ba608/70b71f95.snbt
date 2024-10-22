@@ -1,12 +1,12 @@
 {
-	title: "Coral Collector",
+	title: "珊瑚收集者",
 	x: -1.0d,
 	y: -12.5d,
-	description: "Coral! Coral!",
+	description: "珊瑚！珊瑚！",
 	text: [
-		"She's dead Coral!",
+		"她死了，珊瑚！！！",
 		"",
-		"Collect all the coral you can!"
+		"尽可能收集所有珊瑚！"
 	],
 	dependencies: [
 		"5ea1c5e5"

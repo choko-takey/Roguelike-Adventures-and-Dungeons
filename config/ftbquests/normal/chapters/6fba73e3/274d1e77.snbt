@@ -1,10 +1,10 @@
 {
-	title: "Wait, There's Two?",
+	title: "等等，这有两个？",
 	x: -4.0d,
 	y: -12.0d,
-	description: "I swear I'm not crazy",
+	description: "我发誓我没疯",
 	text: [
-		"Obtain a Tome of Alkahestry from the Shop."
+		"在商店中购买万能溶剂之经。"
 	],
 	tasks: [{
 		uid: "0259f8c8",

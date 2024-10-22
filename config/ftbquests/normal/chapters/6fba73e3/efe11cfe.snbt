@@ -1,10 +1,10 @@
 {
-	title: "Do Not Enter!",
+	title: "禁止进入！",
 	x: 1.0d,
 	y: -3.5d,
-	description: "Trespassers will be prosecuted!",
+	description: "非法闯入者将被起诉！",
 	text: [
-		"Craft some Interdiction Torches."
+		"制作一些结界火把。"
 	],
 	tasks: [{
 		uid: "87b1d96e",

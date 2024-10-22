@@ -1,10 +1,12 @@
 {
-	title: "Spa Day Just Got Better",
+	title: "Spa是最棒的！",
 	x: 8.5d,
 	y: -14.5d,
-	description: "No need to do it yourself anymore",
+	description: "谁去做spa还自己动手搓澡啊",
 	text: [
-		"The Arcane Spa takes bathsalts and automatically mixes it with the water around itself."
+		"奥术浴场会使用净化浴盐和周围的水混合，自动为你调制好洗澡水。",
+		"",
+		"PS：当你同时拥有扭曲守护，泡在净化之水，并且使用祛邪肥皂时，可以利益最大化哦"
 	],
 	dependencies: [
 		"f450cd69"

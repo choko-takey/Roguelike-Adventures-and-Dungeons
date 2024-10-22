@@ -1,12 +1,12 @@
 {
-	title: "Syrmorite Armaments",
+	title: "赛摩铜装备",
 	x: 5.5d,
 	y: 1.5d,
-	description: "The best it gets in this wetland",
+	description: "这是你在交错次元中能获得的最好的装备",
 	text: [
-		"It gets better though, don't worry.",
+		"一切都会好起来的，别担心。",
 		"",
-		"Craft all of the Syrmorite armor and tools."
+		"合成所有的赛摩铜装备和工具。"
 	],
 	dependencies: [
 		"b8216d73"

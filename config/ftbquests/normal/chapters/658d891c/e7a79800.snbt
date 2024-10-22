@@ -1,10 +1,10 @@
 {
-	title: "Bigfoot",
+	title: "大脚野人",
 	x: 24.5d,
 	y: -0.5d,
-	description: "He has big feet!",
+	description: "他有大脚！",
 	text: [
-		"Obtain a set of Forest Troll Armor."
+		"获得一套森林食人妖盔甲。"
 	],
 	tasks: [{
 		uid: "b7479700",

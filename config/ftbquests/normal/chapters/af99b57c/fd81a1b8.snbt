@@ -1,10 +1,10 @@
 {
-	title: "Younglin",
+	title: "年轻人",
 	x: -5.0d,
 	y: 2.0d,
-	description: "Teach me your ways master",
+	description: "请你教教我吧老师",
 	text: [
-		"To level up as a hunter, you need to find another vampire hunter and have them train you."
+		"作为猎人想要提升等级，你需要寻找另一个猎人并让他来指导你。"
 	],
 	dependencies: [
 		"679444c3"

@@ -1,8 +1,8 @@
 {
-	title: "I Feel Like a Fairy",
+	title: "我觉得自己像个仙女",
 	x: 27.0d,
 	y: -0.5d,
-	description: "Was that ''politically incorrect''?",
+	description: "这是“政治错误”吗？",
 	text: [
 		""
 	],

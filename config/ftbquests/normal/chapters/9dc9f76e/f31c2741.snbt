@@ -1,19 +1,19 @@
 {
-	title: "Bound by the Keys",
+	title: "按键绑定",
 	x: -8.0d,
 	y: -4.5d,
 	shape: "circle",
 	text: [
-		"There are some conflicts you'll likely need to resolve.",
-		"Go to Options -> Controls. Search by Category:",
+		"有一些小的设置，你可能需要调整。",
+		"先去 选项 -> 控制。按类型查找：",
 		"",
-		"- Veinminer = Hold Grave",
-		"- Dodge = Left Alt.",
-		"- Titles = Y",
-		"- Difficulty Meter = Shift + N",
-		"- Select Class = B",
-		"- Show Map = J",
-		"- Change Hotbar = Z"
+		"- 连锁挖矿 = 按住~",
+		"- 闪避 = 左Alt。",
+		"- 头衔 = Y",
+		"- 难度表 = Shift+N",
+		"- 选择职业 = B",
+		"- 打开地图 = J",
+		"- 切换快捷栏 = Z"
 	],
 	dependencies: [
 		"35def456"

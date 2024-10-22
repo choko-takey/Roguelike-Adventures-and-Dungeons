@@ -1,14 +1,14 @@
 {
-	title: "Father I Come to You a Sinner",
+	title: "父啊，我以罪人的身份来到你面前",
 	x: 0.0d,
 	y: 5.25d,
-	description: "Accept my gift of faith",
+	description: "接受我的信仰礼物",
 	text: [
-		"This item holds enourmous power.",
+		"此物品拥有巨大的力量。",
 		"",
-		"A feeling of enlightenment washes over you after holding this item.",
+		"持有此物后，一种开悟的感觉涌上心头。",
 		"",
-		"You can probably use this for an exorcism!"
+		"你也许可以用这个来驱魔！"
 	],
 	dependencies: [
 		"d6d462e3"

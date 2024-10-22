@@ -1,18 +1,18 @@
 {
-	title: "Capitol - 7500 Blocks",
+	title: "国会大厦- 7500格远",
 	x: -12.5d,
 	y: -2.5d,
-	description: "Wow that's far...",
+	description: "好远啊……",
 	text: [
-		"Move by daylight, sleep by night.",
+		"跋山涉水，夜伏昼行。",
 		"",
-		"When placed, Right-Click the sign to name a location the sign will point to. This can be anything from Town or City names, to facility names like \"Inn - 1450 Blocks\".",
+		"放置后, 右键点击输入目的地（路标）名字。可以是任意村或城的名字，比如设施名称 “客栈 - 1450 格远”。",
 		"",
-		"Naming Signposts with the location of Waystones you have discovered, including those which you have placed and renamed, will allow you to right click on the sign listing that location, and teleport to the specified destination.",
+		"用发现的指路石的位置命名路标，以及那些放置并命名过的，之后右击路标，就能传送到指定的目的地。",
 		"",
-		"Regular Signposts only give you enough space to list a location on the directional arrow.",
+		"常规的路标会给你足够的空间在方向箭头上列出位置。",
 		"",
-		"You are only required to make one Signpost to complete this quest."
+		"只用做一个路标就可完成此任务。"
 	],
 	or_tasks: true,
 	tasks: [{

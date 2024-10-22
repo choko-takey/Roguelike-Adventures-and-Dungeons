@@ -1,16 +1,16 @@
 {
-	title: "Mob Mobster V",
+	title: "屠戮者 V",
 	icon: "minecraft:bone",
 	x: -10.0d,
 	y: -3.0d,
-	description: "Mobs despawn when you walk their way now.",
+	description: "当你走在他们的路上时，生物们会消失。",
 	text: [
-		"Slay 100,000 mobs."
+		"击杀100000只生物。"
 	],
 	tasks: [{
 		uid: "47199300",
 		type: "stat",
-		title: "Slay 100,000 mobs",
+		title: "击杀100000只生物",
 		icon: "minecraft:bone",
 		stat: "stat.mobKills",
 		value: 100000

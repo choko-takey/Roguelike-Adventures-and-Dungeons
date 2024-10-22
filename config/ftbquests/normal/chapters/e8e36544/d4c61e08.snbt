@@ -1,16 +1,16 @@
 {
-	title: "If a Fan Took Steroids",
+	title: "如果一位球迷打了类固醇",
 	x: 6.5d,
 	y: -5.5d,
-	description: "And did a 720 no-scope impossible kickflip",
+	description: "然后做了720度旋转盲射踢球入门",
 	text: [
-		"With a hat on.",
+		"帽子别吓掉了。",
 		"",
-		"The Interdiction Pulsar will push mobs away at fast rates.",
+		"脉冲阻拦器会以极快的速度将怪物推离它。",
 		"",
-		"Can be used to replace fans, if you're smart enough to set your mob farm up in a different way. ",
+		"如果你足够聪明，可以独自改造怪物农场，那你可以用它替换原本的风扇。",
 		"",
-		"Doesn't require Redstone to be powered."
+		"不需要红石来激活。"
 	],
 	tasks: [{
 		uid: "831ec93a",

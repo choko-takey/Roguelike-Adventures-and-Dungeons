@@ -1,18 +1,18 @@
 {
-	title: "The Collector",
+	title: "收集者",
 	x: 9.0d,
 	y: 11.5d,
-	description: "Collecting for his collection",
+	description: "完成收集工作",
 	text: [
-		"The Item Collector and the Advanced Item Collector must be attached to an inventory and will collect items for you.",
+		"物品收集器和高级物品收集器必须连接到容器，它们会为你自动收集物品。",
 		"",
-		"The Normal version can only collect within a 3 block radius. The Advanced version can collect within a configurable 10 block radius.",
+		"普通版只能收集半径3格以内，高级版最多可以收集10格以内（可配置）。",
 		"",
-		"The Advanced Item Collector can also be supplied with Item Filters.",
+		"高级物品收集器还可以插入物品过滤器。",
 		"",
-		"To use an Item Filter, Right-Click and input your items. They have some item limitations, and cannot be nested. Very effective for simple filtering.",
+		"要使用物品过滤器，右键打开并输入物品，里面有许多设置可选，例如某些限制或是否可堆叠，能有效地实现简单过滤。",
 		"",
-		"You can select to Blacklist or Whitelist your filter as well, when making your Item Filter for your Advanced Item Collector."
+		"你也可以为在过滤器中为高级物品收集器设置黑白名单。"
 	],
 	tasks: [{
 		uid: "67855cb0",

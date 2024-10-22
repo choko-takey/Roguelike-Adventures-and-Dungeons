@@ -1,5 +1,5 @@
 {
-	title: "Whale Watchers",
+	title: "鲸鱼观察者",
 	icon: {
 		id: "ftbquests:custom_icon",
 		tag: {
@@ -10,7 +10,7 @@
 	y: 1.0d,
 	description: "Watching them die!",
 	text: [
-		"Slay 25 Aerwhale Kings."
+		"击杀25只帝王云鲸。"
 	],
 	tasks: [{
 		uid: "8730b21e",

@@ -1,12 +1,12 @@
 {
-	title: "The Rainbow Tastes Like Pain",
+	title: "彩虹糖尝起来像痛苦",
 	x: 19.5d,
 	y: 4.0d,
-	description: "Sea Serpents don't like candy!",
+	description: "海蛇不喜欢糖果！",
 	text: [
-		"These are the scales of a deadly beast. They can be used to craft fearsome armor.",
+		"这是一种致命野兽的鳞片。它们可以用来制造可怕的盔甲。",
 		"",
-		"You are only required to collect one type of colored scales to complete this quest."
+		"你只需要收集一种颜色的鳞片就可以完成这个任务。"
 	],
 	or_tasks: true,
 	tasks: [{

@@ -1,10 +1,10 @@
 {
-	title: "A Token of Appreciation",
+	title: "表达感谢",
 	x: 5.5d,
 	y: -9.5d,
-	description: "10% Off your next reroll",
+	description: "下次刷新打九折！",
 	text: [
-		"This item can be used to reroll the trait of any equipment."
+		"这个物品可以用来刷新任何设备的属性。"
 	],
 	dependencies: [
 		"932fa85e"

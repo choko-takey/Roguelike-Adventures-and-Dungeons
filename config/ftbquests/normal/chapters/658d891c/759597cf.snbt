@@ -1,10 +1,10 @@
 {
-	title: "Cool Blast Energy Drink!",
+	title: "冰镇 “魔爪” ！",
 	x: 9.0d,
 	y: 4.0d,
-	description: "Not really. It's blood.",
+	description: "不是。这是血。",
 	text: [
-		"Used in a Dragon Forge!"
+		"用于龙钢锻炉！"
 	],
 	dependencies: [
 		"ecbc2d9f"

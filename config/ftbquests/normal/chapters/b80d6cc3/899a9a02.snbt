@@ -1,12 +1,12 @@
 {
-	title: "The Hot Box",
+	title: "热箱",
 	x: 14.5d,
 	y: 0.0d,
-	description: "Not that kind",
+	description: "不……不是那种……",
 	text: [
-		"This baby here is gonna fire up all your machines! Literally!",
+		"这个宝贝玩意儿会让你所有的机械烧起来……嗯，字面意思的那种。",
 		"",
-		"Aren't Dwarves cool?"
+		"这种东西不是很酷~~~~~~~~~吗？"
 	],
 	dependencies: [
 		"bc1659db"

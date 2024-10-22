@@ -1,10 +1,10 @@
 {
-	title: "I've Bin There",
+	title: "我去“到”个垃圾",
 	x: 8.0d,
 	y: -3.0d,
-	description: "Heh...",
+	description: "嘿呀……",
 	text: [
-		"I'm too good at my job."
+		"我老喜欢我的工作了。"
 	],
 	dependencies: [
 		"3756e9bc"

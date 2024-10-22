@@ -1,10 +1,10 @@
 {
-	title: "Food of the Gods",
+	title: "此汤只应天上有",
 	x: 29.0d,
 	y: -0.5d,
-	description: "Has almost no nutrition, but it taste great!",
+	description: "几乎没有营养，但味道好极了！",
 	text: [
-		"Cotten candy in soup form!"
+		"汤状的棉花糖！"
 	],
 	tasks: [{
 		uid: "16476776",

@@ -1,10 +1,10 @@
 {
-	title: "Tell Me Where It Hurts",
+	title: "伤口？不存在的~",
 	x: -15.0d,
 	y: 8.5d,
-	description: "So I can punch it",
+	description: "所以我可以放心大胆的给他一拳了",
 	text: [
-		"There are no good endings when it comes to Warlocks."
+		"一位巫术士通常来说都是不得善终的。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

@@ -1,12 +1,12 @@
 {
-	title: "Atumian Idol",
+	title: "阿图姆巨星",
 	x: 10.5d,
 	y: 6.0d,
-	description: "Terrible singers...",
+	description: "唱歌要命的歌手......",
 	text: [
-		"Falalala LAAAAA!",
+		"发啦啦啦......啦啊啊啊啊啊",
 		"",
-		"Collect all Idols."
+		"集齐所有的神像吧。"
 	],
 	dependencies: [
 		"fe4f9c01"

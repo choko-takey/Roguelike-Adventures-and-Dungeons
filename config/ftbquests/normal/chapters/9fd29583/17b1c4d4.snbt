@@ -1,12 +1,12 @@
 {
-	title: "Praying to Bugs?",
+	title: "向虫子祈祷？",
 	x: -4.0d,
 	y: -8.0d,
-	description: "I'm interested in your religion",
+	description: "我对你的信仰感兴趣。",
 	text: [
-		"Craft the Offering Altar and two gems, to get you there and back.",
+		"合成奉献祭坛和两颗盖亚宝石，带你前往和返回。",
 		"",
-		"To craft the buggers... you'll need Obsidian, Diamonds and Emeralds."
+		"想合成这个烦人的东西……你需要黑曜石，钻石和绿宝石。"
 	],
 	tasks: [{
 		uid: "4805ed4e",

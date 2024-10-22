@@ -1,10 +1,10 @@
 {
-	title: "Tier 1 Inferium Seeds",
+	title: "下级精华种子",
 	x: -6.5d,
 	y: -1.5d,
-	description: "Grows a bit",
+	description: "多种点",
 	text: [
-		"Craft Tier 1 Inferium Seeds."
+		"制作下级精华种子。"
 	],
 	dependencies: [
 		"e3949105"

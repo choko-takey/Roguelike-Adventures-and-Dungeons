@@ -1,16 +1,16 @@
 {
-	title: "Stablized Enderporting!",
+	title: "稳态末影传送！",
 	x: 6.0d,
 	y: 12.5d,
-	description: "Now you don't have to make it float!",
+	description: "现在你不用让它浮起来了！",
 	text: [
-		"Remember when you had to set up Ender Pearls on top of water and make them float until you wanted them to drop so they'd teleport you?",
+		"还记得你必须在水面上投掷末影珍珠，让它们漂浮，直到你想让它们掉下来，这样它们就能传送你吗？",
 		"",
-		"WELL NO MORE!",
+		"好吧，再也不是了！",
 		"",
-		"Place this bad boy into something that will drop it onto the ground, and you will be teleported to the Stable Ender Pearl 7 seconds later.",
+		"把这个坏家伙放到某个东西里，它会掉到地上，你会在7秒后被传送到稳态末影珍珠。",
 		"",
-		"Alternatively, you can drop it yourself and see how far you get before it rubberbands you."
+		"或者，你也可以自己把它扔下去，看看在它把你束缚起来之前你能飞多远。"
 	],
 	tasks: [{
 		uid: "0b990a35",

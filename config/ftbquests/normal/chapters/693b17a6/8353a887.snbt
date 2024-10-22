@@ -1,10 +1,10 @@
 {
-	title: "Crazed Wizard Wrecker",
+	title: "疯狂的巫师摧毁者",
 	x: 1.0d,
 	y: -5.5d,
-	description: "Putting down the bad guys!",
+	description: "击倒这些坏人！",
 	text: [
-		"You've made the world a safer place, clearing it of evil magic users."
+		"你清除了邪恶的魔法使用者，让世界变得更安全。"
 	],
 	tasks: [{
 		uid: "6ff99b1c",

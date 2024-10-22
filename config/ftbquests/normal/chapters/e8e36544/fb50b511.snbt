@@ -1,10 +1,10 @@
 {
-	title: "You Placed",
+	title: "你放置了",
 	x: 18.0d,
 	y: -7.5d,
-	description: "That's it... here's a participation award",
+	description: "仅此而已，这是参与奖。",
 	text: [
-		"The Block and Fluid placers will fill an area directly below them when supplied with material."
+		"给方块和流体放置器提供材料，它将填充其正前方的区域。"
 	],
 	dependencies: [
 		"ecd41947"

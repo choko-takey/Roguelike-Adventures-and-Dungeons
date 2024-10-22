@@ -1,10 +1,10 @@
 {
-	title: "A Liking Towards Liches",
+	title: "一见钟情的巫妖",
 	x: 8.5d,
 	y: 1.0d,
-	description: "I didn't wanna kill you Mr. Bones...",
+	description: "我其实不想杀你的，骨头先生……",
 	text: [
-		"Slay 20 Twilight Liches."
+		"击杀20只巫妖。"
 	],
 	tasks: [{
 		uid: "1ff39160",

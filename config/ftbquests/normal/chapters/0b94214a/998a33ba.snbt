@@ -1,12 +1,12 @@
 {
-	title: "Basic",
+	title: "基础",
 	x: -11.5d,
 	y: -4.5d,
-	description: "How basic? Very",
+	description: "有多基础？超级无敌基础",
 	text: [
-		"Only used to create the Seed Reprocessor.",
+		"只用于做种子再处理器。",
 		"",
-		"Craft some Base Essence Ingots."
+		"制作一些基础精华锭。"
 	],
 	dependencies: [
 		"883b968f"

@@ -1,12 +1,12 @@
 {
-	title: "It's Alive!!",
+	title: "它是活的！！",
 	x: 3.5d,
 	y: -3.0d,
-	description: "No electricity needed",
+	description: "完全不用电",
 	text: [
-		"Craft an Animator, and get to animating stuff!",
+		"制作一个活化器，开始活化物品吧！",
 		"",
-		"You'll need something to use as a source of life for your objects..."
+		"你需要一些东西作为你物品的生命来源……"
 	],
 	dependencies: [
 		"00e136e8"

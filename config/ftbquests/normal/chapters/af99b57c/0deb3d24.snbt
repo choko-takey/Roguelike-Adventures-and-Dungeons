@@ -1,13 +1,13 @@
 {
-	title: "Count Dracula",
+	title: "德古拉伯爵",
 	x: -0.5d,
 	y: -0.5d,
-	description: "He should never have been given the mic",
+	description: "别把麦克风给它",
 	text: [
-		"The strongest vampire with multiple abillties; killing one brings great rewards.",
+		"拥有诸多能力的最强吸血鬼；杀死他能获得许多奖励。",
 		"",
 		"",
-		"WARNING : This mob is insanely strong. Do not fight it unprepared!"
+		"警告：这只怪物极其强大，请做好充足的准备！"
 	],
 	dependencies: [
 		"90a84a0f",

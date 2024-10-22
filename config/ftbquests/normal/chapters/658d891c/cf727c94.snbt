@@ -1,12 +1,12 @@
 {
-	title: "Nobody Has Hurt Me!",
+	title: "打人都没力气，还说自己是黑社会？",
 	x: 21.0d,
 	y: -1.0d,
-	description: "Hopefully it doesn't take you 10 years to get home",
+	description: "希望你不用花10年时间就能回家",
 	text: [
-		"Must be held in your Main-Hand, or Off-Hand to be activated.",
+		"必须在你的主手或副手上才能激活。",
 		"",
-		"Refer to your Bestiary on how to deal with Cyclops in the early game."
+		"关于如何在早期游戏中对付独眼巨人，请参阅你的《异兽手记》。"
 	],
 	tasks: [{
 		uid: "cf71d259",

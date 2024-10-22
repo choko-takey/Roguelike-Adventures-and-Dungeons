@@ -1,14 +1,14 @@
 {
-	title: "Vampire's Blade",
+	title: "吸血鬼之剑",
 	x: -6.0d,
 	y: -0.5d,
-	description: "STAB AND IMPALE UNTIL IT IS DONE",
+	description: "突刺并穿透，直至对方死亡",
 	text: [
-		"As a vampire, the most efficient weapons you can use are either a heatseeker or heartstriker.",
+		"作为吸血鬼，你能使用的最好的武器是刺心者和探心者。",
 		"",
-		"To use them to their full potential they must be charged with blood. ",
+		"为了充分发挥它们的潜力，你需要用血液来给它们充能。",
 		"",
-		"The more you kill with it the stronger it becomes."
+		"你杀得越多它们会变得越强大。"
 	],
 	dependencies: [
 		"5139bbc5",

@@ -1,10 +1,11 @@
 {
-	title: "More Bang for Your Buck",
+	title: "鼓起你的腰包！",
 	x: 10.0d,
 	y: -10.5d,
-	description: "And more buck for your bang",
+	description: "一个真正的神秘使总是还要自己打工的",
 	text: [
-		"You can make Native Clusters with some metallum and ordo to double how many ingots you get by smelting."
+		"通过为金属原矿添加一些源质，可以将它们进行精细的淬炼。",
+		"冶炼这种矿簇可以获得双倍产物。"
 	],
 	dependencies: [
 		"204856d1"

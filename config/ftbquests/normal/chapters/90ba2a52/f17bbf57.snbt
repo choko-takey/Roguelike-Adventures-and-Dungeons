@@ -1,5 +1,5 @@
 {
-	title: "Aechorologist",
+	title: "箭毒植物学家",
 	icon: {
 		id: "ftbquests:custom_icon",
 		tag: {
@@ -8,9 +8,9 @@
 	},
 	x: 0.0d,
 	y: 4.0d,
-	description: "The study of how to kill Aechor Plants!",
+	description: "研究如何杀死箭毒植物！",
 	text: [
-		"Stomp out 25 Aechor Plants."
+		"击杀25只箭毒花。"
 	],
 	can_repeat: true,
 	tasks: [{

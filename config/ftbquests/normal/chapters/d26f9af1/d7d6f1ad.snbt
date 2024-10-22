@@ -1,10 +1,10 @@
 {
-	title: "True God Killers",
+	title: "真神杀手",
 	x: -0.5d,
 	y: -6.5d,
-	description: "The Five Finger Punch of Death inside of three items",
+	description: "死亡五指拳在三件物品里",
 	text: [
-		"You have no idea what I'm talking about, do you?"
+		"你根本不知道我在说什么，对吧？"
 	],
 	dependencies: [
 		"80f9d45b"

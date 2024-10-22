@@ -1,12 +1,12 @@
 {
-	title: "Wanna Know How Everest Was Made?",
+	title: "想知道珠穆朗玛峰是如何形成的吗？",
 	x: 0.0d,
 	y: -3.0d,
-	description: "They spammed Right-Click ",
+	description: "他们不停地右击",
 	text: [
-		"Right-Click to chuck several slow balls at your foes.",
+		"右击向你的敌人扔出几个球可使其减速。",
 		"",
-		"Creates snow patches upon contact."
+		"砸中地面产生一层雪"
 	],
 	tasks: [{
 		uid: "9bd59ae4",

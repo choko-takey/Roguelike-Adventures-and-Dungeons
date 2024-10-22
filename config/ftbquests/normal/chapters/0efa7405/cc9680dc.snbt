@@ -1,10 +1,11 @@
 {
-	title: "Love is in the Air",
+	title: "恋爱的酸臭味",
 	x: -0.5d,
 	y: 2.0d,
-	description: "But not in their hearts",
+	description: "爱除了在心里，哪里都是……",
 	text: [
-		"A Lamp of Fertility makes animals mate. Uses Deiderium to function."
+		"育种灯消耗&6Desiderium&f源质，使得周围的生物交配。",
+		"当某种生物达到八只或以上，育种灯将不起作用。"
 	],
 	dependencies: [
 		"e976eaad"

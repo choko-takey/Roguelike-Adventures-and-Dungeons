@@ -1,16 +1,16 @@
 {
-	title: "Bad Balance",
+	title: "无法稳定",
 	x: 4.0d,
 	y: 5.0d,
-	description: "Nope, that's just sand",
+	description: "不，应该只有沙子",
 	text: [
-		"So this device destabilizes blocks like Sand...",
+		"所以这个设备能使方块像沙子一样受重力影响。。",
 		"",
-		"It will destabilize up to 50 of the SAME block and they must be CONNECTED, and of the same type.",
+		"它可以使50个相邻或相同种类的同一方块去稳定化。",
 		"",
-		"Lazy Mode, or the L, will make the device remember the shape of what it destabilized previously. This makes consecutive runs faster, since it has to scan before it does it's job. Reset the shape with the arrow button.",
+		"懒人模式，或简称L模式，会记录上次去稳定化的方块形状，这会加快去稳定化的过程，因为一般而言它要先扫描方块的形状。用箭头按钮来重置形状。",
 		"",
-		"Fuzzy Mode, or the F, will cause the device to only care about block type and not exact metadata."
+		"模糊模式，或简称M模式，会让机器只匹配方块种类，而不仔细匹配方块数据。"
 	],
 	tasks: [{
 		uid: "28b4ce17",

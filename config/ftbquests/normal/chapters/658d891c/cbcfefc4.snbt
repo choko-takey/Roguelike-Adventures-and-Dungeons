@@ -1,8 +1,8 @@
 {
-	title: "Cold as a Coward",
+	title: "冷得像懦夫",
 	x: 6.0d,
 	y: 4.0d,
-	description: "Running away doesn't get you any Dragon Hearts!",
+	description: "逃跑不会给你任何龙的心脏！",
 	text: [
 		""
 	],

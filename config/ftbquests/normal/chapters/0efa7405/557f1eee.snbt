@@ -1,10 +1,11 @@
 {
-	title: "Arcane Levitator",
+	title: "奥术悬浮台",
 	x: 6.5d,
 	y: 3.0d,
-	description: "Slow elevator",
+	description: "慢速电梯",
 	text: [
-		"It levitates you up in the air."
+		"它会把你缓慢的吹向空中。",
+		"（可以当成怪物风扇使用，而且可以调节距离……以及消耗vis）"
 	],
 	dependencies: [
 		"087a1f58"

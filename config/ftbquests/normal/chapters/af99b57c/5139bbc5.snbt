@@ -1,11 +1,11 @@
 {
-	title: "You Got a Little Blood in My Iron",
+	title: "铁锭里掺了点血",
 	x: -6.0d,
 	y: -1.5d,
 	text: [
-		"Combining pure blood with iron will craft Blood Infused ingots.",
+		"把纯净血液和铁锭混合将得到灌血铁锭。",
 		"",
-		"This can be used to make basic vampire weapons."
+		"这可以用来制作基础的吸血鬼武器。"
 	],
 	dependencies: [
 		"90a84a0f"

@@ -1,10 +1,10 @@
 {
-	title: "The Spicy Never-Lose-Me Gem",
+	title: "香辣的“勿弃我”宝石",
 	x: 11.0d,
 	y: -5.5d,
-	description: "This one has to hurt them when you summon it...",
+	description: "当你召唤它的时候，这个必须伤害他们……",
 	text: [
-		"Keep your dragon close to your heart with this item!"
+		"用这个物品让你的龙靠近你的心！"
 	],
 	dependencies: [
 		"306c4b80"

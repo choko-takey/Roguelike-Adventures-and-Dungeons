@@ -1,9 +1,9 @@
 {
 	x: 0.0d,
 	y: 3.0d,
-	description: "You're actually just on an ancient Indian burial ground",
+	description: "你实际上只是在一个古代印第安人的墓地上",
 	text: [
-		"Obtain a Skeleton Chunk."
+		"获得一块骷髅灵魂碎片。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

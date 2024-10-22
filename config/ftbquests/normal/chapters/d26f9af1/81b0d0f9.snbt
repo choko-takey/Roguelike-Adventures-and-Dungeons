@@ -1,12 +1,12 @@
 {
-	title: "That Burnt Stuff",
+	title: "烧焦的东西",
 	x: 5.5d,
 	y: -11.0d,
-	description: "Yea this is what I was talking about...",
+	description: "是的，这就是我说的……",
 	text: [
-		"How horrifying...",
+		"好可怕……",
 		"",
-		"Used to make several machines in Extra Utilities 2."
+		"用于制造更多实用设备2中的机器。"
 	],
 	dependencies: [
 		"d2bae30e",

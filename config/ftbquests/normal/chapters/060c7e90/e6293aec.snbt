@@ -1,18 +1,18 @@
 {
-	title: "Studious Studying",
+	title: "深入性研究",
 	x: -3.0d,
 	y: -3.0d,
-	description: "We're learning here!",
+	description: "学海无涯苦作舟~",
 	text: [
-		"You're gonna go crazy with this one.",
+		"我估计你会因为这个疯掉的……",
 		"",
-		"Place your researched Small Stone Tablet, Stone Tablet, or Large Stone Tablet into the appropriate spot in the Scribing Table.",
+		"把你被鉴定出来记载了法术的石板放入这个桌子里对应的格子。",
 		"",
-		"Place a blank Book, Ink Sacs, and Magic Crystal into their appropriate locations in the Scribing Table.",
+		"之后再对应的格子里放入书，墨囊，和魔力水晶。",
 		"",
-		"Ingredients will pop up in the line below your book. They are not identified. You must identify and place those ingredients into the appropriate locations.",
+		"所需要的物品会在下方三个格子里显示出来，不过它们只是个投影，你把鼠标移上去也不会告诉你是啥。你需要收集这些物品并放入对应格子。",
 		"",
-		"The option to transcribe the blank Book into a Spellbook will be available when the ingredients are placed."
+		"完成以上这些事情，你的书就会变成法术书了。"
 	],
 	dependencies: [
 		"d601e36a"

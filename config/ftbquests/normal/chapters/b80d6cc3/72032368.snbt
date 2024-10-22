@@ -1,10 +1,10 @@
 {
-	title: "Playing the Victim",
+	title: "爱哭的孩子有奶吃",
 	x: 31.0d,
 	y: 8.5d,
-	description: "Making sure they know you're hurt",
+	description: "受伤的时候找这些东西哭诉一下吧",
 	text: [
-		"And hurting them with GUILT!"
+		"罪与罚的报应"
 	],
 	dependencies: [
 		"bfa2a309"

@@ -1,10 +1,10 @@
 {
-	title: "If Moses Was God Incarnate",
+	title: "如果摩西是神的化身",
 	x: 2.5d,
 	y: -3.5d,
-	description: "The whole ocean would've just been gone",
+	description: "整个大洋都将消失不见",
 	text: [
-		"Well, now you can be God Incarnate for just two payments of $99.99!"
+		"好的，现在你只需两次付款99.99美金即可成为神的化身。"
 	],
 	tasks: [{
 		uid: "bf7aa56a",

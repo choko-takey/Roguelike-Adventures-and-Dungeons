@@ -1,10 +1,10 @@
 {
-	title: "How Does He Take No Damage?",
+	title: "它是怎么抵消伤害的？",
 	x: 30.0d,
 	y: 10.0d,
-	description: "He must be a witch!",
+	description: "它一定是个异端！",
 	text: [
-		"Burn him! ... Wait..."
+		"烧死它！等会？"
 	],
 	dependencies: [
 		"bfa2a309"

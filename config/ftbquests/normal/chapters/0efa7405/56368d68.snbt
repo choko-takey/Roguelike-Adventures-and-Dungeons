@@ -1,10 +1,10 @@
 {
-	title: "Portable Battery?",
+	title: "充电宝？",
 	x: -8.0d,
 	y: -4.75d,
-	description: "No shock hazard guaranteed!",
+	description: "免责声明：触电危险",
 	text: [
-		"Obtain a Amulet of Vis."
+		"制作灵气护身符"
 	],
 	dependencies: [
 		"8e7bca3c"

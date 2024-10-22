@@ -1,10 +1,10 @@
 {
-	title: "Icey Metal",
+	title: "冰冷的金属",
 	x: -11.0d,
 	y: 17.5d,
-	description: "Stings when you touch it",
+	description: "伸手触摸，有一种冰冷的刺痛",
 	text: [
-		"I dare you to lick it!"
+		"要不要去舔一下？听说是甜的。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

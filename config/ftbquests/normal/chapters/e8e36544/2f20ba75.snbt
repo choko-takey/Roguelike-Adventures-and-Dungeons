@@ -1,14 +1,14 @@
 {
-	title: "Your Own Realm!",
+	title: "属于你自己的领地！",
 	x: 20.25d,
 	y: 9.75d,
-	description: "It's not very big is it...",
+	description: "它不是很大，是吗……",
 	text: [
-		"Well, at least you can make it cozy or something.",
+		"至少你能把它弄得舒服点什么的。",
 		"",
-		"Right-Click with your key in hand to travel to the Spectre Dimension, a private pocket realm for you!",
+		"主手持有你的钥匙时右击，旅行到通灵空间，一个私人口袋领域为你！",
 		"",
-		"Right-Click again to be send back to where you were when you left!"
+		"再次右击将被传送回你离开时的位置！"
 	],
 	dependencies: [
 		"4695c2a6"

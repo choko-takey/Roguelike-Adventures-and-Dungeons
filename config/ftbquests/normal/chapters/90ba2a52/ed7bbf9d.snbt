@@ -1,10 +1,10 @@
 {
-	title: "Bug Beater",
+	title: "虫子打手",
 	x: 4.0d,
 	y: 1.0d,
-	description: "You ARE the RAID",
+	description: "你一人就是一整支军队",
 	text: [
-		"Slay 25 of any Beetle found in the Twilight Forest."
+		"杀死25只在暮色森林中发现的任一种甲虫。"
 	],
 	can_repeat: true,
 	or_tasks: true,

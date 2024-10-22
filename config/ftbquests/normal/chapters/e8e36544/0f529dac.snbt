@@ -1,21 +1,21 @@
 {
-	title: "You've Got, Mail!",
+	title: "你已经拿到邮件了！",
 	x: 7.0d,
 	y: 12.5d,
 	text: [
-		"The Ender Letter and Ender Mailbox are special items which allow players to remotely send items to each other, from any dimension, by username.",
+		"末影邮件和末影邮箱是种特殊的物品，允许玩家通过ID从任何维度远程发送道具给彼此。",
 		"",
-		"Right-Click with an Ender Letter to fill it with your gift, and address your receiver's name at the top. Shift-Right-Click an Ender Mailbox to send your letter!",
+		"右键“末影邮件”，将你的信封填满，并在顶部写上收信人的名字。潜行右键末影邮箱发送你的信件！",
 		"",
-		"You cannot send an empty letter. ",
+		"你不能寄一封空信。",
 		"",
-		"If you sent your letter to an invalid username, it is lost (unless a player with that username joins, and places a mailbox). Be sure to type the correct username.",
+		"如果你把你的信发送给一个无效的用户ID，它就会丢失(除非有一个玩家用这个ID加入，并放置一个邮箱)。请务必输入正确的ID。",
 		"",
-		"When the receiver of an Ender Letter has a full inventory, the Letter will be received once they have a free slot available in their inventory.",
+		"当收信人物品栏满时，信件将在他们的物品栏有一个空槽时被收到。",
 		"",
-		"The player receiving a Letter receives a notification, similar to an achievement notification when a Letter is placed in their inventory.",
+		"收到信件的玩家会收到一个通知，类似于信件被放置在他们的物品栏中时收到的成就通知。",
 		"",
-		"The Ender Letter disappears after all items within have been removed by the recipient."
+		"当所有物品都被收件人拿走后，末影邮件就会消失。"
 	],
 	tasks: [{
 		uid: "f1da0119",

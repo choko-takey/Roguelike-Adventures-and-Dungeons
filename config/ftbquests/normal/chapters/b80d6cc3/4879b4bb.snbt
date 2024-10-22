@@ -1,10 +1,10 @@
 {
-	title: "Mineral Separatists",
+	title: "矿石分离机",
 	x: 19.0d,
 	y: -1.5d,
-	description: "We hate rocks!",
+	description: "恨死石头了",
 	text: [
-		"Slag? You mean extra output?"
+		"炉渣？没那东西。这里只有额外产出。"
 	],
 	dependencies: [
 		"311cdfc1"

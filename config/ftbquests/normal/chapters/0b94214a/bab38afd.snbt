@@ -1,9 +1,9 @@
 {
 	x: 7.0d,
 	y: -11.0d,
-	description: "It's not a rock!",
+	description: "这不是一块石头！",
 	text: [
-		"Craft some Ender Amethyst Seeds."
+		"制作一些末影紫晶种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

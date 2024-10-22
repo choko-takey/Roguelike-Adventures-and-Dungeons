@@ -1,18 +1,18 @@
 {
-	title: "JFTSMCOHB 3000 V2.1 Elite Gaming Router",
+	title: "JFTSMCOHB精英电竞路由器3000 V2.1",
 	x: 1.5d,
 	y: 4.5d,
-	description: "Get's 892 Bumfarts per second",
+	description: "每秒速度高达892 Pb/s",
 	text: [
-		"Ah yes... Ahh yes... the Jet Force Thermic Spider Monkey Cross-Over Hype Beast 3000 V2.1 (TM)... It's pretty fast I guess.",
+		"是的...是的...喷气动力式极致散热蜘蛛猴子双核心性能野兽3000 V2.1（TM）...总之速度非常的快，我猜的。",
 		"",
-		"The Advanced Redstone Interface can send a Redstone signal to up to 9 locations by using a Position Filter.",
+		"高级红石接口可以使用方位过滤器为至多9个地点发射红石信号。",
 		"",
-		"Shift-Right-Click or Right-Click with your Position Filter to select the block or location you wish to be powered.",
+		"shift+右键用方位过滤器选择你想要激活的方块与地点。",
 		"",
-		"Place your Position Filter into the Advanced Player Interface and you're done! Give the Interface some juice with a Lever or Button or a Redstone signal, and watch it power your wildest dreams.",
+		"再把方位过滤器放进接口就万事大吉了！现在给高级红石接口倒杯果汁（用拉杆、按钮或红石信号激活），然后看着它激活你搭建的红石杰作吧。",
 		"",
-		"Not really. But uhhh... imagination, yay!"
+		"可能算不上杰作...没关系，想象就好！"
 	],
 	tasks: [{
 		uid: "6e664248",

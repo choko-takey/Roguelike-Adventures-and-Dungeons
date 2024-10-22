@@ -1,14 +1,14 @@
 {
-	title: "Big Bully",
+	title: "大恶霸",
 	x: -1.0d,
 	y: 6.5d,
-	description: "Your mom never taught you well, did she?",
+	description: "你妈妈从来没教过你，是吗？",
 	text: [
-		"Defeat 50 Brigands",
-		"OR",
-		"Defeat 50 Barbarians",
-		"OR",
-		"Defeat 50 Warlords"
+		"击败50只强盗",
+		"或者",
+		"击败50只野蛮人",
+		"或者",
+		"击败50只强盗军阀"
 	],
 	can_repeat: true,
 	or_tasks: true,

@@ -1,13 +1,13 @@
 {
-	title: "Bring Some Sunscreen",
+	title: "带点防晒霜来",
 	icon: "atum:idol_of_labor",
 	x: 1.0d,
 	y: 11.5d,
-	description: "It's coarse it's rough",
+	description: "很粗糙很粗糙",
 	text: [
-		"Collect the requested materials and trade them in for a pre built atum portal.",
+		"收集所需的材料，并与他们交易，获得预先建造的传送门。",
 		"",
-		"Any future portals are built in the same way as the one in the capsule."
+		"未来的任何传送门都将以与胶囊相同的方式建造。"
 	],
 	tasks: [{
 		uid: "ee8fc073",
@@ -37,7 +37,7 @@
 				structureName: "config/capsule/rewards/atum_portal",
 				display: {
 					color: 16769028,
-					Name: "Atum Portal"
+					Name: "阿图姆传送门"
 				},
 				label: "Atum_Portal",
 				canRotate: 1b

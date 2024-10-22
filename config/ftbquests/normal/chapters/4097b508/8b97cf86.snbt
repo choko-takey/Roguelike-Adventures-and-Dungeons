@@ -1,5 +1,5 @@
 {
-	title: "&4&lFiery Master Statue",
+	title: "&4&l赤焰大师雕像",
 	icon: {
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
@@ -18,15 +18,15 @@
 	y: -1.0408163265306172d,
 	shape: "square",
 	text: [
-		"Title: Fiery Master Statue",
+		"建筑名：赤焰大师雕像",
 		"",
-		"Theme: EBWizardry",
+		"建筑主题：巫术学",
 		"",
-		"LxWxH: 19x30x41",
+		"长x宽x高：19x30x41",
 		"",
-		"Paste Y Level: 0 (Ground level)",
+		"建筑y轴偏移：0（与地面平齐）",
 		"",
-		"Structure Description: A slate and basalt statue of a wizard with a Master Pyromancer wand while blowing a flame."
+		"建筑描述：一座由板岩和玄武岩建成的赤焰大法师雕像，手持狱炎业火之杖，正在吐出一团火焰。"
 	],
 	can_repeat: true,
 	hide_dependency_lines: true,

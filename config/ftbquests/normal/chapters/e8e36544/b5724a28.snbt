@@ -1,16 +1,16 @@
 {
-	title: "Enchanting 100",
+	title: "附魔100",
 	x: -15.0d,
 	y: -3.5d,
-	description: "You know you're good at what you do",
+	description: "你知道你很擅长你做的",
 	text: [
-		"The Auto Enchanter is one of the only items in the game that's going to be as broken as it sounds. And it's great.",
+		"自动附魔台是整个游戏中为数不多的听上去很烂的工具之一。但是它很好用。",
 		"",
-		"You're still going to need XP to combine all these low, level 30 capped enchants, but it gets the job done how it says it will.",
+		"你仍然需要经验来实现低等级、或者超过30级的附魔，不过正如名字所说它会自动完成这一切。",
 		"",
-		"Highly configurable, this device can be set to extract the necessary items and export the results from any block face.",
+		"高度定制化，这个设备可以从方块的任何一面提取出重要的物品和附魔结果。",
 		"",
-		"Go ham."
+		"全力以赴。"
 	],
 	tasks: [{
 		uid: "06ee793f",

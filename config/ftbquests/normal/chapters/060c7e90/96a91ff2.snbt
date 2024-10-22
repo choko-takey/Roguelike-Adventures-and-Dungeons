@@ -1,12 +1,12 @@
 {
-	title: "Being Evil Is for Anyone",
+	title: "平等的憎恶每一个人",
 	x: -15.75d,
 	y: 12.5d,
-	description: "You don't have to like dead people to like dead people",
+	description: "你不必因为谋害他人而愧疚，我说真的。",
 	text: [
-		"Ask any Wizard who ever killed anyone.",
+		"问问那些阿兹卡班的巫师。",
 		"",
-		"Now, go learn you some magic!"
+		"现在，去学点新魔法吧！"
 	],
 	dependencies: [
 		"f689a0cb"

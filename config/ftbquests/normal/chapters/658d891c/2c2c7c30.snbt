@@ -1,10 +1,10 @@
 {
-	title: "Pray Away the Bird of Prey",
+	title: "赶走群猎之鸟",
 	x: 22.0d,
 	y: -1.5d,
-	description: "Come again another day!",
+	description: "改天再来！",
 	text: [
-		"You're like a feathery ninja."
+		"你就像一个忍者鸟。"
 	],
 	tasks: [{
 		uid: "3c8b060b",

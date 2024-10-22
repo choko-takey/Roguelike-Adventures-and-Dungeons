@@ -1,20 +1,20 @@
 {
-	title: "Run as Administrator",
+	title: "作为管理员运行",
 	x: -22.5d,
 	y: -3.5d,
-	description: "Remote access",
+	description: "远程访问",
 	text: [
-		"This item will allow you to remotely use interactable items from a short distance away.",
+		"这个物品可以让你在很短的距离内远程使用可交互的项目。",
 		"",
-		"This can be anything, from Furnaces to Chests, and even mod added items.",
+		"可以是任何东西，从熔炉到箱子，甚至是mod添加的物品。",
 		"",
-		"To link an item to the Cursor, Shift-Right-Click.",
+		"若要将物品链接到游标，请潜行右击。",
 		"",
-		"Unlinking is as easy as Right-Clicking in the wrong location, by accident. Be careful.",
+		"取消链接就像在错误的位置右键一样容易，这是偶然的。小心点。",
 		"",
-		"This can be used to access hidden chests in a base, when playing with friends, without having to remove blocks to access your secret storage.",
+		"这可以用来访问基地中的隐藏箱子，当与朋友一起玩时，无需移除砖块即可访问秘密存储。",
 		"",
-		"Otherwise, with how finicky this item can be, it's kind of useless."
+		"否则，考虑到这件东西有多挑剔，它就有点没用了。"
 	],
 	tasks: [{
 		uid: "ff78d33e",

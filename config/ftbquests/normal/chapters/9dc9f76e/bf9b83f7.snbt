@@ -1,12 +1,12 @@
 {
-	title: "Old Yeller",
+	title: "老黄狗",
 	x: -4.5d,
 	y: 6.5d,
-	description: "I'll miss you",
+	description: "我会想你的",
 	text: [
-		"Use on a Doggy Talents doggy to turn them into a Minecraft wolf.",
+		"在小狗天才的狗使用把他们变成一个我的世界中的狼。",
 		"",
-		"Use again to turn a tamed Wolf into a regular Wolf."
+		"再次使用可以将驯服的狼变成普通的狼。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

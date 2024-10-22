@@ -1,8 +1,8 @@
 {
-	title: "New Vampire Overlord",
+	title: "新的吸血鬼君王",
 	x: -6.0d,
 	y: -5.5d,
-	description: "The sun is next on your list",
+	description: "下一个目标是征服太阳",
 	text: [
 		""
 	],

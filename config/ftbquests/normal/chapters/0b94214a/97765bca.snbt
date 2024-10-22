@@ -1,9 +1,9 @@
 {
 	x: 3.0d,
 	y: -10.0d,
-	description: "It's still not the end, not even close",
+	description: "这仍没有结束，甚至还没有接近",
 	text: [
-		"Craft some End Seeds."
+		"制作一些末地种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

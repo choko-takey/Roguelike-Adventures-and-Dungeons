@@ -1,14 +1,14 @@
 {
-	title: "Fire? Where? There? Got it.",
+	title: "火吗？在哪里？那里？明白了。",
 	x: 15.0d,
 	y: -3.5d,
-	description: "BOOM",
+	description: "嘣",
 	text: [
-		"Ever wanted to have something that makes a spontaneous spark from 300ft away? Now you can!",
+		"你有没有想过有什么东西能在300英尺外点火？现在你也可以了！",
 		"",
-		"This bad boy will produce a toggleable flame far away from the front face of the block!",
+		"这个坏家伙将在远离方块的正面产生一簇可切换的火！",
 		"",
-		"It's configurable, so get out there and make that Nether Portal that turns on and off, like you always wanted!"
+		"它是可配置的，所以走出去，让那个地狱传送门打开和关闭，就像你一直想要的那样！"
 	],
 	dependencies: [
 		"ecd41947"

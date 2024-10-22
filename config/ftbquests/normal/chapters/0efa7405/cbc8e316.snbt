@@ -1,10 +1,10 @@
 {
-	title: "Hot Potato, Hot Potato",
+	title: "烫手的山芋",
 	x: 6.5d,
 	y: -13.5d,
-	description: "Don't drop it!",
+	description: "别手抖了！",
 	text: [
-		"Alumentum makes for a great fuel. Sure hope I don't right click while holding this."
+		"源动之焰是一种优秀的燃料，也是一种优秀的手榴弹……"
 	],
 	dependencies: [
 		"7c204714"

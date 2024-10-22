@@ -1,22 +1,22 @@
 {
-	title: "The Succ 3000",
+	title: "吸尘器3000",
 	x: -15.0d,
 	y: -5.5d,
-	description: "Does everything you want it to, and more",
+	description: "你想要的一切吗",
 	text: [
-		"Yes, yes, and yes.",
+		"对，对，没错。",
 		"",
-		"No, no, and no.",
+		"不，不，不是。",
 		"",
-		"All questions answered?",
+		"所有问题都回答了吗？",
 		"",
-		"Okay, the Vacuum Hopper will succ items from within a small range around it.",
+		"言归正传，真空漏斗会从它周围的一个小范围内吸取物品。",
 		"",
-		"Within the inventory of the hopper, you can select faces for the exporting of items and fluid XP.",
+		"在漏斗中，你可以选择输出物品和流体经验面。",
 		"",
-		"You can export fluid XP and items from the same port. How you'll ACTUALLY manage to do that? I have no clue. I don't think this thing is friendly with pipes.",
+		"你可以从同一面输出流体经验和物品。 你将如何做? 我不知道。 我觉得这东西不比管道好。",
 		"",
-		"Have fun with your new Succ 3000!"
+		"祝你与你新的吸尘器3000开心！"
 	],
 	tasks: [{
 		uid: "701b7055",

@@ -1,9 +1,9 @@
 {
 	x: -3.5d,
 	y: 5.0d,
-	description: "Choccy milk",
+	description: "巧克力奶",
 	text: [
-		"Obtain a Cow Chunk."
+		"获得一块牛灵魂碎片。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

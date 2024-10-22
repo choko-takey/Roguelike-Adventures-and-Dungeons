@@ -1,12 +1,12 @@
 {
-	title: "I Have to Take a Test?",
+	title: "我是不是该做个测试？",
 	x: 18.5d,
 	y: -3.5d,
-	description: "Oh it's YOUR test?",
+	description: "噢……这就是你的测试？",
 	text: [
-		"Well that's just stupid.",
+		"好吧，这确实太愚蠢了。",
 		"",
-		"Explains the Engineering side of Dungeon Tactics."
+		"介绍地牢战术工程方面的信息。"
 	],
 	size: 1.5d,
 	tasks: [{

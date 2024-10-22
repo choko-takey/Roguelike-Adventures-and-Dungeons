@@ -1,16 +1,16 @@
 {
-	title: "Ender Technology in a Cylindrical Shape",
+	title: "圆柱形末影科技",
 	x: 7.0d,
 	y: 10.5d,
-	description: "This is as advanced as it gets",
+	description: "这是最先进的技术了",
 	text: [
-		"These buckets will automatically search for source blocks of fluid whenever you click on a non-source block of fluid.",
+		"当你点击非流体源方块时，这些桶将自动搜索流体源方块。",
 		"",
-		"The Ender Bucket holds one bucket like normal. ",
+		"末影桶和普通桶一样只能装一桶。",
 		"",
-		"The Reinforced version will hold 10 buckets worth of fluid, and when Shift-Right-Clicking to pick up fluids, will automatically search for source blocks until it is full, or there are none left.",
+		"加强版可保存10桶液体，当潜行右击拾取液体时，将自动搜索液体源方块，直到装满，或者装完。",
 		"",
-		"It's like a fluid sniffer outer."
+		"就像一个液体嗅探器"
 	],
 	tasks: [{
 		uid: "412bdbc6",

@@ -1,14 +1,14 @@
 {
-	title: "Beach Vacation",
+	title: "沙滩假日",
 	x: -3.0d,
 	y: -10.0d,
-	description: "If you like Pinacolada!",
+	description: "如果你喜欢椰林飘香！",
 	text: [
-		"Visit the Tropicraft dimension.",
+		"访问热带世界维度。",
 		"",
-		"Warning: Drinking a Pinacolada to get back home instead of taking the portal will GENERATE A NEW PORTAL.",
+		"警告：喝椰林飘香回家不是使用已有传送门，而是会产生一个新的传送门。",
 		"",
-		"This will interfere with anything in the way."
+		"这会干扰任何挡道的东西。"
 	],
 	dependencies: [
 		"fd29d952"

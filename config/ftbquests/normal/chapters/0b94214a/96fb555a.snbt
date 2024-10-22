@@ -1,9 +1,9 @@
 {
 	x: -3.0d,
 	y: -11.0d,
-	description: "Cock-a-doodle-don't",
+	description: "只因只因",
 	text: [
-		"Craft some Chicken Seeds."
+		"制作一些鸡种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

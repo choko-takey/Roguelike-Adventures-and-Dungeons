@@ -1,16 +1,16 @@
 {
-	title: "Why Is Our Wifi So Slow?",
+	title: "为什么我们的Wifi这么慢？",
 	x: 4.505442176870787d,
 	y: -7.9367346938775825d,
-	description: "I don't know, John, go reset the router",
+	description: "我不知道。约翰！去重置路由器",
 	text: [
-		"I'm calling the ISP tomorrow.",
+		"我明天打电话给电信。",
 		"",
-		"True story, we had a rat chew our line to the street and switched ISPs twice before they figured it out.",
+		"这是个真实的故事，我们被一只老鼠咬断了线路在解决问题之前换了两次服务商。",
 		"",
-		"And they tried to charge us for it.",
+		"他们还想收我们钱。",
 		"",
-		"I hate the world."
+		"都是这个世界的错。"
 	],
 	size: 1.5d,
 	tasks: [{

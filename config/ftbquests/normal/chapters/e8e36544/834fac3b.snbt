@@ -1,12 +1,12 @@
 {
-	title: "Fun and Games",
+	title: "有趣的游戏",
 	x: 6.5d,
 	y: -9.5d,
-	description: "Literally, what else is this used for?",
+	description: "说真的，这个还能做什么？",
 	text: [
-		"Really thinking out of the box, you can make an archers based guild hub, requiring you to hit the bullseye to open the door.",
+		"你可以创造一个基于弓箭手的公会中心入口，要求你击中靶心才能开门。",
 		"",
-		"Otherwise, go crazy and make a game."
+		"否则，就疯狂地制作游戏吧"
 	],
 	tasks: [{
 		uid: "1c10c120",

@@ -1,10 +1,10 @@
 {
-	title: "Nagamancer",
+	title: "娜迦猎人",
 	x: 9.0d,
 	y: 0.0d,
-	description: "Can you summon them? No.",
+	description: "你能召唤他们吗？不能",
 	text: [
-		"Slay 15 Naga in the Twilight Forest."
+		"杀死15只娜迦。"
 	],
 	tasks: [{
 		uid: "953ec94b",

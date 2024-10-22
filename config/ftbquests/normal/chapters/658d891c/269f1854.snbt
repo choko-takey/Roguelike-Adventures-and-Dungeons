@@ -1,10 +1,10 @@
 {
-	title: "Sterling",
+	title: "好多镑银",
 	x: 8.5d,
 	y: 0.0d,
-	description: "Almost like chrome",
+	description: "几乎像铬",
 	text: [
-		"Your dragon doesn't have to flex this hard."
+		"你的龙不必如此用力地弯曲。"
 	],
 	dependencies: [
 		"768743f4"

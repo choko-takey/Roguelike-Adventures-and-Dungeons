@@ -1,10 +1,10 @@
 {
-	title: "BONK",
+	title: "重击",
 	x: -1.5d,
 	y: -1.0d,
-	description: "BONK AGAIN",
+	description: "再锤一次",
 	text: [
-		"The club can be used to disarm opponents."
+		"这种棒槌可以用来缴械对手。"
 	],
 	dependencies: [
 		"a4636105"

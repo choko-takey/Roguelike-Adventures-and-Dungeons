@@ -1,10 +1,10 @@
 {
-	title: "A Glimmer in the Darkness",
+	title: "终结所有夜晚",
 	x: 28.0d,
 	y: 2.0d,
-	description: "What a cute little spark",
+	description: "星星之火",
 	text: [
-		"It has no block ID when you look at it. Spooky."
+		"当你将目光投向它时，你就会发现这个东西没有ID"
 	],
 	dependencies: [
 		"0cb962a9"

@@ -1,10 +1,10 @@
 {
-	title: "Valonite Armaments",
+	title: "法罗钠装备",
 	x: 15.0d,
 	y: -1.0d,
-	description: "Valorous Valonite knight!",
+	description: "英勇无畏的法罗钠骑士！",
 	text: [
-		"Craft all of the Valonite armor and tools."
+		"制造所有法罗钠盔甲和工具。"
 	],
 	dependencies: [
 		"f013ff53"

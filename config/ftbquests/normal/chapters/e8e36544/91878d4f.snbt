@@ -1,14 +1,16 @@
 {
-	title: "Moonstoned",
+	title: "月光石",
 	x: -32.96428571428572d,
 	y: 3.267857142857146d,
-	description: "Guide the way!",
+	description: "这边走！",
 	text: [
-		"Right-Clicking the Moonstone on a block will bind it to the location.",
+		"手持月之石英潜行右击方块，月之石英会记录下这一方块的坐标",
 		"",
-		"When aligned on the X or Z axis, the Moonstone will glow. When you are standing on top of the bound location, the Moonstone will gleam with an enchantment glint.",
+		"当你处于此方块的X轴或者Z轴时，月之石英会发出淡淡光芒（亮度高一些），当你处于该方块上，月之石英会发出强光（闪烁对应颜色的附魔光效）。",
+		"（没听明白吗？你可以把它当成与1.16的磁石绑定的指南针）",
 		"",
-		"This works across dimensions and respects the spatial expansion of the Nether, helping you to align portals precisely between the Overworld and Nether."
+		"由于这块石英的力量来源于弧月，因此空间的阻隔并不能妨碍这块石英发挥作用，当你处于其他维度时（比如地狱或者末地）这块石英仍然会指向对应的坐标点。",
+		"这对跨纬度交通的帮助非常大。"
 	],
 	size: 1.5d,
 	tasks: [{

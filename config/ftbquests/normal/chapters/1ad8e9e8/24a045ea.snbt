@@ -1,10 +1,10 @@
 {
-	title: "Going Up!",
+	title: "上升！",
 	x: -12.5d,
 	y: -6.5d,
-	description: "But not very far",
+	description: "但不是很高",
 	text: [
-		"The Ring of Ascent will allow you to hover for a moment, and not very high. About 2 blocks."
+		"腾云之戒可以让你停留片刻，但不是很高。大约2格高。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

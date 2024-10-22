@@ -1,10 +1,10 @@
 {
-	title: "120 Grit",
+	title: "120%坚韧",
 	x: 5.0d,
 	y: 4.0d,
-	description: "These dragons are SOFT!",
+	description: "这些龙很软！",
 	text: [
-		"That's why they're dead and in block form now.",
+		"这就是为什么它们已经死了，但现在成了方块。",
 		""
 	],
 	dependencies: [

@@ -1,10 +1,10 @@
 {
-	title: "In the Shadows",
+	title: "遁入暗影",
 	x: -4.0d,
 	y: -10.5d,
-	description: "Like a true assassin",
+	description: "就像真正的刺客一样",
 	text: [
-		"Obtain the Twilight Cloak from the Shop."
+		"从商店中购买暮光斗篷。"
 	],
 	tasks: [{
 		uid: "ab4a98a1",

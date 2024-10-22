@@ -1,12 +1,12 @@
 {
-	title: "A Great Day for Rain",
+	title: "下雨是个好日子",
 	x: -3.0d,
 	y: -4.5d,
-	description: "Under my umbrella",
+	description: "在我的雨伞之下",
 	text: [
-		"As you become a stronger vampire, you will be punished more harshly by the sun.",
+		"随着你吸血鬼等级的提高，你会更加惧怕阳光给你带来的伤害。",
 		"",
-		"To counteract this, craft an umbrella and have it in your offhand or main hand to protect you."
+		"为了缓解这个问题，做一把雨伞放在你的主手或副手可以保护你。"
 	],
 	dependencies: [
 		"824b664e"

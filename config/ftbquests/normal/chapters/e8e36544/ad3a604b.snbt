@@ -1,24 +1,24 @@
 {
-	title: "Ink Is Expensive",
+	title: "墨水很昂贵",
 	icon: {
 		id: "openblocks:paint_mixer",
 		tag: {}
 	},
 	x: -25.0d,
 	y: -3.5d,
-	description: "The reason is stupid",
+	description: "原因很愚蠢",
 	text: [
-		"Go educate yourself on why it's expensive.",
+		"自己去查为什么墨水这么贵。",
 		"",
-		"So. Here is where you make your OWN ink!",
+		"这里将会指导你如何做出自己的墨水！",
 		"",
-		"Power this bad boy up, and get to work!",
+		"用这四种颜料给机器充能，就可以调制染料了。",
 		"",
-		"Ever thought those neon colored blocks were a bit expensive?!",
+		"觉得那些五颜六色的方块造价太高？！",
 		"",
-		"Well, now you can bootleg it... with ANY color... oh yea.",
+		"没关系，现在你可以随意造出那些方块了，还可以染上所有你想要的颜色。",
 		"",
-		"Side note, you can place your Paint Buckets on the ground and dip your Brush with Right-Click."
+		"提示：你可以把颜料罐放在地上，然后用刷子右键颜料罐来沾上颜料。"
 	],
 	tasks: [{
 		uid: "fe40ccb7",

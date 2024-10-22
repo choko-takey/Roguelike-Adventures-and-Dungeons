@@ -1,12 +1,12 @@
 {
-	title: "Why Are You Ingoring Me?",
+	title: "你为什么不理我？",
 	x: 0.5d,
 	y: 6.5d,
-	description: "I know you're on the server bro",
+	description: "我知道你在服务器上，兄弟",
 	text: [
-		"This item will output a Redstone signal if the typed player is online.",
+		"如果输入的玩家在线，这个物品将输出红石信号。",
 		"",
-		"This can be used to create some type of cool rollcall system for large clans on servers."
+		"这可以用来为服务器上的大型联盟创建出某种很酷的点名系统。"
 	],
 	tasks: [{
 		uid: "0115323a",

@@ -1,10 +1,10 @@
 {
-	title: "Fueled by Rage",
+	title: "愤怒之焰",
 	x: 7.0d,
 	y: -9.0d,
-	description: "Your rage",
+	description: "你的愤怒",
 	text: [
-		"It sure did take you a long time to find everything you needed to smelt these ingots! Your rage is what fuels the forge that melts this metal."
+		"你确实花了很长时间才找到冶炼这些锭所需的一切！你的愤怒将是熔化这种金属的燃料。"
 	],
 	dependencies: [
 		"4225ed86"

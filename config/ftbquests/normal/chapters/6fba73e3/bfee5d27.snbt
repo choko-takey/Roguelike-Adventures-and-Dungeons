@@ -1,12 +1,12 @@
 {
-	title: "One of Many",
+	title: "众多之一",
 	x: 4.5d,
 	y: -7.0d,
-	description: "And I'm not referring to the hero",
+	description: "我指的不是英雄",
 	text: [
-		"Craft the Hero's Medallion.",
+		"制作英雄之章。",
 		"",
-		"There are many ways to store XP. This is one of them. It is highly regular. Not efficient, not inefficient."
+		"存储经验有多种方法。这是其中之一。它是中规中矩的。不高效，不低效。"
 	],
 	tasks: [{
 		uid: "0b4eda12",

@@ -1,10 +1,10 @@
 {
-	title: "Parry This, You &%@#ing Casual",
+	title: "试试躲避这个，你**，这么容易躲？",
 	x: 6.5d,
 	y: -3.0d,
-	description: "No barrier stops a bullet",
+	description: "没有屏障挡你的子弹",
 	text: [
-		"Craft the Hunter's Handgun."
+		"制作狩猎手枪。"
 	],
 	tasks: [{
 		uid: "30cddc79",

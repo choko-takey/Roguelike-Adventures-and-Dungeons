@@ -1,12 +1,12 @@
 {
-	title: "Blown to Withereens",
+	title: "风摧枯骨",
 	x: 0.5d,
 	y: -3.0d,
-	description: "You've never heard that one before",
+	description: "你以前从未听说过",
 	text: [
-		"Uncommon drop from Wither Skeletons, and other creatures.",
+		"凋灵骷髅和其他生物的罕见掉落物。",
 		"",
-		"Used to craft weapons, handles, and pole handles."
+		"用于制造武器、手柄和长柄。"
 	],
 	dependencies: [
 		"0786946b"

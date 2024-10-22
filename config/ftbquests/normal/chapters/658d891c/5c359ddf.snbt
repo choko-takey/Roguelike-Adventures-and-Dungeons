@@ -1,14 +1,14 @@
 {
-	title: "The Ugly Sister",
+	title: "丑陋的妹妹",
 	x: 21.0d,
 	y: -2.0d,
-	description: "Your friends told you to pick the other one",
+	description: "你的朋友都在说该选姐姐",
 	text: [
-		"This item can only be used once.",
+		"这是个一次性的物品。",
 		"",
-		"Hold Right-Click to use this item.",
+		"按住右键使用这个物品。",
 		"",
-		"Refer to your Bestiary on how to deal with Gorgons."
+		"关于如何击杀蛇发女妖，请参考《异兽手记》。"
 	],
 	tasks: [{
 		uid: "dd59f268",

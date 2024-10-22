@@ -1,10 +1,10 @@
 {
-	title: "Tune-up",
+	title: "进行优化",
 	x: -3.5d,
 	y: -6.0d,
-	description: "This was way more than a tune-up...",
+	description: "这可不仅仅是几次优化…………",
 	text: [
-		"Craft all of the upgrades for the Draeton."
+		"制作所有的飞艇升级模块"
 	],
 	dependencies: [
 		"995ca541"

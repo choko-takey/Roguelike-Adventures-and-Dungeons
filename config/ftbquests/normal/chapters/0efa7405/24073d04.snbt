@@ -1,10 +1,11 @@
 {
-	title: "Magical Stone",
+	title: "魔法石",
 	x: 8.5d,
 	y: -6.0d,
-	description: "With magical properties",
+	description: "具有神奇的力量",
 	text: [
-		"If you like how it looks, you can chisel it, too."
+		"如果你喜欢它的样子，你可以把它用作建筑，也可以使用凿子凿它。",
+		"（但是我觉得邪术石和荒古石更好看）"
 	],
 	dependencies: [
 		"1af03bae"

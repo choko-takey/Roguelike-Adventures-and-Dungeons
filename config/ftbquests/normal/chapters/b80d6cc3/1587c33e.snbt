@@ -1,14 +1,14 @@
 {
-	title: "Stamp Champ",
+	title: "集邮之王",
 	x: 20.0d,
 	y: 0.0d,
-	description: "It's not a game anymore",
+	description: "这已经不是游戏了……",
 	text: [
-		"You're gonna need to get faster at this...",
+		"再快点，我们的时间不多……",
 		"",
-		"But how?",
+		"怎么办？",
 		"",
-		"BY STUDYING THE CODEX."
+		"当然是狠狠的学习编程了！"
 	],
 	dependencies: [
 		"311cdfc1"

@@ -1,12 +1,12 @@
 {
-	title: "Cujo No!",
+	title: "古卓，不要（《狂犬惊魂》内容）！",
 	x: -1.5d,
 	y: 7.5d,
-	description: "Bad dog!",
+	description: "坏狗！",
 	text: [
-		"They're like Paragon Levels... or Prestiging.",
+		"他们好像是巅峰等级……或是最高声望。",
 		"",
-		"Feed your doggy Dire Treats until Dire Level 30!"
+		"给你的狗狗吃顶级口粮到30级！"
 	],
 	dependencies: [
 		"df8f3703"

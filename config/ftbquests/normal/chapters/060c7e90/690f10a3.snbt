@@ -1,10 +1,10 @@
 {
-	title: "I See Dead People",
+	title: "凝视死亡",
 	x: -18.5d,
 	y: 9.5d,
-	description: "I raise them too!",
+	description: "也操纵死亡",
 	text: [
-		"And I make them attack people!"
+		"以及让死者苏醒，为我而战！"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

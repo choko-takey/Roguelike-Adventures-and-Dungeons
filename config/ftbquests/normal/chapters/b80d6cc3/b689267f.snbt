@@ -1,10 +1,10 @@
 {
-	title: "Is It Moving?",
+	title: "它在动么？",
 	x: 6.5d,
 	y: 2.0d,
-	description: "I think so, John",
+	description: "应该是吧，约翰？",
 	text: [
-		"It's not broken, I swear!"
+		"我肯定这东西没坏。"
 	],
 	dependencies: [
 		"322bb351"

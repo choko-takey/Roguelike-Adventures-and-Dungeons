@@ -1,14 +1,14 @@
 {
-	title: "Critter Killer V1.2",
+	title: "爬虫杀手 V1.2",
 	x: -11.5d,
 	y: -2.0d,
-	description: "Snails be scared!",
+	description: "蜗牛们很害怕！",
 	text: [
-		"Obtain the Critter Cruncher",
+		"获得狼牙棒（爬虫杀手）",
 		"",
-		"This item instantly kills any critter it touches.",
+		"这个物品能秒杀碰到的任何小生物。",
 		"",
-		"This includes Blood Snails, Chiromaws, Dragonflies, Fireflies, Infestations, Leeches, Mire Snails, Sporelings and Termites."
+		"小生物包括：泥潭蜗牛/血腥蜗牛、水蛭、白蚁、虫群、萤火虫、蜻蜓、蘑菇精灵"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

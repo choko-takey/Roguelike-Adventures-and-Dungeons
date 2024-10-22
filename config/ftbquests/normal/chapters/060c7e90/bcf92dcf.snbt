@@ -1,10 +1,10 @@
 {
-	title: "Fighting Reality",
+	title: "粉碎现实",
 	x: -21.5d,
 	y: 18.5d,
-	description: "Don't we do this in real life...?",
+	description: "理想引领着我们，即使被生活所打压。",
 	text: [
-		"This is a personal attack."
+		"人身攻击了属于是。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

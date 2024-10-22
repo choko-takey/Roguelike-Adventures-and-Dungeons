@@ -1,12 +1,12 @@
 {
-	title: "A Better, Bigger Stick!",
+	title: "一根更大的棍子",
 	x: 3.0d,
 	y: 1.0d,
-	description: "This stick shoots better magic than the other one does.",
+	description: "更粗的烧烤签可以容纳更强大的咒语……？",
 	text: [
-		"You still just put a crystal on top of this thing...",
+		"你加大了绑在烧烤签上的水晶的尺寸。",
 		"",
-		"The only difference between this one and the other one is you've done some hoodoo voodoo on it."
+		"它和原来那根的唯一区别就是更酷~~~~~~~~了。"
 	],
 	dependencies: [
 		"13570d86"

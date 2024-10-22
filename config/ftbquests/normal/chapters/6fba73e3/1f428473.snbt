@@ -1,10 +1,10 @@
 {
-	title: "Magicbane? More Like MagicBANG!",
+	title: "魔剑？这玩意更像爆炸魔棒！",
 	x: 0.5d,
 	y: -2.0d,
-	description: "This thing smacks!",
+	description: "这玩意挺趁手的！",
 	text: [
-		"Craft Magicbane."
+		"制作一把魔剑"
 	],
 	tasks: [{
 		uid: "afccb686",

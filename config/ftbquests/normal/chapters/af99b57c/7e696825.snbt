@@ -1,12 +1,12 @@
 {
-	title: "Scarlet Forged Metal",
+	title: "猩红的锻造金属",
 	x: -5.0d,
 	y: -0.5d,
-	description: "A healthy amount of iron in your blood",
+	description: "血液中拥有一定的铁才健康",
 	text: [
-		"To craft the highest level of vampiric weapons, you need max level pure blood.",
+		"想要制作最高级别的吸血鬼武器，你需要满级的纯净血液。",
 		"",
-		"This blood is dropped by level 5 vampire barons."
+		"这种血液由5级的吸血鬼伯爵掉落。"
 	],
 	dependencies: [
 		"90a84a0f",

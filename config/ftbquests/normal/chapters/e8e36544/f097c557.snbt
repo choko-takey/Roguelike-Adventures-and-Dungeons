@@ -1,12 +1,12 @@
 {
-	title: "Let Me Get That for You!",
+	title: "让我来帮你拿吧！",
 	x: 17.5d,
 	y: -5.5d,
-	description: "Please, I insist!",
+	description: "别客气，相信我！",
 	text: [
-		"The Item Collector will collect loose items on the ground.",
+		"物品收集器会收集地面上散落的物品。",
 		"",
-		"An internal storage exists within the Item Collector, but items should be pumped out of the Item Collector with a Hopper, an Upper, or by other means."
+		"物品收集器的内部有一定的储存空间，但让收集的物品最好通过漏斗、倒置漏斗或者其他方式提取出来。"
 	],
 	dependencies: [
 		"ecd41947"

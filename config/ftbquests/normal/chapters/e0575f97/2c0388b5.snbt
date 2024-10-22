@@ -1,10 +1,10 @@
 {
-	title: "Fire-- I Mean Pyre Crafting!",
+	title: "燃烧吧！额，我是说柴堆合成",
 	x: 0.0d,
 	y: -2.5d,
-	description: "You arsonist",
+	description: "你这个纵火狂",
 	text: [
-		"The Pyre Crafter is used to create Rituals and other items from the ROOTS mod."
+		"柴堆是用来举行仪式和制作物品的工具。"
 	],
 	dependencies: [
 		"90edb6b4"

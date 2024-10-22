@@ -1,14 +1,14 @@
 {
-	title: "A Rainbow of Carnage",
+	title: "“彩（采）鳞”大屠杀",
 	x: -1.0d,
 	y: -2.0d,
-	description: "Puff would be so disappointed",
+	description: "泡芙小姐会很失望的",
 	text: [
-		"There are many different colors of Dragons out in the world!",
+		"世界上有许多不同颜色的龙！",
 		"",
-		"Collect the scales from each one!",
+		"收集每一种颜色的鳞片！",
 		"",
-		"Unlocks the ability to buy Dragon Scales in the Shop. They are expensive!"
+		"解锁在商店购买龙鳞的能力。它们很贵！"
 	],
 	dependencies: [
 		"b7c1fa7a"

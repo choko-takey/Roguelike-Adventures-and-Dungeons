@@ -1,20 +1,20 @@
 {
-	title: "Making a Fashion Statement",
+	title: "时尚宣言",
 	x: 6.523809523809547d,
 	y: 5.547619047619044d,
-	description: "In any color you want",
+	description: "你想要什么颜色都行",
 	text: [
-		"The Dyeing Machine can change the color of any item.",
+		"填涂机可以改变任何物品的颜色。",
 		"",
-		"Not only the color of the item, but the color of the enchantment as well.",
+		"不仅是物品的颜色，还有附魔的颜色。",
 		"",
-		"When an item is place into the Dyeing Machine with dye, the resulting outputs are the item being dyed, or the enchantment being dyed.",
+		"当物品与染料一起放入填涂机时，输出的是被染色的物品或被染色的附魔物品。",
 		"",
-		"Most items can be dyed. Those that \"color themselves\" or have dye recipes established may have issues.",
+		"大多数物品都可以染色。 那些“给自己上色”或已经有染料配方的可能会有问题。",
 		"",
-		"Results may not be optimal. Take into account the color of the items you are dying in the first place.",
+		"结果可能不是最佳的。首先要考虑你要染色的物品的颜色。",
 		"",
-		"Works on weapons and armor."
+		"适用于武器和护甲。"
 	],
 	size: 1.5d,
 	tasks: [{

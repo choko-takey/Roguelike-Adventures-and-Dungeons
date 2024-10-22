@@ -1,22 +1,22 @@
 {
-	title: "Ball of Hints",
+	title: "揭示之水晶球",
 	x: -5.0d,
 	y: -1.0d,
-	description: "As clear as it is belligerent!",
+	description: "透露出一股清澈的愚蠢……",
 	text: [
-		"You can take a hint. Literally!",
+		"给你点提示……字面意思的那种。",
 		"",
-		"1) Place a Small Stone Tablet, Stone Tablet, or Large Stone Tablet into the appropriate slot.",
+		"1：将你从不知道哪里弄来的石板，无论尺寸，放入对应的格子里。",
 		"",
-		"2) Place Magic Crystals into the appropriate slot.",
+		"2：将一些魔力水晶放入对应的插槽里。",
 		"",
-		"3) Research your Stone Tablet.",
+		"3：研究你的石板。",
 		"",
-		"You can also research Spellbooks to get an idea of the type of Spell it is.",
+		"你也可以把你的法术书扔进去看看，它会告诉你这是什么类型的咒语。",
 		"",
-		"When Spells fizzle, it is usually because the cast was too slow, or too fast.",
+		"如果你的法术释放失败，大概是你施法过快或者过慢了……？",
 		"",
-		"It can also be due to incorrect application such as Spells that fizzle because they have no target."
+		"或者是因为法术目标错误，如需要对生物或者方块实体使用……"
 	],
 	size: 2.0d,
 	tasks: [{

@@ -1,9 +1,9 @@
 {
 	x: 0.0d,
 	y: 7.0d,
-	description: "You're not suppose to guard them yourself!",
+	description: "你不应该独自看守它们！",
 	text: [
-		"Obtain a Guardian Chunk."
+		"获得一个守卫者灵魂碎片。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

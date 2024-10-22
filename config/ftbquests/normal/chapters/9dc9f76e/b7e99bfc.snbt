@@ -1,10 +1,10 @@
 {
-	title: "Blue Fire? Blue Fire!",
+	title: "蓝色火焰？蓝色火焰！",
 	x: 0.5d,
 	y: -14.5d,
-	description: "I can change the color of my campfire now!",
+	description: "我现在可以改变篝火的颜色了！",
 	text: [
-		"Not really, but it is blue fire!"
+		"不完全是，但它变蓝了！"
 	],
 	dependencies: [
 		"c93dd89b"

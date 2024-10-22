@@ -1,12 +1,12 @@
 {
-	title: "It's My Power and I Need It Now!",
+	title: "这是我的力量，我现在就需要它！",
 	x: 3.5d,
 	y: -10.5d,
-	description: "Yea, well electricity isn't like money kid",
+	description: "是啊，电不像钱，孩子",
 	text: [
-		"Shoot, money isn't even like money.",
+		"该死，钱根本不像钱。",
 		"",
-		"This little baby is gonna power your machines manually, till you can get some small timey automations up and running."
+		"这个小宝贝需要手动才能给机器供电，直到你们能做一些小的自动装置。"
 	],
 	dependencies: [
 		"d27134fe"

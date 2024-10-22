@@ -1,9 +1,9 @@
 {
 	x: 6.0d,
 	y: -4.5d,
-	description: "For two payments of $19.99!",
+	description: "只需支付两次19.99美元！",
 	text: [
-		"Obtain a Supremium Watering Can."
+		"获得一个终极精华洒水壶。"
 	],
 	dependencies: [
 		"f2d105e0"

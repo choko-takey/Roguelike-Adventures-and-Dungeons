@@ -1,15 +1,15 @@
 {
-	title: "Wrought Not!",
+	title: "不是锻造的！",
 	x: 1.0d,
 	y: 5.5d,
-	description: "Is it a man?",
+	description: "它是男人吗？",
 	text: [
-		"You managed to find a resting man and kill him; take his axe!"
+		"你找到了一个休息的人并设法杀死了他；快拿走他的斧子！"
 	],
 	tasks: [{
 		uid: "4271d05e",
 		type: "kill",
-		title: "Slay the Ferrous Wroughtnaut",
+		title: "击杀钢铁守护者",
 		icon: "mowziesmobs:wrought_helmet",
 		entity: "mowziesmobs:ferrous_wroughtnaut",
 		value: 1L

@@ -1,10 +1,11 @@
 {
-	title: "Caster Blaster",
+	title: "聚焦灼炎",
 	x: 8.5d,
 	y: 9.0d,
-	description: "Bam pow ping",
+	description: "炽烈至极！",
 	text: [
-		"Now anyone can be a Mage for the small price of $19.99!"
+		"法师培训班，学费：$19.99！",
+		"包学包会，不会退钱！"
 	],
 	dependencies: [
 		"020a4b1e"

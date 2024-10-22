@@ -1,12 +1,12 @@
 {
-	title: "The Ultimate Surfer Equipment",
+	title: "终极冲浪装备",
 	x: 12.0d,
 	y: 8.0d,
-	description: "Wave Walker",
+	description: "浪行者",
 	text: [
-		"These boots do what they say!",
+		"这双靴子说到做到！",
 		"",
-		"Hold Shift to enter the water."
+		"潜行进入水中。"
 	],
 	tasks: [{
 		uid: "b2ed0ddc",

@@ -1,12 +1,12 @@
 {
-	title: "Obsidian Armaments, but Even Better",
+	title: "黑曜石武器，但更好",
 	x: -0.5d,
 	y: -10.0d,
-	description: "These ones take a punch",
+	description: "吃我一拳",
 	text: [
-		"Craft the Crystallized Obsidian armor.",
+		"制作水晶黑曜石盔甲。",
 		"",
-		"It's got double the durability of Diamond armor, and more protection to boot."
+		"它的耐久是钻石甲的两倍，还有更多的保护。"
 	],
 	dependencies: [
 		"efbea43d"

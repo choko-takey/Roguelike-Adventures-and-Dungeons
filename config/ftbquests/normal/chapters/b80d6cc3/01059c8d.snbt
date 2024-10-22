@@ -1,13 +1,13 @@
 {
-	title: "Heat",
+	title: "热量",
 	icon: "embers:shard_ember",
 	x: 13.0d,
 	y: 5.0d,
-	description: "It's hot!",
+	description: "哎呦我去烫烫烫",
 	text: [
-		"And it needs to be hotter!",
+		"看起来它还得更热才行……",
 		"",
-		"Refer to your Codex on how Heat works."
+		"你猜猜怎么让它变热？你猜猜？"
 	],
 	dependencies: [
 		"655ceacf"

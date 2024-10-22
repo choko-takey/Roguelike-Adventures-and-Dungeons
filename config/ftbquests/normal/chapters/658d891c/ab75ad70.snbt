@@ -1,10 +1,10 @@
 {
-	title: "Sings Like a Snake",
+	title: "像蛇一样唱歌",
 	x: 17.5d,
 	y: 1.5d,
-	description: "Hissing through the air",
+	description: "在空中嘶嘶作响",
 	text: [
-		"Deadly arrows adorned with the fangs of Hydras."
+		"饰有九头蛇尖牙的致命箭。"
 	],
 	tasks: [{
 		uid: "cbd22193",

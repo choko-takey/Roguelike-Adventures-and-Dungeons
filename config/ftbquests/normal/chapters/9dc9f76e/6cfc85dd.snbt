@@ -1,20 +1,20 @@
 {
-	title: "Basic Information",
+	title: "基本信息",
 	x: -10.5d,
 	y: -3.0d,
-	description: "READ ME",
+	description: "必读",
 	text: [
-		"Pressing F3 + H will enable Advanced Tooltips. Highly recommended.",
+		"按F3+H开启高级提示框。非常推荐。",
 		"",
-		"Many items will also show extended information when you hold Shift while hovering over them in your inventory.",
+		"光标悬停在物品上时按住Shift会显示拓展信息。",
 		"",
-		"A plethora of items can also be upgraded in this modpack!",
+		"大量的物品能在这个整合包里升级！",
 		"",
-		"To upgrade items, you should try things like putting the item you want to upgrade in your Off-Hand, and using the upgrade item with your Main-Hand.",
+		"想升级物品，可以尝试在副手放想升级的物品，并且在主手使用升级物品。",
 		"",
-		"Putting the item you want to upgrade and the upgrade item into the Crafting Grid may also yield results.",
+		"想升级的物品和升级物品放在合成栏中合成也有一样的效果。",
 		"",
-		"In the end, you can always refer to JEI!"
+		"最后，你还能参考JEI！"
 	],
 	tasks: [{
 		uid: "f6aafa3d",

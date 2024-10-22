@@ -1,10 +1,10 @@
 {
-	title: "Yellow-Brick-Street",
+	title: "黄砖路（代表希望）",
 	x: 7.0d,
 	y: 5.5d,
-	description: "This map will show you the way!",
+	description: "这张地图将指引你道路！",
 	text: [
-		"The way to the wonderful Twilight Lich!"
+		"这是一条通往暮色巫妖的道路！"
 	],
 	dependencies: [
 		"bb190030"

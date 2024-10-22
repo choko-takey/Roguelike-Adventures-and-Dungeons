@@ -1,10 +1,10 @@
 {
-	title: "Tremors... Like... 5? or 6?",
+	title: "地震？？？像五级还是六级？",
 	x: 13.5d,
 	y: -3.5d,
-	description: "The floor is lava!",
+	description: "地板变成熔岩了！！！",
 	text: [
-		"Myrmex don't pop out of the ground, technically. But they will still pop out of no where!"
+		"从科学角度上讲，恐蚁不会从地里蹦出。但它们仍然会突然出现！"
 	],
 	dependencies: [
 		"be5e424a"

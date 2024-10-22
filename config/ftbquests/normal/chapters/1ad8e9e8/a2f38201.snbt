@@ -1,10 +1,10 @@
 {
-	title: "Slimy Bone Armaments",
+	title: "粘骨装备",
 	x: -1.5d,
 	y: 0.5d,
-	description: "... Yuck...",
+	description: "……呕……",
 	text: [
-		"Craft all of the Slimy Bone armor and tools."
+		"制作全部粘骨盔甲和工具。"
 	],
 	dependencies: [
 		"3c192351"

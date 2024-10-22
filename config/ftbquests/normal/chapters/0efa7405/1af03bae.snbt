@@ -1,14 +1,13 @@
 {
-	title: "Wonderous Work",
+	title: "神奇妙妙合成台",
 	x: 3.0d,
 	y: -6.0d,
-	description: "Doesn't do the work for you, though",
+	description: "就……合成台",
 	text: [
-		"An Arcane Workbench is required for many of Thaumcraft's basic recipes. Think of this as your Crafting Table for the mod. The Arcane Workbench also works as a Crafting Table, and items inside will not return to your inventory.",
+		"奥术工作台是神秘时代里最重要的合成站之一，百分之八十的合成都需要它完成。当然它也可以充当一般工作台使用，它可以把物品存储在gui里。",
 		"",
-		"Once you've created your Arcane Workbench, we can complete the objective in the Thaumonomicon. Make sure to do this as you progress through the mod!",
-		"",
-		"However, before moving on, we must complete other pre-requisite objectives inside your book!"
+		"当你使用世界盐创造奥术工作台后，魔导手册里的研究也会解锁，请务必使用世界盐来创造奥术工作台！",
+		"当然，在继续研究前，我们还得完成些别的东西……"
 	],
 	dependencies: [
 		"28000024"
@@ -37,3 +36,4 @@
 		xp_levels: 5
 	}]
 }
+

@@ -1,16 +1,16 @@
 {
-	title: "Put It out of Its Misery...",
+	title: "让它从痛苦中解放吧...",
 	x: -19.5d,
 	y: -6.5d,
-	description: "Bye Yeller...",
+	description: "再见了...",
 	text: [
-		"These Beartraps are military grade.",
+		"这些是军用级别的捕兽夹。",
 		"",
-		"In order to remove whatever is inside of it, you have to KILL IT.",
+		"无论何种生物被它困住，想要让生物离开的唯一方法就是杀死这只生物。",
 		"",
-		"That's right, this Beartrap will not let go unless the thing inside is dead.",
+		"当然了，捕兽夹在猎物死亡之前，绝不会放跑它。",
 		"",
-		"After it's dead and despawned, the Beartrap can be reset with Right-Click because it realizes it's lockjawed its prey into dust."
+		"在猎物死亡并消失后，你可以右键重置捕兽夹，因为它也意识到自己困住的猎物已经化为尘土了。"
 	],
 	tasks: [{
 		uid: "e92ed3c2",

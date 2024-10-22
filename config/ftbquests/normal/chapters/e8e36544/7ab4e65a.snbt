@@ -1,12 +1,12 @@
 {
-	title: "Street Lights",
+	title: "路灯",
 	x: -14.0d,
 	y: 12.5d,
-	description: "Be home before 6:00",
+	description: "晚上六点准时亮起",
 	text: [
-		"The Lit Redstone Lamp will stay lit without a Redstone signal.",
+		"点亮的红石灯无需红石信号就会点亮",
 		"",
-		"It does not output a signal."
+		"它不输出任何信号。"
 	],
 	tasks: [{
 		uid: "b547ec54",

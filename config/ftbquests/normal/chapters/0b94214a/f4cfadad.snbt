@@ -1,9 +1,9 @@
 {
 	x: -4.0d,
 	y: -10.0d,
-	description: "Like Nether Warts, but in the Overworld, and useless",
+	description: "就像主世界的地狱疣，没有什么用。",
 	text: [
-		"Craft some Nether Seeds."
+		"制作一些下界种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

@@ -1,11 +1,11 @@
 {
-	title: "Satisfaction Guardanteed",
+	title: "保证满意",
 	icon: "minecraft:prismarine_crystals",
 	x: 0.0d,
 	y: -6.5d,
-	description: "That was bad, I know",
+	description: "我知道这很糟糕",
 	text: [
-		"Slay 1 Elder Guardian."
+		"击杀1只远古守卫者。"
 	],
 	can_repeat: true,
 	tasks: [{

@@ -1,10 +1,10 @@
 {
-	title: "Willy Isn't So Free Anymore",
+	title: "威利失去了自由",
 	x: 20.0d,
 	y: -1.5d,
-	description: "Do you feel anything inside?",
+	description: "这里面有什么东西吗？",
 	text: [
-		"You should be ashamed for owning such a thing, wrought from cruelty."
+		"你应该为拥有这样一个残忍的东西而感到羞耻。"
 	],
 	tasks: [{
 		uid: "8e00de25",

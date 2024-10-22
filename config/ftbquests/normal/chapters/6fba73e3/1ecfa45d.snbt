@@ -1,12 +1,12 @@
 {
-	title: "Where Did He Come From?",
+	title: "他从哪里来？",
 	x: 2.5d,
 	y: -7.0d,
-	description: "Where did he go?",
+	description: "他要到哪去？",
 	text: [
-		"Craf the Sojourner's Staff.",
+		"制作旅居者手杖",
 		"",
-		"And get out of my house please."
+		"然后请你离开我的家"
 	],
 	tasks: [{
 		uid: "2f2a6c69",

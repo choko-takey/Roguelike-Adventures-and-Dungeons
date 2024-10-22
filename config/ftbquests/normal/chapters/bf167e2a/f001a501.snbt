@@ -1,12 +1,12 @@
 {
-	title: "Astrology Girls",
+	title: "占星女巫",
 	x: 1.5d,
 	y: -19.0d,
-	description: "One of them gave me a rock",
+	description: "其中一个人给你石头。",
 	text: [
-		"It made me feel better, I guess?",
+		"这让我感觉很舒服，我猜的？",
 		"",
-		"Craft a Healing Stone."
+		"合成治愈灵石。"
 	],
 	dependencies: [
 		"de9220a6"

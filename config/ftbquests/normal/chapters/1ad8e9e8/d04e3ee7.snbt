@@ -1,12 +1,12 @@
 {
-	title: "Crunchy Compost",
+	title: "脆脆的堆肥",
 	x: 8.0d,
 	y: 4.0d,
-	description: "Isn't it supposed to be wet?",
+	description: "它难道不该是湿的吗？",
 	text: [
-		"Something is wrong here.",
+		"有什么不太对劲。",
 		"",
-		"Craft a Compost Bin."
+		"造一个堆肥箱"
 	],
 	dependencies: [
 		"b8216d73"

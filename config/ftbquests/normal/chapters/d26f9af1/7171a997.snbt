@@ -1,16 +1,16 @@
 {
-	title: "Earth, Fire, Storm",
+	title: "大地，火焰，风暴",
 	x: 7.5d,
 	y: -11.0d,
-	description: "All the energy you need",
+	description: "所有你需要的能量",
 	text: [
-		"Who needs power when you have vibes?",
+		"有了共鸣，谁还需要电？",
 		"",
-		"All of these power supplies will energize your machines from Extra Utilities 2.",
+		"这些发电机会给更多实用设备2的机器供电。",
 		"",
-		"Remember these machines will only power blocks from Extra Utilies 2.",
+		"记住这些机器只能给更多实用设备2的机器供电。",
 		"",
-		"If you do not have enough total power across your grid (everywhere), then all machines will stop working."
+		"如果你的电网（所有地方）没有足够的总电力，那么所有的机器都将停止工作。"
 	],
 	dependencies: [
 		"81b0d0f9"

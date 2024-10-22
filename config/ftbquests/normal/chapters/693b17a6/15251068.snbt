@@ -1,15 +1,15 @@
 {
-	title: "Journey Juror",
+	title: "旅程评审员",
 	x: -5.5d,
 	y: -2.0d,
-	description: "The verdict? Completed.",
+	description: "判决书？完成了",
 	text: [
-		"Complete 200 rare bounties."
+		"完成200个稀有悬赏。"
 	],
 	tasks: [{
 		uid: "0c3523c5",
 		type: "stat",
-		title: "Complete 200 rare bounties",
+		title: "完成200个稀有悬赏",
 		icon: "bountiful:bounty",
 		stat: "stat.bountiesRare",
 		value: 200

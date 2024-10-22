@@ -1,15 +1,15 @@
 {
-	title: "Trader Joe II",
+	title: "尔虞我诈 II",
 	x: -11.5d,
 	y: 0.0d,
-	description: "Bartered a Stick for a Can of Beans",
+	description: "用一根棍子换一罐豆子",
 	text: [
-		"Trade with... anything... 1,000 times."
+		"完成任意1000次交易"
 	],
 	tasks: [{
 		uid: "68390fb7",
 		type: "stat",
-		title: "Make 1,000 Trades",
+		title: "完成1000次交易",
 		icon: "minecraft:book",
 		stat: "stat.tradedWithVillager",
 		value: 1000

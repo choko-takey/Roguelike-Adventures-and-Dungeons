@@ -1,16 +1,16 @@
 {
-	title: "Fear the Shears",
+	title: "害怕剪刀",
 	x: 9.5d,
 	y: -10.5d,
-	description: "The sheep will never know what hit them",
+	description: "羊羊们不会知道什么在靠近它们",
 	text: [
-		"Cyclic adds two types of shears.",
+		"循环模组新增了两种剪刀。",
 		"",
-		"The Obsidian, and the Enhanced Shears.",
+		"黑曜石剪刀和强化剪刀。",
 		"",
-		"Obsidian trades off a range for durability.",
+		"黑曜石剪刀比普通剪刀更耐用。",
 		"",
-		"The Enhanced Shears will shoot shears when Right-Clicking, but come with much lower durability."
+		"强化剪刀可以右键射出剪刀，但比普通剪刀更不耐用。"
 	],
 	tasks: [{
 		uid: "047c17a2",

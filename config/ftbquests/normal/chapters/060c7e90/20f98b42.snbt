@@ -1,14 +1,14 @@
 {
-	title: "Flawlessly Cut",
+	title: "无暇精雕",
 	x: -6.0d,
 	y: 4.5d,
-	description: "Cosmic precision",
+	description: "寰宇精粹",
 	text: [
-		"Where would you even find something like this?",
+		"此物只应天上有，人间能得几回闻？",
 		"",
-		"I bet it would fetch a pretty penny, if you had one.",
+		"嘿，我打赌。如果你真的发现了它，你今生就再也不缺钱了。",
 		"",
-		"I bet I can find these in a dungeon."
+		"嗯……地牢里也许有一些。"
 	],
 	dependencies: [
 		"44326244"

@@ -1,10 +1,10 @@
 {
-	title: "Are These Robes Real?",
+	title: "这袍子是真的吗？",
 	x: -11.0d,
 	y: 14.0d,
-	description: "Are you real?",
+	description: "以及你是不是真的？",
 	text: [
-		"Is anything REAL!?"
+		"这东西真的是&a&l真的&r吗！？"
 	],
 	dependencies: [
 		"6b5d4a07"

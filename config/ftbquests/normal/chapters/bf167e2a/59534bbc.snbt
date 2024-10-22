@@ -1,10 +1,10 @@
 {
-	title: "Victory or Death!",
+	title: "要么赢，要么死！",
 	x: 4.5d,
 	y: -15.5d,
-	description: "You said you wanted an \"intense woman\"",
+	description: "你说你想要一个“女武神”？",
 	text: [
-		"Collect a Victory Medallion."
+		"收集胜利奖牌。"
 	],
 	dependencies: [
 		"9ca912fb"

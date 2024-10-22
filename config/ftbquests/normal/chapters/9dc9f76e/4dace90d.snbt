@@ -1,10 +1,10 @@
 {
-	title: "The Ur-Ghast's Ugly Wife",
+	title: "暮色恶魂的丑媳",
 	x: 6.0d,
 	y: -11.25d,
-	description: "DON'T Tell him I said that",
+	description: "别告诉别人这是我说的",
 	text: [
-		"She'd turn you to stone if she was any uglier."
+		"如果她再难看点会把你丑到石化。"
 	],
 	dependencies: [
 		"b049fdec"
@@ -13,7 +13,7 @@
 	tasks: [{
 		uid: "f5bf1b5e",
 		type: "kill",
-		title: "Slay the Ghast Queen",
+		title: "击杀恶魂女王",
 		entity: "netherex:ghast_queen",
 		value: 1L
 	}],

@@ -1,9 +1,9 @@
 {
 	x: 0.0d,
 	y: -5.0d,
-	description: "Aw, it's cute again!",
+	description: "噢，它又变得可爱了！",
 	text: [
-		"Craft an Intermedium Seed Processor."
+		"制作一个中级质种子再处理器。"
 	],
 	dependencies: [
 		"52393883"

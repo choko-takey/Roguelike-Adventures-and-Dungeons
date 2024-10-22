@@ -1,10 +1,10 @@
 {
-	title: "Is It Leaking?",
+	title: "它漏没漏？",
 	x: 3.0d,
 	y: -1.5d,
-	description: "I don't think so, John",
+	description: "我不觉得……是吧约翰？",
 	text: [
-		"Should hold yer' liquids good."
+		"应该能好好存着吧……"
 	],
 	dependencies: [
 		"89e07f91"

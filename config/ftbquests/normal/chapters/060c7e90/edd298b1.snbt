@@ -1,20 +1,20 @@
 {
-	title: "Bowl of ''Where'd my XP go?''",
+	title: "“我经验呢？”之碗",
 	x: -2.25d,
 	y: -6.0d,
-	description: "No really... this thing sucks.",
+	description: "额……别抱太大希望。这东西稀碎……",
 	text: [
-		"The Pensive does its job, but it sucks. That's why it needs its own quest...",
+		"沉思盂有用，但不完全有用。这就是为什么我需要给它专门写个任务的原因……",
 		"",
-		"The Pensive will only hold 1395 XP. This is only enough to go from 0 to 30.",
+		"这个可怜的破碗只能容纳1395点XP，也就是刚好三十级。",
 		"",
-		"Any overflow will be lost.",
+		"如果它满了，任何存入其内的经验都会消失。",
 		"",
-		"USE WITH CAUTION.",
+		"&7&l请务必小心使用！",
 		"",
-		"Can be aesthetic?",
+		"&r这东西是个……珍品？（这么烂还好意思拿去当珍品？）",
 		"",
-		"It is found in dungeons and other crazy places."
+		"地牢里有它的影子，那些比地牢还带劲的地方也不例外。"
 	],
 	size: 1.5d,
 	tasks: [{

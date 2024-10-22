@@ -1,10 +1,10 @@
 {
-	title: "Shadow Battle",
+	title: "阴影之下的战斗",
 	x: 5.5d,
 	y: -7.5d,
-	description: "Do you even know where you are?",
+	description: "你知道你在哪吗？",
 	text: [
-		"This room has no way out!"
+		"这里无路可逃！"
 	],
 	dependencies: [
 		"0d9f8fc3"

@@ -1,10 +1,10 @@
 {
-	title: "Mecha-Scorpo",
+	title: "机械蝎螯",
 	x: 5.0d,
 	y: -8.5d,
-	description: "Shoots fireballs from his tail now!",
+	description: "现在能从它的尾巴射出火焰弹！",
 	text: [
-		"Craft the Augmented Scorpion Pincer."
+		"合成强化蝎螯。"
 	],
 	dependencies: [
 		"d01b8d01"

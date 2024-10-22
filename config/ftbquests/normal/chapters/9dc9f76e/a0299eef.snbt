@@ -1,12 +1,12 @@
 {
-	title: "25 Bronze Coin Turn-In",
+	title: "25枚铜币回收",
 	x: -22.0d,
 	y: -4.0d,
-	description: "Is this even money?",
+	description: "这算是钱吗？",
 	text: [
-		"Never disrespect in-game currency. It's against the law.",
+		"不要轻视游戏货币。这是违法的。",
 		"",
-		"Enables trading between players."
+		"支持玩家之间的交易。"
 	],
 	can_repeat: true,
 	tasks: [{

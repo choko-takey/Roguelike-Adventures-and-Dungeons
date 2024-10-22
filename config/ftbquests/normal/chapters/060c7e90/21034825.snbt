@@ -1,13 +1,13 @@
 {
-	title: "Ancient Altars",
+	title: "注灵祭坛",
 	icon: "ebwizardry:imbuement_altar",
 	x: -8.0d,
 	y: 1.0d,
-	description: "These hold great power, don't they? Well, duh.",
+	description: "具有无穷的伟力……对吧？",
 	text: [
-		"Used to imbue items and books with the power of the elements.",
+		"用来为法术书或者其他什么魔法物品注入元素之力。",
 		"",
-		"See the JEI menu for recipes, and refer to The Wizard's Handbook for more info."
+		"详见JEI和巫师手札。"
 	],
 	dependencies: [
 		"51c5d219"

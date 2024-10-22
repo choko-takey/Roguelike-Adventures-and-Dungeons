@@ -1,10 +1,10 @@
 {
-	title: "The Template",
+	title: "模具",
 	x: -9.5d,
 	y: -4.5d,
-	description: "Where every plan takes root",
+	description: "每一个计划都在这里扎根",
 	text: [
-		"Craft some Base Crafting Seeds."
+		"制作一些基础合成种子。"
 	],
 	dependencies: [
 		"883b968f"

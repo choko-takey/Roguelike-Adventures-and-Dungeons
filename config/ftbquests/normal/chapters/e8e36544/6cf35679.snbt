@@ -1,14 +1,14 @@
 {
-	title: "The Basic Super Router 3000",
+	title: "基础版超级路由器3000",
 	x: 0.5d,
 	y: 4.5d,
-	description: "300 Gigs down is whatever, I guess",
+	description: "我想大概是300G吧",
 	text: [
-		"The Redstone Interface allows players to wireless and directly power blocks with a max power signal.",
+		"红石接口可让玩家用无线并最高信号强度直接充能方块。",
 		"",
-		"The Redstone Interface will need to be connected to a block using the Redstone Tool; Right-Click your Interface, then Right-Click the block you want to power.",
+		"红石接口需要使用红石工具连接方块;右键接口，然后右键你想要充能的方块。",
 		"",
-		"The Redstone Interface must then be activated by a Lever, a Button, or some other form of Redstone."
+		"红石接口必须由拉杆，按钮，或其他形式的红石激活。"
 	],
 	tasks: [{
 		uid: "a123b4ba",

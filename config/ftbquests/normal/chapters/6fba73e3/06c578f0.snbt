@@ -1,10 +1,10 @@
 {
-	title: "Monster Mash (Warmup)",
+	title: "粉碎怪物（只是热身）",
 	x: -4.0d,
 	y: 0.0d,
-	description: "Smashing!",
+	description: "非常好！",
 	text: [
-		"Obtain all uncommon mob drops."
+		"收集所有不同寻常的怪物掉落物。"
 	],
 	tasks: [{
 		uid: "9c6c5cef",

@@ -1,9 +1,9 @@
 {
 	x: 7.0d,
 	y: 3.0d,
-	description: "Once again... all my plants are dead",
+	description: "又一次……我所有的植物都死了",
 	text: [
-		"Obtain a Wither Skeleton Chunk."
+		"获得一块凋灵骷髅灵魂碎片。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

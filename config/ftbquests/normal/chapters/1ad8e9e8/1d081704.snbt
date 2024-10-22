@@ -1,10 +1,10 @@
 {
-	title: "Dentist?",
+	title: "牙医？",
 	x: 9.5d,
 	y: 1.5d,
-	description: "I hate the dentist",
+	description: "我恨牙医",
 	text: [
-		"Ooohh.. Dentrothyst..."
+		"哇哦哦……木晶……"
 	],
 	dependencies: [
 		"5805bceb"

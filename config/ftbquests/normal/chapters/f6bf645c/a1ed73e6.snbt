@@ -1,10 +1,10 @@
 {
-	title: "The Color Collector",
+	title: "颜色收集者",
 	x: 0.5d,
 	y: 6.5d,
-	description: "I love you, Ram",
+	description: "爱你哟，羊羊",
 	text: [
-		"Obtain the Questing Ram Trophy."
+		"获取谜题羊战利品。"
 	],
 	dependencies: [
 		"12ae72c5"

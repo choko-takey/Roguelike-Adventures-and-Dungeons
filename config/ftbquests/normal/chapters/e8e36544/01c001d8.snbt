@@ -1,20 +1,20 @@
 {
-	title: "Charged Up!",
+	title: "充！",
 	x: 12.75d,
 	y: -11.25d,
-	description: "It's my catch phrase after smashing a Redbull",
+	description: "这是我喝完红牛后的口头禅",
 	text: [
-		"I scream it at the top of my lungs before going in for my 5AM shift.",
+		"我在早上5点去上班之前会扯着嗓子喊出来。",
 		"",
-		"That's how you gotta do it sometimes.",
+		"有时候你就得这么做。",
 		"",
-		"This bad boy is gonna store lots of energy for you. You can even pick it up to move it somewhere else!",
+		"这个坏男孩会为你储存大量能量。你甚至可以把它搬到别的地方去！",
 		"",
-		"Only bad thing? There is no way to transfer energy with FE in this pack, at the moment.",
+		"唯一的坏事？目前，在这个包中没有办法用FE转移能量。",
 		"",
-		"Unless pipes are re-enabled, you will need to place the Batteries right next to the machine which needs power. Most commonly, it is good to put the battery right under the machine which needs to be powered. ",
+		"除非重新启用管道，否则你需要将电池放在需要电源的机器旁边。最常见的方法是将电池放在需要供电的机器的正下方。",
 		"",
-		"In the case of charging a battery? See The Guides (may not be made yet, LOL)"
+		"在给电池充电的情况下？参见指南（可能还没有制作，哈哈）"
 	],
 	dependencies: [
 		"ecd41947"

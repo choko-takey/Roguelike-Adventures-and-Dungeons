@@ -1,18 +1,18 @@
 {
-	title: "Foliaath Feller",
+	title: "巨噬叶砍伐者",
 	icon: "mowziesmobs:foliaath_seed",
 	x: 0.5d,
 	y: 4.5d,
-	description: "You felled all of them",
+	description: "你把他们都击倒了",
 	text: [
-		"Just kidding, they grow back.",
+		"开玩笑，他们又长回来了。",
 		"",
-		"Slay 1,000 Foliaaths."
+		"击杀1000个巨噬叶"
 	],
 	tasks: [{
 		uid: "0f1f2ed5",
 		type: "kill",
-		title: "Cut down 1,000 Foliaath",
+		title: "砍倒1000个巨噬叶",
 		icon: {
 			id: "mowziesmobs:spawn_egg",
 			tag: {

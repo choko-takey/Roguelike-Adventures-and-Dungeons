@@ -1,10 +1,10 @@
 {
-	title: "Ruined",
+	title: "一堆破布",
 	x: 28.0d,
 	y: 5.0d,
-	description: "People who smoke cigarettes in their cars",
+	description: "哪个混账在车里抽烟啊！",
 	text: [
-		"Gross man. Just. Stop."
+		"那可真是个杀千刀的混账！就不能忍忍吗！"
 	],
 	dependencies: [
 		"0cb962a9"

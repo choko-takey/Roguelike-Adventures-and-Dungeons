@@ -1,14 +1,14 @@
 {
-	title: "Be Good While I'm Gone!",
+	title: "我不在的时候要乖！",
 	x: 15.5d,
 	y: 0.5d,
-	description: "The new Home Alone movie was really good this year!",
+	description: "新《小鬼当家》是今年最好的电影！",
 	text: [
-		"Chunk Loaders and Spot Loaders will keep a chunk loaded.",
+		"区块加载器和节点载入器可以让区块一直加载。",
 		"",
-		"Do what you want with that information.",
+		"用这些信息做你想做的。",
 		"",
-		"Like make farms that still grow while you're away."
+		"比如做个能一直生长的农场。"
 	],
 	dependencies: [
 		"a05c73b5"

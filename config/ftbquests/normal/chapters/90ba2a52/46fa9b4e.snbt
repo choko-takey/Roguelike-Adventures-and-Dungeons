@@ -1,10 +1,10 @@
 {
-	title: "They Made a Promise",
+	title: "他们做出了承诺",
 	x: 5.0d,
 	y: -5.5d,
-	description: "Oathsworn",
+	description: "宣誓",
 	text: [
-		"Slay 50 Guardians."
+		"击杀50只守卫者。"
 	],
 	can_repeat: true,
 	tasks: [{

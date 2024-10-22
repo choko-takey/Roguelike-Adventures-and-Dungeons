@@ -1,11 +1,11 @@
 {
-	title: "October Is the Best Month of Them All",
+	title: "十月是最好的月份",
 	x: 1.5d,
 	y: 5.5d,
 	shape: "hexagon",
-	description: "You're gonna regret making this thing in the morning",
+	description: "明天早上你会后悔做这个的",
 	text: [
-		"Refer to the Almanac on how to brew different types of alcoholic beverages.",
+		"关于如何酿造不同类型的酒精饮料，请参考年历通书。",
 		"",
 		""
 	],

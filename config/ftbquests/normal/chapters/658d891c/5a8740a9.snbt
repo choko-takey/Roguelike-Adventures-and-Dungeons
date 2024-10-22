@@ -1,10 +1,10 @@
 {
-	title: "The Never-Lose-Me Gem",
+	title: "“勿弃我”宝石",
 	x: 11.0d,
 	y: 3.5d,
-	description: "I wonder if it hurts when you summon your dragon?",
+	description: "我想知道当你召唤你的龙时会不会痛？",
 	text: [
-		"May give frostbite if exposed to bare skin."
+		"如果直接接触皮肤，可能会冻伤。"
 	],
 	dependencies: [
 		"759597cf"

@@ -1,10 +1,10 @@
 {
-	title: "This Wifi Signal Sucks",
+	title: "这什么破WiFi",
 	x: 15.5d,
 	y: -1.5d,
-	description: " Yea, no range",
+	description: "不在服务区……",
 	text: [
-		"You're gonna need this for fire internet."
+		"你的余烬网络不能没有它。"
 	],
 	dependencies: [
 		"899a9a02"

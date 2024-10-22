@@ -1,14 +1,13 @@
 {
-	title: "Shield Brother",
+	title: "活体盾牌",
 	x: -35.21428571428572d,
 	y: 4.839285714285715d,
-	description: "Ice for brains",
+	description: "思维僵化……",
 	text: [
-		"This totem will protect you when carried in your Off-Hand.",
+		"当你副手持有护盾图腾时，它会抵消你收到的伤害。",
+		"你所受伤害的百分之25将会转化为它耐久的消耗。",
 		"",
-		"25% of damage dealt to you is taken by the shield instead.",
-		"",
-		"The shield will protect you from a single fatal blow, but gives no other protections afterwards."
+		"如果你单次受到的伤害过高，盾牌会即刻破碎，帮你抵消这一次伤害。"
 	],
 	size: 1.5d,
 	tasks: [{

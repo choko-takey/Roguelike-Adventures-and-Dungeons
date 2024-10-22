@@ -1,16 +1,16 @@
 {
-	title: "CAUTION: WET",
+	title: "小心 地 滑",
 	x: -2.0d,
 	y: 10.5d,
-	description: "But it's stone?!",
+	description: "但它是石头？！",
 	text: [
-		"It's SMOOTH stone.",
+		"这是平滑石头。",
 		"",
-		"No, it's just stone with lube on it.",
+		"不，只是涂了润滑油的石头。",
 		"",
-		"GO CRAZY!",
+		"疯狂！",
 		"",
-		"(Entities which slide on this stone DO NOT lose velocity)"
+		"（在这块石头上滑动不会停下来）"
 	],
 	tasks: [{
 		uid: "47ca0537",

@@ -1,14 +1,14 @@
 {
-	title: "Horses Love the Color Blue",
+	title: "马儿喜欢蓝色",
 	x: 12.0d,
 	y: -4.5d,
-	description: "It makes them calm",
+	description: "这使它们冷静",
 	text: [
-		"JK I don't know a DAMN thing about horses.",
+		"JK，我对马一点都不了解。",
 		"",
-		"And I'm DEATHLY allergic to them.",
+		"而且我对它们过敏，致命的。",
 		"",
-		"Go feed them this sussy apple tho. Maybe they'll like it."
+		"去喂它们吃这个小苹果吧。也许它们会喜欢它。"
 	],
 	tasks: [{
 		uid: "2fa83fe9",

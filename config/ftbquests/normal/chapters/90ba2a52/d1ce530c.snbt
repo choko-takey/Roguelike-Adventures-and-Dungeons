@@ -1,10 +1,10 @@
 {
-	title: "Queen Quiller",
+	title: "女王杀手",
 	x: -2.0d,
 	y: 3.0d,
-	description: "See, that was a good one",
+	description: "看，这头衔挺不错的",
 	text: [
-		"Slay 5 Valkyrie Queens."
+		"击杀5只武神女王。"
 	],
 	can_repeat: true,
 	tasks: [{

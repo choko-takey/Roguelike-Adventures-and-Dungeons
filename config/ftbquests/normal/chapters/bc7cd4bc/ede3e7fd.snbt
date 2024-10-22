@@ -1,13 +1,13 @@
 {
-	title: "Hotbar pets?",
+	title: "快捷栏宠物？",
 	x: 0.0d,
 	y: 2.0d,
 	shape: "rsquare",
-	description: "Yes hotbar pets",
+	description: "是的，快捷栏宠物",
 	text: [
-		"For inventory pets to activate they have to be in your hotbar.",
+		"为了激活背包宠物，它们必须在你的快捷栏中。",
 		"",
-		"Don't ask me why it's called inventory pets."
+		"别问我为什么叫背包宠物。"
 	],
 	tasks: [{
 		uid: "9a097380",

@@ -1,15 +1,15 @@
 {
-	title: "Build a Bridge Workshop!",
+	title: "搭建桥梁工坊！",
 	icon: "ropebridge:bridge_builder",
 	x: 3.5d,
 	y: -4.5d,
-	description: "Ladders too!",
+	description: "加上梯子！",
 	text: [
-		"Builds bridges and ladders when holding and releasing Right-Click at a distance.",
+		"在远处可用长按右键后松开搭建桥和梯子。",
 		"",
-		"Requires Wooden Slabs and Rope to be used.",
+		"使用时会消耗台阶和绳子。",
 		"",
-		"Has limitations."
+		"有一定的局限。"
 	],
 	dependencies: [
 		"b325bb25"

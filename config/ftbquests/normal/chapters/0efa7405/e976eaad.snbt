@@ -1,10 +1,11 @@
 {
-	title: "Lamp That Places More Lamps?",
+	title: "狂野闪耀之灯？",
 	x: 0.5d,
 	y: 3.25d,
-	description: "Theres more light for some reason",
+	description: "因为某种很神秘的原因所以更亮了",
 	text: [
-		"An Arcane Lamp places more light sources within 16 blocks away if its dark enough to spawn monsters."
+		"奥术灯会在半径16格内放置隐形光源，确保亮度不会刷出怪物。",
+		"（说白了就是3*3区块照明）"
 	],
 	dependencies: [
 		"187ba0b2"

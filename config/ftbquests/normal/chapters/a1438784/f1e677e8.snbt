@@ -1,10 +1,10 @@
 {
-	title: "My Birthstone Is Pearl",
+	title: "我自珍珠中降生",
 	x: 7.0d,
 	y: 2.0d,
-	description: "So lame...",
+	description: "这也太逊了……",
 	text: [
-		"Is that even a stone?!"
+		"它甚至都不是一块石头啊！"
 	],
 	hide: true,
 	size: 1.5d,

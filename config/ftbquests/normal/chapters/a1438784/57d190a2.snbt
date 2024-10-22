@@ -1,14 +1,14 @@
 {
-	title: "Silencing the Speaker",
+	title: "沉默吧，日语者！",
 	x: 0.0d,
 	y: 13.0d,
-	description: "They always talked too much anyways",
+	description: "无所谓，他们本来话就多",
 	text: [
-		"You have no heart, do you?",
+		"你是不是没心没肺啊你？",
 		"",
-		"Well, I guess you do now.",
+		"哼，你自己心里清楚。",
 		"",
-		"Grinds into Blaze Powder at Querns."
+		"可以在手推石磨上磨成烈焰粉。"
 	],
 	dependencies: [
 		"b27aa160"

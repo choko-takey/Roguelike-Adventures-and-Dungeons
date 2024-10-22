@@ -1,12 +1,12 @@
 {
-	title: "Where's My Mechanical User!",
+	title: "我的使用者在哪！",
 	x: 19.5d,
 	y: -2.0d,
-	description: "Give it back!",
+	description: "把它还回来！",
 	text: [
-		"Wishes in the wind.",
+		"在风中许愿。",
 		"",
-		"These blocks should still be mighty useful though."
+		"但愿这些方块仍然非常有用。"
 	],
 	dependencies: [
 		"ffdb1cd1"

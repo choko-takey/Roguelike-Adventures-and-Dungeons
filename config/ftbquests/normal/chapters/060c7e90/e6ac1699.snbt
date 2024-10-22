@@ -1,10 +1,10 @@
 {
-	title: "Bombs Away!",
+	title: "投弹时间！",
 	x: -7.0d,
 	y: 9.5d,
-	description: "Dangerous magic!",
+	description: "危险的魔法！",
 	text: [
-		"These bombs are for the Wizard who REALLY can't get his spells down."
+		"这些炸弹是在那些巫师走投无路之下的无奈之选。"
 	],
 	dependencies: [
 		"aa64e1f7"

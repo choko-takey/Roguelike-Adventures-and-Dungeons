@@ -1,12 +1,12 @@
 {
-	title: "Spartans... !",
+	title: "斯巴达……！",
 	x: -2.5d,
 	y: -4.0d,
-	description: "Shield wall!",
+	description: "盾墙！",
 	text: [
-		"The spear has extended reach.",
+		"这些长矛有更长的攻击范围。",
 		"",
-		"Use it against your foes' short t-rex arms."
+		"用它来对付敌人的小短手。"
 	],
 	dependencies: [
 		"a4636105"

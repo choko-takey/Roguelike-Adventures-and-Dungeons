@@ -1,10 +1,10 @@
 {
-	title: "Vampiric Drip",
+	title: "轻盈的吸血鬼",
 	x: -6.0d,
 	y: -2.5d,
-	description: "Let me brood in peace",
+	description: "让我做一个安静的沉思者",
 	text: [
-		"The final part of becoming a real vampire is having a cloak so you can always look mysterious."
+		"成为一名真正吸血鬼的最后一步是拥有一件自己的披风，让你显得更加神秘。"
 	],
 	dependencies: [
 		"90a84a0f"

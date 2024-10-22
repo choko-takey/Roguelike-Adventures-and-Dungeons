@@ -1,10 +1,10 @@
 {
-	title: "Jussstttt Right",
+	title: "刚刚刚刚刚好",
 	x: -13.0d,
 	y: -4.5d,
-	description: "Now you know where you're going!",
+	description: "现在你知道你要去哪！",
 	text: [
-		"Can be used to change the direction of arrows on your signpost. Calibrated version can be used to automatically select a block coordinate for the sign to point to, allowing for precision guidance."
+		"用于改变路标箭头指向。校准版本可以自动协调选择一个方块去指向，可以精确指向。"
 	],
 	or_tasks: true,
 	tasks: [{

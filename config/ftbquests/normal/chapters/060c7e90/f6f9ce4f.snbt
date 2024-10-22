@@ -1,10 +1,10 @@
 {
-	title: "Warrior 101",
+	title: "战士101",
 	x: -15.75d,
 	y: 15.5d,
-	description: "How to fight with your fists!",
+	description: "口瓜！是甘道夫！快退口牙！",
 	text: [
-		"Just kidding, we use swords in this school!"
+		"开个玩笑，不会用剑的法师怎么可能是好法师呢？"
 	],
 	dependencies: [
 		"f689a0cb"

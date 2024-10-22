@@ -1,10 +1,10 @@
 {
-	title: "How Many Golems Does It Take to Change a Mantle Bulb?",
+	title: "那些魔像是怎么扔火球的？",
 	x: 33.0d,
 	y: 7.0d,
-	description: "I don't know, I'm not an engineer...",
+	description: "我不到啊？我又不是工程师……",
 	text: [
-		"This mod makes me wish I stayed in college."
+		"这个破模组让我感觉我在上大学……"
 	],
 	dependencies: [
 		"fe8f99b6"

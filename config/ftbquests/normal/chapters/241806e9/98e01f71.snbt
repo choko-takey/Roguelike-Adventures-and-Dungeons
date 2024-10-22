@@ -1,10 +1,10 @@
 {
-	title: "Powder Keg Go BOOM",
+	title: "火药桶马上爆炸",
 	x: 6.0d,
 	y: 0.5d,
-	description: "Shakalaka",
+	description: "沙卡拉卡",
 	text: [
-		"Like TnT.... ;)"
+		"就像……TnT…… ;)"
 	],
 	tasks: [{
 		uid: "a215a9b6",

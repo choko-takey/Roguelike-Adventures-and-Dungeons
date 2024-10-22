@@ -1,10 +1,10 @@
 {
-	title: "Gift of Neptune",
+	title: "海神的礼物",
 	x: 20.0d,
 	y: 3.0d,
-	description: "The God of the Waters has been kind",
+	description: "海神一直很善良",
 	text: [
-		"Does not deal very much melee damage, but will devastate enemies when thrown."
+		"不会造成太多近战伤害，但在投掷时会摧毁敌人。"
 	],
 	tasks: [{
 		uid: "f17d87d6",

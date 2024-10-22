@@ -1,13 +1,13 @@
 {
-	title: "8 Legged Freaks",
+	title: "8腿怪人",
 	icon: "minecraft:web",
 	x: 0.0d,
 	y: -5.5d,
-	description: "Freaky Deaky",
+	description: "疯狂玩弹家",
 	text: [
-		"Kill 25 Cave Spiders.",
-		"OR",
-		"Kill 25 Regular Spiders"
+		"击杀25只洞穴蜘蛛",
+		"或者",
+		"击杀25只蜘蛛"
 	],
 	can_repeat: true,
 	or_tasks: true,

@@ -1,9 +1,9 @@
 {
 	x: 0.0d,
 	y: -17.0d,
-	description: "That stuff that makes cars go fast, right?",
+	description: "那能使汽车跑得更快，对吗？",
 	text: [
-		"Craft some Octine Seeds."
+		"制作一些炽炎铁种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

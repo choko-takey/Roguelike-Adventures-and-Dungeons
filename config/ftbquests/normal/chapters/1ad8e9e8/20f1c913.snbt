@@ -1,14 +1,14 @@
 {
-	title: "The Great Voodini!",
+	title: "伟大的巫毒术士！",
 	x: -14.0d,
 	y: 6.0d,
-	description: "He didn't die, he's just a tree",
+	description: "它并没有死，它只是一棵树",
 	text: [
-		"His magic tricks were never his final form!",
+		"它的魔术技俩并不是它的绝招！",
 		"",
-		"Place Wisps around a Spirit Tree until it's big and strong.",
+		"在灵魂树周围放置鬼火，直到它变得又大又壮。",
 		"",
-		"Then kill it"
+		"然后击杀它"
 	],
 	dependencies: [
 		"7d21147d"

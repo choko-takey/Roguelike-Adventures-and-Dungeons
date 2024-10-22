@@ -1,11 +1,11 @@
 {
-	title: "Fire Power",
+	title: "火力全开！",
 	icon: "embers:ember_cluster",
 	x: 29.5d,
 	y: 4.5d,
-	description: "Quite literally, too",
+	description: "各种意义上的",
 	text: [
-		"You're going to need to obtain some of these bad boys for some of the best items in the mod!"
+		"接下来，你将体会余烬中最为刺激，最为有趣，最为高级的东西！"
 	],
 	dependencies: [
 		"0cb962a9"

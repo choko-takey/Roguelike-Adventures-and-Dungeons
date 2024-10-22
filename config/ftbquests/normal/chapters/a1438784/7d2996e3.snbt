@@ -1,10 +1,10 @@
 {
-	title: "String, Glorious String!",
+	title: "线，光荣的线啊！",
 	x: 1.0d,
 	y: 10.0d,
-	description: "I'm always so low",
+	description: "我就是这么土！",
 	text: [
-		"This item will turn Pelts and Flax into String."
+		"这个物品可以将亚麻（兼容潘马森农场）或碎布制作成亚麻线，",
 	],
 	dependencies: [
 		"b27aa160"

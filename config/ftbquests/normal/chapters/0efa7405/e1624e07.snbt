@@ -1,12 +1,12 @@
 {
-	title: "Creative Mode with Gravity",
+	title: "部分创造模式能力",
 	x: 6.5d,
 	y: -4.5d,
-	description: "Health and hunger, gone",
+	description: "恢复饥饿值和血量",
 	text: [
-		"The yellow pulsing Verdant Heart Charm heals you.",
+		"再生翠心指环会缓慢回复你的生命值。",
 		"",
-		"The blue pulsing Verdant Heart Charm feeds you and gives you air underwater."
+		"续航翠心指环会恢复你的饥饿值和氧气值。"
 	],
 	dependencies: [
 		"9e943e03"

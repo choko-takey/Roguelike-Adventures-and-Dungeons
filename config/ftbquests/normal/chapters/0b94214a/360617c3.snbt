@@ -1,9 +1,9 @@
 {
 	x: -4.0d,
 	y: -9.0d,
-	description: "How do I harvest this?",
+	description: "我怎样才能收获它？",
 	text: [
-		"Craft some Fire Seeds."
+		"制作一些火种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

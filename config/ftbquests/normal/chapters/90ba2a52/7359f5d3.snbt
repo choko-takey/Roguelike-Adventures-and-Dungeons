@@ -1,15 +1,15 @@
 {
-	title: "Shiny Scale Seller (Sea Sirens)",
+	title: "闪亮的鳞片出售（塞壬）",
 	x: 16.0d,
 	y: -5.5d,
 	text: [
-		"Sell your unwanted Shiny Scales.",
+		"卖掉你不想要的闪亮鳞片。",
 		"",
-		"Submit ONE stack of Shiny Scales at a time to complete this quest.",
+		"一次提交半组闪光鳞片以完成此任务。",
 		"",
-		"Collect the reward after each completion.",
+		"每次完成后领取奖励。",
 		"",
-		"You will not receive rewards for more than one stack submission at a time."
+		"一次提交多组不会获得奖励。"
 	],
 	can_repeat: true,
 	tasks: [{

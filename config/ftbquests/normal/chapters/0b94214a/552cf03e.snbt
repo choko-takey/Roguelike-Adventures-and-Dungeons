@@ -1,10 +1,10 @@
 {
-	title: "Tier 5 Inferium Seeds",
+	title: "终极精华种子",
 	x: 7.5d,
 	y: -1.5d,
-	description: "Grows a lot.",
+	description: "多种一点。",
 	text: [
-		"Craft Tier 5 Inferium Seeds."
+		"制作终极精华种子。"
 	],
 	dependencies: [
 		"f2d105e0"

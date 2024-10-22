@@ -1,10 +1,10 @@
 {
-	title: "Are You Allergic to Anything?",
+	title: "你是过敏性体质吗？",
 	x: 21.0d,
 	y: -1.0d,
-	description: "Peanuts, Shellfish, Nuts, and Red Meat.",
+	description: "像是花生啊，海鲜啊，坚果啊，肉类啊之类的",
 	text: [
-		"You poor soul."
+		"可怜的娃，摸摸头。"
 	],
 	dependencies: [
 		"271fdf51"

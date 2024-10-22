@@ -1,14 +1,14 @@
 {
-	title: "NAT 20",
+	title: "20面骰",
 	x: 7.5d,
 	y: -9.5d,
-	description: "BOO YAH",
+	description: "开赌！",
 	text: [
-		"But the max on this dice is a 6?",
+		"但骰子最大的一面也只有6？",
 		"",
-		"Okay buddy.",
+		"好吧朋友。",
 		"",
-		"Does not output a signal. Likely only used for fun."
+		"不会输出红石信号，也许只能拿来娱乐。"
 	],
 	tasks: [{
 		uid: "7ce9e5ff",

@@ -1,9 +1,9 @@
 {
 	x: 4.0d,
 	y: -10.0d,
-	description: "Pure know-how",
+	description: "纯粹的技术诀窍",
 	text: [
-		"Craft some Experience Seeds... somehow."
+		"制作一些经验种子……以某种方式。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

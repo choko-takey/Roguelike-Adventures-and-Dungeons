@@ -1,14 +1,14 @@
 {
-	title: "Squid Glass",
+	title: "鱿鱼玻璃",
 	x: 3.5d,
 	y: 6.5d,
 	description: "GO GO GO GO GO",
 	text: [
-		"The collision for this glass will turn off for 3 seconds when given a Redstone signal.",
+		"会在接收到红石信号的三秒钟内失去碰撞体积。",
 		"",
-		"After 3 seconds, it will return solid.",
+		"三秒钟后将恢复碰撞体积。",
 		"",
-		"Trigger Glass will activate other conneted Trigger Glass, making a single Redstone signal enough to trigger all connected blocks."
+		"与之相邻的感知玻璃也会因为其中一个收到红石信号而失去碰撞体积。"
 	],
 	tasks: [{
 		uid: "c288f869",

@@ -1,12 +1,12 @@
 {
-	title: "Micheladas!",
+	title: "米琪拉达酱！",
 	x: -2.5d,
 	y: -8.0d,
-	description: "That's not a michelada, John!",
+	description: "这不是米琪拉达酱，哥们！！",
 	text: [
-		"Ooh it's kinda spicy!",
+		"哦，它尝起来有点辣！",
 		"",
-		"Obtain the Infernal Chalice from the Shop."
+		"在商店中购买炼狱圣杯。"
 	],
 	tasks: [{
 		uid: "db966b24",

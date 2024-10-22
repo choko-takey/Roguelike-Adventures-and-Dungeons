@@ -1,18 +1,18 @@
 {
-	title: "The Darkest Ages",
+	title: "最黑暗的时代",
 	x: 2.0d,
 	y: -3.0d,
-	description: "When you close your blinds",
+	description: "当你拉上百叶窗",
 	text: [
-		"Obtain an Iron Ingot.",
+		"获得一个铁锭。",
 		"",
-		"Then, maybe, obtain MANY Iron Ingots.",
+		"然后，也许，更多铁锭。",
 		"",
-		"As many as you possibly can.",
+		"越多越好。",
 		"",
-		"And stow them away.",
+		"把它们藏起来。",
 		"",
-		"Covet them.",
+		"小心被盯上。",
 		""
 	],
 	dependencies: [

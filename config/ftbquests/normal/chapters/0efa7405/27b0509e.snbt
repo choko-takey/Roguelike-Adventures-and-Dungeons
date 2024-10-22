@@ -1,12 +1,13 @@
 {
-	title: "Charm of Undying",
+	title: "不死护符",
 	x: 6.0d,
 	y: -3.5d,
-	description: "Keeps your other hand empty",
+	description: "空出一只手来",
 	text: [
-		"For other tools and torches.",
+		"这样你就可以拿别的东西了，比如火把",
 		"",
-		"Functions like a Totem of Undying, but works in your baubles instead."
+		"基本上和不死图腾差不多，但是可以装在饰品栏。",
+		"（评价是不如生命符咒）"
 	],
 	dependencies: [
 		"9e943e03"

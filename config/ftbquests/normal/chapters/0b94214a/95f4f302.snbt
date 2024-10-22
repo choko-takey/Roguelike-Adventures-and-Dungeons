@@ -1,9 +1,9 @@
 {
 	x: -0.5d,
 	y: -12.0d,
-	description: "Why would you even GROW THIS?",
+	description: "你为什么要种这个？",
 	text: [
-		"Craft some Creeper Seeds."
+		"制作一些爬行者种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

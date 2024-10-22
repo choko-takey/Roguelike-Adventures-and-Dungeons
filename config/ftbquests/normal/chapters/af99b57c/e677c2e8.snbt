@@ -1,9 +1,9 @@
 {
-	title: "Ammunition",
+	title: "弹药",
 	x: -2.0d,
 	y: 8.5d,
 	text: [
-		"Arrow Clips are used as ammo for semi automatic crossbows."
+		"箭夹是机弩和强化机弩的弹药。"
 	],
 	dependencies: [
 		"7499918d",

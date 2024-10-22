@@ -1,18 +1,18 @@
 {
-	title: "Getting Where You Need to Be",
+	title: "到达你需要到达的地方",
 	x: -0.5d,
 	y: -14.0d,
-	description: "But not when you don't know where you're going",
+	description: "但当你不知道你要去哪里的时候",
 	text: [
-		"With these pipes, you're never going to know where anything is.",
+		"用这些管道，你永远不知道任何东西在哪里。",
 		"",
-		"You're only going to know where it's supposed to end up.",
+		"你只会知道它应该在哪结束。",
 		"",
-		"But it won't be there, either.",
+		"但它也不会在那里。",
 		"",
-		"These pipes work great.",
+		"这些管道运行得很好。",
 		"",
-		"Goodluck and have fun!"
+		"祝你好运，玩得开心！"
 	],
 	dependencies: [
 		"80f9d45b"

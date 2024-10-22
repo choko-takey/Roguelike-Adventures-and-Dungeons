@@ -1,12 +1,12 @@
 {
-	title: "Indiana Bones",
+	title: "印第安纳·骨斯",
 	x: -12.5d,
 	y: 7.5d,
-	description: "He's dead. My hat now.",
+	description: "他已经死了。就在我的帽子这",
 	text: [
-		"Big come up.",
+		"大的要来了。.",
 		"",
-		"New hat."
+		"新帽子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

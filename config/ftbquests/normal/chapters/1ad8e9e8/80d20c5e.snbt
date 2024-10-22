@@ -1,12 +1,12 @@
 {
-	title: "Tarfriend",
+	title: "焦油朋友",
 	x: 5.0d,
 	y: -4.0d,
-	description: "Your new pal",
+	description: "你的新朋友",
 	text: [
-		"Animate some tar and create your very own pet from tar!",
+		"用跳动的焦油怪心脏和焦油合成你自己的宠物！",
 		"",
-		"Much less harmful than the Tar Beast counterpart."
+		"比焦油怪的危害小得多。"
 	],
 	dependencies: [
 		"f093e2f7"

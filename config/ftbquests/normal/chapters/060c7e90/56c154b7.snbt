@@ -1,12 +1,12 @@
 {
-	title: "To Kill a Mocking Mage",
+	title: "摧毁一切魔法",
 	x: -1.5d,
 	y: 3.75d,
-	description: "How rude!",
+	description: "粗鲁无比的行为！",
 	text: [
-		"I'll teach you to be a copycat!",
+		"我会教你如何成为一个优秀的猎巫人。",
 		"",
-		"Obtain The Spell Slayer and craft the Devoritium Shield."
+		"现在，制造这把万恶的剑和这面黝黑的盾牌吧。"
 	],
 	dependencies: [
 		"44326244"

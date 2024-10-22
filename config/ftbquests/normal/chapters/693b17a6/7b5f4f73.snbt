@@ -1,16 +1,16 @@
 {
-	title: "Myrmex Massacre",
+	title: "恐蚁磨盘",
 	icon: "iceandfire:myrmex_stinger",
 	x: 0.5d,
 	y: 3.0d,
-	description: "Down with the queen!",
+	description: "打倒女王！",
 	text: [
-		"Squash 25 Myrmex Hives."
+		"粉碎25个恐蚁巢穴。"
 	],
 	tasks: [{
 		uid: "8668791b",
 		type: "kill",
-		title: "Slay 25 Myrmex Queens",
+		title: "击杀25只恐蚁女皇",
 		icon: {
 			id: "minecraft:spawn_egg",
 			tag: {
@@ -25,28 +25,28 @@
 	{
 		uid: "fa7eb73a",
 		type: "kill",
-		title: "Slay 100 Myrmex Workers",
+		title: "击杀100只恐蚁劳工",
 		entity: "iceandfire:myrmex_worker",
 		value: 100L
 	},
 	{
 		uid: "1847b4a1",
 		type: "kill",
-		title: "Slay 75 Myrmex Soldiers",
+		title: "击杀75只恐蚁军士",
 		entity: "iceandfire:myrmex_soldier",
 		value: 75L
 	},
 	{
 		uid: "d2d1d5bd",
 		type: "kill",
-		title: "Slay 50 Myrmex Sentinels",
+		title: "击杀50只恐蚁斥候",
 		entity: "iceandfire:myrmex_sentinel",
 		value: 50L
 	},
 	{
 		uid: "51b4dac2",
 		type: "kill",
-		title: "Slay 25 Myrmex Royals",
+		title: "击杀25只恐蚁皇族",
 		entity: "iceandfire:myrmex_royal",
 		value: 25L
 	}],

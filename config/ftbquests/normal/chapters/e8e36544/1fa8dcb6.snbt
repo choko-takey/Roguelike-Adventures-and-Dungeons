@@ -1,16 +1,16 @@
 {
-	title: "Trap Teleport",
+	title: "陷阱传送",
 	x: 6.5d,
 	y: 11.5d,
-	description: "It's been a trap all along",
+	description: "这一直是一个陷阱",
 	text: [
-		"The Portkey allows you to Right-Click an item, setting a destination.",
+		"用传送钥匙右击物品可以设置目的地。",
 		"",
-		"When you drop the Portkey, it will lay for a few seconds before losing it's enchantment glint.",
+		"当你丢弃传送钥匙时，它会在失去附魔闪烁前停留几秒钟。",
 		"",
-		"When picked up again, it will teleport you to the specified destination you chose before dropping the Portkey.",
+		"当再次捡起时，它会将你传送到你选择的指定目的地，然后再放下传送钥匙。",
 		"",
-		"Kinda like a free \"Get Home\" card."
+		"就像一张免费的“回家”卡。"
 	],
 	dependencies: [
 		"3a19c43c"

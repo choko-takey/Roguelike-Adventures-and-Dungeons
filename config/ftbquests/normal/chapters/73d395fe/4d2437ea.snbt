@@ -1,10 +1,10 @@
 {
-	title: "Tenebrum Tools",
+	title: "致命暗夜金属工具",
 	x: -0.5d,
 	y: 0.0d,
-	description: "These tools have extra flair",
+	description: "这些工具有特别的潜质",
 	text: [
-		"Craft all of the Tenebrum tools."
+		"制作全套致命暗夜工具。"
 	],
 	dependencies: [
 		"018f1c8f"

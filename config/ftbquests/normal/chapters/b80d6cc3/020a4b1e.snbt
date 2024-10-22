@@ -1,12 +1,12 @@
 {
-	title: "The Firey Forge of Flame",
+	title: "狱火重锻",
 	x: 10.5d,
 	y: 6.0d,
-	description: "See, people need to hire me to make item names",
+	description: "瞅瞅，这就是他们要我来给任务起名的原因",
 	text: [
-		"I charge 19.50/hr minimum, 24/7 on-call only.",
+		"时薪19.5刀，24小时全天候工作。",
 		"",
-		"Refer to your Codex for how to work the Inferno Forge."
+		"你问我这东西怎么用？看看法典吧。"
 	],
 	dependencies: [
 		"01059c8d"

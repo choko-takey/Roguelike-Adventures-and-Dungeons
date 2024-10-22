@@ -1,11 +1,11 @@
 {
-	title: "Love at First Sight",
+	title: "一见钟情",
 	icon: "iceandfire:siren_tear",
 	x: 0.5d,
 	y: 1.0d,
-	description: "Now take a second look",
+	description: "现在再看一看",
 	text: [
-		"Slay 50 Sirens."
+		"击杀50只塞壬。"
 	],
 	tasks: [{
 		uid: "2155ee20",

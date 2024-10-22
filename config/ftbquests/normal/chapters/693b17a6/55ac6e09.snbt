@@ -1,15 +1,15 @@
 {
-	title: "Magical Mystical Mythical Magician II",
+	title: "神奇的神秘的神话附魔师 II",
 	x: -4.0d,
 	y: 0.0d,
-	description: "You must exist... enchanting all this crap",
+	description: "你必须继续……附魔这些垃圾",
 	text: [
-		"Enchant 2,500 items."
+		"附魔2500件物品。"
 	],
 	tasks: [{
 		uid: "e1ad11ca",
 		type: "stat",
-		title: "Enchant 2,500 items",
+		title: "附魔2500件物品",
 		icon: "minecraft:enchanting_table",
 		stat: "stat.itemEnchanted",
 		value: 2500

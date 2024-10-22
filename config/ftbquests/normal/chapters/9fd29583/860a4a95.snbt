@@ -1,10 +1,10 @@
 {
-	title: "Terranium Trees",
+	title: "陶瓷中的树",
 	x: -2.5d,
 	y: -7.0d,
-	description: "Best fit for pets; large man-eating ones",
+	description: "最适合的宠物；大型食人宠物",
 	text: [
-		"Collect all of the Saplings available in the Erebus mod."
+		"收集所有能在混沌之地模组获得的树苗。"
 	],
 	dependencies: [
 		"d01b8d01"

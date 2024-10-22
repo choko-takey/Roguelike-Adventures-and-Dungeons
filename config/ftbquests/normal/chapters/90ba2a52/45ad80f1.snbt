@@ -1,12 +1,12 @@
 {
-	title: "Lamb-prey",
+	title: "羔羊猎物",
 	x: 10.0d,
 	y: 9.5d,
-	description: "Poor sheep",
+	description: "可怜的羊",
 	text: [
-		"Wrong monster? Okay.",
+		"错误的怪物？可以",
 		"",
-		"Kill 25 Lamprey."
+		"击杀25只七鳃鳗。"
 	],
 	can_repeat: true,
 	tasks: [{

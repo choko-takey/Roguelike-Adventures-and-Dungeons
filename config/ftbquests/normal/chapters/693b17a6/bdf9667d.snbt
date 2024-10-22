@@ -1,12 +1,12 @@
 {
-	title: "Wizard Wrecker",
+	title: "巫师摧毁者",
 	x: 0.0d,
 	y: -5.5d,
-	description: "Power-hungry, are you?",
+	description: "你饿了吗？",
 	text: [
-		"You can't trade with them if they're dead, but you can steal their wands!",
+		"如果他们死了，你将不能和他们交易，但你可以偷他们的魔杖！",
 		"",
-		"Well, no, you can't do that either."
+		"好吧，你也不能这样做。"
 	],
 	tasks: [{
 		uid: "2551b87d",

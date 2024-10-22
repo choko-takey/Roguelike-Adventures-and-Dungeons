@@ -1,12 +1,12 @@
 {
-	title: "Strike 3",
+	title: "第三次尝试",
 	icon: "vampirism:injection 1 2",
 	x: -11.5d,
 	y: -2.5d,
 	text: [
-		"In case you ended up dying twice while undergoing vampiric transformation.",
+		"防止你两次死于变成吸血鬼的过程中。",
 		"",
-		"Here's your third chance don't mess it up."
+		"这是你的第三次机会，别搞砸了。"
 	],
 	dependencies: [
 		"74e13f71"

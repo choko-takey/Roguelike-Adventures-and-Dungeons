@@ -1,11 +1,11 @@
 {
-	title: "Barrishee Banisher",
+	title: "喷火魔兽猎杀者",
 	icon: "thebetweenlands:rune_door_key",
 	x: 4.5d,
 	y: -1.0d,
-	description: "Back to the depths!",
+	description: "回到深处！",
 	text: [
-		"Slay 25 Barrishee in Sludgeons found in the Betweenlands."
+		"在交错次元的泥沼地牢中杀死25只喷火魔兽。"
 	],
 	tasks: [{
 		uid: "fe236b67",

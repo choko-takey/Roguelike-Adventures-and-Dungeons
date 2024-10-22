@@ -1,12 +1,12 @@
 {
-	title: "African Honey Bee Honey",
+	title: "非洲蜜蜂蜂蜜",
 	x: -1.5d,
 	y: 4.5d,
-	description: "The sweetest you'll ever find",
+	description: "这是你找到最甜的",
 	text: [
-		"The Honeycomb can be crushed in a Crushing Tub to produce Honey.",
+		"蜂巢能在压榨木盆中挤压出蜂蜜。",
 		"",
-		"You must transfer the Honey by hand, or with some type of piping system."
+		"你可以手动或用管道运走蜂蜜。"
 	],
 	dependencies: [
 		"f1310661"

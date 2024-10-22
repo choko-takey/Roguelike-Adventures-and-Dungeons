@@ -1,12 +1,12 @@
 {
-	title: "You're So Pushy!",
+	title: "你太爱出风头了！",
 	x: 5.0d,
 	y: -10.5d,
-	description: "Go means go!",
+	description: "Go就是翻滚吧牛宝宝！",
 	text: [
-		"These conveyors will move item entities along the line at varying speeds.",
+		"传送带沿着线用不同的速度运输物品实体。",
 		"",
-		"Use them to transport the meat your cows drop after they're killed in your Butchery, or something. Idk."
+		"用它运送屠宰场掉落的牛肉。我不知道。"
 	],
 	tasks: [{
 		uid: "96e5ad19",

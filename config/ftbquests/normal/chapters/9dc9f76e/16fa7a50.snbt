@@ -1,10 +1,10 @@
 {
-	title: "The First Tools",
+	title: "第一个工具",
 	x: 2.5d,
 	y: -5.0d,
-	description: "The Fire before Fire",
+	description: "熔岩前的火",
 	text: [
-		"This will surely get you where you're going! "
+		"这一定能带你向前！"
 	],
 	dependencies: [
 		"b325bb25"

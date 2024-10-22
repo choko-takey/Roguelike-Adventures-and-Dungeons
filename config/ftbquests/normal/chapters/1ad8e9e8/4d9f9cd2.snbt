@@ -1,12 +1,12 @@
 {
-	title: "Gecko No Like-O",
+	title: "壁虎不喜欢你",
 	x: 6.0d,
 	y: 4.0d,
-	description: "He just wanted to save you 15%",
+	description: "他只是想给你节省15%",
 	text: [
-		"Craft a Gecko Cage.",
+		"合成一个壁虎笼子。",
 		"",
-		"What are you gonna name him?"
+		"你想怎么给它取名？"
 	],
 	dependencies: [
 		"b8216d73"

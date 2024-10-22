@@ -1,10 +1,10 @@
 {
-	title: "May the Forest Protect You",
+	title: "愿森林庇护你",
 	x: -1.0d,
 	y: 9.5d,
-	description: "You have splinters, everywhere",
+	description: "你身上到处都是碎片",
 	text: [
-		"Craft protection from Ironwood."
+		"用铁树锭制作护甲。"
 	],
 	dependencies: [
 		"3ce74e84"

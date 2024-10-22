@@ -1,16 +1,16 @@
 {
-	title: "Skull Seller (Dragons)",
+	title: "头骨出售（龙）",
 	x: 16.0d,
 	y: -7.5d,
-	description: "Skulls here, get your skulls here!",
+	description: "头骨在这里，把你的头骨拿过来！",
 	text: [
-		"Sell your unwanted Dragon Skulls.",
+		"卖掉你不想要的龙头骨。",
 		"",
-		"Submit ONE Dragon Skull at a time to complete this quest.",
+		"每次提交一种龙头骨以完成此任务。",
 		"",
-		"Collect the reward after each completion.",
+		"每次完成后领取奖励.",
 		"",
-		"You will not receive rewards for more than one item submission at a time."
+		"一次提交多种不会获得奖励。"
 	],
 	can_repeat: true,
 	or_tasks: true,

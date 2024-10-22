@@ -1,12 +1,12 @@
 {
-	title: "Papes on Papes on Papyrus",
+	title: "纸莎草纸上的帕派瑞斯",
 	x: -3.0d,
 	y: 0.5d,
-	description: "I got paper stacks!",
+	description: "我有一堆纸！",
 	text: [
-		"Scrolls to the ceiling! Whatchu know about that son?",
+		"卷轴的天花板！你知道什么是杉斯吗？",
 		"",
-		"This parchment seems to hold magic better than other forms of writing paper."
+		"这种羊皮纸似乎比其他形式的纸更有魔力。"
 	],
 	dependencies: [
 		"d6d462e3"

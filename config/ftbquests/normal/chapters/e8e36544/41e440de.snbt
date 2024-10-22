@@ -1,12 +1,12 @@
 {
-	title: "Back to the... Present?",
+	title: "时光……倒流！",
 	x: -35.21428571428572d,
 	y: 3.0892857142857224d,
-	description: "We didn't go anywhere?",
+	description: "我们这不是哪都没去吗？？！",
 	text: [
-		"In time, no. In space, yes.",
+		"我不是说时间穿梭……是远程折越……",
 		"",
-		"This item can be bound to a location by Right-Clicking. When it is Right-Clicked again, it will be used, and teleport you to the bound location."
+		"这个图腾在你第一次右击时会记录方块位置，第二次右击时会把你传送到这。"
 	],
 	tasks: [{
 		uid: "eeb31e3e",

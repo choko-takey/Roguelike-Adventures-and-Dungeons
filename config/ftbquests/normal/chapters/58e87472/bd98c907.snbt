@@ -1,16 +1,16 @@
 {
-	title: "Golden Danger Door!",
+	title: "危险的金门！",
 	x: -8.0d,
 	y: -7.5d,
-	description: "What is this used for?",
+	description: "这用于什么？",
 	text: [
-		"I literally have no idea what the uses for this Door could be.",
+		"我简直不知道这个门有什么用。",
 		"",
-		"BUT, the Door does what it says it will. It will keep whichever Pocket it is inside of, loaded.",
+		"但是，门会按它说的做。它将保持它里面的任何口袋加载。",
 		"",
-		"Upon entering the Golden Door, players are transported to a Dimension Doors Dungeon.",
+		"进入金门后，玩家会被传送到一个次元门地牢。",
 		"",
-		"The Golden Dimension Door does NOT produce blank Pockets for players to build inside of."
+		"金制次元门不会产生空白的口袋供玩家在里面建造。"
 	],
 	dependencies: [
 		"32b4735a"

@@ -1,14 +1,14 @@
 {
-	title: "Classic Portal to Bugland",
+	title: "通往虫子世界的经典传送门",
 	x: -1.5d,
 	y: -8.0d,
-	description: "This is NOT \"Classic\" John",
+	description: "这不是“经典的” 约翰",
 	text: [
-		"Your portal should be shaped like any normal portal. It can be of varying sizes as well. Stone Bricks with the Leaves inside.",
+		"你的传送门的形状应该像任何普通的传送门一样。它也可以有不同的大小。外面的石砖包裹着里面的树叶。",
 		"",
-		"Place your Altar near your Portal, or in front, rather; then place your Scepter into the Altar.",
+		"将祭坛放置在传送门附近，或者前面，无所谓；然后将你的权杖放进祭坛中。",
 		"",
-		"BOOM! BUGLAND!"
+		"彭! 虫世界！"
 	],
 	dependencies: [
 		"17b1c4d4"
@@ -16,7 +16,7 @@
 	tasks: [{
 		uid: "6257a700",
 		type: "item",
-		title: "Any vanilla leaves",
+		title: "任意树叶",
 		items: [{
 			item: "minecraft:leaves"
 		},

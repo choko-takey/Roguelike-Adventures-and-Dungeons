@@ -1,12 +1,12 @@
 {
-	title: "You Don't Understand How Fast I Really Am",
+	title: "你不知道我到底有多快。",
 	x: 2.0d,
 	y: -14.5d,
-	description: "I'm fast as %&#@",
+	description: "我快如 %&#@",
 	text: [
-		"Obtain the Agility Boots.",
+		"获得敏捷之靴。",
 		"",
-		"They allow to runner to step up one-block heights, and run faster."
+		"穿戴后自动爬升一格高度并且跑的更快。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

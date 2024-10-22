@@ -1,10 +1,10 @@
 {
-	title: "Temporal Traveler",
+	title: "时空旅人",
 	x: -3.5d,
 	y: -3.0d,
-	description: "Cutting through the space-time-continuity lines",
+	description: "切断时空连续统",
 	text: [
-		"Right-Clicking a Rift with this item in your Mainhand will allow you to travel through the Rift, into its dimension."
+		"在你的主手上拿着这个东西右击裂痕，将让你穿越裂痕，进入它的次元。"
 	],
 	dependencies: [
 		"f5ba5fd8"

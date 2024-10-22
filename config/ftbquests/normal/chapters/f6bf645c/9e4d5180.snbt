@@ -1,11 +1,11 @@
 {
-	title: "Naga No More!",
+	title: "再也没有娜迦！",
 	icon: "twilightforest:trophy",
 	x: 5.25d,
 	y: 1.5d,
-	description: "Because you know, he's dead",
+	description: "你知道的，它已经死了",
 	text: [
-		"Slay a Naga in its maze-like courtyard."
+		"在迷宫一般的娜迦庭院中杀死一只娜迦。"
 	],
 	dependencies: [
 		"12ae72c5"
@@ -14,7 +14,7 @@
 	tasks: [{
 		uid: "1543d1d8",
 		type: "kill",
-		title: "Slay the Naga",
+		title: "杀死一只娜迦",
 		entity: "twilightforest:naga",
 		value: 1L
 	}],

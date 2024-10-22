@@ -1,12 +1,12 @@
 {
-	title: "Down With You, Hag!",
+	title: "打倒你，沼泽怪！",
 	x: -11.5d,
 	y: -1.0d,
-	description: "You were ugly anyways",
+	description: "你本来就很丑",
 	text: [
-		"Obtain the Hag Hacker.",
+		"获得沼泽怪杀手。",
 		"",
-		"This item will instantly kill any Swamp Hags it touches."
+		"这个物品会立即杀死它接触到的沼泽怪。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

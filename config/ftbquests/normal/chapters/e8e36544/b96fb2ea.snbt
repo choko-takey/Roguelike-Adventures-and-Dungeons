@@ -1,16 +1,16 @@
 {
-	title: "Like Moses but with a Hat On",
+	title: "像是带了帽子的摩西",
 	x: 9.0d,
 	y: -9.5d,
-	description: "Instead of splitting the water, we're gonna make more",
+	description: "比起用水桶倒水，这个方法更快",
 	text: [
-		"Crafting the Water Spreader is like unleashing the ocean into a biome by placing a water block down.",
+		"能做出这个水源散播杖就相当于你能把整个大洋的水全部释放到一个生物群系中，只需要倒一桶水。",
 		"",
-		"Use with caution. This thing creates a lot of water.",
+		"用的时候要小心，这个工具能一次生成很多的水。",
 		"",
-		"Pro Tip: It is VERY useful for leveling the surfaces of water like lakes and ponds. This means you can dig your river first, and fill it second.",
+		"提示：这个工具非常适合使湖泊或河流的水平面平齐。这意味着你可以先挖好河流，再填充水源。",
 		"",
-		"Fill it by placing a water source block at the top edge of your river, and spread the water with your Water Spreader."
+		"想要填充整个河流，在河岸边缘倒一桶水，然后用水源散播杖散播水源。"
 	],
 	tasks: [{
 		uid: "09719f6b",

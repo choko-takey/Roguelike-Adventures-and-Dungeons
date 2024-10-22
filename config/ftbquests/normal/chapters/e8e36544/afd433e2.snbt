@@ -1,18 +1,18 @@
 {
-	title: "Teach a Man to Fish?",
+	title: "授人以鱼？",
 	x: 16.0d,
 	y: -10.0d,
-	description: "He'll live forever",
+	description: "不如授人以渔",
 	text: [
-		"Teach a man to automate fishing?",
+		"想要全自动钓鱼？",
 		"",
-		"He'll live forever, still, and so will his kids, and their kids.",
+		"这样一来，不仅是我们，我们的后代都将拥有无穷无尽的鱼...",
 		"",
-		"His business is booming...",
+		"把鱼拿去卖，每年都可以赚他个盆满钵满...",
 		"",
-		"Simply place this Automated Fisher into the water and ensure it has power. It will collect vanilla and modded fish.",
+		"把自动鱼栅放入水中并给它供电，它就能自动收集原版和模组里的鱼。",
 		"",
-		"Placing a good fishing rod into the trap will yield positive effects on your fish harvest."
+		"往里放一根好的鱼竿可以有效提升鱼的产量。"
 	],
 	dependencies: [
 		"ecd41947"

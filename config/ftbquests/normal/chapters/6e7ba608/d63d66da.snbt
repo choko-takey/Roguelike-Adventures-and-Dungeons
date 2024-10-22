@@ -1,10 +1,10 @@
 {
-	title: "Fruity Fellow",
+	title: "卖瓜老板",
 	x: -5.0d,
 	y: -12.5d,
-	description: "He likes the sweet ones",
+	description: "他喜欢甜的",
 	text: [
-		"Collect all the fruits from Tropicraft."
+		"收集热带世界的所有水果"
 	],
 	dependencies: [
 		"f61dcb12"

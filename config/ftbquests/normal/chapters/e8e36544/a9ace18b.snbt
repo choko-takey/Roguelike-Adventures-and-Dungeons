@@ -1,10 +1,10 @@
 {
-	title: "It's Broken!",
+	title: "它坏了！",
 	x: 9.5d,
 	y: 10.5d,
-	description: "But in a good way...",
+	description: "但从好的方面来说……",
 	text: [
-		"Combining a Golden Compass with a Position Filter will make the compass point towards the location on the Position Filter."
+		"将黄金指南针与方位过滤器结合，指南针将指向方位过滤器上的位置。"
 	],
 	tasks: [{
 		uid: "e5da6619",

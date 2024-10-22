@@ -1,20 +1,21 @@
 {
-	title: "Cloud Chaser",
+	title: "追踪云朵的人",
 	icon: "aether_legacy:aercloud",
 	x: 5.0d,
 	y: -17.5d,
-	description: "Yes, the kind of clouds you're thinking",
+	description: "对，是你想的那种云。",
 	text: [
-		"Enter the Aether.",
+		"进入天境。",
 		"",
-		"To create an aether portal make a nether portal structure out of glowstone ",
+		"要制作一个天境传送门，就要用荧石做一个下界传送门的结构。",
 		"",
-		"Then activate it with water."
+		"然后用水激活它。"
+
 	],
 	tasks: [{
 		uid: "062144d0",
 		type: "dimension",
-		title: "Visit The Aether",
+		title: "拜访天境",
 		dim: 4
 	},
 	{

@@ -1,10 +1,10 @@
 {
-	title: "Batter Bandit III",
+	title: "蛋糕大盗 III",
 	x: -13.0d,
 	y: -1.0d,
-	description: "Eat it up!",
+	description: "把它吃光！",
 	text: [
-		"Eat 1,000 slices of cake."
+		"吃掉1000片蛋糕"
 	],
 	tasks: [{
 		uid: "e6c0c97a",

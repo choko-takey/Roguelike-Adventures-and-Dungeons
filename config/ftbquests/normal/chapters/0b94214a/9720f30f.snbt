@@ -1,9 +1,9 @@
 {
 	x: 0.5d,
 	y: -14.0d,
-	description: "Jack be nimble, Jack be quick, Jack was also the Silver Surfer",
+	description: "杰克很灵活，杰克很敏捷，杰克还是银影侠",
 	text: [
-		"Craft some Quicksilver Seeds."
+		"制作一些水银种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

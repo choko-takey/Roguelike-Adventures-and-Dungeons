@@ -1,14 +1,14 @@
 {
-	title: "You're Good, You're Good!",
+	title: "你很棒，你很棒！",
 	x: 17.5d,
 	y: -8.5d,
-	description: "You're good!",
+	description: "你很棒！",
 	text: [
-		"Drop it!",
+		"扔掉它！",
 		"",
-		"The Precise Dropper is a highly configurable dropper.",
+		"精准投掷器是一个可高度配置的投掷器。",
 		"",
-		"Set the Speed, Velocity and more of each item that gets shot through the dropper."
+		"可配置通过精准投掷器发射的物品的投掷延迟、位置和数量。"
 	],
 	dependencies: [
 		"ecd41947"

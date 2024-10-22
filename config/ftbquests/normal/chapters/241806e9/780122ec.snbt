@@ -1,10 +1,10 @@
 {
-	title: "Ever Been to Prison?",
+	title: "进过监狱吗？",
 	x: -0.5d,
 	y: -0.5d,
-	description: "Me neither",
+	description: "我也没有",
 	text: [
-		"Fast."
+		"快如闪电。"
 	],
 	dependencies: [
 		"a4636105"

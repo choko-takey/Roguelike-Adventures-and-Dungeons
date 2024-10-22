@@ -1,10 +1,10 @@
 {
-	title: "Is It Suppose to Grow Dead?",
+	title: "它会死掉吗？",
 	x: 7.0d,
 	y: 1.5d,
-	description: "I don't know man, that doesn't look healthy",
+	description: "我不知道，伙计，这看起来并不健全",
 	text: [
-		"Craft or obtain a Tier 5 Mob Chunk."
+		"制作或获得5级基础怪物灵魂碎片。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

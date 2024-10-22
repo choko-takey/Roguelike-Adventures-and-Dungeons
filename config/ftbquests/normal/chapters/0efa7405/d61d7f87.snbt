@@ -1,12 +1,12 @@
 {
-	title: "Intro to Infusion",
+	title: "注魔简史",
 	x: 8.5d,
 	y: -1.5d,
-	description: "Infused with... MAGIC!",
+	description: "注入……麦击克！",
 	text: [
-		"Infusion is like a complicated crafting table without an interface.",
+		"注魔就像一个大型的，没gui的合成台。",
 		"",
-		"To activate the Runic Matrix, you must right click it with the Caster's Gauntlet."
+		"激活符文矩阵需要你手持法师护手右击……"
 	],
 	dependencies: [
 		"24073d04"

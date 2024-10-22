@@ -1,10 +1,10 @@
 {
-	title: "Shocking!",
+	title: "惊雷！",
 	x: -9.5d,
 	y: 12.5d,
-	description: "Like smashing, but electrified!",
+	description: "一路火花带闪电~",
 	text: [
-		"These robes are sure to shock your foes, with your fashion..."
+		"这套服装绝对能让你的敌人被雷到~"
 	],
 	dependencies: [
 		"6b5d4a07"

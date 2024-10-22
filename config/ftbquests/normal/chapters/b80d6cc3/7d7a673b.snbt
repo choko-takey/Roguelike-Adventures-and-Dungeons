@@ -1,14 +1,14 @@
 {
-	title: "If You Knew Where Every Tool Was",
+	title: "如果你知道收拾屋子……",
 	x: 5.5d,
 	y: -3.5d,
-	description: "No man does... No man...",
+	description: "没人会的……没人会……",
 	text: [
-		"If you do, you're no man.",
+		"如果你这么做了，恭喜你被开除人籍~",
 		"",
-		"You're an alien.",
+		"你现在是外星人咯。",
 		"",
-		"Or you have like 10 tools. Again, not a man."
+		"或者说你有10个或者以上的工具，同样的，你也不是人咯~"
 	],
 	dependencies: [
 		"322bb351"

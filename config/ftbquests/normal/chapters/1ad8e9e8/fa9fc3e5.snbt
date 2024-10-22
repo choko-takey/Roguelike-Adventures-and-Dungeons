@@ -1,12 +1,12 @@
 {
-	title: "Aim Like the Predator",
+	title: "像捕食者一样瞄准",
 	x: -12.5d,
 	y: -2.0d,
-	description: "It's in your sights...",
+	description: "你看见它们了……",
 	text: [
-		"Obtain the Predator Bow.",
+		"获得捕食者弓。",
 		"",
-		"This bow aids the user in the firing of arrows by slightly homing them onto mobs in their sight."
+		"在射箭时，这把弓可以帮助使用者轻微的自瞄视线中的生物。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

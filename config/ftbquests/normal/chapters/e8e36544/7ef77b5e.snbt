@@ -1,19 +1,19 @@
 {
-	title: "Watching You Watch Me",
+	title: "看着你看着我",
 	icon: "randomthings:redstoneobserver",
 	x: 3.0d,
 	y: 5.0d,
-	description: "So a staring contest?",
+	description: "所以是凝视比赛？",
 	text: [
-		"The Redstone Observer will emit a Redstone signal when the block it is linked to emits a Redstone signal.",
+		"当所链接的方块发出红石信号时，红石观测仪将发出红石信号。",
 		"",
-		"In order to link your Observer to a block, or a Redstone signal output, like a Lever, you will need a Redstone Tool.",
+		"为了将观测仪链接到一个方块或一个红石信号输出，如拉杆，你需要一个红石工具。",
 		"",
-		"Right-Click your Observer, then Right-Click the block you wish to link it to.",
+		"右击观测仪，然后右击要链接的方块。",
 		"",
-		"You should see a red line between linked blocks when holding a Redstone Tool.",
+		"当手握红石工具时，你应该看到方块之间有一条红线。",
 		"",
-		"You cannot unlink blocks. You must destroy the Observer, and relink it."
+		"你不能解除方块链接。你必须拆除观测仪，重新连接。"
 	],
 	tasks: [{
 		uid: "18fb17c4",

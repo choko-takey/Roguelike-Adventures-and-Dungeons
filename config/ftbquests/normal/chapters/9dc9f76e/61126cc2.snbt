@@ -1,12 +1,12 @@
 {
-	title: "Bauble Head!",
+	title: "头部饰品！",
 	x: 7.5d,
 	y: -7.0d,
-	description: "Stats were never more meaningful!",
+	description: "统计数据从未如此有意义！",
 	text: [
-		"These can be reforged at the Reforging Station. There are many different qualities and effects. Check them all out! These are to be equipped in the appropriate Bauble slot to gain the effect.",
+		"这些能在锻造台中重铸。有许多不同的品质和效果。都看一遍！这些需要装备在饰品槽中才能获得效果。",
 		"",
-		"Cannot be enchanted."
+		"不能附魔。"
 	],
 	dependencies: [
 		"2352b3e3"

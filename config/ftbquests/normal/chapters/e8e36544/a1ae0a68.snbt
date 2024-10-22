@@ -1,12 +1,12 @@
 {
-	title: "I Keep That Thang on Me",
+	title: "我身上总带着那玩意儿",
 	x: 16.5d,
 	y: 7.5d,
-	description: "Even when I'm dead!",
+	description: "即使我死了！",
 	text: [
-		"The Spectral Anchor can be combined with an item in your crafting grid to give it the \"Anchored\" effect.",
+		"通灵锚可以和你合成格里的一个物品合成，赋予其“锚定”效果。",
 		"",
-		"The Anchored effect will prevent the item from being dropped into a Tombstone when you die. It will stay inside your inventory instead."
+		"锚定效果会阻止你死亡时物品掉落到墓碑里。它会留在你的背包里。"
 	],
 	dependencies: [
 		"4695c2a6"

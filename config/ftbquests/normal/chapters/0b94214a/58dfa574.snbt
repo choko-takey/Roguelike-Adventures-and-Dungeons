@@ -1,9 +1,9 @@
 {
 	x: -0.5d,
 	y: -9.0d,
-	description: "Has science gone too far?",
+	description: "科学是否发展太快？",
 	text: [
-		"Craft some Iron Seeds."
+		"制作一些铁种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

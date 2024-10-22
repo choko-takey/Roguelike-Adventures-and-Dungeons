@@ -1,14 +1,14 @@
 {
-	title: "A Certain Game I Know Has Nothing on Us Now!",
+	title: "我所知的某游戏和我们毫无关系！",
 	x: 0.5d,
 	y: -1.5d,
-	description: "Feather Falling is for chumps!",
+	description: "摔落保护傻子才用！",
 	text: [
-		"These Hooks will have you feeling like Tarzan! There are several different kinds!",
+		"这钩子能让你体验人猿泰山的感觉！钩子有许多种类！",
 		"",
-		"Only one Hook required to complete the quest.",
+		"只需一种钩子就能完成任务。",
 		"",
-		"Plant Fibre must be created with a Vanilla sword. Modded sword additions do not work for the recipe. The sword is not consumed in the recipe."
+		"植物纤维只能用原版剑制作。模组添加的剑不能制作。合成中剑的耐久不会消耗。"
 	],
 	dependencies: [
 		"b325bb25"

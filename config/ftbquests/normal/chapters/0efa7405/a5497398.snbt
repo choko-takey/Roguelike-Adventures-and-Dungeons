@@ -1,12 +1,12 @@
 {
-	title: "Recycling",
+	title: "可回收垃圾……",
 	icon: "thaumcraft:tallow",
 	x: 7.5d,
 	y: -13.5d,
-	description: "Who needs 100 stacks of rotten flesh?",
+	description: "谁会需要100组腐肉啊",
 	text: [
-		"Who knew that Yankee Candle sold rotten flesh scent candles.",
-		"Mmm, smells nice."
+		"有谁会知道这些油脂蜡烛是由那些腐肉制成的呢？",
+		"嗯~~闻起来不错。"
 	],
 	dependencies: [
 		"7c204714"

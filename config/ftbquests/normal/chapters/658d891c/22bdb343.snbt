@@ -1,12 +1,12 @@
 {
-	title: "Building with Bones!",
+	title: "骨制品！",
 	x: 6.0d,
 	y: -0.5d,
-	description: "Now we're taking! I mean, talking!",
+	description: "准备动手！准备动手！",
 	text: [
-		"Rockin out with remains!",
+		"把遗体丢出去！",
 		"",
-		"You are required to make all tools to complete this quest."
+		"你需要制作所有工具来完成这个任务。"
 	],
 	dependencies: [
 		"b37a814e"

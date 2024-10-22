@@ -1,15 +1,15 @@
 {
-	title: "Trader Joe III",
+	title: "尔虞我诈 III",
 	x: -11.5d,
 	y: -1.0d,
-	description: "From Duck Tape, to BMWs, we trade it all",
+	description: "从防水胶带到宝马，我们都在交易",
 	text: [
-		"Trade with... anything... 2,500 times."
+		"完成任意2500次交易"
 	],
 	tasks: [{
 		uid: "c85f320c",
 		type: "stat",
-		title: "Make 2,500 Trades",
+		title: "完成2500次交易",
 		icon: "minecraft:book",
 		stat: "stat.tradedWithVillager",
 		value: 2500

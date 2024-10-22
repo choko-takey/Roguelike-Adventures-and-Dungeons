@@ -1,22 +1,22 @@
 {
-	title: "Cheating Death V",
+	title: "欺骗死神 V",
 	icon: "dungeontactics:candy_skull",
 	x: -16.0d,
 	y: -3.0d,
-	description: "She's breaking up with you",
+	description: "她要和你分手了",
 	text: [
-		"You're on your own. She said she doesn't care man.",
+		"你形单影只。她说她不在乎其他人。",
 		"",
-		"Survive for 30 days.",
+		"存活30天。",
 		"",
-		"She even gave you the Scythe to let you know she really cared.",
+		"她甚至把镰刀给了你，让你知道她真的很在乎你。",
 		"",
-		"I think you lost a good thing. You're never going to know Death now..."
+		"我认为你失去了一件好事。你现在永远不会知道死亡的滋味……"
 	],
 	tasks: [{
 		uid: "81845e26",
 		type: "stat",
-		title: "Survive 30 days",
+		title: "存活30天",
 		stat: "stat.timeSinceDeath",
 		value: 51840000
 	}]

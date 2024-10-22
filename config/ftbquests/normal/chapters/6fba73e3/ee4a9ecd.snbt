@@ -1,10 +1,10 @@
 {
-	title: "The Unbreaking Cold",
+	title: "坚不可摧的寒冷",
 	x: 6.0d,
 	y: -8.5d,
-	description: "I call it hating your ex, but whatever",
+	description: "我愿称为憎恨你的前任，无论什么",
 	text: [
-		"Craft the Shears of Winter."
+		"制作严冬剪刀。"
 	],
 	tasks: [{
 		uid: "05873db4",

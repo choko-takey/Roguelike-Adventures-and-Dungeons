@@ -1,12 +1,12 @@
 {
-	title: "Hey Daryl",
+	title: "你好Daryl",
 	x: -2.5d,
 	y: 5.0d,
-	description: "Shot through the heart you give love a bad name",
+	description: "Love Arrow！Shoot————！",
 	text: [
-		"A stake will not be enough to deal with stronger vampires. For those that prefer range, you can craft a crossbow .",
+		"钉桩对更强的吸血鬼而言伤害还是太低了。对喜欢远程武器的玩家，你可以做一把弩弓。",
 		"",
-		"(Crossbows do not use bolts or regular arrows as ammo)"
+		"（弩弓使用的弹药不是弩箭或者常规的弓箭）"
 	],
 	dependencies: [
 		"7b483180"

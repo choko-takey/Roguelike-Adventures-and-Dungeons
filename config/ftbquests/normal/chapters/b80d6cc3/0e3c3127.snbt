@@ -1,10 +1,10 @@
 {
-	title: "Cataclysmic?",
+	title: "催化还是加速？",
 	x: 24.0d,
 	y: 2.0d,
-	description: "I mean... they might as well be synonyms in this mod",
+	description: "额……在这个mod里这俩词基本上是一个意思……",
 	text: [
-		"Speed it up a little!!!!!"
+		"我求求你快一点啊！！！！"
 	],
 	dependencies: [
 		"05276366"

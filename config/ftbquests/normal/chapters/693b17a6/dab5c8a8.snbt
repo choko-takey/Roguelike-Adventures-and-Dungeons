@@ -1,10 +1,10 @@
 {
-	title: "Waystone Wanderer IV",
+	title: "指路石旅行者 IV",
 	x: -14.5d,
 	y: -2.0d,
-	description: "You have to bring your little brother with you",
+	description: "你必须带上你的弟弟",
 	text: [
-		"Activate 75 different Waystones."
+		"激活75个不同的指路石。"
 	],
 	tasks: [{
 		uid: "e7f10d1a",

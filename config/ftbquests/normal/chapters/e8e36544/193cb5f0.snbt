@@ -1,12 +1,12 @@
 {
-	title: "The Shoot Chute",
+	title: "溜槽还是漏斗？",
 	x: -17.0d,
 	y: 11.5d,
-	description: "Straight down!",
+	description: "自由落体！",
 	text: [
-		"The Chute can have items pumped into it via Hopper, pipes, however have you, and it will drop them straight below in the center.",
+		"溜槽可以通过漏斗或者其他物流系统将物品传入其中，无论输入的是什么，它都会把它丢到自己下方。",
 		"",
-		"Someone said Chute automated Crucible? Sounds dangerous."
+		"有人说这个可以配合坩埚（见神秘时代章节）使用？太疯狂了……"
 	],
 	tasks: [{
 		uid: "468720f7",

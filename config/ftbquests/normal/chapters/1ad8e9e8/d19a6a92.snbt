@@ -1,12 +1,12 @@
 {
-	title: "This Sounds Illegal but It's Not",
+	title: "听起来违法但其实并不",
 	x: -11.5d,
 	y: -7.5d,
-	description: "Almost, almost...",
+	description: "就快了，就快了……",
 	text: [
-		"The Ring of Dispersion allows users to phase through walls at the cost of XP.",
+		"穿梭之戒使玩家可以消耗经验来穿过墙壁",
 		"",
-		"The limits of the ring are unknown."
+		"这个戒指的限制还仍不清楚。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

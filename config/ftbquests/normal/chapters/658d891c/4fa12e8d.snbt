@@ -1,10 +1,10 @@
 {
-	title: "Classic Armaments",
+	title: "经典套装",
 	x: 8.0d,
 	y: -1.0d,
-	description: "Can never go wrong with some raw metal!",
+	description: "一些原生金属永远不会出错！",
 	text: [
-		"Your dragon doesn't appreciate how heavy this stuff is!"
+		"你的龙不知道这东西有多重！"
 	],
 	dependencies: [
 		"768743f4"

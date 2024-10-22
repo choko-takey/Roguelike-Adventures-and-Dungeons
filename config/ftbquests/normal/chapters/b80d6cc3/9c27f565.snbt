@@ -1,12 +1,12 @@
 {
-	title: "Igneus Cibus Auctor!",
+	title: "暴烈反应之火！",
 	x: 36.0d,
 	y: 4.5d,
-	description: "And so there was fuel!",
+	description: "所以就燃起来了！",
 	text: [
-		"Quid agit?!",
+		"测试？",
 		"",
-		"Nescio, Jhon!"
+		"我不到啊约翰。"
 	],
 	dependencies: [
 		"89fec8e4",

@@ -1,12 +1,14 @@
 {
-	title: "Village Scandal",
+	title: "村庄轶事",
 	x: 26.0d,
 	y: 7.0d,
-	description: "You're the only one in on it",
+	description: "你就是那个小丑",
 	text: [
-		"Greedy little villagers.",
+		"看看那些贪婪的村民",
 		"",
-		"They want Emeralds? They get THIS instead!"
+		"呵，绿宝石？做梦去吧！拿这个去忽悠他们！",
+		"（此物品可以代替绿宝石和村民交易，虽然它的造价也不算便宜……）",
+		"（但是交易出来的东西是真的吗？）"
 	],
 	dependencies: [
 		"2eebb48a"

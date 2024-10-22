@@ -1,12 +1,12 @@
 {
-	title: "Is It Edible?",
+	title: "这能吃吗？",
 	x: -2.0d,
 	y: -5.0d,
-	description: "If you can eat it, you should eat it",
+	description: "如果你敢，那你真的应该尝一下。",
 	text: [
-		"Someone was out there eating random mushrooms off the ground back then.",
+		"有些人在外面随便尝自己采到的蘑菇。",
 		"",
-		"Collect all of the mushrooms available in the Erebus mod."
+		"收集所有能在混沌之地模组获得的蘑菇。"
 	],
 	dependencies: [
 		"d01b8d01"

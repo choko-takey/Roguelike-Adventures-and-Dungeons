@@ -1,10 +1,10 @@
 {
-	title: "Tier 4 Inferium Seeds",
+	title: "高级精华种子",
 	x: 4.0d,
 	y: -1.5d,
-	description: "Grows quite a bit.",
+	description: "再长大一点。",
 	text: [
-		"Craft Tier 4 Inferium Seeds."
+		"制作高级精华种子。"
 	],
 	dependencies: [
 		"9a05eb59"

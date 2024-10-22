@@ -1,20 +1,20 @@
 {
-	title: "Bug Gods, Oh Bug Gods!",
+	title: "虫神，哦 虫神！",
 	x: 3.0d,
 	y: -11.5d,
-	description: "Shut up and take my offering!",
+	description: "闭嘴，拿走我的贡品！",
 	text: [
-		"Altars can be transformed into different versions that will apply varying effects.",
+		"祭坛能被转换成不同的版本，并且会提供不同的效果。",
 		"",
-		"In order to transform an altar, players must place the appropriate item on top of a basic Altar. Some Altars will lose their power over time.",
+		"为了转换一个祭坛，玩家必须放置一个合适的东西在祭坛基座的顶部。一些祭坛会随着时间推移失去它的能力。",
 		"",
-		"Experience Altar - Bio-velocity; will turn various Erebus mob drops into pure experience.",
+		"经验祭坛 - 生物加速器；将会增加不同的混沌之地的怪物掉落的纯粹经验。",
 		"",
-		"Repair Altar - Elastic Fibre; repairs items that are placed in the middle of the altar.",
+		"修复祭坛 - 弹性纤维；修复丢在祭坛中间的物品。",
 		"",
-		"Healing Altar - Bioluminescence; will completely heal players that are within a 4 block radius of the Altar.",
+		"治愈祭坛 - 生物光源；将会完全治愈在这个祭坛附近四格的玩家。",
 		"",
-		"Lightning Altar - Redgem; will shoot lightning at nearby mobs."
+		"雷电祭坛 - 红宝石；将会射出闪电攻击附近的生物。"
 	],
 	dependencies: [
 		"d01b8d01"

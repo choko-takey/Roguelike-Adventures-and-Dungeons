@@ -1,10 +1,10 @@
 {
-	title: "Only Comes in Black and White",
+	title: "只有黑与白",
 	x: 0.0d,
 	y: -2.0d,
-	description: "Doesn't really matter when you're dead",
+	description: "当你死了就不重要了",
 	text: [
-		"This stuff seems haunted."
+		"这东西好像闹鬼。"
 	],
 	dependencies: [
 		"d6d462e3"

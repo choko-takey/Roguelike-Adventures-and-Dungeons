@@ -1,12 +1,12 @@
 {
-	title: "Cold Case",
+	title: "铁证悬案",
 	x: -0.5d,
 	y: -1.5d,
-	description: "Unsolved for 15 years",
+	description: "15年未解决",
 	text: [
-		"Make sure it stays that way.",
+		"确保它保持原样。",
 		"",
-		"Slay 5 Ice Queens."
+		"击杀5只冰雪女王。"
 	],
 	can_repeat: true,
 	tasks: [{

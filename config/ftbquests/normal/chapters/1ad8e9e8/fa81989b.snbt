@@ -1,10 +1,10 @@
 {
-	title: "It's Like Glass?",
+	title: "它像玻璃一样脆？",
 	x: 9.0d,
 	y: 3.0d,
-	description: "Glass in Skyrim was pretty good though...",
+	description: "老滚Ⅴ里面的玻璃还是挺结实的来着……",
 	text: [
-		"Craft a Dentrothyst Shield."
+		"做一个木晶盾。"
 	],
 	dependencies: [
 		"1d081704"

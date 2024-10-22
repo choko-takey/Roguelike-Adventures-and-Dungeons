@@ -1,12 +1,12 @@
 {
-	title: "My First Dog!",
+	title: "我的第一只修狗！",
 	x: -5.5d,
 	y: 7.5d,
-	description: "Treat him good now!",
+	description: "现在就好好待他！",
 	text: [
-		"Using a Training Treat on a tamed Wolf will turn it into a Doggy Talents ready doggy!",
+		"给狗吃训练口粮可以把它转变成小狗天才的狗！",
 		"",
-		"Feed your doggy Training Treats until level 20!"
+		"给狗狗喂训练口粮到20级！"
 	],
 	dependencies: [
 		"a455aa9f"

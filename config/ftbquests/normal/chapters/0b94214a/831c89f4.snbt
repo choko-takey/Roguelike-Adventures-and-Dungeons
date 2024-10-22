@@ -1,9 +1,9 @@
 {
 	x: 3.0d,
 	y: -13.0d,
-	description: "Stare into the abyss",
+	description: "凝视深渊",
 	text: [
-		"Craft some Void Metal Seeds."
+		"制作一些虚空金属种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

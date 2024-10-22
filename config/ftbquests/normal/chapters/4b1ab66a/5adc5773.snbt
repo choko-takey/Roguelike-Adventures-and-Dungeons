@@ -1,12 +1,12 @@
 {
-	title: "Catch o' the Day!",
+	title: "今天的收获！",
 	x: -7.5d,
 	y: -4.5d,
-	description: "43lb Striper off 6lb mono",
+	description: "43磅鲈鱼，6磅虾",
 	text: [
-		"Collect all of the different fish offered by Pam's Harvest Craft!",
+		"收集潘马斯农场模组中的所有不同鱼类！",
 		"",
-		"Get to reelin in!"
+		"拿来吧你！"
 	],
 	dependencies: [
 		"9b9366c6"

@@ -1,10 +1,10 @@
 {
-	title: "Like a Weed Wacker, but Powder",
+	title: "除草机，但粉末状",
 	x: 0.5d,
 	y: -4.0d,
-	description: "Kills weeds at the source!",
+	description: "源头上杀死杂草！",
 	text: [
-		"Kills grass and any nearby plantlife, turning Dirt to Coarse Dirt."
+		"杀死草和附近的植物，将泥土方块变为砂土。"
 	],
 	dependencies: [
 		"4551fdb8"

@@ -1,10 +1,10 @@
 {
-	title: "New Home",
+	title: "新家",
 	x: -7.5d,
 	y: 3.5d,
-	description: "Nice and cozy",
+	description: "好看又舒适",
 	text: [
-		"Tents come in various sizes: from Small (5x5), Medium (7x7), and Large (9x9) to Huge (11x11), Giant (13x13), and Mega (15x15).",
+		"帐篷有许多尺寸：最小（5x5），中等（7x7），大（9x9），巨大（11x11），超大（13x13），特大（15x15）。",
 		"",
 		""
 	],

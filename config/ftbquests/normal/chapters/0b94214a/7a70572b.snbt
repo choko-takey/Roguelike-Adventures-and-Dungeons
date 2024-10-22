@@ -1,9 +1,9 @@
 {
 	x: 3.0d,
 	y: -1.5d,
-	description: "Top 10 fruits that give you super powers!",
+	description: "赋予你超能力的十大水果！",
 	text: [
-		"Craft a Superium Apple."
+		"制作一个高级苹果。"
 	],
 	dependencies: [
 		"9a05eb59"

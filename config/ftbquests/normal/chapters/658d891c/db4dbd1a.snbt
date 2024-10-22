@@ -1,10 +1,10 @@
 {
-	title: "Together Forever!",
+	title: "永远在一起！",
 	x: -0.5d,
 	y: 0.0d,
-	description: "What could snap this thing?",
+	description: "什么能打碎这东西？",
 	text: [
-		"Used to Lead mobs. Can be used to chain two entities together, or to a wall."
+		"用于捆绑生物。可以用于将两个实体链接在一起，也可以链接到墙上。"
 	],
 	dependencies: [
 		"ecc9e869"

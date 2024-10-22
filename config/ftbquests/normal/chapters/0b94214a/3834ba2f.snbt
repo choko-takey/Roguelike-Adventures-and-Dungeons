@@ -1,9 +1,9 @@
 {
 	x: 0.5d,
 	y: -13.0d,
-	description: "Bunny town",
+	description: "邦尼快乐城",
 	text: [
-		"Craft some Rabbit Seeds."
+		"制作一些兔子种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

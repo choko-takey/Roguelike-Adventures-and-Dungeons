@@ -1,12 +1,12 @@
 {
-	title: "Flint & Steel, but Electronic!",
+	title: "打火石，但电动的！",
 	x: 3.0d,
 	y: 12.5d,
-	description: "Battery powered baby!",
+	description: "电池供电！宝贝！",
 	text: [
-		"The Redstone Activator will apply a Redstone signal to any block you Right-Click. If it accepts a signal, it will accept for the specified amount of ticks. ",
+		"红石触发器将给予任何你右击的方块一个红石信号。如果它能接受信号，将持续一段tick。",
 		"",
-		"Shift-Right-Click in the air, or somewhere you cannot use the Activator, to switch between 2 ticks, 20 ticks (1s), or 100 ticks (5s)."
+		"在空气中或无法使用触发器的地方潜行右击，可以在2tick、20tick(1s)或100tick(5s)之间切换。"
 	],
 	tasks: [{
 		uid: "c776ce8c",

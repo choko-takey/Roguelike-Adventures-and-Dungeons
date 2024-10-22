@@ -1,10 +1,10 @@
 {
-	title: "Lily Poppins",
+	title: "莉莉·波平斯",
 	x: -2.0d,
 	y: -4.0d,
-	description: "Supercalifragilisticexpialidocious",
+	description: "超级无敌狂拽酷炫阿姆斯特朗加斯皮亚利多西斯一级棒",
 	text: [
-		"You'll float too!"
+		"你也能漂浮了！"
 	],
 	dependencies: [
 		"00e136e8"

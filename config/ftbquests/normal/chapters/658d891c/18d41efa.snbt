@@ -1,10 +1,10 @@
 {
-	title: "Abominable Snowman",
+	title: "可恶的雪人",
 	x: 25.5d,
 	y: -1.0d,
-	description: "He has snowcones",
+	description: "他有雪球",
 	text: [
-		"Obtain a set of Frost Troll Armor."
+		"获得一套雪地食人妖盔甲。"
 	],
 	tasks: [{
 		uid: "3041926f",

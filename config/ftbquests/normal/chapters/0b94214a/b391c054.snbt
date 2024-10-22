@@ -1,10 +1,10 @@
 {
-	title: "I Can Grow... Dirt?",
+	title: "我可以种植……泥土？",
 	x: -7.0d,
 	y: -8.0d,
-	description: "That's a big step... how do you even do that?",
+	description: "这是你的一大步……你怎么做到的？",
 	text: [
-		"Craft some Tier 1 Crafting Seeds."
+		"制作一些一级合成种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

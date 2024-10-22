@@ -1,10 +1,10 @@
 {
-	title: "She Flew, She Flew So Far Away",
+	title: "轻拂她，轻轻的把她吹飞~",
 	x: -0.5d,
 	y: -7.0d,
-	description: "Is she gonna come back?",
+	description: "她还会回来吗？",
 	text: [
-		"Craft the Rending Gale."
+		"制作裂风者。"
 	],
 	tasks: [{
 		uid: "606f9682",

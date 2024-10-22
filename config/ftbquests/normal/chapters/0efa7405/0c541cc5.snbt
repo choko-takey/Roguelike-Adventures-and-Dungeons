@@ -1,5 +1,5 @@
 {
-	title: "Thaumic Augmentation",
+	title: "神秘进阶",
 	icon: {
 		id: "ftbquests:custom_icon",
 		tag: {
@@ -8,11 +8,12 @@
 	},
 	x: 3.0d,
 	y: -29.0d,
-	description: "Acts of eldritch terrorism",
+	description: "深渊的深渊……",
 	text: [
-		"This quest is to keep items from Thaumic Augmentation organized within the Chapter.",
+		"这个章节将会介绍那些来自神秘进阶模组中的物品……",
 		"",
-		"You may find some items from Thaumic Augmentation in different areas of this Chapter."
+		"你可以在这周围找到一些任务……",
+		"（好吧这部分好像没做完）"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

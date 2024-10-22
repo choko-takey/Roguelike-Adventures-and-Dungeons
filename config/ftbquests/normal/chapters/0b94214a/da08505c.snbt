@@ -1,12 +1,12 @@
 {
-	title: "Soulium Schmolium",
+	title: "灵魂和熟灵魂",
 	x: -10.5d,
 	y: 1.5d,
-	description: "What's the difference?",
+	description: "有什么区别？",
 	text: [
-		"This stuff is cooked. That's what.",
+		"这东西是烧制过的，仅此而已。",
 		"",
-		"Craft some Soulium Ingots."
+		"制作一些灵魂锭。"
 	],
 	dependencies: [
 		"93284d0e"

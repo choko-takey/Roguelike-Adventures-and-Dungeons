@@ -1,12 +1,12 @@
 {
-	title: "25 Silver Coin Turn-In",
+	title: "25枚银币回收",
 	x: -20.0d,
 	y: -4.0d,
-	description: "Little money moves!",
+	description: "一点点资金流动！",
 	text: [
-		"You're doing something, at least!",
+		"至少你在做点什么！",
 		"",
-		"Enables trading between players."
+		"支持玩家之间的交易。"
 	],
 	can_repeat: true,
 	tasks: [{

@@ -1,10 +1,10 @@
 {
-	title: "Conquest and Expansion",
+	title: "征服与扩张",
 	x: 8.5d,
 	y: -4.5d,
-	description: "Wait... wrong quest?",
+	description: "等等……我进错任务了？",
 	text: [
-		"Expand the amount of sockets on your amulet with this item, allowing you to put another gem into your amulet."
+		"使用这个物品，可以增加你护身符的插槽数量，让你可以在护身符上多放入一个宝石。"
 	],
 	dependencies: [
 		"7b87dcde"

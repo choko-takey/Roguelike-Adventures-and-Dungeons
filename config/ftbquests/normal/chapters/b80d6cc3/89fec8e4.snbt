@@ -1,12 +1,12 @@
 {
-	title: "Combusting Up Laughing",
+	title: "以火再造",
 	x: 33.5d,
 	y: 4.0d,
-	description: "Because you can't figure this out!",
+	description: "因为你想不通啊！",
 	text: [
-		"Haha look at him hook up the Combustion Chamber to the Catalysis Chamber.",
+		"看看这个傻孩子把燃烧室接催化室上了！",
 		"",
-		"What an ID10T!"
+		"他大概是个呆瓜吧哈哈哈……咳咳……"
 	],
 	dependencies: [
 		"fe8f99b6"

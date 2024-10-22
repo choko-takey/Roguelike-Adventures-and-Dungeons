@@ -1,10 +1,10 @@
 {
-	title: "More like the Seizurang...",
+	title: "更像癫痫发作...",
 	x: 9.5d,
 	y: -8.5d,
-	description: "Mobs develop Epilepsy when hit by this weapon",
+	description: "被这个武器击中将会眩晕",
 	text: [
-		"This tool will grab items on the ground and absolutely ZONK mobs to the dome."
+		"这个工具可以勾回地上的物品，也可以使怪物麻痹。"
 	],
 	tasks: [{
 		uid: "68553626",

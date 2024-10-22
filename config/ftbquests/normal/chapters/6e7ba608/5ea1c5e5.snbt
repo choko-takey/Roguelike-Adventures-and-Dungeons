@@ -1,5 +1,5 @@
 {
-	title: "Deep Diver",
+	title: "深水潜水员",
 	icon: {
 		id: "tropicraft:yellow_scuba_goggles",
 		tag: {
@@ -30,11 +30,11 @@
 	},
 	x: -1.0d,
 	y: -11.0d,
-	description: "Mariana Deep",
+	description: "马里亚纳海沟",
 	text: [
-		"Craft a set of Scuba Gear, and an Air Compressor to refill your Scuba Tank!",
+		"制作一套潜水装备和一台空气压缩机，填满你的氧气罐！",
 		"",
-		"Get to diving! And don't touch the turtles!"
+		"开始潜水吧！记住别碰乌龟！"
 	],
 	dependencies: [
 		"f61dcb12"

@@ -1,14 +1,14 @@
 {
-	title: "At Your Waistline",
+	title: "在你的腰上",
 	x: 5.5d,
 	y: -18.0d,
-	description: "Grab and go!",
+	description: "赶紧走吧！",
 	text: [
-		"Allows the player to store multiple potions inside of a single inventory.",
+		"能让玩家在一个格子里存许多药水。",
 		"",
-		"The player can switch out the active potion.",
+		"玩家也能切出要用的药水。",
 		"",
-		"Right-Click to consume or use the active potion."
+		"右击使用并消耗药水。"
 	],
 	dependencies: [
 		"020e073e"

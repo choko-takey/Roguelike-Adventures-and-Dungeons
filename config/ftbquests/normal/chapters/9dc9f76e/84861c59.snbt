@@ -1,10 +1,10 @@
 {
-	title: "Atlantean Armaments",
+	title: "亚特兰蒂斯军火",
 	x: -1.0d,
 	y: -7.0d,
-	description: "Straight from the deepest darkest depths!",
+	description: "直至深渊！",
 	text: [
-		"Obtain a full set of Neptunium tools."
+		"获得全套海王工具。"
 	],
 	dependencies: [
 		"2dc7b27e"

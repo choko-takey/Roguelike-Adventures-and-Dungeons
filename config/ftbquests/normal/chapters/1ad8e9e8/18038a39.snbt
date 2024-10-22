@@ -1,12 +1,12 @@
 {
-	title: "Box Boogy",
+	title: "跳舞盒子",
 	x: 14.5d,
 	y: -2.0d,
-	description: "Dancing in this dimension?",
+	description: "在这个维度起舞吗？",
 	text: [
-		"Do these Peat Mummies even know what dancing is?",
+		"这些泥炭木乃伊到底懂不懂什么是跳舞？",
 		"",
-		"Craft a Weedwood Jukebox."
+		"造一个杂草木唱片机。"
 	],
 	dependencies: [
 		"f013ff53"

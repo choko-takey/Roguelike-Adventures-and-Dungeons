@@ -1,14 +1,14 @@
 {
-	title: "The Pulsar Pulser",
+	title: "脉冲脉冲器",
 	x: 6.5d,
 	y: -14.0d,
-	description: "Sike, you thought it was fast?",
+	description: "Sike，你觉得它很快吗？",
 	text: [
-		"No, it's very simplistic and neat though.",
+		"不，非常简单和小巧。",
 		"",
-		"Sends out a momentary signal to all sides of the block connected to Redstone, at max strength.",
+		"短暂的强充能周围连接的红石。",
 		"",
-		"Cannot be configured."
+		"不能配置。"
 	],
 	tasks: [{
 		uid: "5e0d4432",

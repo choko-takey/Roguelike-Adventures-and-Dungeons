@@ -1,10 +1,10 @@
 {
-	title: "If the Dwarves Made Greek Fire",
+	title: "矮人牌希腊火",
 	x: 12.5d,
 	y: 9.0d,
-	description: "That &@#% was like magic in real life!",
+	description: "这&@#%才叫魔法之火！",
 	text: [
-		"No one knew what to do when it hit their ship... or their skin..."
+		"被其蚕食者根本不知道是什么东西在灼烧他们……甚至他们的皮肤也不知道……"
 	],
 	dependencies: [
 		"020a4b1e"

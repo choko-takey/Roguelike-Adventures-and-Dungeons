@@ -1,10 +1,10 @@
 {
-	title: "The Router",
+	title: "路由器",
 	x: 13.5d,
 	y: -1.5d,
-	description: "We need a signal booster",
+	description: "我信号增强器呢？",
 	text: [
-		"Where your internet comes from, kinda"
+		"你猜猜你的WiFi是哪里来的，我的宝？"
 	],
 	dependencies: [
 		"899a9a02"

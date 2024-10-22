@@ -1,10 +1,10 @@
 {
-	title: "COME BACK!",
+	title: "回来！",
 	x: 5.0d,
 	y: -19.5d,
-	description: "I LOVED YOU!",
+	description: "天空啊！我爱你！",
 	text: [
-		"Collect some Gravitite."
+		"收集重力矿石。"
 	],
 	dependencies: [
 		"9ca912fb"

@@ -1,14 +1,14 @@
 {
-	title: "Wake Him Up!",
+	title: "唤醒他！",
 	x: -6.0d,
 	y: -4.5d,
-	description: "Wake him up inside!",
+	description: "唤醒他的内心！",
 	text: [
-		"He can't wake up!---",
+		"他醒不过来！---",
 		"",
-		"Just kidding, yes he can.",
+		"就是开个玩笑, 他当然能醒。",
 		"",
-		"This spell should react with a pumpkin to create a Golem Head..."
+		"对着南瓜施展这个法术就能制作出一个傀儡头……"
 	],
 	dependencies: [
 		"b8fea57f"

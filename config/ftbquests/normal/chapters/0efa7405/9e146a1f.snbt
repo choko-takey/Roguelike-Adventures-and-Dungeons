@@ -1,8 +1,8 @@
 {
-	title: "Back to Vanilla",
+	title: "返璞归真",
 	x: 6.0d,
 	y: 5.0d,
-	description: "Nah, it's still Thaumcraft",
+	description: "喏，这也是神秘时代",
 	text: [
 		""
 	],

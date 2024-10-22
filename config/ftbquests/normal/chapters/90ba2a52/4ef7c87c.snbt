@@ -1,10 +1,10 @@
 {
-	title: "Assassin Assassin",
+	title: "刺客 刺客",
 	x: -2.0d,
 	y: 6.5d,
-	description: "Get them before they get you",
+	description: "在他们抓住你之前抓住他们",
 	text: [
-		"Assassinate 50 Assassins."
+		"刺杀50只刺客。"
 	],
 	can_repeat: true,
 	tasks: [{

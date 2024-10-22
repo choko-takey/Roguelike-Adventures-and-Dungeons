@@ -1,11 +1,11 @@
 {
-	title: "Menace No More!",
+	title: "不再威胁！",
 	icon: "thebetweenlands:sludge_ball",
 	x: -2.0d,
 	y: 8.5d,
-	description: "Down beast!",
+	description: "打倒野兽！",
 	text: [
-		"Slay 10 Sludge Menaces."
+		"击杀10只污泥威胁。"
 	],
 	can_repeat: true,
 	tasks: [{

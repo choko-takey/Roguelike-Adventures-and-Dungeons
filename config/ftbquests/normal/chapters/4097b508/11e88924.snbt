@@ -1,5 +1,5 @@
 {
-	title: "Archway House",
+	title: "拱形房屋",
 	icon: {
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
@@ -10,15 +10,15 @@
 	y: -0.9821428571428577d,
 	shape: "square",
 	text: [
-		"Title: House Archway",
+		"建筑名：拱形房屋",
 		"",
-		"Theme: Village",
+		"建筑主题：村庄",
 		"",
-		"LxWxH: 39x18x32",
+		"长x宽x高：39x18x32",
 		"",
-		"Paste Y Level: 0 (Ground level)",
+		"建筑y轴偏移：0（与地面平齐）",
 		"",
-		"Structure Description: A large archway that is enterable. Three rooms total."
+		"建筑描述：一个大型的拱门型房屋，共有3个房间。"
 	],
 	can_repeat: true,
 	tasks: [{

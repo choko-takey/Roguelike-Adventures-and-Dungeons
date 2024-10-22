@@ -1,12 +1,12 @@
 {
-	title: "Osteodracosis",
+	title: "骨龙病",
 	x: 6.0d,
 	y: -1.5d,
-	description: "These are real durable!",
+	description: "这些真的很耐用！",
 	text: [
-		"Compacted Dragon Bone storage.",
+		"压缩龙骨用来存储。",
 		"",
-		"Can be reverted back to Dragon Bones."
+		"可以还原为龙骨。"
 	],
 	dependencies: [
 		"b37a814e"

@@ -1,12 +1,12 @@
 {
-	title: "Better Than Diamonds!",
+	title: "比钻石还好！",
 	x: 13.0d,
 	y: -0.5d,
-	description: "So satisfying to find...",
+	description: "找到它可太爽了……",
 	text: [
-		"Find some Valonite!",
+		"找到一些法罗钠晶石！",
 		"",
-		"Goodluck!"
+		"运气不错！"
 	],
 	dependencies: [
 		"5805bceb"

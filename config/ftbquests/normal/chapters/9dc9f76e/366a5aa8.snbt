@@ -1,12 +1,12 @@
 {
-	title: "Who Knew an All Stone Base Could Be So Pretty",
+	title: "天知道用石头能盖得这么好",
 	x: 1.5d,
 	y: -5.0d,
-	description: "You didn't.",
+	description: "你不知道。",
 	text: [
-		"Used to change textures of blocks. Works on most common blocks. Right-click while holding the tool and select a block to chisel.",
+		"用来改变方块的纹理，其他方面与普通方块没区别。手里拿着工具右键点击然后再选择要雕凿的方块。",
 		"",
-		"You are only required to make one Chisel to complete this quest."
+		"制作一个凿子就能完成这个任务。"
 	],
 	dependencies: [
 		"b325bb25"

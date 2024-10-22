@@ -1,12 +1,12 @@
 {
-	title: "Burning Armaments",
+	title: "滚烫的武器",
 	x: 6.0d,
 	y: -10.5d,
-	description: "These blisters are definitely permanent",
+	description: "这些水泡肯定是永久性的",
 	text: [
-		"Always warm to the touch. They carry the flame of the Dragon within them.",
+		"触摸起来总是很温暖。因为它们体内携带着龙的火焰。",
 		"",
-		"You are only required to make one weapon to complete this quest."
+		"你只需要制造一件武器就可以完成这个任务。"
 	],
 	dependencies: [
 		"efd81b2a"

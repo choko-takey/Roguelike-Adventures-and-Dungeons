@@ -1,10 +1,10 @@
 {
-	title: "John, I Swear This Thing Is Leaking",
+	title: "约翰啊，你看看这个储罐是不是漏了？",
 	x: 3.0d,
 	y: -3.5d,
-	description: "And don't lie to me this time!",
+	description: "这次就别开玩笑了行不",
 	text: [
-		"It's not leaking... I promise"
+		"它应该没漏……吧？"
 	],
 	dependencies: [
 		"89e07f91"

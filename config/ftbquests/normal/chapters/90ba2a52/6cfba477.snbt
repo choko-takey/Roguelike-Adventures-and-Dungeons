@@ -1,10 +1,10 @@
 {
-	title: "Spirited",
+	title: "璀璨夺目",
 	x: 1.0d,
 	y: 3.0d,
-	description: "What heat you radiate!",
+	description: "你散发出多大的热量！",
 	text: [
-		"Destroy 5 Sun Spirits."
+		"击杀5只烈阳巨灵。"
 	],
 	can_repeat: true,
 	tasks: [{

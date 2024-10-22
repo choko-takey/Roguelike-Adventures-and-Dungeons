@@ -1,10 +1,10 @@
 {
-	title: "Focus!",
+	title: "集中法力……",
 	x: -3.0d,
 	y: -5.0d,
-	description: "I get distracted so easily...",
+	description: "好吧……有点难",
 	text: [
-		"Obtain a Focus Pouch, a Blank Advanced Focus, and a Blank Greater Focus."
+		"制作一个施术核心手袋……以及两个更强大的核心。"
 	],
 	dependencies: [
 		"dc3395c7"

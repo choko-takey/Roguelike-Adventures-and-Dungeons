@@ -1,10 +1,10 @@
 {
-	title: "These Are the Withereens",
+	title: "这些都是凋灵的碎片",
 	x: -1.0d,
 	y: -4.0d,
-	description: "Little bits",
+	description: "点点滴滴",
 	text: [
-		"Cut my life into pieces!"
+		"把我的生活切成碎片！"
 	],
 	dependencies: [
 		"dd35764a"

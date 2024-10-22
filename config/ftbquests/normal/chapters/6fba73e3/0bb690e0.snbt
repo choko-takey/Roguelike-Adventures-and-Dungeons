@@ -1,10 +1,10 @@
 {
-	title: "The Priests Revenge",
+	title: "《牧师的复仇》",
 	x: 1.5d,
 	y: -2.0d,
-	description: "Best B tier movie ever",
+	description: "有史以来最好的B级片",
 	text: [
-		"Craft the Cross of Mercy."
+		"制作怜悯十字架。"
 	],
 	tasks: [{
 		uid: "f445f52c",

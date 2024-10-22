@@ -1,14 +1,14 @@
 {
-	title: "Shhhh!!!!",
+	title: "嘘————",
 	x: 17.5d,
 	y: -1.0d,
-	description: "Be quiet this is a libary",
+	description: "图书馆内请保持安静！",
 	text: [
-		"For an enchanting table to work it needs 1 or more bookshelfs for it to gain enchanting power. ",
+		"附魔台需要一个或多个书架为其提供附魔等级。 ",
 		"",
-		"Further more there needs to be a 1 block space between the shelf and the enchanting table with nothing between them.",
+		"书架和附魔台之间需要有一个方块的间隔，且它们之间不能有东西。",
 		"",
-		"The max level for an enchanting table with wooden bookshelfs is capped!"
+		"多个木质书架可提供的最大附魔等级是有限的！"
 	],
 	dependencies: [
 		"a05c73b5"

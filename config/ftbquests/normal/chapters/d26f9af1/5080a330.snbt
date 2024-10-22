@@ -1,14 +1,14 @@
 {
-	title: "The Gentle Gardener",
+	title: "温柔的园丁",
 	x: 1.5d,
 	y: -8.5d,
-	description: "Tending to his patch",
+	description: "照料他的花园",
 	text: [
-		"Annddddd it's gone.",
+		"然然然然……然后就不见了。",
 		"",
-		"Well, the grass is, anyways.",
+		"额，到处都是草。",
 		"",
-		"The Trowel will Silk Touch any Grass Blocks, Podzol or other dirt based blocks.",
+		"瓦刀可以精准采集草方块，灰化土和其他类型的泥土方块。",
 		""
 	],
 	dependencies: [

@@ -1,16 +1,16 @@
 {
-	title: "Twilight Forest End-Note",
+	title: "暮色森林后记",
 	x: 3.5d,
 	y: -17.5d,
-	description: "READ ME, ADVENTURER",
+	description: "听我说，探险者",
 	text: [
-		"The final dungeon in the Twilight Forest mod was not completed for 1.12, or is not completed at all as of this current rendition of my FTB Questbook.",
+		"这个暮色森林模组的最后一个城堡在1.12里并没有完成，或者说在我的FTB任务书当前版本中没有完成。",
 		"",
-		"It will be normal to see a large square force field with a sign in the middle, stating some words.",
+		"通常你会看到一个巨大的方块力场，中间描述着几句话。",
 		"",
-		"If you've completed all the quests in this chapter, you've likely done everything this mod has to offer.",
+		"如果你已经完成了本章中的所有任务，那么你也可能已经完成了该模组中提供的所有任务。",
 		"",
-		"Well done! Here's 100 gold for completing the chapter!"
+		"干得好！这是完成这一章的100金币！"
 	],
 	dependencies: [
 		"323ccf6f"

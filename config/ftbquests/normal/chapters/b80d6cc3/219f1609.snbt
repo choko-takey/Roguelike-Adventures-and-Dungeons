@@ -1,12 +1,12 @@
 {
-	title: "The Armor Eater",
+	title: "护甲碾碎者",
 	x: 28.0d,
 	y: 7.0d,
-	description: "Cronch",
+	description: "嘎吱嘎吱嘎吱……",
 	text: [
-		"This item will reduce the durability of equipment when you hit something which wears equipment.",
+		"当你使用这把……剑？攻击敌人时，它会迅速腐蚀目标的盔甲，使其耐久迅速降低。",
 		"",
-		"Especially effective on players."
+		"对你的好朋友特别有效……"
 	],
 	dependencies: [
 		"2eebb48a"

@@ -1,10 +1,10 @@
 {
-	title: "Johnny Applesprout",
+	title: "苹果核约翰尼（美国儿童读物）",
 	x: 11.5d,
 	y: -5.5d,
-	description: "Tell him thank you for sharing",
+	description: "告诉他谢谢你的分享",
 	text: [
-		"Placing these below any leaves will cause Apples to grow beneath them. They can be continuously harvested for Apples."
+		"把它们放在叶子下面可以让苹果长在叶子下面。 可以不断收获苹果。"
 	],
 	tasks: [{
 		uid: "d5b0e197",

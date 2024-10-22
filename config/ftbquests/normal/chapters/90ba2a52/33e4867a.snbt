@@ -1,10 +1,10 @@
 {
-	title: "Chupacabra",
+	title: "吸血鬼",
 	x: 9.0d,
 	y: 9.5d,
-	description: "The blood sucker!",
+	description: "吸血鬼！",
 	text: [
-		"Kill 25 Stalkers."
+		"击杀25只尾行者。"
 	],
 	can_repeat: true,
 	tasks: [{

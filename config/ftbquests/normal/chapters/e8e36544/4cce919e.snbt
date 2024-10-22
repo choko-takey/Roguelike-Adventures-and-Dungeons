@@ -1,12 +1,12 @@
 {
-	title: "The Books Enchant Themselves",
+	title: "书本自我附魔",
 	x: 15.0d,
 	y: -10.5d,
-	description: "Really takes a load off of you doing it.",
+	description: "真的让你减轻了很多负担。",
 	text: [
-		"This Powered Enchanter takes books, experience, and power (in FE) to enchant your books.",
+		"能量附魔台需要书籍、经验和能量(FE)来附魔你的书。",
 		"",
-		"If you're clever, you will find a way to hook up experience tanks, chests, and power, using pipes..."
+		"如果你是聪明人的话，你肯定会找到一种使用管道方法连接经验储罐，箱子和能量……"
 	],
 	dependencies: [
 		"ecd41947"

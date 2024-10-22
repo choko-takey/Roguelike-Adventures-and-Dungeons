@@ -1,12 +1,12 @@
 {
-	title: "Rise, Dragonknight of Frost",
+	title: "腾飞，霜之龙骑",
 	x: 8.0d,
 	y: 8.5d,
-	description: "And ride out!",
+	description: "然后骑出去！",
 	text: [
-		"The vestige of a great hero. Wear it with pride.",
+		"伟大英雄的证明。务必自豪地穿上它。",
 		"",
-		"You are required to make all armor pieces to complete this quest."
+		"你需要制作所有的龙铠才能完成这个任务。"
 	],
 	dependencies: [
 		"26d0790c"

@@ -1,10 +1,10 @@
 {
-	title: "Ten Dozen Drunk Dwarves",
+	title: "十个小矮人……但是喝醉了",
 	x: 22.5d,
 	y: 8.0d,
-	description: "You'll smell them coming",
+	description: "一股子酒气……",
 	text: [
-		"At least the booze is good."
+		"但是这真的是好酒啊！"
 	],
 	dependencies: [
 		"05276366"

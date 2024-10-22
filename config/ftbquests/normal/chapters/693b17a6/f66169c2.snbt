@@ -1,10 +1,10 @@
 {
-	title: "Batter Bandit I",
+	title: "蛋糕大盗 I",
 	x: -13.0d,
 	y: 1.0d,
-	description: "Stealin' cake batter since 82'",
+	description: "从82年开始偷蛋糕面糊",
 	text: [
-		"Eat 100 slices of cake."
+		"吃掉100片蛋糕"
 	],
 	tasks: [{
 		uid: "09aee959",

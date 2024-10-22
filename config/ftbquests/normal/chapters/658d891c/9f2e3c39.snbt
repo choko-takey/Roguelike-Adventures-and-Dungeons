@@ -1,12 +1,12 @@
 {
-	title: "Frozen Armaments",
+	title: "冻得梆硬的武器",
 	x: 6.0d,
 	y: 8.5d,
-	description: "They might get stuck to your hands!",
+	description: "他们可能会粘在你的手上！",
 	text: [
-		"Cool to the touch. You swear they were just melted chunks of metal, only moments ago.",
+		"触感凉爽。你发誓他们只是熔化的金属块，当然那就在不久前。",
 		"",
-		"You are only required to make one weapon to complete this quest."
+		"你只需要制造一件武器就可以完成这个任务。"
 	],
 	dependencies: [
 		"26d0790c"

@@ -1,10 +1,10 @@
 {
-	title: "O' Mighty Challenger",
+	title: "强大的挑战者",
 	x: -2.0d,
 	y: 4.0d,
-	description: "Come forth!",
+	description: "出来！",
 	text: [
-		"Defeat 25 Valkyrie in battle."
+		"击杀25只女武神。"
 	],
 	can_repeat: true,
 	tasks: [{

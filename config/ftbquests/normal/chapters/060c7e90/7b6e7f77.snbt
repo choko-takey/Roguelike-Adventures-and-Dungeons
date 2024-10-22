@@ -1,12 +1,12 @@
 {
-	title: "Electroblobic Encyclopedia",
+	title: "巫师百科全书",
 	x: -3.0d,
 	y: 7.0d,
-	description: "Remembers what you'll forget!",
+	description: "永世不忘",
 	text: [
-		"99,888$ OBO",
+		"99888美元，走公款。",
 		"",
-		"Refer to The Wizard's Handbook for more information on this item."
+		"详见巫师手札。"
 	],
 	dependencies: [
 		"44326244"

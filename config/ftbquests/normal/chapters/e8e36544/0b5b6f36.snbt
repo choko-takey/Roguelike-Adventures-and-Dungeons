@@ -1,19 +1,19 @@
 {
-	title: "If Scotty Was an Enderman",
+	title: "如果斯科特是末影人",
 	icon: "randomthings:enderbridge",
 	x: 1.5d,
 	y: 12.5d,
-	description: "Beaming people up since 96'",
+	description: "从96年开始让人们开心",
 	text: [
-		"Ender Bridges will let players teleport infinite distances between it and Ender Anchors; there must be NO blocks between the Bridge and the Anchor.",
+		"末影桥将允许玩家在它和末影锚之间传送无限距离；桥和锚之间不能有障碍物。",
 		"",
-		"Ender Bridges will ignore the block in front of them when activated, allowing players to point a Bridge upwards and activate it with a Pressure Plate on top of the Bridge.",
+		"末影桥在激活时将忽略前面的方块，允许让玩家将桥指向上方，用桥上的压力板激活。",
 		"",
-		"Teleportation is not instant. Distance will increase the time needed to teleport upon activation. The Prismarine variant is much faster than the simple Ender Bridge.",
+		"传送不是立即的。离得越远传送得越慢。海晶石版本比简单的末影桥快得多。",
 		"",
-		"Ender Anchors will load the chunk they are in, so that an Ender Bridge can scan for them appropriately. Keep this in mind when using these items to create teleportation networks.",
+		"末影锚将加载它们所在的区块，所以末影桥可以扫描到。在使用这些物品创建瞬移网络时，请记住这一点。",
 		"",
-		"If activated with a permanent signal like a Lever, the Ender Bridge will enter a cooldown mode, and will not be able to activate again until the signal is turned off, and back on for reactivation."
+		"如果使用像拉杆之类的永久激活，末影桥将进入冷却模式，不能被激活。直到关闭，才能重新激活。"
 	],
 	tasks: [{
 		uid: "e01db4fd",

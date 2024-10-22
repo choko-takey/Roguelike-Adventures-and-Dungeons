@@ -1,14 +1,14 @@
 {
-	title: "The Movers",
+	title: "搬家工",
 	x: 3.5d,
 	y: -1.5d,
-	description: "They work for minimum wage too",
+	description: "他们也拿最低工资",
 	text: [
-		"This item will transport a chest while maintaining the items inside.",
+		"这个物品可以搬运箱子，同时保存内部的物品。",
 		"",
-		"The Chest Transporter can only hold one chest at a time.",
+		"搬箱器一次只能搬一个箱子。",
 		"",
-		"Right-Click or Shift Right-Click a chest with the item to transport it."
+		"右击或Shift右击来搬运一个装有物品的箱子。"
 	],
 	dependencies: [
 		"b325bb25"

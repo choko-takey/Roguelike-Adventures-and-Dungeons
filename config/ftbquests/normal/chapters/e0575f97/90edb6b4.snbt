@@ -1,16 +1,16 @@
 {
-	title: "Getting in Tune with Nature",
+	title: "拥抱自然！",
 	x: 0.0d,
 	y: 0.0d,
-	description: "Tickling your toes!",
+	description: "让青草逗弄你的双脚",
 	text: [
-		"This book will fully explain the ROOTS mod.",
+		"这本书是根源魔法的指南书",
 		"",
-		"I'm still trying to fully understand the best possible paths for progression. Here is a tiny start.",
+		"对于根源魔法的任务，我还没有完全制作好，现在的任务只是一个雏形而已。",
 		"",
-		"The mod is well made, and hasn't posed any problems for me so far.",
+		"但是这并不妨碍你去体会这个模组的魅力，它是个十分优秀的模组。",
 		"",
-		"Help me out! Give suggestions on progression paths. Thanks!"
+		"如果你有什么想法，可以在discord上和我聊聊。"
 	],
 	size: 2.0d,
 	tasks: [{

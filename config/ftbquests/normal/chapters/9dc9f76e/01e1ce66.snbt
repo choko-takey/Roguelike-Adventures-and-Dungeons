@@ -1,12 +1,12 @@
 {
-	title: "Its My Money and I Need It Now ",
+	title: "这是我的钱，我现在就要 ",
 	x: -6.0d,
 	y: 3.0d,
-	description: "This thing could be better than any Backpack ever wants to be.",
+	description: "这东西比任何背包要好。",
 	text: [
-		"If you make some big brain moves, these remotes can be used to set up infinite inventory space.",
+		"如果你能动动脑, 那些远程终端能有无限的存储空间。",
 		"",
-		"Each remote should read its own description."
+		"每个远程终端都要看看描述哦~"
 	],
 	dependencies: [
 		"a156f4df"

@@ -1,10 +1,10 @@
 {
-	title: "Bunches O' Barrels",
+	title: "一堆桶子",
 	x: 7.0d,
 	y: 4.5d,
-	description: "Swamp water... that's what's in them",
+	description: "沼泽水……这就是它们里边的东西",
 	text: [
-		"Every single one."
+		"每一个都是。"
 	],
 	dependencies: [
 		"b8216d73"

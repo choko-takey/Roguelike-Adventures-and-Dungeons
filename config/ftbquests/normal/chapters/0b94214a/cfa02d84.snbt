@@ -1,9 +1,9 @@
 {
 	x: 1.0d,
 	y: -4.5d,
-	description: "Doesn't look so eco-friendly",
+	description: "看起来并不那么环保",
 	text: [
-		"Obtain some Intermedium Coal."
+		"获得一些中级精华煤。"
 	],
 	dependencies: [
 		"52393883"

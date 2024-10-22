@@ -1,10 +1,10 @@
 {
-	title: "Red Saber",
+	title: "红刀子",
 	x: 8.5d,
 	y: -7.5d,
-	description: "We've got a better cookie recipe than the other side...",
+	description: "我们有比另一边更好的饼干配方……",
 	text: [
-		"You may have better luk cutting through Ice Dragons than Fire Dragons with this thing."
+		"它更喜欢冰龙而不是火龙。"
 	],
 	dependencies: [
 		"306c4b80"

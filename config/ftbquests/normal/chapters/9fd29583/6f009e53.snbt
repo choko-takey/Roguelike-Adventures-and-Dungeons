@@ -1,10 +1,10 @@
 {
-	title: "To Flea, or Not to Be",
+	title: "逃还是不逃。",
 	x: 4.5d,
 	y: -5.0d,
-	description: "I could be a waterbug instead...",
+	description: "我可能是水虫而不是……",
 	text: [
-		"Craft the Water Striders and Jumping Boots."
+		"合成凌波微步之靴和跳跃靴子。"
 	],
 	dependencies: [
 		"acb2f772"

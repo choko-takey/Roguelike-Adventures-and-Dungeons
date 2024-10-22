@@ -1,12 +1,12 @@
 {
-	title: "Bloodborne Cosplay",
+	title: "血源诅咒Cosplay",
 	x: -4.0d,
 	y: 4.0d,
-	description: "as close as you will get to bloodborne on pc",
+	description: "就像在pc上玩血源诅咒一样",
 	text: [
-		"As a hunter depending on what skills you choose you will gain acess to hunter armour.",
+		"取决于你猎人技能的加点情况，你将得到不同种类的盔甲套装。",
 		"",
-		"Each armour set has it's own bonuses and negatives."
+		"每套盔甲都有各自的优缺点。"
 	],
 	dependencies: [
 		"7b483180"

@@ -1,12 +1,12 @@
 {
-	title: "The Stay-Hot-Stuff",
+	title: "避免热量散失",
 	x: 10.5d,
 	y: -3.5d,
-	description: "It's in your walls!",
+	description: "你家墙里夹了什么？",
 	text: [
-		"Insulation will provide additional benefits to your Hearth Coil when placed on the sides of your Hearth Coil.",
+		"当被放置在线圈炉的侧面时，这些东西会提升线圈炉的工作速度，降低能量消耗。",
 		"",
-		"See your Codex for more information."
+		"你说这里就这么多信息？你不会看太古法典吗？"
 	],
 	dependencies: [
 		"1df9f3d5"

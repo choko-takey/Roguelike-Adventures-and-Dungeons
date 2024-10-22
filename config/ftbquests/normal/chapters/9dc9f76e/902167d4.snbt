@@ -1,12 +1,12 @@
 {
-	title: "Inventory Insanity",
+	title: "背包也疯狂",
 	x: -5.0d,
 	y: -7.0d,
-	description: "Make sure you give them names!",
+	description: "确保你给他们起了名字！",
 	text: [
-		"Each one will be special. I promise you.",
+		"每一个都与众不同。我保证。",
 		"",
-		"Usually I'll carry a whole row of these babies myself. But then again. I'm a nomad and never really stop exploring..."
+		"通常我自己都会背一整行这样的宝贝。但话说回来。我是一个流浪的人从未真正停止探索……"
 	],
 	dependencies: [
 		"ef285682"

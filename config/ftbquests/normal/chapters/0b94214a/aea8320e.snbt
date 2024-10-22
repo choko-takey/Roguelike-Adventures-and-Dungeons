@@ -1,10 +1,10 @@
 {
-	title: "Help, There's Skeletons in My Garden!",
+	title: "救命啊，我的花园里有小白！",
 	x: 0.0d,
 	y: -8.0d,
-	description: "It's like Plants VS Zombies all over again!",
+	description: "真像植物大战僵尸。",
 	text: [
-		"Craft some Tier 3 Crafting Seeds."
+		"制作一些三级合成种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

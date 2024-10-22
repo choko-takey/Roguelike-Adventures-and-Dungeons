@@ -1,10 +1,10 @@
 {
-	title: "Simple Protection",
+	title: "简单的保护",
 	x: 2.0d,
 	y: -2.0d,
-	description: "At its finest!",
+	description: "做到最好！",
 	text: [
-		"Shields can be used to block incoming damage from enemies, as well as shield bash enemies to shove them away from you."
+		"盾牌可以用于阻挡来自敌人的伤害，而用盾牌猛击敌人可以将他们从你身边推开。"
 	],
 	dependencies: [
 		"a4636105"

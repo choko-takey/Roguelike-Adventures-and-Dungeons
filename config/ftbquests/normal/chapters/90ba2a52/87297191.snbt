@@ -1,11 +1,11 @@
 {
-	title: "Pest Control",
+	title: "害虫防治",
 	icon: "thebetweenlands:weedwood",
 	x: 8.0d,
 	y: 9.5d,
-	description: "You're the real deal!",
+	description: "你是真的！",
 	text: [
-		"Smoke out 100 Termites."
+		"击杀100只白蚁。"
 	],
 	can_repeat: true,
 	tasks: [{

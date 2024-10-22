@@ -1,10 +1,10 @@
 {
-	title: "The Soul Bowl",
+	title: "灵魂之碗",
 	x: 6.0d,
 	y: -1.5d,
-	description: "Yummy",
+	description: "真好吃",
 	text: [
-		"Refer to your Dungeonpedia(s) for more information on this item."
+		"请参阅你的地牢百科以获取这个物品的更多信息。"
 	],
 	dependencies: [
 		"4119c49b"

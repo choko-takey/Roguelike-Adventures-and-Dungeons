@@ -1,10 +1,10 @@
 {
-	title: "Scarab Squasher",
+	title: "圣甲虫磨盘",
 	x: 2.0d,
 	y: 6.5d,
-	description: "Stomp em' out!",
+	description: "把他们踢出去！",
 	text: [
-		"Squash 100 Scarabs."
+		"碾碎100只圣甲虫。"
 	],
 	can_repeat: true,
 	tasks: [{

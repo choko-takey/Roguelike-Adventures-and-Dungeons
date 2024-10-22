@@ -1,20 +1,22 @@
 {
-	title: "Join the Union!",
+	title: "加入共济会吧",
 	x: -27.5d,
 	y: -3.5d,
-	description: "You can make over $100/hr",
+	description: "你得每小时赚100刀，明白否？",
 	text: [
-		"It's not a joke... honestly.",
+		"这不是个玩笑……",
 		"",
-		"The Building Guide is a rather advanced tool that can be used to create perfectly symmetrical shapes with ease.",
+		"建筑指导仪是个高级的玩意儿，它可以让你轻松建造一些特定的形状",
 		"",
-		"Right clicking the up or down arrow on the block's top will change the shape of the guide. This will cycle through all of the available shapes. Clicking on the left or right arrow on the block's top will rotate a shape's direction.",
+		"右击其顶部左右两边的图形可以改变其朝向，右击其顶部的箭头可以改变建筑类型",
 		"",
-		"Dimensions will display in chat as (-X, -Y, -Z):(X, Y, Z) and are relative to the direction and location of the block's top, where (0,0,0):(0,0,0) is the block itself. The total blocks required is also displayed in chat. ",
+		"建筑的尺寸会以（-X，-Y，-,Z）：（X，Y，Z）显示，其中（0,0,0）是这个方块自己的所在地，同时所需搭建的方块数量也会显示在聊天栏",
 		"",
-		"The X and Z coordinates change up and down based on the plane the block's side resides on. The Left + and - move along the -X/-Z axis. The Right + and - move along the X/Z axis.",
+		"X和Z的坐标可以通过右击方块侧面的左右两边的箭头调整，左边符号以-X和-Z移动，右边符号以X和Z移动",
 		"",
-		"The upper + and - move along the Y axis, and the lower + and - moves along the -Y-axis. The internal arrows copy its position to the opposite side."
+		"Y轴坐标则可以通过右击方块侧面的上下两边的箭头调整，上边符号以Y移动，下部符号以-Y移动",
+		"",
+		"给予其红石信号还可以直接看到建筑的投影"
 	],
 	tasks: [{
 		uid: "2907a750",

@@ -1,15 +1,15 @@
 {
-	title: "Sea Snake? No, Much Worse.",
+	title: "海蛇？不，更糟。",
 	x: 1.5d,
 	y: 1.0d,
-	description: "WATER TUBE GO BRRRR",
+	description: "去他妈的水管。",
 	text: [
-		"Kill 50 Sea Serpents."
+		"击杀50只海蟒。"
 	],
 	tasks: [{
 		uid: "3ba19177",
 		type: "kill",
-		title: "Slay 50 Sea Serpents",
+		title: "击杀50只海蟒",
 		icon: "iceandfire:seaserpent_skull",
 		entity: "iceandfire:seaserpent",
 		value: 50L

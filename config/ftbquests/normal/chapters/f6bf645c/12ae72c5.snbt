@@ -1,24 +1,24 @@
 {
-	title: "The Twilight Zone",
+	title: "暮色地带",
 	x: 3.0d,
 	y: 6.75d,
-	description: "You're gonna love it here",
+	description: "你会爱上这里的",
 	text: [
-		"Visit The Twilight Forest!",
+		"进入暮色森林！",
 		"",
-		"Your first order of business should be to keep track of where your portal back to home is.",
+		"首先你需要记住你的路径，将来方便返回入口。",
 		"",
-		"Secondly, this modpack will force players to progress through The Twilight Forest in a certain path.",
+		"其次，这个模组包将强制玩家在暮色森林中按照一定的路线来进行。",
 		"",
-		"Following the Questbook is the correct progression for The Twilight Forest.",
+		"跟随这条任务线来按正确顺序推动暮色森林的冒险。",
 		"",
-		"Certain areas will be covered in dangerous hazards or blocked off completely until they are unlocked."
+		"某些区域在它们解锁之前，将充满着危机，或是完全封闭。"
 	],
 	size: 1.5d,
 	tasks: [{
 		uid: "0938c950",
 		type: "dimension",
-		title: "Visit The Twilight Forest",
+		title: "进入暮色森林",
 		dim: 7
 	}]
 }

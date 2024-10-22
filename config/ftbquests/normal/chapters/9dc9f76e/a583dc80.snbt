@@ -1,18 +1,18 @@
 {
-	title: "Bounty Hunter",
+	title: "赏金猎人",
 	x: -10.0d,
 	y: -2.0d,
-	description: "You're like a Dogg, or something",
+	description: "你就像个狗一样嗅觉敏锐",
 	text: [
-		"Bounty Boards offer small quests. They can only be found in Villages. ",
+		"悬赏榜提供一些小任务。只能在村庄中找到。",
 		"",
-		"Bounty Boards can no longer be broken as of RAD 1.50! Bounties are instead revamped, and have increased rewards and new tasks!",
+		"悬赏榜在RAD1.50之后不能被破坏了！但是悬赏修改了，增加了奖励和新任务！",
 		"",
-		"Right-Click a Bounty Board to access the available Bounties. Each Bounty will have a list of requirements, a list of rewards and a time limit.",
+		"右击悬赏榜看看开放的悬赏。每个悬赏都有需求，奖励和时间限制。",
 		"",
-		"Once you have the required completion items for a Bounty, Right-Click a Bounty Board with your Bounty to complete it. You'll receive your reward and some experience!",
+		"如果准备好悬赏的物品，用悬赏右击悬赏榜完成。你将会收到你的奖励和一些经验！",
 		"",
-		"If you have a BLANK Bounty, Right-Clicking your Blank Bounty will reveal it's criteria, and turn it into a randomized quest."
+		"如果有空悬赏，右击空白悬赏会揭示它的标准，并将其变成一个随机任务。"
 	],
 	tasks: [{
 		uid: "39bea211",

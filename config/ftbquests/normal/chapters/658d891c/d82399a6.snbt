@@ -1,10 +1,10 @@
 {
-	title: "You Look Like a Blood Worm!",
+	title: "你看起来像一只血蠕虫！",
 	x: 16.5d,
 	y: -0.5d,
-	description: "Fish will love you!",
+	description: "鱼会喜欢你的！",
 	text: [
-		"You look like you're ready to get slapped on a hook and thrown into the ocean!"
+		"你看起来像是准备被钩子扇耳光，然后被扔进海里！"
 	],
 	tasks: [{
 		uid: "52e238f3",

@@ -1,10 +1,10 @@
 {
-	title: "Quick Mix 3000",
+	title: "快速搅拌机3000型",
 	x: 22.5d,
 	y: 0.0d,
-	description: "You've never made scrambled eggs so fast",
+	description: "我从来没有这么快的做好一盘炒鸡蛋！",
 	text: [
-		"Now I want an egg liquid. Pure egg."
+		"那么现在我需要一份被完全打匀的鸡蛋液，谢谢。"
 	],
 	dependencies: [
 		"1587c33e"

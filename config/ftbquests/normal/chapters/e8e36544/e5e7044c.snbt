@@ -1,16 +1,16 @@
 {
-	title: "The Scorpio Full Moon",
+	title: "满月中的天蝎座",
 	x: 4.5d,
 	y: -9.5d,
-	description: "Who da &#@$ put a scorpion on tha moon?",
+	description: "哪个**把蝎子放到月球上了？",
 	text: [
-		"This device will emit varying signal strengths depending on the Moon Phases. ",
+		"这个设备会根据月相发出不同强度的红石信号。",
 		"",
-		"You can make things like a door which only opens on a full moon, or something cool.",
+		"你可以用它来做一些很酷的装置，例如只会在满月打开的门。",
 		"",
-		"You can make something that monitors the celestial phases for Thaumcraft.",
+		"你也可以做些能确认神秘时代天相的装置。",
 		"",
-		"Go crazy."
+		"疯了。"
 	],
 	tasks: [{
 		uid: "25a8339d",

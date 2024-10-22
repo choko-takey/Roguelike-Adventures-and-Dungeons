@@ -1,16 +1,16 @@
 {
-	title: "Righty Twisty, Lefty Lifty",
+	title: "右拧紧，左松开",
 	x: 2.0d,
 	y: -4.5d,
-	description: "Something like that",
+	description: "就像这样",
 	text: [
-		"This wrench will rotate Cyclic's machines for you.",
+		"这个扳手可以帮你旋转循环的机器。",
 		"",
-		"This is highly useful if the machine is already in a system, but for WHATEVER REASON you want to rotate it.",
+		"如果机器已经摆好，但出于某些原因，你想旋转它，这时扳手是非常有用的。",
 		"",
-		"The machine will keep it's inventory and everything, but can still be rotated without picking it up.",
+		"机器将保留物品和一切设置，用旋转代替挖下重放。",
 		"",
-		"Snazzy."
+		"漂亮。"
 	],
 	tasks: [{
 		uid: "5cbceee2",

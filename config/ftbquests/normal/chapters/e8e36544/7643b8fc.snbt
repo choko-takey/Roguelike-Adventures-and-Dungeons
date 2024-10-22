@@ -2,11 +2,11 @@
 	title: "Bob",
 	x: 14.0d,
 	y: -3.5d,
-	description: "He builds stuff",
+	description: "他会建造东西",
 	text: [
-		"When powered and active, the Structure Builder will automatically build basic shapes when supplied with material!",
+		"当供电和激活时，结构建筑机将使用提供的材料自动构建基本形状！",
 		"",
-		"Select your shape and edit the sizes, and make sure you check your preview before turning it on!"
+		"选择你的形状和编辑大小，并确保你在打开它之前检查预览！"
 	],
 	dependencies: [
 		"ecd41947"

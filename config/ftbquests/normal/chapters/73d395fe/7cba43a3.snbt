@@ -1,12 +1,12 @@
 {
-	title: "Freaky Flora!",
+	title: "怪异的植物群！",
 	x: -4.5d,
 	y: -5.5d,
-	description: "Don't let them touch you!",
+	description: "别让他们碰到你！",
 	text: [
-		"Or do...",
+		"或者去……",
 		"",
-		"Collect all of the strange flora in The Midnight dimension."
+		"集齐午夜维度的奇怪植物群。"
 	],
 	dependencies: [
 		"03bff484"

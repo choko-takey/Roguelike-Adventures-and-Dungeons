@@ -1,10 +1,10 @@
 {
-	title: "Poking a Dry Piñata",
+	title: "（戳）皮纳塔",
 	x: 15.5d,
 	y: -4.5d,
-	description: "There's no candy in that thing!",
+	description: "那东西里没有糖果！",
 	text: [
-		"Like bees, but better!"
+		"就像蜜蜂，但更好！"
 	],
 	dependencies: [
 		"83bc3f12"

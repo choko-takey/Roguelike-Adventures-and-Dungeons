@@ -1,12 +1,12 @@
 {
-	title: "Automagical Sorting",
+	title: "魔法排序",
 	x: -4.5d,
 	y: 7.5d,
-	description: "No redstone needed!",
+	description: "无需红石！",
 	text: [
-		"You can slip your books in here like you did at the library when you were in elementary school!",
+		"和你小学时候班上的图书角差不多的作用。",
 		"",
-		"Refer to The Wizard's Handbook for more information on this item."
+		"具体用处请移步至巫师手札。"
 	],
 	dependencies: [
 		"44326244"

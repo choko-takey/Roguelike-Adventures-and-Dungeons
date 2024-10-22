@@ -1,9 +1,9 @@
 {
 	x: -0.5d,
 	y: -11.0d,
-	description: "This seems like the hard way...",
+	description: "这似乎是一条艰难的道路……",
 	text: [
-		"Craft some Obsidian Seeds."
+		"制作一些黑曜石种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

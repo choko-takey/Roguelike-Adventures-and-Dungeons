@@ -1,12 +1,12 @@
 {
-	title: "Prince Charming",
+	title: "护符王子",
 	x: 10.5d,
 	y: -2.0d,
-	description: "Why is he all skin and bones?",
+	description: "为什么他们都是皮包骨头？",
 	text: [
-		"Charms help protect against certain annoying things.",
+		"护符能够去除某些烦人的东西。",
 		"",
-		"Collect them all."
+		"收集所有护符。"
 	],
 	dependencies: [
 		"31bf2fad"

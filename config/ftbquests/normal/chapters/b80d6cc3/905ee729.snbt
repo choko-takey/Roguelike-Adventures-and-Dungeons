@@ -1,10 +1,10 @@
 {
-	title: "Like Breaking a Fire Hydrant",
+	title: "就像你把消防栓干碎了一样……",
 	x: 19.5d,
 	y: 4.5d,
-	description: "But also being prepared",
+	description: "但也是个开始",
 	text: [
-		"This is a planned crime."
+		"这是个早有准备的犯罪计划……"
 	],
 	dependencies: [
 		"05276366"

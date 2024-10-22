@@ -1,10 +1,10 @@
 {
-	title: "Depth Upgrades",
+	title: "纵深升级",
 	x: -10.5d,
 	y: 3.5d,
-	description: "It doesn't get better than this.",
+	description: "没有比这更好的了。",
 	text: [
-		"Add up to five blocks of depth to your tent! Check the JEI menu for the full crafting recipe."
+		"给你的帐篷增加五格纵深！配方查看JEI。"
 	],
 	dependencies: [
 		"dd9ababa"

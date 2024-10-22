@@ -1,12 +1,12 @@
 {
-	title: "Blood Sucking Fiend",
+	title: "拜访你的吸血朋友",
 	x: -4.5d,
 	y: 3.0d,
-	description: "Hope you're matching blood types",
+	description: "希望血型能对上",
 	text: [
-		"Creatures of the night vampires tend to avoid the sun their native land typically being black forest.",
+		"作为夜间生物，吸血鬼倾向于躲在森林中以避免阳光。",
 		"",
-		"Find some and kill them try landing a killing blow with a stake to get their blood."
+		"找到吸血鬼并用钉桩给予它们沉重的打击，同时获取一些它们的血液。"
 	],
 	dependencies: [
 		"679444c3"

@@ -1,10 +1,10 @@
 {
-	title: "EUREKA!",
+	title: "芜湖！",
 	x: 15.5d,
 	y: -3.0d,
-	description: "Now you need more",
+	description: "现在要更多了",
 	text: [
-		"You'll always... need more...",
+		"总是想要……更多……",
 		""
 	],
 	dependencies: [

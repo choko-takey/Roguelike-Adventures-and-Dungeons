@@ -1,10 +1,10 @@
 {
-	title: "What Type of Mending is This?",
+	title: "你是个什么修补？",
 	x: 7.5d,
 	y: -5.0d,
-	description: "It repairs your mind instead of your tools",
+	description: "经验修补，但是修的是你的脑子",
 	text: [
-		"The Headband of Curiosity converts half of your experience into knowledge."
+		"求知发带可以让你在获得经验时，将获得经验量的百分之50转化为知识（理论和观测都有，建议配合经验地漏和经验莲蓬头使用）"
 	],
 	dependencies: [
 		"9e943e03"

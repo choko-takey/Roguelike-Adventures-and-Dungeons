@@ -1,14 +1,14 @@
 {
-	title: "The Disintegrate-inator",
+	title: "绝对分解者",
 	x: 0.5d,
 	y: -4.0d,
-	description: "Doofenshmirtz really outdid himself this time",
+	description: "杜芬舒斯这次确实超越了自我",
 	text: [
-		"So... This staff turned things from something into nothing.",
+		"总之...这个法杖可以将一切化为乌有。",
 		"",
-		"Like, literally nothing.",
+		"就是字面意思上的乌有。",
 		"",
-		"100 damage, no loot, no dust, just thunder, and lightning and death."
+		"100点伤害，没有掉落物，没有尘埃，只有闪电、雷声与死亡。"
 	],
 	dependencies: [
 		"efbea43d"

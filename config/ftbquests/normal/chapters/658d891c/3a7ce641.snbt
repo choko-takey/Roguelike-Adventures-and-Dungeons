@@ -1,10 +1,10 @@
 {
-	title: "Somebody's Watching Me---",
+	title: "有人在监视我---",
 	x: 22.0d,
 	y: -0.5d,
-	description: "You feel like you have no privacy",
+	description: "你觉得自己没有隐私",
 	text: [
-		"This will make your foes very uncomfortable."
+		"这会让你的敌人非常不舒服。"
 	],
 	tasks: [{
 		uid: "5e512833",

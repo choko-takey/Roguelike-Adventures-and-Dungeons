@@ -1,10 +1,10 @@
 {
-	title: "Iron Armor",
+	title: "铁盔甲",
 	x: 2.5d,
 	y: -1.0d,
-	description: "Your best defense at difficulty 10!",
+	description: "你在难度10时的最佳防御！",
 	text: [
-		"Better get something... better..."
+		"最好找点更好的东西……"
 	],
 	dependencies: [
 		"b325bb25"

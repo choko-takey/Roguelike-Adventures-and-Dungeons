@@ -1,10 +1,10 @@
 {
-	title: "Going Down in Value",
+	title: "价值下跌",
 	x: 11.0d,
 	y: -3.0d,
-	description: "This stuff isn't worth jack!",
+	description: "这东西一文不值！",
 	text: [
-		"Just kidding. You're gonna need TONS of this stuff. Go get you some."
+		"只是开个玩笑。你需要很多这样的东西。先给你拿点。"
 	],
 	dependencies: [
 		"98cd26ae"

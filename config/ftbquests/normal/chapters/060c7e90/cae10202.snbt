@@ -1,10 +1,10 @@
 {
-	title: "Feel Good Robes",
+	title: "这袍子感觉不错",
 	x: -11.5d,
 	y: 9.5d,
-	description: "(Inc.)",
+	description: "治愈",
 	text: [
-		"Sha-Shabada-Shabadaca."
+		"滴→滴→答↓滴↑答→~滴↓答↑答→滴↓答↑"
 	],
 	dependencies: [
 		"6b5d4a07"

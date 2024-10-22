@@ -1,10 +1,10 @@
 {
-	title: "Quick Pick",
+	title: "迅捷镐",
 	x: -11.5d,
 	y: 2.5d,
-	description: "What's so fast about it?",
+	description: "它怎么这么快？",
 	text: [
-		"Obtain the Swift Pick."
+		"获得迅捷镐。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

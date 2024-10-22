@@ -1,16 +1,16 @@
 {
-	title: "The Director",
+	title: "当个导演",
 	x: -1.5d,
 	y: 11.5d,
-	description: "Do it all over again!",
+	description: "全部重来！",
 	text: [
-		"The Re-Director!",
+		"光线重定向！",
 		"",
-		"This item will misconstrue reality.",
+		"这个物品会让人混淆虚拟与现实。",
 		"",
-		"Well, the Light Redirector will switch the models of blocks on opposite sides. You can Right-Click a side to disable it.",
+		"总之，光线折射器会交换对应两个面上方块的材质，你可以右键来禁用某一个面。",
 		"",
-		"Can be used to disguise light sources as normal blocks.."
+		"可以用来将光源方块伪装成普通方块..."
 	],
 	tasks: [{
 		uid: "ea71d5d1",

@@ -1,12 +1,12 @@
 {
-	title: "Remnants of a Remnant",
+	title: "遗迹的遗存者",
 	x: 0.5d,
 	y: -4.5d,
-	description: "Dust to dust",
+	description: "尘归尘",
 	text: [
-		"Slay 500 Remnants.",
+		"击杀500只遗灵。",
 		"",
-		"Any Remnant will give credit towards this quest."
+		"任何遗灵都会为这项任务添加进度。"
 	],
 	tasks: [{
 		uid: "fc85c7bc",

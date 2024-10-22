@@ -1,12 +1,12 @@
 {
-	title: "MINIONS!",
+	title: "小鬼！",
 	x: 0.5d,
 	y: -0.5d,
-	description: "Not the yellow ones",
+	description: "不是黄色那个",
 	text: [
-		"Sometimes a vampire baron will summon minions to assist it.",
+		"有时吸血鬼伯爵会召唤吸血鬼仆从来支援它。",
 		"",
-		"Show those minions they picked the wrong line of work."
+		"告诉这些仆从它们选择了错误的工作。"
 	],
 	tasks: [{
 		uid: "c8aa9fa8",

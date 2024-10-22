@@ -2,9 +2,9 @@
 	title: "Lil Zanite",
 	x: 7.0d,
 	y: -17.5d,
-	description: "The best rapper in the Aether",
+	description: "天境中最好的rapper",
 	text: [
-		"Collect some Zanite."
+		"收集紫晶石。"
 	],
 	dependencies: [
 		"9ca912fb"

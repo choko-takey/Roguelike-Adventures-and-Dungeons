@@ -1,12 +1,12 @@
 {
-	title: "Diggin with Dead Stuff",
+	title: "用死东西挖",
 	x: 14.5d,
 	y: 2.0d,
-	description: "Remains rock!",
+	description: "仍然是岩石！",
 	text: [
-		"I think my pickaxe is still moving...",
+		"我想我的镐子还在动……",
 		"",
-		"You are required to make all tools to complete this quest."
+		"你需要制作所有工具来完成这个任务。"
 	],
 	dependencies: [
 		"e36c7a15"

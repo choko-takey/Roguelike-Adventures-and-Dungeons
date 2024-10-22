@@ -1,10 +1,10 @@
 {
-	title: "What's Inside?",
+	title: "里面有什么？",
 	x: -3.0d,
 	y: -2.0d,
-	description: "Let's throw it to find out",
+	description: "让我们砸开它看看",
 	text: [
-		"Obtain a Geode and a Dark Pearl."
+		"获得晶洞和暗黑珍珠。"
 	],
 	dependencies: [
 		"03bff484"

@@ -1,10 +1,10 @@
 {
-	title: "Mother Nature Can Be Scary",
+	title: "大地之母发怒了",
 	x: -17.0d,
 	y: 19.0d,
-	description: "Especially when she's trying to kill you!",
+	description: "她现在想给不听话的孩子亿点教训（",
 	text: [
-		"It might just be the Warlock casting magic, but who knows."
+		"地术士会成为她的代言人……也许只是自封的。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

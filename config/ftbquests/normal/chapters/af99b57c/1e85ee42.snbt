@@ -1,12 +1,12 @@
 {
-	title: "Bad Teacher",
+	title: "坏教官",
 	x: -9.0d,
 	y: -5.5d,
-	description: "I will not drain my teacher of all their blood",
+	description: "充分享受教官的每一滴血",
 	text: [
-		"To stop the advancement of the hunter menace, you can kill hunter trainers.",
+		"为了阻止猎人对你的进一步威胁，你可以杀死吸血鬼猎人教官。",
 		"",
-		"They can be found inside hunter controlled villages."
+		"他们可以在吸血鬼猎人控制的村庄中找到。"
 	],
 	dependencies: [
 		"2c291282"

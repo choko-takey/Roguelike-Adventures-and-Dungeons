@@ -1,12 +1,12 @@
 {
-	title: "Spider-Steve, Spider-Steve",
+	title: "失败的史蒂夫man",
 	x: 10.0d,
 	y: -9.5d,
-	description: "I'm basically playing Terraria?",
+	description: "我在玩泰拉瑞亚？",
 	text: [
-		"These gloves will allow you to climb any walls.",
+		"这些手套能让你爬上任何墙壁。",
 		"",
-		"Simple walk up to them, and just... keep walking."
+		"只需要向着墙壁移动，然后..保持移动。"
 	],
 	tasks: [{
 		uid: "af737a32",

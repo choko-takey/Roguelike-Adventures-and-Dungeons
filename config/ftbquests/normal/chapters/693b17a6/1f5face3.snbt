@@ -1,10 +1,10 @@
 {
-	title: "Ghastastic",
+	title: "鬼一样的雕像",
 	x: 8.0d,
 	y: 0.0d,
-	description: "Hip hip HORAH",
+	description: "嘿 嘿 乌拉",
 	text: [
-		"Slay 10 Ur-Ghasts."
+		"杀死10只暮色恶魂。"
 	],
 	tasks: [{
 		uid: "f41f5740",

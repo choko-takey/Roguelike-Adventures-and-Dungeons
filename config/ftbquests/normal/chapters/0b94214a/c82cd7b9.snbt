@@ -1,9 +1,9 @@
 {
 	x: -6.5d,
 	y: -11.0d,
-	description: "Does the freezing for you!",
+	description: "把你冻起来！",
 	text: [
-		"Craft some Ice Seeds."
+		"制作一些冰种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

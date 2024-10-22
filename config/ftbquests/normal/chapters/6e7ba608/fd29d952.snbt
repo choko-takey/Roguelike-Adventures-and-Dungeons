@@ -1,14 +1,14 @@
 {
-	title: "Relaxing",
+	title: "休闲时刻",
 	x: -7.0d,
 	y: -10.0d,
-	description: "No one better bother you",
+	description: "没人比你更烦了",
 	text: [
-		"Craft a White Beach Chair to sit in at Sunset!",
+		"制作一张白色沙滩椅，等待日落时分！",
 		"",
-		"Drink your Pinacolada at Sunset in order to travel to the TropiCraft dimension.",
+		"在日落时喝下鸡尾酒，前往热带世界维度。",
 		"",
-		"This is actually how you get there!"
+		"事实上，这就是你到达那里的方式！"
 	],
 	size: 1.5d,
 	tasks: [{

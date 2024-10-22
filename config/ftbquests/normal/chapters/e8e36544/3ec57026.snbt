@@ -1,12 +1,12 @@
 {
-	title: "Lazy Cheater",
+	title: "懒惰的骗子",
 	x: 9.0d,
 	y: -7.5d,
-	description: "It's not that hard",
+	description: "这并不难",
 	text: [
-		"This item is used to copy the tuned note of a Noteblock and place it onto another.",
+		"此物品用于复制粘贴一个音符盒的音符到另一个音符盒上。",
 		"",
-		"It can also be used to copy the contents of a Sign and place it onto another."
+		"它也可以用来复制一个音符内容，粘贴到另一个上。"
 	],
 	tasks: [{
 		uid: "6f20921b",

@@ -1,11 +1,11 @@
 {
-	title: "Alchemical Brass",
+	title: "炼金黄铜",
 	x: 10.0d,
 	y: -9.0d,
-	description: "Basically Thaumcraft's iron",
+	description: "其价值近似于铁，不过是TC的",
 	text: [
-		"Purple smoke comes out of the caudron when you make this stuff.",
-		"It's not bad, is it?"
+		"当你制作这种金属的时候，锅里会开始冒紫烟（？）",
+		"这还不算坏，对吧？"
 	],
 	dependencies: [
 		"7c204714"

@@ -1,10 +1,10 @@
 {
-	title: "Nice and Cozy, Just Like the First Quest Said",
+	title: "又好又舒适，就跟第一个任务所描述的一样",
 	x: 1.5d,
 	y: 2.0d,
-	description: "Everyone needs somewhere to sleep...",
+	description: "谁都需要一个睡觉的地方…………",
 	text: [
-		"This is the most comfortable you'll ever be in this dimension; don't get used to it."
+		"这是你在这个维度里能享受到的最舒适的感觉了，可别太习以为常了。"
 	],
 	dependencies: [
 		"3c192351"

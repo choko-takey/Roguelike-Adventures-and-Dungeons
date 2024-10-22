@@ -1,11 +1,11 @@
 {
-	title: "Twilight Lich in a Twilight Ditch",
+	title: "高塔上的巫妖",
 	icon: "twilightforest:trophy 1 1",
 	x: 1.0d,
 	y: 1.5d,
-	description: "Too morbid?",
+	description: "太露骨了？",
 	text: [
-		"Slay The Twilight Lich in his mighty tower."
+		"在巫妖高塔中杀死巫妖。"
 	],
 	dependencies: [
 		"9e4d5180"
@@ -14,7 +14,7 @@
 	tasks: [{
 		uid: "e5f9f3ba",
 		type: "kill",
-		title: "Slay The Twilight Lich",
+		title: "杀死一只巫妖",
 		entity: "twilightforest:lich",
 		value: 1L
 	}],

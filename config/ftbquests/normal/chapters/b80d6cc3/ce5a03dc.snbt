@@ -1,10 +1,10 @@
 {
-	title: "The Bonded, the Transformed, and the Repaired",
+	title: "胶黏剂，嬗变剂和修复剂",
 	x: 27.0d,
 	y: 1.5d,
-	description: "The Triune of Materials",
+	description: "材料三部曲",
 	text: [
-		"Take these material three, and use them to further thee!"
+		"把这些东西都弄点，你会需要它们的。"
 	],
 	dependencies: [
 		"0cb962a9"

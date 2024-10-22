@@ -1,12 +1,12 @@
 {
-	title: "Back Foul Beast!",
+	title: "反击 堕落的野兽！",
 	x: 3.5d,
 	y: -13.5d,
-	description: "Hark! And listen well!",
+	description: "听着！认真听！",
 	text: [
-		"Obtain the Shield of Repulsion.",
+		"获得反击之盾。",
 		"",
-		"When standing still with the shield equipped, projectiles should bounce harmlessly off you."
+		"装备反击之盾时，大部分弹射攻击将会被反弹。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

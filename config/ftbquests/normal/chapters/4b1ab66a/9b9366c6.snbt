@@ -1,18 +1,18 @@
 {
-	title: "Hunter Gathering",
+	title: "猎人狂欢",
 	x: -3.0d,
 	y: -4.5d,
-	description: "Back to your roots",
+	description: "追溯你的根源",
 	text: [
-		"This is how the pioneers did it.",
+		"祖先都是这样干的。",
 		"",
-		"Placing bait into these traps is sure to yield some good meat.",
+		"陷阱里放点诱饵一定能得到一些不赖的肉。",
 		"",
-		"The Ground Trap must be placed in the ground, with grass surrounding the trap. The trap cannot be covered.",
+		"陷阱必须放置在地面上，以及周围需要有草方块，且陷阱不能被覆盖。",
 		"",
-		"The Water Trap must be placed within a 5x5 square at minimum, and must be level with the top of the water. Think shallow fishing traps.",
+		"渔栅必须放置在至少5*5格的范围内，且必须与水平面齐平，类似浅水捕鱼陷阱。",
 		"",
-		"Alternatively, you can still fish up these monstrous creatures from any waters with most fishing poles."
+		"要不，你还是可以用钓鱼竿从任何水域捕捞这些鱼吧。"
 	],
 	dependencies: [
 		"e37ab5c9"

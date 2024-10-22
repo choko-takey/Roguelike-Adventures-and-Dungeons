@@ -1,12 +1,12 @@
 {
-	title: "Pass the Salt",
+	title: "把盐给我谢谢",
 	x: -6.0d,
 	y: 7.0d,
-	description: "Not for undead consumption",
+	description: "不适合不死族食用",
 	text: [
-		"Salt is used for making blessed salt which is required for holy water.",
+		"纯盐用于制作祝福盐，而祝福盐又可以制作圣水。",
 		"",
-		"(Depending on what skills you choose you may not be able to craft holy water)"
+		"（基于你选择的技能，你可能无法制造出圣水）"
 	],
 	dependencies: [
 		"1ea3c7a2"

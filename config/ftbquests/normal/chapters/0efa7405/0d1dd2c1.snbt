@@ -1,14 +1,14 @@
 {
-	title: "Jar Jar",
+	title: "罐了个罐",
 	x: 18.0d,
 	y: -9.0d,
-	description: "Blinks",
+	description: "别眨眼",
 	text: [
-		"Does he have eyelids?",
+		"知道罐子为啥不会自己分类源质吗？因为它有眼无珠~",
 		"",
-		"Anyways, jars help sort and store essentia. Be sure to label them because there are many shades of red essentia that are hard to tell apart.",
+		"是的，因为这样原因，罐子标签应运而生。它可以帮助你分类那些颜色都差不多的源质。",
 		"",
-		"Jars can also be hooked up to pipes."
+		"如你所见，罐子和管道是一家的。"
 	],
 	dependencies: [
 		"f8a63da8"
@@ -38,7 +38,7 @@
 	{
 		uid: "310a3d8e",
 		type: "item",
-		title: "Primary Essentia Marked Labels",
+		title: "任意罐子标签",
 		items: [{
 			id: "thaumcraft:label",
 			tag: {

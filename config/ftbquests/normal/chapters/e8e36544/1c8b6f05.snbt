@@ -1,16 +1,16 @@
 {
-	title: "No Dragon Is Wild, Now...",
+	title: "没有龙是野生的，现在……",
 	x: 3.5d,
 	y: -14.5d,
-	description: "Wild? You mean... captured?",
+	description: "野生的？你的意思是……捕获的？",
 	text: [
-		"This item will capture any hostile entity. ",
+		"这个物品可以捕获任何敌对实体。",
 		"",
-		"!!!!!!!!!!!!",
+		"！！！！！！！！！！！！",
 		"",
-		"Using this item on the HYDRA from TWILIGHT FOREST will crash your game and corrupt your world.",
+		"对暮色森林的九头蛇使用这个物品会使你的游戏崩溃并破坏你的世界。",
 		"",
-		"!!!!!!!!!!!!"
+		"！！！！！！！！！！！！"
 	],
 	tasks: [{
 		uid: "9031a1bf",

@@ -1,5 +1,5 @@
 {
-	title: "Chapter Overview",
+	title: "章节概述",
 	icon: {
 		id: "cyclicmagic:ender_eye_orb",
 		tag: {
@@ -13,15 +13,15 @@
 	},
 	x: -8.75d,
 	y: 3.5d,
-	description: "Yes, I know it's messy right now... It'll get better... maybe.",
+	description: "是的，我知道现在很乱……一切都会好起来的……也许吧。",
 	text: [
-		"Just kidding! We have finally organized this chapter.",
+		"开玩笑的！我们终于整理好了这一章节。",
 		"",
-		"The mods in this chapter are:",
-		"-Cyclic",
-		"-Open Blocks",
-		"-Random Things",
-		"-Quark",
+		"本章节中的mod是:",
+		"-Cyclic循环",
+		"-Open Blocks开放式方块",
+		"-Random Things随意作品",
+		"-Quark夸克",
 		"-Charm",
 		"-Dank/Null"
 	],

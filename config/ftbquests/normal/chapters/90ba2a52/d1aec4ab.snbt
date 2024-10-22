@@ -1,10 +1,10 @@
 {
-	title: "Urrghhhh",
+	title: "暮uuuu初，哈哈哈哈",
 	x: 0.5d,
 	y: -1.5d,
-	description: "My stomach hurts",
+	description: "笑得我肚子疼",
 	text: [
-		"Slay 5 Ur-Ghasts."
+		"击杀5只暮色恶魂。"
 	],
 	can_repeat: true,
 	tasks: [{

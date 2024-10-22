@@ -1,19 +1,19 @@
 {
-	title: "Your Own Recording Studio!",
+	title: "属于你的录音工作室！",
 	icon: "randomthings:soundrecorder",
 	x: -1.5d,
 	y: 4.0d,
-	description: "Fa-lalala-LLAAAAAAAA",
+	description: "尽情歌唱~",
 	text: [
-		"The Sound Recorder will record up to ten sounds. The sounds recorded will be the first ten sounds that play in the world.",
+		"录音机能记录最多十种声音。录下的声音是录音机在世界中最先检测到的10种。",
 		"",
-		"This can be used to narrow down sounds from the world, instead of finding it in a large list.",
+		"这可以用来减小世界中的特定声音，不再需要在一长串清单里面一个个找。",
 		"",
-		"Right-Click to open your Sound Recorder and fill it with empty Sound Patterns. These are used to save the sound you wish to do something with.",
+		"右键打开录音机并装入空白的声音模块，这将用来记录你想要处理的声音样本。",
 		"",
-		"Shift-Right-Clicking will activate the Sound Recorder to record the first ten sounds it hears. Shift-Right-Clicking again can end the recording prematurely.",
+		"shift+右键激活录音机来开始记录它最先听到的十种声音。再次shift+右键可以提前结束录制。",
 		"",
-		"When you've located the sound you want, and recorded it, Right-Click the Sound Recorder and find it in the list of sounds. Simply click it, and it will be copied to an empty Sound Pattern."
+		"当你到达声源附近并完成录音，再次打开录音机选中你需要的声音，它就会被复制到空白声音样本中。"
 	],
 	tasks: [{
 		uid: "b1804671",

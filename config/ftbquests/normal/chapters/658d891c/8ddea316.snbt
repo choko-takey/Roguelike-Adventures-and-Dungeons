@@ -1,12 +1,12 @@
 {
-	title: "Wet Stick?",
+	title: "湿漉漉的棒棒？",
 	x: 15.5d,
 	y: 1.5d,
-	description: "I can't tell if it's a stick...",
+	description: "我不好说是不是棍子……",
 	text: [
-		"The poison damage from weapons imbued with stingers is rather decent. Toxic venom will take down lower difficulty foes with ease.",
+		"布满毒刺的武器造成的伤害相当可观。毒液会轻易击倒比较弱的敌人。",
 		"",
-		"You are required to make all weapons to complete this quest."
+		"你需要制造所有要求的武器来完成这个任务。"
 	],
 	dependencies: [
 		"e36c7a15"
