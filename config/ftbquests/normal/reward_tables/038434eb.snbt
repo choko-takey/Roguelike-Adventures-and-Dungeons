@@ -1,8 +1,8 @@
 {
-	title: "Wizardry Artefacts",
+	title: "巫师饰品",
 	loot_size: 1,
 	rewards: [{
-		title: "Common Wizardry Artefacts",
+		title: "普通巫师饰品",
 		item: {
 			id: "ftbquests:lootcrate",
 			tag: {

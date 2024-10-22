@@ -1,5 +1,5 @@
 {
-	title: "Common Tier Rewards",
+	title: "普通奖励",
 	icon: {
 		id: "ftbquests:lootcrate",
 		tag: {
@@ -130,7 +130,7 @@
 	}],
 	loot_crate: {
 		string_id: "common_tier_rewards",
-		item_name: "Crate of Common Rewards",
+		item_name: "普通奖励板条箱",
 		color: 13878873,
 		drops: {
 			boss: 0,

@@ -1,5 +1,5 @@
 {
-	title: "Sea Serpent Scales",
+	title: "海蟒鳞片",
 	icon: "iceandfire:sea_serpent_scales_teal",
 	loot_size: 3,
 	rewards: [{
@@ -39,7 +39,7 @@
 	}],
 	loot_crate: {
 		string_id: "sea_serpent_scales",
-		item_name: "Serpent Scale Supply Crate",
+		item_name: "海蟒鳞片供应补给箱",
 		color: 639963,
 		drops: {
 			boss: 0,

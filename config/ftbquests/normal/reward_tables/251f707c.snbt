@@ -1,5 +1,5 @@
 {
-	title: "Assorted Elemental Crystals",
+	title: "多种元素水晶",
 	icon: "ebwizardry:grand_crystal",
 	loot_size: 1,
 	hide_tooltip: true,

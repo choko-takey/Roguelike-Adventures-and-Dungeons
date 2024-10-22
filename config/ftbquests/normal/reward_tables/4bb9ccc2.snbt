@@ -1,5 +1,5 @@
 {
-	title: "Rare Wizardry Artefacts",
+	title: "稀有巫师饰品",
 	loot_size: 1,
 	rewards: [{
 		item: "ancientspellcraft:head_fortune"

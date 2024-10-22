@@ -1,5 +1,5 @@
 {
-	title: "Elemental Shards Table",
+	title: "元素碎片奖励表",
 	icon: "ancientspellcraft:crystal_shard_sorcery",
 	loot_size: 3,
 	rewards: [{
@@ -32,7 +32,7 @@
 	}],
 	loot_crate: {
 		string_id: "elemental_shards_table",
-		item_name: "Crate of Crystal Shards",
+		item_name: "水晶碎片板条箱",
 		color: 16777215,
 		drops: {
 			boss: 0,

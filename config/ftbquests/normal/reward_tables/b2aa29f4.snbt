@@ -1,54 +1,54 @@
 {
-	title: "Runic Plates",
+	title: "符文板",
 	icon: "ancientspellcraft:runic_plate 1 410",
 	loot_size: 1,
 	rewards: [{
-		title: "Runic Plate - Blast",
+		title: "符文板-击退",
 		item: "ancientspellcraft:runic_plate 1 405"
 	},
 	{
-		title: "Runic Plate - Supress",
+		title: "符文板- Supress",
 		item: "ancientspellcraft:runic_plate 1 410"
 	},
 	{
-		title: "Runic Plate - Briar",
+		title: "符文板-荆棘",
 		item: "ancientspellcraft:runic_plate 1 400"
 	},
 	{
-		title: "Runic Plate - Shatter",
+		title: "符文板-粉碎",
 		item: "ancientspellcraft:runic_plate 1 404"
 	},
 	{
-		title: "Runic Plate - Reach",
+		title: "符文板-触及",
 		item: "ancientspellcraft:runic_plate 1 407"
 	},
 	{
-		title: "Runic Plate - Push",
+		title: "符文板-斥力",
 		item: "ancientspellcraft:runic_plate 1 408"
 	},
 	{
-		title: "Runic Plate - Endure",
+		title: "符文板-忍耐",
 		item: "ancientspellcraft:runic_plate 1 402"
 	},
 	{
-		title: "Runic Plate - Sol",
+		title: "符文板-太阳",
 		item: "ancientspellcraft:runic_plate 1 403"
 	},
 	{
-		title: "Runic Plate - Pull",
+		title: "符文板-拉力",
 		item: "ancientspellcraft:runic_plate 1 406"
 	},
 	{
-		title: "Runic Plate - Displace",
+		title: "符文板-专业",
 		item: "ancientspellcraft:runic_plate 1 401"
 	},
 	{
-		title: "Runic Plate - Fury",
+		title: "符文板-狂暴",
 		item: "ancientspellcraft:runic_plate 1 409"
 	}],
 	loot_crate: {
 		string_id: "runic_plates",
-		item_name: "Crate of Runic Plates",
+		item_name: "符文板板条箱",
 		color: 9598865,
 		drops: {
 			boss: 0,

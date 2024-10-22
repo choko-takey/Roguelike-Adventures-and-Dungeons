@@ -1,5 +1,5 @@
 {
-	title: "Rare Wizard Artifacts",
+	title: "稀有级巫师饰品",
 	loot_size: 1,
 	rewards: [{
 		item: {
@@ -643,7 +643,7 @@
 	}],
 	loot_crate: {
 		string_id: "rare_wizard_artifacts",
-		item_name: "Crate of Rare Wizard Artifacts",
+		item_name: "稀有级巫师饰品板条箱",
 		color: 6060725,
 		drops: {
 			boss: 0,

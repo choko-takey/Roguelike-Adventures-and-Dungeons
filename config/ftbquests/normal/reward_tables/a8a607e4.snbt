@@ -1,5 +1,5 @@
 {
-	title: "Elemental Crystals Table",
+	title: "元素水晶奖励表",
 	icon: "ebwizardry:grand_crystal",
 	loot_size: 3,
 	rewards: [{
@@ -32,7 +32,7 @@
 	}],
 	loot_crate: {
 		string_id: "elemental_crystal_loot_table_wizardry_",
-		item_name: "Crate of Random Elemental Crystals",
+		item_name: "随机元素水晶板条箱",
 		color: 16761035,
 		drops: {
 			boss: 0,

@@ -1,5 +1,5 @@
 {
-	title: "Atum Artefacts",
+	title: "阿图姆神器",
 	icon: "atum:eyes_of_atum",
 	loot_size: 1,
 	rewards: [{
@@ -626,7 +626,7 @@
 	}],
 	loot_crate: {
 		string_id: "atum_artefacts",
-		item_name: "Box of Ancient Artefacts",
+		item_name: "远古神器箱",
 		color: 14923816,
 		drops: {
 			boss: 0,

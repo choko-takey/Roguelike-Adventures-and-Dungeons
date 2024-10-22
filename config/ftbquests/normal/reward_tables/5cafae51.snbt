@@ -1,5 +1,5 @@
 {
-	title: "Warlord Gear",
+	title: "战神装备",
 	loot_size: 50,
 	rewards: [{
 		item: {
@@ -39,9 +39,9 @@
 				},
 				display: {
 					Lore: [
-						"A Large Greatsword with a broken tip still gets the job done"
+						"断裂巨剑依然可以继续战斗！"
 					],
-					Name: "The Unforged"
+					Name: "未锻者"
 				}
 			}
 		},
@@ -72,7 +72,7 @@
 				CustomPotionColor: 16725555,
 				"Quark:ItemNameDye": 1,
 				display: {
-					Name: "Warlord's Fury"
+					Name: "战神狂怒"
 				}
 			}
 		},
@@ -91,7 +91,7 @@
 				"Quark:ItemNameDye": 1,
 				Quality: {},
 				display: {
-					Name: "Warlord Helmet"
+					Name: "战神头盔"
 				}
 			}
 		},
@@ -104,7 +104,7 @@
 				"Quark:ItemNameDye": 1,
 				Quality: {},
 				display: {
-					Name: "Warlord Chestplate"
+					Name: "战神胸甲"
 				}
 			}
 		},
@@ -117,7 +117,7 @@
 				"Quark:ItemNameDye": 1,
 				Quality: {},
 				display: {
-					Name: "Warlord Leggings"
+					Name: "战神护腿"
 				}
 			}
 		},
@@ -157,7 +157,7 @@
 					Name: "Exposed"
 				},
 				display: {
-					Name: "Warlord's Heels"
+					Name: "战神之靴"
 				}
 			}
 		},
@@ -165,7 +165,7 @@
 	}],
 	loot_crate: {
 		string_id: "warlord",
-		item_name: "Crate Of Warlord Gear",
+		item_name: "战神装备板条箱",
 		color: 16777215,
 		drops: {
 			boss: 0,

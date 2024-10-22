@@ -1,5 +1,5 @@
 {
-	title: "Warrior",
+	title: "战士",
 	icon: "minecraft:iron_sword",
 	loot_size: 50,
 	hide_tooltip: true,

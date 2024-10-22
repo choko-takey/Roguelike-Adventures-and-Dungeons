@@ -1,5 +1,6 @@
 {
-	title: "Secondary Vis Crystals",
+	title: "二阶魔力水晶",
+
 	loot_size: 3,
 	rewards: [{
 		item: {
@@ -111,7 +112,8 @@
 	}],
 	loot_crate: {
 		string_id: "secondary_vis_crystals",
-		item_name: "Crate Of Secondary Vis Crystals",
+		item_name: "二阶魔力水晶板条箱",
+
 		color: 16777215,
 		drops: {
 			boss: 0,

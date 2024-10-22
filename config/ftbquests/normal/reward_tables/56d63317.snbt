@@ -1,5 +1,5 @@
 {
-	title: "Farm Animals Table",
+	title: "农场动物奖励表",
 	loot_size: 1,
 	rewards: [{
 		item: {
@@ -146,7 +146,7 @@
 	}],
 	loot_crate: {
 		string_id: "farm_animals_table",
-		item_name: "Crate of Farm Animal Eggs",
+		item_name: "农场动物刷怪蛋板条箱",
 		color: 10924571,
 		drops: {
 			boss: 0,

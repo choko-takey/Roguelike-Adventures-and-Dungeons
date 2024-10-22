@@ -1,5 +1,5 @@
 {
-	title: "Tool Enchant Reward",
+	title: "附魔工具奖励箱",
 	icon: "minecraft:diamond_pickaxe",
 	loot_size: 1,
 	rewards: [{
@@ -14,7 +14,7 @@
 				"Quark:ItemNameDye": 0,
 				Quality: {},
 				display: {
-					Name: "Dwarf's Silk Touch Pickaxe"
+					Name: "矮人的精准采集之镐"
 				},
 				"Quark:RuneAttached": 1b
 			}
@@ -32,7 +32,7 @@
 				"Quark:ItemNameDye": 8,
 				Quality: {},
 				display: {
-					Name: "Reinforced Dwarf Pickaxe"
+					Name: "强化矮人镐"
 				},
 				"Quark:RuneAttached": 1b
 			}
@@ -50,7 +50,7 @@
 				"Quark:ItemNameDye": 15,
 				Quality: {},
 				display: {
-					Name: "Lucky Dwarf Pickaxe"
+					Name: "幸运矮人镐"
 				},
 				"Quark:RuneAttached": 1b
 			}

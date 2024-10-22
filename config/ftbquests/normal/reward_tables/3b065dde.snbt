@@ -1,5 +1,5 @@
 {
-	title: "Elemental Crystal Blocks",
+	title: "元素水晶宝箱",
 	icon: "ebwizardry:crystal_block 1 1",
 	loot_size: 3,
 	rewards: [{
@@ -25,7 +25,7 @@
 	}],
 	loot_crate: {
 		string_id: "elemental_crystal_blocks",
-		item_name: "Crate of Crystal Blocks",
+		item_name: "水晶宝箱",
 		color: 14923745,
 		drops: {
 			boss: 0,

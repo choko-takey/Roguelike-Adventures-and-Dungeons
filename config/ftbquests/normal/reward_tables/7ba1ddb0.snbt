@@ -1,5 +1,5 @@
 {
-	title: "Ice/Fire Modbox",
+	title: "冰与火之歌模组盲盒",
 	icon: {
 		id: "iceandfire:armor_silver_metal_helmet",
 		tag: {
@@ -127,7 +127,7 @@
 	}],
 	loot_crate: {
 		string_id: "ice_fire_modbox",
-		item_name: "Crate of Dragon Knight Armaments",
+		item_name: "龙骑士军备板条箱",
 		color: 11119017,
 		drops: {
 			boss: 0,

@@ -1,5 +1,5 @@
 {
-	title: "Valkyrie Gear",
+	title: "女武神战备",
 	loot_size: 50,
 	rewards: [{
 		item: {
@@ -8,7 +8,7 @@
 				"Quark:ItemNameDye": 14,
 				Quality: {},
 				display: {
-					Name: "Valkyrie Helmet"
+					Name: "武神头盔"
 				}
 			}
 		},
@@ -21,7 +21,7 @@
 				"Quark:ItemNameDye": 14,
 				Quality: {},
 				display: {
-					Name: "Valkyrie Chestplate"
+					Name: "武神胸甲"
 				}
 			}
 		},
@@ -34,7 +34,7 @@
 				"Quark:ItemNameDye": 14,
 				Quality: {},
 				display: {
-					Name: "Valkyrie Leggings"
+					Name: "武神护腿"
 				}
 			}
 		},
@@ -78,7 +78,7 @@
 					Lore: [
 						"Cursed with the vengeance of the chicken's feathers that forged them"
 					],
-					Name: "Valykrie's Feathered Boots"
+					Name: "武神羽靴"
 				},
 				"Quark:RuneAttached": 1b
 			}
@@ -133,7 +133,7 @@
 					Name: "Heavy"
 				},
 				display: {
-					Name: "Vortex Vanquisher"
+					Name: "贯虹之槊"
 				},
 				"Quark:RuneAttached": 1b
 			}
@@ -159,7 +159,7 @@
 	}],
 	loot_crate: {
 		string_id: "valkyrie",
-		item_name: "Crate Of Valkyrie Gear",
+		item_name: "女武神战备箱",
 		color: 16777215,
 		drops: {
 			boss: 0,

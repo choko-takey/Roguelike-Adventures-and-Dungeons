@@ -1,5 +1,5 @@
 {
-	title: "Saplings Loot Table",
+	title: "树苗战利品",
 	icon: "minecraft:sapling",
 	loot_size: 5,
 	rewards: [{
@@ -190,7 +190,7 @@
 	}],
 	loot_crate: {
 		string_id: "saplings_loot_table",
-		item_name: "Sapling Supply Crate",
+		item_name: "树苗供应板条箱",
 		color: 65280,
 		drops: {
 			boss: 0,

@@ -1,5 +1,5 @@
 {
-	title: "Blood Donation",
+	title: "血祭",
 	icon: {
 		id: "vampirism:blood_container",
 		tag: {

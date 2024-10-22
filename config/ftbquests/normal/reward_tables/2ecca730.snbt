@@ -1,5 +1,5 @@
 {
-	title: "Pirate Gear",
+	title: "海盗装备",
 	icon: "quark:pirate_hat",
 	loot_size: 50,
 	rewards: [{
@@ -9,9 +9,9 @@
 				"Quark:ItemNameDye": 14,
 				display: {
 					Lore: [
-						"There's no bigger or better boat"
+						"这里没有更大更好的船了"
 					],
-					Name: "The Jolly Roger"
+					Name: "乔利·罗杰"
 				}
 			}
 		},
@@ -43,7 +43,7 @@
 					Name: "quality.long.name"
 				},
 				display: {
-					Name: "Rusty Hook"
+					Name: "锈蚀钩爪"
 				},
 				"Quark:RuneAttached": 1b
 			},
@@ -68,9 +68,9 @@
 			tag: {
 				display: {
 					Lore: [
-						"You can't actually feed them to parrots"
+						"事实上你并不能把这些饲料喂给你的小鹦鹉"
 					],
-					Name: "Parrot Treat"
+					Name: "鹦鹉饲料"
 				}
 			}
 		},
@@ -82,7 +82,7 @@
 			id: "minecraft:beetroot_seeds",
 			tag: {
 				display: {
-					Name: "Bird feed"
+					Name: "小鸟种子"
 				}
 			}
 		},
@@ -96,9 +96,9 @@
 				"Quark:ItemNameDye": 14,
 				display: {
 					Lore: [
-						"Good for keeping scury away"
+						"远离坏血病！"
 					],
-					Name: "Orange"
+					Name: "橙子"
 				}
 			}
 		},
@@ -111,9 +111,9 @@
 			tag: {
 				display: {
 					Lore: [
-						"Every pirate needs a loyal parrot by their side"
+						"每个海盗身边都需要一只忠诚的鹦鹉"
 					],
-					Name: "Polly"
+					Name: "波弟儿"
 				}
 			}
 		},
@@ -126,7 +126,7 @@
 				"Quark:ItemNameDye": 1,
 				Quality: {},
 				display: {
-					Name: "Scally Wag Poker"
+					Name: "流 氓 棍"
 				}
 			}
 		},
@@ -139,7 +139,7 @@
 				"Quark:ItemNameDye": 14,
 				Quality: {},
 				display: {
-					Name: "Pirate Boots"
+					Name: "海盗靴子"
 				}
 			}
 		},
@@ -152,7 +152,7 @@
 				"Quark:ItemNameDye": 14,
 				Quality: {},
 				display: {
-					Name: "Pirate Leggings"
+					Name: "海盗护腿"
 				}
 			}
 		},
@@ -165,7 +165,7 @@
 				"Quark:ItemNameDye": 14,
 				Quality: {},
 				display: {
-					Name: "Pirate Chestplate"
+					Name: "海盗胸甲"
 				}
 			}
 		},
@@ -197,7 +197,7 @@
 	}],
 	loot_crate: {
 		string_id: "pirate",
-		item_name: "Crate Of Pirate Gear",
+		item_name: "海盗装备板条箱",
 		color: 16777215,
 		drops: {
 			boss: 0,

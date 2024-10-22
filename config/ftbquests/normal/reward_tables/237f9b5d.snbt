@@ -1,5 +1,5 @@
 {
-	title: "Jousting Gear",
+	title: "骑士装备",
 	loot_size: 50,
 	rewards: [{
 		item: {
@@ -8,9 +8,9 @@
 				"Quark:ItemNameDye": 12,
 				display: {
 					Lore: [
-						"Fences not included!"
+						"不包括栅栏！"
 					],
-					Name: "Horse Puller"
+					Name: "拉马绳"
 				}
 			}
 		},
@@ -23,7 +23,7 @@
 				"Quark:ItemNameDye": 14,
 				display: {
 					Lore: [
-						"If you get armour so does the horse."
+						"你有盔甲，马儿也有。"
 					]
 				}
 			}
@@ -47,9 +47,9 @@
 			tag: {
 				display: {
 					Lore: [
-						"Good for making your horse feel better"
+						"能让你的马感觉好点"
 					],
-					Name: "Horse Happy Powder"
+					Name: "马儿快乐粉"
 				}
 			}
 		},
@@ -68,9 +68,9 @@
 				"Quark:ItemNameDye": 13,
 				display: {
 					Lore: [
-						"Wonder if it likes pizza or mozzerella"
+						"不知道它喜欢披萨还是奶酪"
 					],
-					Name: "Valkyrie"
+					Name: "瓦尔基里"
 				}
 			}
 		},
@@ -84,9 +84,9 @@
 				Quality: {},
 				display: {
 					Lore: [
-						"Legends say this lance is able to pierce through any shield"
+						"传说这把长矛能刺穿任何盾牌"
 					],
-					Name: "Lance of Longinus"
+					Name: "朗基奴斯长枪"
 				}
 			}
 		},
@@ -99,7 +99,7 @@
 				"Quark:ItemNameDye": 1,
 				Quality: {},
 				display: {
-					Name: "Jockey Boots"
+					Name: "骑师长靴"
 				}
 			}
 		},
@@ -112,7 +112,7 @@
 				"Quark:ItemNameDye": 1,
 				Quality: {},
 				display: {
-					Name: "Jockey Leggings"
+					Name: "骑士护腿"
 				}
 			}
 		},
@@ -125,7 +125,7 @@
 				"Quark:ItemNameDye": 1,
 				Quality: {},
 				display: {
-					Name: "Jockey Chestplate"
+					Name: "骑士胸甲"
 				}
 			}
 		},
@@ -138,7 +138,7 @@
 				"Quark:ItemNameDye": 1,
 				Quality: {},
 				display: {
-					Name: "Jockey Helmet"
+					Name: "骑士头盔"
 				}
 			}
 		},
@@ -146,7 +146,7 @@
 	}],
 	loot_crate: {
 		string_id: "jockey",
-		item_name: "Crate Of Jousting Gear",
+		item_name: "骑士装备板条箱",
 		color: 16777215,
 		drops: {
 			boss: 0,
