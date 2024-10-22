@@ -1,5 +1,5 @@
 {
-	title: "Crate Of Random Dragon Eggs",
+	title: "随机龙蛋箱",
 	loot_size: 1,
 	rewards: [{
 		item: "iceandfire:dragonegg_red",
@@ -34,7 +34,7 @@
 	}],
 	loot_crate: {
 		string_id: "random_dragon_egg_duos",
-		item_name: "Random Dragon Eggs",
+		item_name: "随机龙蛋",
 		color: 7488245,
 		glow: true,
 		drops: {

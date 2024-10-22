@@ -1,5 +1,5 @@
 {
-	title: "Wizard Gear",
+	title: "巫师装备",
 	loot_size: 50,
 	rewards: [{
 		item: {
@@ -75,7 +75,7 @@
 					Lore: [
 						"A traditional wand used by novice wizards"
 					],
-					Name: "Mage's Wand"
+					Name: "古魔法师的法杖"
 				},
 				progression: 20,
 				spells: [I;
@@ -91,7 +91,7 @@
 	}],
 	loot_crate: {
 		string_id: "wizard",
-		item_name: "Crate Of Wizard Gear",
+		item_name: "巫师装备板条箱",
 		color: 16777215,
 		drops: {
 			boss: 0,

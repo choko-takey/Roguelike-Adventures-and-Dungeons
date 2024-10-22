@@ -1,5 +1,5 @@
 {
-	title: "Wand Upgrades",
+	title: "法杖升级",
 	icon: "ancientspellcraft:soulbound_upgrade",
 	loot_size: 1,
 	rewards: [{
@@ -34,7 +34,7 @@
 	}],
 	loot_crate: {
 		string_id: "wand_upgrades",
-		item_name: "Crate of Wand Upgrades",
+		item_name: "法杖升级板条箱",
 		color: 13746053,
 		drops: {
 			boss: 0,

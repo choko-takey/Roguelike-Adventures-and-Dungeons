@@ -1,5 +1,5 @@
 {
-	title: "Common Wizardry Artefacts",
+	title: "普通巫师饰品",
 	loot_size: 1,
 	use_title: true,
 	rewards: [{

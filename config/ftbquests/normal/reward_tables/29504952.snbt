@@ -1,5 +1,5 @@
 {
-	title: "Erebus Modbox",
+	title: "混沌之地模组盲盒",
 	icon: "erebus:portal_activator",
 	loot_size: 30,
 	rewards: [{
@@ -34,7 +34,7 @@
 	}],
 	loot_crate: {
 		string_id: "erebus_modbox",
-		item_name: "Crate of Bug-Out Equipment",
+		item_name: "驱虫装备板条箱",
 		color: 29952,
 		drops: {
 			boss: 0,

@@ -1,5 +1,5 @@
 {
-	title: "Artillery Gear",
+	title: "炮兵装备",
 	loot_size: 50,
 	rewards: [{
 		item: {
@@ -30,7 +30,7 @@
 					Name: "quality.unlucky.name"
 				},
 				display: {
-					Name: "Slightly Unlucky Quiver"
+					Name: "不幸的小箭袋"
 				},
 				ammoCollect: 1b
 			}
@@ -46,7 +46,7 @@
 					Lore: [
 						"Throw it at an opponent and look at the shock on their face."
 					],
-					Name: "Spark Bomb"
+					Name: "电光炸弹"
 				}
 			}
 		},
@@ -62,7 +62,7 @@
 					Lore: [
 						"Hot and Spicy."
 					],
-					Name: "Fire Bomb"
+					Name: "火焰炸弹"
 				}
 			}
 		},
@@ -86,9 +86,9 @@
 				"Quark:ItemNameDye": 5,
 				display: {
 					Lore: [
-						"You have my crossbow!"
+						"你拿了我的弩!"
 					],
-					Name: "The Crossbow of the Galadhrim"
+					Name: "加拉德瑞尔的弩"
 				}
 			}
 		},
@@ -104,9 +104,9 @@
 				UUIDLeast: -6699777503193815989L,
 				display: {
 					Lore: [
-						"A Tomahawk chop shall be their death blow."
+						"战斧将给他们致命一击。"
 					],
-					Name: "Tomahawk"
+					Name: "战斧"
 				},
 				enchChecked: 1b,
 				Original: 1b
@@ -123,7 +123,7 @@
 					Lore: [
 						"Do not breathe in the chemicals from this."
 					],
-					Name: "Poison Bomb"
+					Name: "剧毒炸弹"
 				}
 			}
 		},
@@ -137,7 +137,7 @@
 				"Quark:ItemNameDye": 5,
 				Quality: {},
 				display: {
-					Name: "Artillery Helmet"
+					Name: "炮兵头盔"
 				}
 			}
 		},
@@ -150,7 +150,7 @@
 				"Quark:ItemNameDye": 5,
 				Quality: {},
 				display: {
-					Name: "Artillery Chestplate"
+					Name: "炮兵胸甲"
 				}
 			}
 		},
@@ -163,7 +163,7 @@
 				"Quark:ItemNameDye": 5,
 				Quality: {},
 				display: {
-					Name: "Artillery Leggings"
+					Name: "炮兵护腿"
 				}
 			}
 		},
@@ -176,7 +176,7 @@
 				"Quark:ItemNameDye": 5,
 				Quality: {},
 				display: {
-					Name: "Artillery Boots"
+					Name: "炮兵靴子"
 				}
 			}
 		},
@@ -184,7 +184,7 @@
 	}],
 	loot_crate: {
 		string_id: "artillery",
-		item_name: "Crate Of Artillery Gear",
+		item_name: "炮兵装备板条箱",
 		color: 16777215,
 		drops: {
 			boss: 0,

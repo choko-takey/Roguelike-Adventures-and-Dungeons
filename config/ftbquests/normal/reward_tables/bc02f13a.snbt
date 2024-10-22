@@ -1,5 +1,5 @@
 {
-	title: "Spectral Dust Table",
+	title: "灵尘奖励表",
 	icon: "ebwizardry:spectral_dust 1 2",
 	loot_size: 3,
 	rewards: [{
@@ -32,7 +32,7 @@
 	}],
 	loot_crate: {
 		string_id: "spectral_dust_loot_box",
-		item_name: "Crate of Random Spectral Dust",
+		item_name: "随机灵尘板条箱",
 		color: 3123617,
 		drops: {
 			boss: 0,

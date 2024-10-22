@@ -1,5 +1,5 @@
 {
-	title: "Uncommon Tier Rewards",
+	title: "罕见级奖励",
 	icon: {
 		id: "ftbquests:lootcrate",
 		tag: {
@@ -186,7 +186,7 @@
 	}],
 	loot_crate: {
 		string_id: "uncommon_tier_rewards",
-		item_name: "Crate of Uncommon Rewards",
+		item_name: "罕见奖励板条箱",
 		color: 5208386,
 		drops: {
 			boss: 0,

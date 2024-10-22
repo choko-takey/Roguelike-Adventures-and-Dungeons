@@ -1,5 +1,5 @@
 {
-	title: "Aether Modbox",
+	title: "天堂模组盲盒",
 	icon: "vc:item_guidebook_main",
 	loot_size: 50,
 	rewards: [{
@@ -47,7 +47,7 @@
 	}],
 	loot_crate: {
 		string_id: "aether_modbox",
-		item_name: "Crate of Explorer's Equipment",
+		item_name: "探险家装备板条箱",
 		color: 16777215,
 		drops: {
 			boss: 0,

@@ -1,8 +1,8 @@
 {
   "name": "levelup:farmer",
   "bonus": "levelup:craft_bonus",
-  "localized_name": "Farmer",
-  "description": "More efficient farming techniques",
+  "localized_name": "农民",
+  "description": "亲手种的地，长得快放心。",
   "skills": [
     {
       "name": "levelup:cropgrowth",

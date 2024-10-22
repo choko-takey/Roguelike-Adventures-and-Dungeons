@@ -1,5 +1,5 @@
 {
-	title: "Archer",
+	title: "弓箭手",
 	loot_size: 50,
 	hide_tooltip: true,
 	rewards: [{

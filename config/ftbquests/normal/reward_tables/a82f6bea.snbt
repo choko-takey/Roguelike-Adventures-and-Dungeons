@@ -1,5 +1,5 @@
 {
-	title: "Epic Tier Rewards",
+	title: "史诗级奖励",
 	icon: {
 		id: "ftbquests:lootcrate",
 		tag: {
@@ -44,7 +44,7 @@
 	}],
 	loot_crate: {
 		string_id: "epic_tier_rewards",
-		item_name: "Crate of Epic Rewards",
+		item_name: "史诗级奖励板条箱",
 		color: 10494192,
 		drops: {
 			boss: 0,

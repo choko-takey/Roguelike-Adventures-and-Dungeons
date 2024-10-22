@@ -1,5 +1,5 @@
 {
-	title: "Wizard",
+	title: "巫师",
 	loot_size: 50,
 	hide_tooltip: true,
 	rewards: [{
@@ -26,7 +26,7 @@
 					Name: "quality.dented.name"
 				},
 				display: {
-					Name: "Tattered Wizard Hat"
+					Name: "破烂巫师之帽"
 				}
 			}
 		},
@@ -68,7 +68,7 @@
 					Name: "quality.crumbling.name"
 				},
 				display: {
-					Name: "Tattered Wizard Robes"
+					Name: "破烂巫师长袍"
 				}
 			}
 		},
@@ -94,7 +94,7 @@
 					Name: "quality.dented.name"
 				},
 				display: {
-					Name: "Tattered Wizard Leggings"
+					Name: "破烂巫师护腿"
 				}
 			}
 		},
@@ -120,7 +120,7 @@
 					Name: "quality.dented.name"
 				},
 				display: {
-					Name: "Tattered Wizard Boots"
+					Name: "破烂巫师靴子"
 				}
 			}
 		},

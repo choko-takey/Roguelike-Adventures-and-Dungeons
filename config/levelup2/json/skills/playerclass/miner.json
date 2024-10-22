@@ -1,8 +1,8 @@
 {
   "name": "levelup:miner",
   "bonus": "levelup:mining_bonus",
-  "localized_name": "Miner",
-  "description": "You mine and you craft",
+  "localized_name": "矿工",
+  "description": "挖矿以用于建设。",
   "skills": [
     {
       "name": "levelup:stonecutting",

@@ -1,5 +1,5 @@
 {
-	title: "Rare Tier Rewards",
+	title: "稀有级奖励",
 	icon: {
 		id: "ftbquests:lootcrate",
 		tag: {
@@ -291,7 +291,7 @@
 	}],
 	loot_crate: {
 		string_id: "rare_tier_rewards",
-		item_name: "Crate of Rare Rewards",
+		item_name: "稀有奖励板条箱",
 		color: 18347,
 		drops: {
 			boss: 0,

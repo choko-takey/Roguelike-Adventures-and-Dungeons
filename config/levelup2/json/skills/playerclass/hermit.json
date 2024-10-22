@@ -1,8 +1,8 @@
 {
   "name": "levelup:hermit",
   "bonus": "levelup:mining_bonus",
-  "localized_name": "Hermit",
-  "description": "Better scavenging",
+  "localized_name": "矿物学家",
+  "description": "更快的熔炉与其他的便利。",
   "skills": [
     {
       "name": "levelup:furnacebonus",

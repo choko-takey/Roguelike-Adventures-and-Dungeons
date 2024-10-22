@@ -1,5 +1,5 @@
 {
-	title: "DungeonTactics Charms",
+	title: "地牢战术护符",
 	icon: "dungeontactics:charm_toxic",
 	loot_size: 1,
 	rewards: [{
@@ -31,7 +31,7 @@
 	}],
 	loot_crate: {
 		string_id: "dungeontactics_charms",
-		item_name: "Box of Charms",
+		item_name: "护符箱",
 		color: 15975553,
 		drops: {
 			boss: 0,

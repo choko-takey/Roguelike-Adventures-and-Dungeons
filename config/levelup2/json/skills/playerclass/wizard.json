@@ -1,8 +1,8 @@
 {
   "name": "levelup:wizard",
   "bonus": "levelup:combat_bonus",
-  "localized_name": "Wizard",
-  "description": "Harness the power of magic",
+  "localized_name": "魔法使",
+  "description": "巴啦啦能量！战斗吧！",
   "skills": [
     {
       "name": "levelup:fallprotect",
