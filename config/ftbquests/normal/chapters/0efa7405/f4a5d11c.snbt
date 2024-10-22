@@ -1,8 +1,8 @@
 {
-	title: "Evil Stone",
+	title: "邪术石",
 	x: 6.5d,
 	y: -2.5d,
-	description: "Made by evil people",
+	description: "只有真正触摸虚空的神秘使才有资格获得",
 	text: [
 		""
 	],

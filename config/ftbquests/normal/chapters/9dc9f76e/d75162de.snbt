@@ -1,10 +1,10 @@
 {
-	title: "Dentabites!",
+	title: "Dentabites（一款饼干）！",
 	x: -4.5d,
 	y: 7.5d,
-	description: "Dogs eat em' and go crazy!",
+	description: "狗爱极了吃它们！",
 	text: [
-		"Feed your doggy Super Treats until level 40!"
+		"给你的狗狗喂超级口粮到40级！"
 	],
 	dependencies: [
 		"0400b11c"

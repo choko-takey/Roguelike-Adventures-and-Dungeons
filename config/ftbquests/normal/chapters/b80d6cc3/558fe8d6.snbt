@@ -1,10 +1,10 @@
 {
-	title: "Alright Gang, Let's Split Up!",
+	title: "分道扬镳咯伙计们！",
 	x: 20.5d,
 	y: 2.0d,
-	description: "I don't think that's such a good idea",
+	description: "我觉得现在分开准没好果子吃……",
 	text: [
-		"What do you know, John?"
+		"你都知道些啥，约翰？"
 	],
 	dependencies: [
 		"05276366"

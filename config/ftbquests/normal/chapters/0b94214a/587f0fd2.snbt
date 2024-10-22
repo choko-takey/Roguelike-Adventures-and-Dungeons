@@ -1,9 +1,9 @@
 {
 	x: -2.5d,
 	y: -4.5d,
-	description: "Definitely eco-friendly",
+	description: "绝对环保",
 	text: [
-		"Obtain some Prudentium Coal."
+		"获得一些初级精华煤。"
 	],
 	dependencies: [
 		"aaa2120a"

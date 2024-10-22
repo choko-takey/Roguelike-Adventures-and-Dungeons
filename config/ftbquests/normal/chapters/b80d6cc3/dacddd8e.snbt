@@ -1,14 +1,14 @@
 {
-	title: "Cat in My What?",
+	title: "我猫呢？？？",
 	x: 33.5d,
 	y: 5.0d,
-	description: "Why is he there?",
+	description: "它怎么在这种鬼地方……",
 	text: [
-		"Be sure to check your machines for cats before you start them up.",
+		"启动这台机器前，你最好看看里面是不是长猫了。",
 		"",
-		"You wanna be sure to create as much pollution as possible.",
+		"总之，污染大气去吧，随你的便。",
 		"",
-		"There's so much word play here..."
+		"这里有很多双关笑话，对吧？"
 	],
 	dependencies: [
 		"fe8f99b6"

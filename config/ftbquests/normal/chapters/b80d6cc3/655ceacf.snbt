@@ -1,10 +1,10 @@
 {
-	title: "STOP!",
+	title: "停！",
 	x: 16.5d,
 	y: 3.5d,
-	description: "Hammer time!",
+	description: "锤子时间~",
 	text: [
-		"Duuun, dun dun dun, duuuun dun..."
+		"Duang~DuangDuangDuang~Duang~~~"
 	],
 	dependencies: [
 		"05276366"

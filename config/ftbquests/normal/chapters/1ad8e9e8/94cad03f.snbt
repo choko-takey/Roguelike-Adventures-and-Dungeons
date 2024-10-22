@@ -1,12 +1,12 @@
 {
-	title: "Are You Talking to Your Shield, Man?",
+	title: "你在跟你的盾牌说话，男士？",
 	x: -11.5d,
 	y: 6.0d,
-	description: "Well yea, he talks back to me?",
+	description: "是的，它在跟我斗嘴？",
 	text: [
-		"Craft the Living Weedwood Shield.",
+		"合成活木盾。",
 		"",
-		"It shoots Balls of Sap at nearby monsters."
+		"它会向附近的怪物发射凝胶球。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

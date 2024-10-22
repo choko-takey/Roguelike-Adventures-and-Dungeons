@@ -1,9 +1,9 @@
 {
 	x: 0.5d,
 	y: -16.0d,
-	description: "Syrmorite Challenge or something? Sorry I've never been on the internet",
+	description: "赛摩铜挑战还是什么别的？抱歉，我从来没有上过网",
 	text: [
-		"Craft some Syrmorite Seeds."
+		"制作一些赛摩铜种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

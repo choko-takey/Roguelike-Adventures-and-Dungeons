@@ -1,14 +1,14 @@
 {
-	title: "Turn It Down, I Can't See!",
+	title: "小点声，我看不见！",
 	x: -19.5d,
 	y: -9.0d,
-	description: "This helmet makes it legal to say that",
+	description: "有了头盔，这样说就合法了",
 	text: [
-		"This helmet is going to make you feel like you're missing chromosomes. You'll also crave cheese.",
+		"这个头盔会让你觉得你DNA少了。你也会想吃奶酪。",
 		"",
-		"Let's you see sound waves through walls.",
+		"让我们看看穿透墙壁的声波。",
 		"",
-		"You're basically a land dolphin."
+		"你基本上是陆地上的海豚。"
 	],
 	size: 1.5d,
 	tasks: [{

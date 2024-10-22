@@ -1,12 +1,12 @@
 {
-	title: "Burning Knowledge",
+	title: "燃烧知识",
 	x: -4.0d,
 	y: -9.0d,
-	description: "Really burn it into your brain",
+	description: "真的是在你脑子里燃烧",
 	text: [
-		"Obtain the Infernal Tear from the Shop.",
+		"在商店中购买炼狱之泪。",
 		"",
-		"Cry about how much it costs."
+		"为它花了多少钱而哭。"
 	],
 	tasks: [{
 		uid: "16857b48",

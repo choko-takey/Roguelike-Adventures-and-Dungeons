@@ -1,10 +1,10 @@
 {
-	title: "Boots of the Traveler",
+	title: "旅行者之靴",
 	x: 8.5d,
 	y: 1.0d,
-	description: "Why do these need to be charged?",
+	description: "为什么我走路还要交钱？",
 	text: [
-		"You'll move better and faster as long as these boots are charged."
+		"为这双靴子充入vis，你可以轻松打破博尔特的记录。"
 	],
 	dependencies: [
 		"d61d7f87"

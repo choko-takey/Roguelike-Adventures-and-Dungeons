@@ -1,12 +1,12 @@
 {
-	title: "LET THERE BE LIGHT!",
+	title: "让这里有光！",
 	x: 19.0d,
 	y: 10.5d,
-	description: "And so it shone, across the Chunk",
+	description: "让它照耀着区块",
 	text: [
-		"And the Chunk was illuminated, as He said it would be.",
+		"就像他说的那样，区块被点亮了。",
 		"",
-		"The Spectre Illuminator will light up an entire chunk with a light level of 15, through walls, all that good stuff."
+		"通灵光源将用15级亮度照亮整个区块，穿过墙壁和所有东西。"
 	],
 	dependencies: [
 		"4695c2a6"

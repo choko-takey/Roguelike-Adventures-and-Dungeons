@@ -1,12 +1,12 @@
 {
-	title: "Passively Catch Them All!",
+	title: "被迫把他们全抓住！",
 	x: -17.5d,
 	y: -8.0d,
-	description: "But not so passively.",
+	description: "但不是那么被迫。",
 	text: [
-		"Become a mass murderer of all sorts of animals to collect their trophies!",
+		"成为收集各种动物战利品的大屠杀者！",
 		"",
-		"All are needed to complete this quest."
+		"所有这些都是完成这项任务所必需的。"
 	],
 	tasks: [{
 		uid: "cedc3db6",

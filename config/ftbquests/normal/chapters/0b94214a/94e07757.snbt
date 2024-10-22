@@ -1,9 +1,9 @@
 {
 	x: -7.0d,
 	y: -5.0d,
-	description: "I wish you were a baby again... wait",
+	description: "我希望你变回一个婴儿……等等",
 	text: [
-		"Craft an Inferium Seed Processor."
+		"制作一个下级种子再处理器。"
 	],
 	dependencies: [
 		"e3949105"

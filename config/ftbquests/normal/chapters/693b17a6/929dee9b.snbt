@@ -1,10 +1,10 @@
 {
-	title: "Batter Bandit IV",
+	title: "蛋糕大盗 IV",
 	x: -13.0d,
 	y: -2.0d,
-	description: "It's all gone?",
+	description: "都没了？",
 	text: [
-		"Eat 2,500 slice of cake."
+		"吃掉2500片蛋糕。"
 	],
 	tasks: [{
 		uid: "4e4ee9cd",

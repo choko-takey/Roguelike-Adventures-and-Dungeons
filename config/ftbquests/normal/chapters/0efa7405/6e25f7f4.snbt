@@ -1,10 +1,10 @@
 {
-	title: "Magic Mirror Sending Magic Gas",
+	title: "魔镜不传输凡物",
 	x: 1.5d,
 	y: 0.5d,
-	description: "Can we transport natural gas using this?",
+	description: "那我们可以用这个运输天然气吗？",
 	text: [
-		"Works like a Magic Mirror, but instead of transporting items, it transports essentia."
+		"相当于只能传输源质的魔镜。"
 	],
 	dependencies: [
 		"422df795"

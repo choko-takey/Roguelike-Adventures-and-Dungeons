@@ -1,10 +1,10 @@
 {
-	title: "Yuck! It's All Green and Slimy!",
+	title: "讨厌！全是绿色的，黏糊糊的！",
 	x: 14.5d,
 	y: 0.5d,
-	description: "The green ones stink worse!",
+	description: "绿色的更臭！",
 	text: [
-		"That was one big bug."
+		"那是一个大爬虫。"
 	],
 	tasks: [{
 		uid: "78b8e962",

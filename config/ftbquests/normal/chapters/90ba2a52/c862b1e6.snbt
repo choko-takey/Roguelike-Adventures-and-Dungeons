@@ -1,10 +1,10 @@
 {
-	title: "Slip 'n' Slider",
+	title: "滑动“n”滑块",
 	x: 0.0d,
 	y: 2.5d,
-	description: "This boss is so fun",
+	description: "这个boss真有趣",
 	text: [
-		"Slay 5 Sliders."
+		"击杀5只滑行魔石。"
 	],
 	can_repeat: true,
 	tasks: [{

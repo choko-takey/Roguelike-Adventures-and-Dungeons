@@ -1,10 +1,10 @@
 {
-	title: "I'm Not Crazy",
+	title: "我还没疯呢！",
 	x: 10.0d,
 	y: -7.5d,
-	description: "You are",
+	description: "每个疯子都会说自己没疯。",
 	text: [
-		"Might want to keep tabs on your sanity and how much warp you've accumulated."
+		"让你直观的知道你已经积累了多少扭曲。"
 	],
 	dependencies: [
 		"204856d1"

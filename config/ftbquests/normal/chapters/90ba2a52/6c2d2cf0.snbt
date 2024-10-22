@@ -1,11 +1,11 @@
 {
-	title: "Benevolent Malevolence",
+	title: "仁慈的恶意",
 	icon: "chancecubes:chance_icosahedron",
 	x: -1.0d,
 	y: 8.0d,
-	description: "Helping you by killing you!",
+	description: "帮你杀了你！",
 	text: [
-		"Destroy 5 Primordial Malevolence."
+		"摧毁5个原始恶意。"
 	],
 	can_repeat: true,
 	tasks: [{

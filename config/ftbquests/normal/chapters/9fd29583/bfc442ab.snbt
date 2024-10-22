@@ -1,10 +1,10 @@
 {
-	title: "Basic Bamboo",
+	title: "基础的竹制品",
 	x: -1.5d,
 	y: -14.0d,
-	description: "It do what you need it to",
+	description: "它能做你需要它做的事情。",
 	text: [
-		"Craft basic bamboo pipes."
+		"合成基础的竹管道。"
 	],
 	dependencies: [
 		"d93ec9a8"

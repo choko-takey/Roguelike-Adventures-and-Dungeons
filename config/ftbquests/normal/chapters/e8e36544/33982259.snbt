@@ -1,22 +1,22 @@
 {
-	title: "Who's There?",
+	title: "谁在那里？",
 	x: 4.0d,
 	y: -5.5d,
-	description: "Show yourself!",
+	description: "展示你自己！",
 	text: [
-		"I know you're out there!",
+		"我知道你在那里！",
 		"",
-		"Reveal yourself, coward!",
+		"暴露你自己吧，懦夫！",
 		"",
-		"This device will emit a max strength signal when the set specifications are true. You can configure them by Right-Clicking the device.",
+		"当设定的规格符合时，该设备将发出最大强度的信号。可以通过右击设备进行配置。",
 		"",
-		"The \"Living\" setting will detect players as well as any mobs. Undead mobs are included. This specification is not literal.",
+		"“生物”设置将检测玩家以及任何生物。包括亡灵生物。该规范不是字面的。",
 		"",
-		"E.G: If you want to detect whether or not there are mobs within a vicinity, you will want it set to \"Living\" but with the activation number set to something higher than the amount of players that will commonly be in the area.",
+		"例如：如果你想检测附近是否有生物，你需要将其设置为“生物”，但将激活数设置为高于该区域通常存在的玩家数量。",
 		"",
-		"You can then set the detection range up higher, and the activation condition to be greater, and this would mean that when the Entity Detector was active, more than \"X\" number of mobs are on the premises.",
+		"然后，你可以将检测范围设置得更高，并将激活条件设置得更大，这将意味着当实体检测器处于激活状态时，场所内的生物数量将超过\"X\"个。",
 		"",
-		"The detector is able to be used for rather broad functions, but will fail to satisfy niched engagements."
+		"检测器能够用于相当广泛的功能，但将无法满足小生境的约定。"
 	],
 	tasks: [{
 		uid: "cabf19f9",

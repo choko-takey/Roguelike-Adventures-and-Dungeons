@@ -1,14 +1,14 @@
 {
-	title: "Script Seller",
+	title: "手稿小贩",
 	x: 16.5d,
 	y: -8.5d,
-	description: "Ancient Manuscript here!",
+	description: "这里有古代手稿！",
 	text: [
-		"Sell your unwanted Manuscripts.",
+		"卖掉你不想要的手稿。",
 		"",
-		"Submit your Manuscripts to complete the quest.",
+		"提交你的手稿以完成任务。",
 		"",
-		"Collect the reward for each completion."
+		"每完成一次就获得奖励。"
 	],
 	can_repeat: true,
 	tasks: [{

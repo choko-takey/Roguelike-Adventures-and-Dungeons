@@ -1,12 +1,12 @@
 {
-	title: "Stabilizer",
+	title: "稳定器",
 	x: 9.5d,
 	y: -3.5d,
-	description: "Has an I on it",
+	description: "上面有个I",
 	text: [
-		"Does it stand for ingenious?",
+		"这东西能行吗……",
 		"",
-		"A Stabilizer stablizes the infusion process."
+		"稳定器可以提高注魔的稳定度，记得对称摆放。"
 	],
 	dependencies: [
 		"d61d7f87"

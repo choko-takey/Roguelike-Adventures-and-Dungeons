@@ -1,12 +1,12 @@
 {
-	title: "Making Moonshine!",
+	title: "月色佳酿",
 	x: 20.5d,
 	y: 7.0d,
-	description: "Dwarven Moonshine",
+	description: "如月色般白，如丝绸般滑",
 	text: [
-		"210 Proof. ",
+		"210度高度酒",
 		"",
-		"That's right. 105% alcohol. That 5% is from Dwarven engineering."
+		"是滴，百分之105的纯酒精，额外5%来自矮人的倾情酿造。"
 	],
 	dependencies: [
 		"091cf380"

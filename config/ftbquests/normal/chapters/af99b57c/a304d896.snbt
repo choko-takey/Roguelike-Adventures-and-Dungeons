@@ -1,10 +1,10 @@
 {
-	title: "Pizza Party",
+	title: "披萨派对",
 	x: -7.5d,
 	y: 4.0d,
-	description: "Ayo the pizza here",
+	description: "你好这里是必胜客",
 	text: [
-		"If you have some spare garlic why not make yourself a meal."
+		"如果你有多余的大蒜，考虑给自己做份大餐吧。"
 	],
 	dependencies: [
 		"3141492f"

@@ -1,12 +1,12 @@
 {
-	title: "The Biggest Cave",
+	title: "超级大洞",
 	x: -7.5d,
 	y: -0.5d,
-	description: "Echo echo echo echo echo",
+	description: "洞————洞————洞————洞——————（回声）",
 	text: [
-		"If you like metals, then huge caverns are the place for you.",
+		"如果你不知道出于什么原因很需要金属，那么你来对地方了",
 		"",
-		"Like the name implies, this dimension is a massive cave with ores scattered all across it's depths."
+		"顾名思义，这是个巨大的洞穴，矿石和其他宝物被深埋在下方，等着你去发掘"
 	],
 	dependencies: [
 		"a0e157ef"
@@ -14,7 +14,12 @@
 	tasks: [{
 		uid: "46992149",
 		type: "dimension",
-		icon: "cavern:huge_cavern_portal",
+		icon: {
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "cavern:huge_cavern_portal"
+		},
 		dim: -51
 	}],
 	rewards: [{

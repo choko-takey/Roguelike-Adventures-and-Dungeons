@@ -1,10 +1,10 @@
 {
-	title: "No Spectre Coils?",
+	title: "没有线圈怎么发的电？",
 	x: 7.5d,
 	y: 5.5d,
-	description: "Well, here's your alternative",
+	description: "额……神秘使也免不了俗",
 	text: [
-		"A Vis Generator uses the local aura to produce energy."
+		"灵气发电机消耗区块里的灵气发电（效率不太行……得叠数量）"
 	],
 	dependencies: [
 		"9e146a1f"

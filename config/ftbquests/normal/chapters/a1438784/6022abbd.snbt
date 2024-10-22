@@ -1,10 +1,10 @@
 {
-	title: "Rod Washer",
+	title: "权杖清洗工",
 	x: 14.5d,
 	y: 8.0d,
-	description: "Make sure to rinse thoroughly",
+	description: "一定要洗干净了哦",
 	text: [
-		"Get all the rust off"
+		"洗净所有的脏污。"
 	],
 	hide: true,
 	size: 1.5d,

@@ -1,10 +1,10 @@
 {
-	title: "She Spits, She Scores!",
+	title: "她射门了，她得分了！！！",
 	x: 6.5d,
 	y: -6.5d,
-	description: "Freaky",
+	description: "逊诶~",
 	text: [
-		"Craft the Serpent's Staff."
+		"制作大蛇法杖。"
 	],
 	tasks: [{
 		uid: "911bfbc2",

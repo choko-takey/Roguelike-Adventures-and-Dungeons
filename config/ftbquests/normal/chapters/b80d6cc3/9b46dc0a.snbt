@@ -1,12 +1,12 @@
 {
-	title: "Electric Ingot?",
+	title: "电素锭？",
 	x: 23.5d,
 	y: -2.5d,
-	description: "No, doofus",
+	description: "想啥呢臭宝！",
 	text: [
-		"Will it shock me?",
+		"这玩意电我了？",
 		"",
-		"No, doofus."
+		"怎么可能呢小可爱。"
 	],
 	dependencies: [
 		"bcb31588"

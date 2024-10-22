@@ -1,16 +1,16 @@
 {
-	title: "The Take Me Back Block",
+	title: "回城方块",
 	x: -13.0d,
 	y: -1.5d,
-	description: "It's kinda bland",
+	description: "有点乏味",
 	text: [
-		"Waystones can be \"discovered\" by Right-Clicking them. They are normally found in villages.",
+		"指路石能右击“发现”。通常在村庄能找到。",
 		"",
-		"Waystones can be mined and taken from villages to be placed elsewhere.",
+		"可以挖走指路石放在别的地方。",
 		"",
-		"When placed, a Waystone will ask you to give it a name. This is the name of the location the Waystone will bring you to when activated.",
+		"放下后，指路石需要命名。这个名字就是指路石传送到这个位置的名字。",
 		"",
-		"You will be teleported to the location of your player when that Waystone was placed."
+		"传送时你会被传送到最开始放置传送石时你站的位置。"
 	],
 	tasks: [{
 		uid: "64787515",

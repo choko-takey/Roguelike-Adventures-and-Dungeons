@@ -1,12 +1,12 @@
 {
-	title: "Black Quartz",
+	title: "黑石英",
 	x: 0.5d,
 	y: -4.0d,
-	description: "Its not, actually",
+	description: "实际上并不是",
 	text: [
-		"You can make tools out of this stuff, unlike real quartz.",
+		"你可以用这种东西制作工具，不像真正的石英。（译者注：这个模组的汉化者把这个东西翻译成了“乌木”，非常离谱）",
 		"",
-		"Obtain some Ebonite."
+		"获得一些乌木。"
 	],
 	dependencies: [
 		"03bff484"

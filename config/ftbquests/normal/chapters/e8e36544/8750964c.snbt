@@ -1,12 +1,12 @@
 {
-	title: "The Laddoor",
+	title: "梯子活板门",
 	x: -12.5d,
 	y: -3.5d,
-	description: "BOOM",
+	description: "嘣",
 	text: [
-		"It does both. It's a boffum.",
+		"两者都有。这是一件很棒的作品",
 		"",
-		"Ladder and Trap Door did a fusion."
+		"梯子和活板门融合了。"
 	],
 	tasks: [{
 		uid: "711842ee",

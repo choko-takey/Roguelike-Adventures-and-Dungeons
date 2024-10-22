@@ -1,15 +1,15 @@
 {
-	title: "Fisherman's Man's Man II",
+	title: "钓鱼佬 II",
 	x: -7.0d,
 	y: 0.0d,
-	description: "50lb Trout! Wat?",
+	description: "50磅鳟鱼！瓦特？",
 	text: [
-		"Catch 10,000 fish."
+		"捕获10000条鱼。"
 	],
 	tasks: [{
 		uid: "87641d5e",
 		type: "stat",
-		title: "Catch 10,000 fish",
+		title: "捕获10000条鱼",
 		icon: "minecraft:fishing_rod",
 		stat: "stat.fishCaught",
 		value: 10000

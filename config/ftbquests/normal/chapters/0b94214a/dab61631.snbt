@@ -1,9 +1,9 @@
 {
 	x: -6.0d,
 	y: -4.5d,
-	description: "Eco-friendly",
+	description: "环保",
 	text: [
-		"Obtain some Inferium Coal."
+		"获得一些下级精华煤。"
 	],
 	dependencies: [
 		"e3949105"

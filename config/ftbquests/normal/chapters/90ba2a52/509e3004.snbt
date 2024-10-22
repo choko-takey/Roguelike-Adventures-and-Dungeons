@@ -1,10 +1,10 @@
 {
-	title: "Fire Stomper Outter",
+	title: "消防踏板车",
 	x: -2.0d,
 	y: -3.0d,
-	description: "Kept your cool the whole time",
+	description: "一直保持冷静",
 	text: [
-		"Kill 25 Blaze."
+		"击杀25只烈焰人。"
 	],
 	can_repeat: true,
 	tasks: [{

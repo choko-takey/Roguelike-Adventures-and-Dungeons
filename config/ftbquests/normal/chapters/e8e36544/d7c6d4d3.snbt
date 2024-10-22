@@ -1,16 +1,16 @@
 {
-	title: "Ladies and Gentleman",
+	title: "先生们，女士们",
 	x: 8.5d,
 	y: 10.5d,
-	description: "We got him",
+	description: "我们抓到他了",
 	text: [
-		"How are you gonna get his ID?",
+		"你是怎么知道他的id的？",
 		"",
-		"The Emerald Compass needs to be combined with an ID Card in a crafting grid to work.",
+		"绿宝石指南针需要在工作台上和一张身份证进行绑定。",
 		"",
-		"When combined, the Emerald Compass will point towards the player whose ID Card you combined it with, if they are online.",
+		"绑定之后，只要身份证对应的玩家在线，指南针就会一直指向他。",
 		"",
-		"Now really, how are you going to get their ID Card? You know they don't just leave it laying around... or do they?"
+		"但是认真的，你是怎么得到他们的身份证的？你知道他们不可能平白无故把身份证掉在地上...还是说真的会？"
 	],
 	tasks: [{
 		uid: "d21a94e1",

@@ -1,14 +1,15 @@
 {
-	title: "Homemade Hibachi!",
+	title: "家庭铁板烧",
 	x: 10.0d,
 	y: -2.0d,
-	description: "From your own home?!",
+	description: "啊？你家就你一个人？",
 	text: [
-		"Power your new hibachi grill from the bottom using Embers!",
+		"使用你好不容易弄到的余烬能量开一个铁板烧派对吧！哦，这台新机器的能量交互口在其底部……",
 		"",
-		"Place your smeltable items on top, and they will cook into their respective recipes.",
+		"把那些能被熔炉冶炼的物品丢在上面，过一会，它们就会变成各自被烧炼过的样子。",
 		"",
-		"The Hearth Coil will store the items in an internal buffer which can then be pumped from the bottom or through a Mechanical Accessor."
+		"中间的线圈会把烧炼过的物品存入自身缓存，你可以通过在其下方接管道什么的来输出物品。",
+		"（别忘了装一个机械核心，不然你的线圈炉只能进能量不能出物品）"
 	],
 	dependencies: [
 		"e07e8bcc"

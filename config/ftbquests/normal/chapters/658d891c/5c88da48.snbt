@@ -1,10 +1,10 @@
 {
-	title: "Dragon Tendies",
+	title: "龙筋",
 	x: 8.0d,
 	y: 4.0d,
-	description: "Chicken has nothing on this.",
+	description: "这上面没有鸡肉。",
 	text: [
-		"Prone to giving your tongue frostbite."
+		"容易让舌头冻伤。"
 	],
 	dependencies: [
 		"ecbc2d9f"

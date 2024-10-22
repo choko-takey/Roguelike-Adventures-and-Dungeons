@@ -1,16 +1,16 @@
 {
-	title: "How Can You See into My Eyes",
+	title: "你怎么能看到我的眼睛",
 	x: 6.5d,
 	y: -4.5d,
-	description: "Like open dOooOoOoOrrs?",
+	description: "像开一扇 么恩——门？？",
 	text: [
-		"This glass will not let light through.",
+		"这种玻璃不透光。",
 		"",
-		"The Wither can't destroy it.",
+		"凋灵不能破坏它。",
 		"",
-		"But you can see through it.",
+		"但你能看透它。",
 		"",
-		"LEADDDDINGGGGG YOU DOWNNNN INTO MY COoOoOoOREEEE"
+		"德爱——带 你 鸡因——进 我的 河儿——核心"
 	],
 	tasks: [{
 		uid: "2bf54000",

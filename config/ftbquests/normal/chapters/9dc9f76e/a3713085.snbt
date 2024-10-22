@@ -1,16 +1,16 @@
 {
-	title: "Lag Machines Were Never Easier",
+	title: "卡服机从未如此简单",
 	x: -6.0d,
 	y: 0.0d,
-	description: "Just kidding, but not really",
+	description: "开个玩笑，不是真的",
 	text: [
-		"These items will enable you to build the best auto-storage ever!",
+		"这个物品会帮你搭建最好的自动存储！",
 		"",
-		"Connecting too many chests to a single storage system may create large amounts of lag within an area.",
+		"在一个区域内将过多的箱子连接到单个存储系统可能会产生大量的延迟。",
 		"",
-		"Though the limit is large, the lag will slowly become noticeable. Take care as you expand your storage system to the ludicrous size you want it to be.",
+		"尽管极限很大，但延迟会慢慢变得明显。请小心，不要将存储系统扩展到荒唐的大。",
 		"",
-		"Utilize Colossal Chests to cut down on the amount of chests you connect to your system!"
+		"利用巨型箱子来减少连接到系统的箱子数量！"
 	],
 	dependencies: [
 		"5e5e8910"

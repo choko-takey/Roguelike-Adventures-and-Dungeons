@@ -1,12 +1,12 @@
 {
-	title: "You're a Real Farmer Now",
+	title: "你现在是一名真正的农场主了",
 	x: 3.5d,
 	y: -4.5d,
-	description: "CORN!",
+	description: "玉米！",
 	text: [
-		"The Shipping Bin will allow you to sell bushels of crops for an Emerald each.",
+		"这个贸易箱将允许你以每一个绿宝石的价格卖出一定数量的庄稼。",
 		"",
-		"Get to tending that corn boi!"
+		"来煮点玉米粥吧！"
 	],
 	dependencies: [
 		"e37ab5c9"

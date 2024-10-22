@@ -1,14 +1,14 @@
 {
-	title: "How Many Eggs Does It Take to Change the Weather?",
+	title: "改变天气需要多少个蛋？",
 	x: 9.5d,
 	y: 8.5d,
-	description: "Just one. You just throw it, too.",
+	description: "只需要一个，把它扔出去就可以了",
 	text: [
-		"These eggs are magical, and when you throw them, the weather changes!",
+		"这些蛋具有魔法，扔出去就可以改变天气！",
 		"",
-		"You should make shrines dedicated to these eggs, with special droppers which drop them at a whim to change the weather!",
+		"你应该专门造个神庙来保存这些蛋，防止有人心血来潮把蛋扔出去改变天气！",
 		"",
-		"Worship whatever chicken layed these eggs!"
+		"尊敬那些会下这种蛋的鸡！"
 	],
 	tasks: [{
 		uid: "316ba202",

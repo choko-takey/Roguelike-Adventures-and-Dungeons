@@ -1,10 +1,11 @@
 {
-	title: "A Brewing Storm",
+	title: "暴风雨前的宁静",
 	x: -13.5d,
 	y: 18.5d,
-	description: "It might be Taco-Bell",
+	description: "也许是塔可钟",
 	text: [
-		"Curse that 5 Layer Beefy Burrito!"
+		"哪个杀千刀的做的五层玉米饼牛肉塔可？",
+		"硬的咬不动啊啊啊啊！"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

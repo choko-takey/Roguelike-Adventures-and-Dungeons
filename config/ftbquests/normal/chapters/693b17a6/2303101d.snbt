@@ -1,11 +1,11 @@
 {
-	title: "Menace to Sludgeciety",
+	title: "污泥威胁",
 	icon: "thebetweenlands:sludge_ball",
 	x: 4.0d,
 	y: 0.0d,
-	description: "Make him go away!",
+	description: "让他走开！",
 	text: [
-		"Banish 25 Sludge Menaces back to the dirty depths!"
+		"将25个污泥威胁驱赶回肮脏的深处！"
 	],
 	tasks: [{
 		uid: "d84be26c",

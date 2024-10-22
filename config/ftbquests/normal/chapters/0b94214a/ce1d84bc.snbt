@@ -1,9 +1,9 @@
 {
 	x: 3.5d,
 	y: 3.0d,
-	description: "Must be some rare chili pepper",
+	description: "一定是某种罕见的辣椒",
 	text: [
-		"Obtain a Blaze Chunk."
+		"获得一块烈焰人灵魂碎片。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

@@ -1,10 +1,10 @@
 {
-	title: "Spicy Dragon Wings",
+	title: "香辣龙翅",
 	x: 8.0d,
 	y: -6.0d,
-	description: "No sauce required. This is as juicy as it gets!",
+	description: "不需要酱汁。这是最多汁的！",
 	text: [
-		"It only has pepper on it!"
+		"它上面只有胡椒粉！"
 	],
 	dependencies: [
 		"6dbe8507"

@@ -1,12 +1,13 @@
 {
-	title: "Spell Crafting",
+	title: "法术编写",
 	x: -4.25d,
 	y: -2.75d,
-	description: "Books aren't needed here",
+	description: "现在那本书帮不了你了",
 	text: [
-		"This workbench is where you will \"craft\" spells.",
+		"这是专门创建你专属法术的工作台。",
+		"（法术的强度完全取决于你的想象力……和核心复杂度上限）",
 		"",
-		"Obtain a Focal Manipulator."
+		"制作一个核心镶饰台"
 	],
 	dependencies: [
 		"dc3395c7"

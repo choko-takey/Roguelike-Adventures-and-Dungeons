@@ -1,12 +1,12 @@
 {
-	title: "Sid the Obsidian",
+	title: "黑曜石希德",
 	x: 2.0d,
 	y: -9.5d,
-	description: "He's my friend",
+	description: "他是我的朋友",
 	text: [
-		"Obtain some Obsidian.",
+		"获得一些黑曜石。",
 		"",
-		"Why is this stuff so sought after?"
+		"为什么这些东西如此受欢迎？"
 	],
 	dependencies: [
 		"f1196cf2"

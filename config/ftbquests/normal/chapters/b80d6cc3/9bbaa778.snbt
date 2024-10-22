@@ -1,10 +1,10 @@
 {
-	title: "Will It Explode?",
+	title: "介玩意会炸吗？",
 	x: 38.5d,
 	y: 4.5d,
-	description: "Probably, but let's find out to make sure!",
+	description: "也许吧……我们试试看？",
 	text: [
-		"Hasn't exploded on me ye---"
+		"它还没出问————BOOM！"
 	],
 	dependencies: [
 		"9c27f565"

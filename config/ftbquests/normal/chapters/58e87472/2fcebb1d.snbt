@@ -1,10 +1,10 @@
 {
-	title: "World Walker",
+	title: "走遍世界",
 	x: -3.5d,
 	y: -1.0d,
-	description: "Take a rest, traveler",
+	description: "休息一下吧，旅行者",
 	text: [
-		"This armor hides you in shadows more than anything else will. (Not really)."
+		"这种盔甲比其他任何东西都更能将你隐藏在阴影中。（并非如此）"
 	],
 	dependencies: [
 		"f5ba5fd8"

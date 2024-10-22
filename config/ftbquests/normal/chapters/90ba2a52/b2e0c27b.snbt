@@ -1,10 +1,10 @@
 {
-	title: "Dwindling Twilight",
+	title: "暮色渐浓",
 	x: -1.0d,
 	y: -0.5d,
-	description: "The shadows wane",
+	description: "阴影渐渐消失",
 	text: [
-		"Defeat 5 Twilight Liches."
+		"击杀5只暮色巫妖。"
 	],
 	can_repeat: true,
 	tasks: [{

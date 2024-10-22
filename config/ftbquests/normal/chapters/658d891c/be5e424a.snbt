@@ -1,10 +1,10 @@
 {
-	title: "Yuck! It's All Orange and Slimy!",
+	title: "讨厌！全是橙色和黏液！",
 	x: 14.5d,
 	y: -2.5d,
-	description: "It stinks too!",
+	description: "它还很臭！",
 	text: [
-		"Giving a whole new meaning to \"I hate spiders\"."
+		"赋予“我讨厌爬虫”全新的含义。"
 	],
 	tasks: [{
 		uid: "79e73a22",

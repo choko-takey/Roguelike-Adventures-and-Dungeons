@@ -1,10 +1,10 @@
 {
-	title: "This Has to Just Be Drugs Right?",
+	title: "这一定是毒品，对吗？",
 	x: 3.5d,
 	y: -3.0d,
-	description: "Officer, just because it's blue doesn't make it a drug",
+	description: "警官，不能因为它是蓝色的就说它是毒品",
 	text: [
-		"Craft some Superium Essence."
+		"制作一些高级精华。"
 	],
 	size: 1.5d,
 	tasks: [{

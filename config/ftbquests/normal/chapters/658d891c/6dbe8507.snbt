@@ -1,10 +1,10 @@
 {
-	title: "Reptile Throwdown",
+	title: "爬行动物的失利",
 	x: 7.0d,
 	y: -4.0d,
-	description: "These dragons have tons of attitude",
+	description: "这些龙有很多的用法",
 	text: [
-		"Well now that the dragon is nice and dead, you can do what you want with its remains!"
+		"好吧，现在龙已经漂亮的死去，你可以用它的遗体做你想做的事！"
 	],
 	dependencies: [
 		"0786946b"

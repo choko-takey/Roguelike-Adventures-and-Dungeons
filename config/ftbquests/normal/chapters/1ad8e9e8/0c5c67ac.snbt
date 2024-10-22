@@ -1,12 +1,12 @@
 {
-	title: "From Death, Comes Life",
+	title: "向死而生",
 	x: 5.5d,
 	y: -3.0d,
-	description: "Or something corny like that",
+	description: "或者类似这样俗套的话",
 	text: [
-		"Life Crystals are used to power the Animator.",
+		"生命水晶能被用于充能活化器。",
 		"",
-		"How to get one... how to get one..."
+		"如何获得这个……如何获得这个……"
 	],
 	dependencies: [
 		"f093e2f7"

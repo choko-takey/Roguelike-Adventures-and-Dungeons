@@ -1,12 +1,12 @@
 {
-	title: "The Melter Shelter",
+	title: "金属避难所",
 	x: 18.0d,
 	y: 0.0d,
-	description: "Where the hot stuff happens!",
+	description: "那种……会让你浑身发热的事情才会在这里发生哟~我是说打铁",
 	text: [
-		"This is where you melt down fluids... ",
+		"这里是你将金属化为液态的地方……",
 		"",
-		"Get your mind out of the melter!"
+		"把你的铁石心肠从炉子里掏出来！"
 	],
 	dependencies: [
 		"899a9a02"

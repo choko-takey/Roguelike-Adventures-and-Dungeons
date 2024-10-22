@@ -1,12 +1,12 @@
 {
-	title: "Nuisance in a Jar",
+	title: "罐子里的滋扰",
 	x: 28.0d,
 	y: -1.0d,
-	description: "You're gonna need some sound proofing",
+	description: "你需要一些隔音材料",
 	text: [
-		"Refer to your Bestiary on how to create the most annoying thing in the game.",
+		"关于如何在游戏中找到这些最令人讨厌的东西，请参考你的《异兽手记》。",
 		"",
-		"Make the Pixie Dust Collector to enslave them."
+		"制作精灵尘收集器来奴役它们。"
 	],
 	or_tasks: true,
 	tasks: [{

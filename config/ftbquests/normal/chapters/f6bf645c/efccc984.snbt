@@ -1,5 +1,5 @@
 {
-	title: "The Abominable Snow-Man",
+	title: "讨厌的雪人",
 	icon: {
 		id: "twilightforest:yeti_helmet",
 		tag: {
@@ -11,9 +11,9 @@
 	},
 	x: 4.0d,
 	y: -10.5d,
-	description: "It's actually a Yeti",
+	description: "实际上，这是雪怪。",
 	text: [
-		"Draw out the Alpha Yeti, and slay him."
+		"引出来雪怪首领，并杀死它。"
 	],
 	dependencies: [
 		"5bad089c"
@@ -22,7 +22,7 @@
 	tasks: [{
 		uid: "89ff6e8e",
 		type: "kill",
-		title: "Slay the Alpha Yeti",
+		title: "杀死雪怪首领",
 		entity: "twilightforest:yeti_alpha",
 		value: 1L
 	}],

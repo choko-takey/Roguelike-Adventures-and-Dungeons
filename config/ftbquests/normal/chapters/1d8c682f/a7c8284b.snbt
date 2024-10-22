@@ -1,10 +1,10 @@
 {
-	title: "Hoodoo Boodoo Voodoo!",
+	title: "巫毒巫毒！",
 	x: 2.5d,
 	y: -0.5d,
-	description: "The doll every little girl wants",
+	description: "每个小女孩都想要的娃娃",
 	text: [
-		"You feel a pain in your chest when you squeeze the doll."
+		"当你挤压娃娃的时候，你感到胸部疼痛。"
 	],
 	dependencies: [
 		"d6d462e3"

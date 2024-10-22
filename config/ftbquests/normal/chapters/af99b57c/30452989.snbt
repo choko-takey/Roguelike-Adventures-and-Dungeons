@@ -1,12 +1,12 @@
 {
-	title: "Hunter's Drip",
+	title: "猎人时髦套装",
 	x: -5.0d,
 	y: 4.0d,
-	description: "you should model for vogue",
+	description: "你要引领时尚",
 	text: [
-		"As a hunter depending on what skills you choose you will gain acess to hunter armour.",
+		"取决于你猎人技能的加点情况，你将得到不同种类的盔甲套装。",
 		"",
-		"Each armour set has it's own bonuses and negatives."
+		"每套盔甲都有各自的优缺点。"
 	],
 	dependencies: [
 		"7b483180"

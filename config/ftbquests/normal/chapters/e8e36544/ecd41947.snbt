@@ -1,20 +1,20 @@
 {
-	title: "For Peat Sake!",
+	title: "为了泥炭！",
 	x: 14.0d,
 	y: -7.0d,
-	description: "We need more Peat, Pete!",
+	description: "我们需要更多的泥炭，Peter！",
 	text: [
-		"Peter Piper Picked A Pickled Peat Pepper.",
+		"Peter Piper Picked A Pickled Peat Pepper（绕口令）",
 		"",
-		"The Peat Farmer will automatically place and harvest a Peat Bog, when supplied with Dry Peat and Water.",
+		"给予干燥的泥炭田和水，泥潭农场就会自动放置并收获泥炭。",
 		"",
-		"Saturated Peat will automatically be broken, but not collected. You must also collect the dropped Peat, somehow.",
+		"饱和泥炭田会被自动破坏并掉落泥炭，但不会自动收集，你需要想办法自己收集掉落物。",
 		"",
-		"The Peat Burner will turn Peat into Forge Energy, or FE.",
+		"泥炭发电机会把泥炭转化成能量（FE）。",
 		"",
-		"The Peat Burner must be placed next to an object that requires FE for it to be activated.",
+		"泥炭发电机需要紧挨着用电设备才能被激活。",
 		"",
-		"You can also charge batteries, and You can also charge a Battery, and place it next to objects which require Forge Energy."
+		"你也可以用来给电池充电，或者给电池方块充电，只需要把它放在发电机旁边。"
 	],
 	size: 2.0d,
 	tasks: [{

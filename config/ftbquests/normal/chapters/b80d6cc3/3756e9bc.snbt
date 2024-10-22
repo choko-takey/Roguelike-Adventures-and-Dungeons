@@ -1,10 +1,10 @@
 {
-	title: "Have You Paid the Pied Piper?",
+	title: "你给管道付钱了吗？",
 	x: 6.5d,
 	y: -2.5d,
-	description: "Well I did, so don't worry about it",
+	description: "当然，我相信它会好好工作的。",
 	text: [
-		"He said he would kill my dog or something man..."
+		"他说他会要了我的狗命什么的……"
 	],
 	dependencies: [
 		"322bb351"

@@ -1,10 +1,10 @@
 {
-	title: "Magicrafting",
+	title: "魔法合成！",
 	x: -2.0d,
 	y: -2.0d,
-	description: "No, not that kind",
+	description: "不是注魔，我的宝",
 	text: [
-		"The Fey Crafter is another main crafting block in the mod. "
+		"精灵工匠台是根源魔法的核心合成站。"
 	],
 	dependencies: [
 		"90edb6b4"

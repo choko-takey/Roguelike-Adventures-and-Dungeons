@@ -1,14 +1,14 @@
 {
-	title: "Clean Your Shower Door!",
+	title: "清理你的浴室门！",
 	x: -24.0d,
 	y: -3.5d,
-	description: "Jk I never did",
+	description: "开玩笑 我从来没有",
 	text: [
-		"It's actually to reduce soap scum build up.",
+		"这实际上是为了减少肥皂浮渣的积累。",
 		"",
-		"But in MINECRAFT it's used to remove Paint from blocks.",
+		"但在《我的世界》中，它是用来移除方块上的油漆的。",
 		"",
-		"Right-Click to remove Paint from one side. Shift-Right-Click to remove Paint from all sides."
+		"右击一侧移除油漆。潜行右击从所有的方向移除油漆。"
 	],
 	tasks: [{
 		uid: "6892af12",

@@ -1,14 +1,14 @@
 {
-	title: "Just Need More Bosses...",
+	title: "只是需要更多的boss……",
 	x: -1.5d,
 	y: 9.5d,
-	description: "Like 14 or something small",
+	description: "14只或更小规模",
 	text: [
-		"Platforms are special floors which can be clipped through.",
+		"平台是可以穿过的特殊地板。",
 		"",
-		"Pressing Shift while on top of a Platform will cause you to clip through it.",
+		"你在平台上方按住Shift会穿过它。",
 		"",
-		"Holding Shift will cause you to clip through multiple Platforms. You can take fall damage this way."
+		"按住Shift键可让你穿过多个平台。这样做可能会受到摔落伤害。"
 	],
 	or_tasks: true,
 	tasks: [{

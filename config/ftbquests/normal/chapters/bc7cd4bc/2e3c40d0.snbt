@@ -1,11 +1,11 @@
 {
-	title: "You Just Don't Know",
+	title: "你根本不知道",
 	x: 0.0d,
 	y: 3.0d,
 	shape: "rsquare",
-	description: "And sometimes it doesn't make sense",
+	description: "而有时它是没有意义的",
 	text: [
-		"It's okay though, use that Illuminati Pet and spin for the lotto!"
+		"不过没关系，用那只光源宠物转一转，就能买到乐透！"
 	],
 	tasks: [{
 		uid: "08101d98",

@@ -2,9 +2,9 @@
 	title: "Zanice",
 	x: 7.0d,
 	y: -16.0d,
-	description: "Sweg",
+	description: "Sweg 很酷很厉害",
 	text: [
-		"Craft Zanite Armaments."
+		"合成紫晶套装。"
 	],
 	dependencies: [
 		"c74902d8"

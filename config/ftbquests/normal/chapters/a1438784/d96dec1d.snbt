@@ -1,12 +1,12 @@
 {
-	title: "Scepter Sage",
+	title: "神圣的权杖！",
 	x: 13.0d,
 	y: 8.0d,
-	description: "Pause?!",
+	description: "等一下？！",
 	text: [
-		"Wise guy eh'?",
+		"大聪明，是吧？",
 		"",
-		"Collect all Scepters."
+		"集齐所有的权杖吧。"
 	],
 	dependencies: [
 		"6022abbd"

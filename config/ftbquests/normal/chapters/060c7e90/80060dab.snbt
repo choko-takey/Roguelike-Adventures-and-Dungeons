@@ -1,10 +1,10 @@
 {
-	title: "Sure to Burn",
+	title: "永燃之焰",
 	x: -21.0d,
 	y: 13.0d,
-	description: "These Sages don't play!",
+	description: "贤者不会戏弄力量",
 	text: [
-		"He doesn't give advice, he just roasts you."
+		"他不苟言笑，只有火焰在燃烧。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

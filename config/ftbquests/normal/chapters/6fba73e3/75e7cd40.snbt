@@ -1,10 +1,10 @@
 {
-	title: "From Red Comes Yellow!",
+	title: "从红变成黄！！",
 	x: -2.5d,
 	y: -1.5d,
-	description: "But wait, those are both primary colors",
+	description: "等等，这两种颜色都是原色",
 	text: [
-		"Craft the Altar of Light."
+		"制作光明祭坛。"
 	],
 	tasks: [{
 		uid: "9f82db4e",

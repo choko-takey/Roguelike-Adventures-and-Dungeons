@@ -1,14 +1,14 @@
 {
-	title: "Spray & Pray",
+	title: "尽管开火，命中随缘",
 	x: -2.0d,
 	y: 7.0d,
-	description: "Faster than manually reloading",
+	description: "比手动装填更快",
 	text: [
-		"The semi automatic crossbow uses ammo from crossbow clips.",
+		"机弩使用箭夹作为弹药。",
 		"",
-		"It has the advantage over a regular crossbow being that you don't have to reload every shoot.",
+		"比起常规的弩弓，它的优点是不需要你每射一发都要手动装填。",
 		"",
-		"(Depending on what skills you choose you may not be able to craft a semi automatic crossbow)."
+		"（基于你选择的技能，你可能无法制造出机弩）"
 	],
 	dependencies: [
 		"69651f58"

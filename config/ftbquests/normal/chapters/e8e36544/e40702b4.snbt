@@ -1,12 +1,12 @@
 {
-	title: "Basically a Religious Artifact",
+	title: "一种古老的手工制品",
 	x: 9.5d,
 	y: -6.5d,
-	description: "David's personal slingshot... imagine...",
+	description: "想象一下...David自制的弹弓...",
 	text: [
-		"You know that slingshot was lowkey made by God and not David.",
+		"你知道，偷偷做出弹弓的是上帝，而不是David。",
 		"",
-		"I mean... can slingshots really pierce skulls like that?"
+		"我的意思是，弹弓真的能射穿一个人的头颅吗？"
 	],
 	tasks: [{
 		uid: "a0d94641",

@@ -1,10 +1,10 @@
 {
-	title: "The Boyband of Pipes",
+	title: "咕！你不要颠它口牙！",
 	x: 16.5d,
 	y: -10.5d,
-	description: "All of them are pretty similar",
+	description: "这些东西都差不多……",
 	text: [
-		"Yet, each of them are slightly different."
+		"当然，它们每个都略有不同。"
 	],
 	dependencies: [
 		"0d1dd2c1",

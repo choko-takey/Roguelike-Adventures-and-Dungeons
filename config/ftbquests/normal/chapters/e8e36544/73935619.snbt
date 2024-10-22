@@ -1,16 +1,16 @@
 {
-	title: "Powdered Magnetite",
+	title: "反重力沙",
 	x: -17.5d,
 	y: 12.5d,
-	description: "That's basically what it is",
+	description: "差不多就是这样",
 	text: [
-		"So Gravisand is pretty neat.",
+		"重力沙子摸起来还是挺干净的。",
 		"",
-		"It won't fall unless it receives a Redstone signal.",
+		"它不会下坠，只有接收到红石信号，它才会掉落。",
 		"",
-		"However, if Gravisand receives a signal, and has nowhere to fall (E.G there is a block below it), it will FLOAT instead!",
+		"以及……如果激活末影沙时下方有方块，使其无法下落。那么它会…………飞起来？？？",
 		"",
-		"Lastly, Gravisand sends a signal to all connected Gravisand blocks. One signal is enough for all connected blocks."
+		"最后，激活一个末影沙时，周围的末影沙也会被激活。"
 	],
 	tasks: [{
 		uid: "d57a9cbc",

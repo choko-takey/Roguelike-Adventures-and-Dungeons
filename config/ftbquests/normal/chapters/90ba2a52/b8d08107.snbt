@@ -1,16 +1,16 @@
 {
-	title: "Artefact Trader (Sapphire)",
+	title: "工艺品出售（蓝宝石）",
 	x: 10.0d,
 	y: -3.5d,
-	description: "Sapphire for sale! Get it while it's hot!",
+	description: "蓝宝石出售！趁新买！",
 	text: [
-		"Sell your unwanted Sapphire Artefacts.",
+		"卖掉你不想要的蓝宝石工艺品。",
 		"",
-		"Submit ONE stack of Sapphire Artefacts to complete this quest.",
+		"提交一种蓝宝石工艺品以完成此任务。",
 		"",
-		"Collect the reward after each completion.",
+		"每次完成后领取奖励。",
 		"",
-		"You will not receive rewards for more than one stack submission at a time."
+		"一次提交多种不会获得奖励。"
 	],
 	can_repeat: true,
 	or_tasks: true,

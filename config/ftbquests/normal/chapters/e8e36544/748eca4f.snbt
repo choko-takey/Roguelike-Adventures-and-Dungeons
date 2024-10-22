@@ -1,12 +1,12 @@
 {
-	title: "Bootleg Item Breaker",
+	title: "我撞碎你！",
 	x: -12.0d,
 	y: 10.0d,
-	description: "So, you think you're cool huh?",
+	description: "所以你觉得这很酷吗？",
 	text: [
-		"The can be placed on the front of a Piston.",
+		"铁棒可以被活塞推动。",
 		"",
-		"When a Piston with an Iron Rod attached is activated, any block in front of the Iron Rod which the Piston can push will be broken instead."
+		"当活塞推动铁棒时，铁棒前面的方块将会被破坏（活塞推不动的撞不坏）"
 	],
 	tasks: [{
 		uid: "25d1fdb9",

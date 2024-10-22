@@ -1,10 +1,10 @@
 {
-	title: "Waystone Wanderer I",
+	title: "指路石旅行者 I",
 	x: -14.5d,
 	y: 1.0d,
-	description: "It's a rock...",
+	description: "这是一块石头……",
 	text: [
-		"Activate 10 different Waystones."
+		"激活10个不同的指路石。"
 	],
 	tasks: [{
 		uid: "a85d024b",

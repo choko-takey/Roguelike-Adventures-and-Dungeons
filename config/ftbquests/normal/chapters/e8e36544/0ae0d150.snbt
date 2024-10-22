@@ -1,14 +1,14 @@
 {
-	title: "Slime Zone",
+	title: "史莱姆区",
 	x: 9.0d,
 	y: 7.0d,
-	description: "I miss the good Nick",
+	description: "我想念好尼克儿",
 	text: [
-		"The Slime Cube will make chunks spawn Slimes!",
+		"粘液立方体可让区块生成史莱姆！",
 		"",
-		"When this Cube is in a chunk, Slimes will spawn at any height and at a much higher rate than vanilla.",
+		"在立方体所处的区块里， 史莱姆会在任意高度生成并且比原版快。",
 		"",
-		"When powered by Redstone, the Slime Cube will prevent Slimes from spawning in the chunk instead."
+		"用红石充能粘液立方体，立方体会立即阻止史莱姆在所处区块生成。"
 	],
 	size: 2.0d,
 	tasks: [{

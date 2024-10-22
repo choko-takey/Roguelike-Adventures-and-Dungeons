@@ -1,14 +1,14 @@
 {
-	title: "This Place Is Huge!",
+	title: "这里已经满员了！",
 	x: -27.5d,
 	y: -5.5d,
-	description: "They actually are, kind of",
+	description: "确实挤得不行",
 	text: [
-		"The Village Highlighter will tell you the bounds of villages.",
+		"这个东西会告诉你一个村庄的有效范围和其中心部分",
 		"",
-		"Great for Iron Farms.",
+		"对建造刷铁机很有用",
 		"",
-		"Also great for making sure two villages do not intersect."
+		"对确立两个交叉村庄的界限也很有用"
 	],
 	tasks: [{
 		uid: "b6bf3c31",

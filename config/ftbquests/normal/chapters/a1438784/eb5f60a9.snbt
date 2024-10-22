@@ -1,10 +1,10 @@
 {
-	title: "I Snagged This, Right?",
+	title: "我应该干掉他们了......吧？",
 	x: -1.5d,
 	y: 6.5d,
-	description: "OH IT'S STILL MOVING",
+	description: "靠，它们还在动！",
 	text: [
-		"Capture the undead fish of Atum."
+		"捕捉阿图姆中的不死鱼。"
 	],
 	dependencies: [
 		"95af4be3"

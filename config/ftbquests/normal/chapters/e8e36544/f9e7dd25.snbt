@@ -1,10 +1,10 @@
 {
-	title: "Purty Rocks",
+	title: "精致的石头",
 	x: -11.5d,
 	y: -3.5d,
-	description: "They look nice...",
+	description: "它们看上去不错...",
 	text: [
-		"Put these purty rocks anywhere!"
+		"用这些好看的石头四处铺路吧。"
 	],
 	tasks: [{
 		uid: "4893360a",

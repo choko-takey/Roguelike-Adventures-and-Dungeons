@@ -1,16 +1,16 @@
 {
-	title: "Tell Me About the Rabbits ...",
+	title: "告诉我关于兔子的事……",
 	x: -9.0d,
 	y: 2.0d,
 	description: ":(",
 	text: [
-		"Hammocks must be connected to Rope and Nails. Rope and Nails can only be attached to wooden log items. Once you have some Nails down, place your hammock in between them, and voila!",
+		"吊床必须与绳索和钉子连接。绳与钉只能附着在木质物品上。钉好钉子后，把吊床放在钉子中间，瞧！",
 		"",
-		"Can be dyed.",
+		"可以染色。",
 		"",
-		"Minimum 4 block wide structure.",
+		"最小4格宽的结构。",
 		"",
-		"Can be used to sleep the day away!"
+		"可用于睡觉跳过白天！"
 	],
 	dependencies: [
 		"44c9367a"

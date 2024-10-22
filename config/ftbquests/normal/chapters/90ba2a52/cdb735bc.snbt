@@ -1,10 +1,10 @@
 {
-	title: "Ender Bender",
+	title: "末地狂欢",
 	x: -1.0d,
 	y: -7.0d,
-	description: "You've been going at it for a long time",
+	description: "你已经做了很长时间了",
 	text: [
-		"Slay 1 Ender Dragon"
+		"击杀1只末影龙。"
 	],
 	can_repeat: true,
 	tasks: [{

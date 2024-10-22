@@ -1,12 +1,12 @@
 {
-	title: "Tesla Charger",
+	title: "特斯拉形充能站",
 	x: -6.5d,
 	y: -2.75d,
-	description: "Unfortunately, there are no Thaumcraft cars yet",
+	description: "不过……目前来说没有TC牌汽车。",
 	text: [
-		"Recharge Pedestals recharge baubles that require energy to function.",
+		"充能基座可以为那些需要vis供能的物品充能。",
 		"",
-		"Obtain a Recharge Pedestal."
+		"整一个玩玩看。"
 	],
 	dependencies: [
 		"bee95934"

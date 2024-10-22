@@ -1,8 +1,8 @@
 {
-	title: "It's Pretty Old",
+	title: "老古董",
 	x: 6.5d,
 	y: -0.5d,
-	description: "So old to belong nowhere",
+	description: "老的不知道存在了多久",
 	text: [
 		""
 	],

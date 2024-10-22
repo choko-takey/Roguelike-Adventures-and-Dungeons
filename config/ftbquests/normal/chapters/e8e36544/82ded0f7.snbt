@@ -1,12 +1,12 @@
 {
-	title: "An Apple a Day... Makes You Grow Taller?",
+	title: "一天一苹果……让你长高？",
 	x: 12.5d,
 	y: -3.5d,
-	description: "I should've eaten way more apples...",
+	description: "我应该多吃点苹果的……",
 	text: [
-		"I'm only 5'9... damn.",
+		"我只有5尺9寸……该死。",
 		"",
-		"Should've ate my greens."
+		"应该吃我的蔬菜"
 	],
 	tasks: [{
 		uid: "790e5ce8",

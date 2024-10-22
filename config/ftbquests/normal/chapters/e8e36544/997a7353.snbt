@@ -1,16 +1,16 @@
 {
-	title: "Special Slime",
+	title: "奇异凝胶",
 	x: -14.5d,
 	y: 11.5d,
-	description: "Brand new selective stick technology!",
+	description: "全新的黏糊糊……",
 	text: [
-		"These colored Slime blocks will stick to blocks like normal.",
+		"这些染了色的粘液块和没染色的差距不大",
 		"",
-		"But there's a catch; Red, Blue and Green slime will not stick to eachother, and will not stick to another Slime they cannot craft.",
+		"但是注意！这些有颜色的粘液块不会黏在它们颜色无法制作的其他颜色的粘液块上！",
 		"",
-		"E.g Green Slime will stick to Yellow and Cyan Slime, but will NOT stick to Magenta Slime.",
+		"比如绿色粘液块会黏在黄色和黄绿色粘液块上，而不会黏在品红色粘液块上！",
 		"",
-		"This allows some wonky trickery with pulling blocks with Slime."
+		"开动脑筋，想想可以弄出啥新鲜玩意……"
 	],
 	tasks: [{
 		uid: "9c0bea62",

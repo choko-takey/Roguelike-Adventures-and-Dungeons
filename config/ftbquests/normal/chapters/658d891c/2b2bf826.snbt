@@ -1,10 +1,10 @@
 {
-	title: "VVS Diamond Dragon Armor",
+	title: "V.V.S.钻石龙铠甲",
 	x: 12.5d,
 	y: -1.0d,
-	description: "Your enemies will see you sparkle from miles away!",
+	description: "你的敌人会看到你在几英里之外闪闪发光！",
 	text: [
-		"You dropped a whole set of diamonds on your Dragon. They should be eternally grateful."
+		"你把一整套钻石铠都安在了你的龙身上。他们应该永远感激。"
 	],
 	dependencies: [
 		"768743f4"

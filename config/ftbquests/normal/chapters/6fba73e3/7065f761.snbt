@@ -1,12 +1,12 @@
 {
-	title: "I Said Something and It Did Something",
+	title: "我说了，它做了",
 	x: 0.0d,
 	y: -8.5d,
-	description: "Is this faith?",
+	description: "这真实？",
 	text: [
-		"Craft some Glowing Water.",
+		"制作一些荧光之水。",
 		"",
-		"Thank God I'm not Atheist."
+		"谢天谢地，我不是无神论者。"
 	],
 	tasks: [{
 		uid: "43c83084",

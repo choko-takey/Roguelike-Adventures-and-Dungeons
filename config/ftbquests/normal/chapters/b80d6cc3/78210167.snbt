@@ -1,10 +1,10 @@
 {
-	title: "Home Grown!",
+	title: "土生土长",
 	x: 32.0d,
 	y: 7.5d,
-	description: "Almost as good as the stuff in the wild!",
+	description: "和野生的差距无几",
 	text: [
-		"It's all the same stuff anyways."
+		"能用就行，管他呢。"
 	],
 	dependencies: [
 		"fe8f99b6"

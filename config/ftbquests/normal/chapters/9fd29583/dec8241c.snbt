@@ -1,10 +1,10 @@
 {
-	title: "Smooth Smoothie",
+	title: "顺滑的冰沙",
 	x: 2.0d,
 	y: -13.5d,
-	description: "Mine has a crunch in it?",
+	description: "我的冰沙里有嘎吱嘎吱声？",
 	text: [
-		"Craft all of the smoothies available in the Erebus mod."
+		"合成所有能在混沌之地模组获得的冰沙。"
 	],
 	dependencies: [
 		"5d09109d"

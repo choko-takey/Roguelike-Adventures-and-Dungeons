@@ -1,9 +1,9 @@
 {
 	x: -3.0d,
 	y: -13.0d,
-	description: "Kinda like Mustard Gas without the gene morphing",
+	description: "有点像没有变异的芥子气。",
 	text: [
-		"Craft some Sulfur Seeds."
+		"制作一些硫磺种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

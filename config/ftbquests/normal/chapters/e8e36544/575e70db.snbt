@@ -1,14 +1,14 @@
 {
-	title: "The Level Factory",
+	title: "等级工厂",
 	x: -14.0d,
 	y: -3.5d,
-	description: "Helps you level!",
+	description: "帮助你的等级！",
 	text: [
-		"This device will aid players by bottling XP at a rate of 30mb per bottle. ",
+		"该设备将帮助玩家以每瓶30mb的速度装瓶经验。",
 		"",
-		"The faces of the device are highly configurable, though you may need to temporarily disable JEI.",
+		"设备的界面是高度可配置的，尽管你可能需要暂时禁用JEI。",
 		"",
-		"The XP Bottler is not amazingly efficient, but is definitely not bad, either."
+		"经验装瓶机的效率并不惊人，但也绝对不错。"
 	],
 	tasks: [{
 		uid: "fc9df146",

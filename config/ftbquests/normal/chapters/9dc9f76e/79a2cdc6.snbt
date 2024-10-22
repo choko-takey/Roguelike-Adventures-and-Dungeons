@@ -1,12 +1,12 @@
 {
-	title: "Sensical Condensing",
+	title: "理性冷凝",
 	x: 1.5d,
 	y: 1.0d,
-	description: "Alchemy boiled down! No pun intended",
+	description: "炼金术沸腾了！（没有一语双关的打算）",
 	text: [
-		"Requires Alchemical Retorts to be placed on all sides, facing the Alchemical Condenser.",
+		"需要在炼金蒸馏器每一边摆上炼金冷凝器。",
 		"",
-		"Refer to the Almanac on how to work the Alchemical Condenser."
+		"参考年历通书了解炼金冷凝器如何工作。"
 	],
 	dependencies: [
 		"ecd0a29d"

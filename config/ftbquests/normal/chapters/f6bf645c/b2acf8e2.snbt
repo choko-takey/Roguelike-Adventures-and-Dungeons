@@ -1,12 +1,12 @@
 {
-	title: "Bows of Power",
+	title: "更强力的弓",
 	x: 1.0d,
 	y: -16.0d,
-	description: "Wrought from evil",
+	description: "锻造于邪恶之中",
 	text: [
-		"These bows all have some special effects to them. Be careful!",
+		"这些弓都自带一些特殊的效果。小心点！",
 		"",
-		"With great power comes great ... um. Be careful."
+		"伟大的力量带来伟大的……喂！注意点！"
 	],
 	dependencies: [
 		"323ccf6f"

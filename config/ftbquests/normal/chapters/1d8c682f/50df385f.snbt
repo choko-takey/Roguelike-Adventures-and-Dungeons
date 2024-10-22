@@ -1,10 +1,10 @@
 {
-	title: "Slain to Rest",
+	title: "逝者安息",
 	x: -1.5d,
 	y: -2.5d,
-	description: "Dishonored in death",
+	description: "在死亡中被玷污的人",
 	text: [
-		"May your final resting place be where you wanted to die anyways."
+		"无论如何，愿你最终安息的地方就是你想死的地方。"
 	],
 	dependencies: [
 		"d6d462e3"

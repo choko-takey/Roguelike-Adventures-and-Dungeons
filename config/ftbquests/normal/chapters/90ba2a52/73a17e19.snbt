@@ -1,10 +1,12 @@
 {
-	title: "Shambler Shuffle",
+	title: "蹒跚者蹒跚着",
 	x: 11.0d,
 	y: 9.5d,
 	description: "Unce unce unce unce...",
 	text: [
-		"Kill 50 Shamblers."
+		"击杀50只蹒跚者",
+		"",
+		"（译者注：unce可抽象为怪物的移动）",
 	],
 	can_repeat: true,
 	tasks: [{

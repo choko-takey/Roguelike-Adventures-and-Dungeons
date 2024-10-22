@@ -1,10 +1,10 @@
 {
-	title: "Night Terrors",
+	title: "恐怖之夜",
 	x: 0.0d,
 	y: 8.0d,
-	description: "That thing under your bed!",
+	description: "你床下的那个东西！",
 	text: [
-		"Slay 10 Dreadful Peat Mummies."
+		"击杀10只恐怖的泥炭木乃伊。"
 	],
 	can_repeat: true,
 	tasks: [{

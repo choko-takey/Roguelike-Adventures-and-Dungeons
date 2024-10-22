@@ -1,9 +1,9 @@
 {
 	x: -4.0d,
 	y: -12.0d,
-	description: "I wonder if we can grow milk...",
+	description: "我想知道我们是否可以种植牛奶……",
 	text: [
-		"Craft some Cow Seeds."
+		"制作一些牛种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

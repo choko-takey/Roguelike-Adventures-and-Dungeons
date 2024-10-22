@@ -1,16 +1,16 @@
 {
-	title: "Fake It Till You Make It!",
+	title: "成功，从伪装开始！",
 	x: 2.857142857142861d,
 	y: -16.553571428571423d,
-	description: "You'll make it, eventually...",
+	description: "你最终会成功的……",
 	text: [
-		"Does what it say it do.",
+		"按它说的做。",
 		"",
-		"Give it some power and bask in that fake light.",
+		"给之能量，沐之虚光。",
 		"",
-		"At least you have a laser in the sky now...",
+		"至少你现在在天空中有激光了……",
 		"",
-		"If that's all you wanted you could've just made a map marker... you can change the color of those too, at least..."
+		"如果这就是你想要的，你可以做一个地图标记……你也可以改变它们的颜色，至少……"
 	],
 	size: 1.5d,
 	tasks: [{

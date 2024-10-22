@@ -1,9 +1,9 @@
 {
-	title: "Gold Coin Turn-In",
+	title: "金币回收",
 	x: -22.0d,
 	y: -2.0d,
 	text: [
-		"Enables trading between players."
+		"支持玩家之间的交易。"
 	],
 	can_repeat: true,
 	tasks: [{

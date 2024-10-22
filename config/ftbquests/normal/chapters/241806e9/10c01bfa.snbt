@@ -1,10 +1,10 @@
 {
-	title: "Ankle Biter",
+	title: "咬住你的脚踝",
 	x: 17.0d,
 	y: -4.5d,
-	description: "I hate small dogs",
+	description: "我讨厌小狗",
 	text: [
-		"This thing will really CLAMP DOWN on your enemies... heh..."
+		"这东西确实会钳制你的敌人……嘿……"
 	],
 	dependencies: [
 		"ffdb1cd1"

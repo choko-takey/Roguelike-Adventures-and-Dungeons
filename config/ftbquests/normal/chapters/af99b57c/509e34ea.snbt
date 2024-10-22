@@ -1,10 +1,10 @@
 {
-	title: "Cross Your Heart",
+	title: "在心上画个十字",
 	x: -3.5d,
 	y: 3.0d,
-	description: "These guys don't fear crosses",
+	description: "这些家伙可不怕十字架",
 	text: [
-		"Advanced vampires are stronger than regular vampires."
+		"比一般吸血鬼更强的怪物。"
 	],
 	dependencies: [
 		"88fa5971"

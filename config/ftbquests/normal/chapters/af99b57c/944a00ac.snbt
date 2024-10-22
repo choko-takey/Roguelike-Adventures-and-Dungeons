@@ -1,10 +1,10 @@
 {
-	title: "Vampire Diaries",
+	title: "吸血鬼日记",
 	x: -6.0d,
 	y: -4.5d,
-	description: "Dear diary, today I drained a cow",
+	description: "亲爱的日记，我今天吸了牛的鲜血",
 	text: [
-		"Vampires leave their diaries in the weirdest places. Try finding one and see what knowledge you can gain from it."
+		"吸血鬼会把它们的日记留在奇怪的地方。尝试找到一本并看看能够从中知道些什么。"
 	],
 	dependencies: [
 		"824b664e"

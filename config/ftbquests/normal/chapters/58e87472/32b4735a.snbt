@@ -1,16 +1,16 @@
 {
-	title: "And Going, and Going, and Going",
+	title: "冲冲冲",
 	x: -7.0d,
 	y: -6.0d,
-	description: "And going, and going, and going",
+	description: "冲冲冲",
 	text: [
-		"Forever. It goes on forever.",
+		"永远，永远走不到尽头。",
 		"",
-		"Iron Dimension Doors will create a new blank realm for players to enter. The realm is made up of pitch black material, and measures 21x21x21 cubic space.",
+		"铁制次元门将创造一个新的空白领域供玩家进入。这个领域被漆黑的现实之壁所包围，是一个大小为21x21x21的空间。",
 		"",
-		"Iron Doors can be linked together in a simplistic fashion using the Rift Signature items.",
+		"次元门可以用裂痕印记轻松连接起来。",
 		"",
-		"Rift Signatures, and linking Iron Doors together is gone over in The Guide."
+		"裂痕印记，以及如何将次元门连接在一起，在指南中都有详细介绍。（译者注：其实没有）"
 	],
 	dependencies: [
 		"934ad299"

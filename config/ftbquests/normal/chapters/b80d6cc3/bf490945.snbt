@@ -1,10 +1,10 @@
 {
-	title: "Yes, I Know Some of These Words",
+	title: "啊对，这上面的文字我还是能看懂一些的",
 	x: 8.5d,
 	y: 4.0d,
-	description: "It's upside-down",
+	description: "这玩意是反着写的？",
 	text: [
-		"Nope, it's in a different language!"
+		"不，这是来自8国语言的杂糅产物！"
 	],
 	dependencies: [
 		"020a4b1e"

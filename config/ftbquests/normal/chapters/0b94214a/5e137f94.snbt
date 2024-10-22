@@ -1,11 +1,11 @@
 {
 	x: -3.0d,
 	y: -10.0d,
-	description: "Coalostomy Bag",
+	description: "Coalostomy包包",
 	text: [
-		"That joke needs to be removed but I won't be the one doing it.",
+		"这个玩笑需要被删除，但我不是开玩笑的人。",
 		"",
-		"Craft some Coal Seeds."
+		"制作一些煤种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

@@ -1,16 +1,18 @@
 {
-	title: "Ducked Tape",
+	title: "防水胶带",
 	x: 6.5d,
 	y: 1.5d,
-	description: "They don't tell you the abuse they put these ducks through",
+	description: "他们不会告诉你它是怎么浸湿你的东西的",
 	text: [
-		"Stop buying duck tape, end duck cruelty!",
+		"别买防水胶带了，",
 		"",
-		"Duct Tape will repair most items in your offhand when used in your mainhand.",
+		"它会放掉你的水！",
 		"",
-		"Items will receive a curse effect called \"Duct Taped\" which stacks up to 5.",
+		"在主手使用胶带可以修复副手上的绝大部分物品。",
 		"",
-		"After Duct Taped V, you will need to repair the item properly at an anvil, or through other methods in order to remove the Duct Taped curse from your item."
+		"该物品会获得一个叫做“使用胶带的”的诅咒，其最大等级为5。",
+		"",
+		"在达到使用胶带的V之后，你需要在铁砧上或通过其他方法正确修复物品，以便从物品上移除使用胶带的诅咒。"
 	],
 	tasks: [{
 		uid: "22f934e6",

@@ -1,12 +1,12 @@
 {
-	title: "This Isn't Going to Happen All over Again Is It?",
+	title: "不会再次发生了对吗？",
 	x: 7.5d,
 	y: -15.0d,
-	description: "Yes, yes it is",
+	description: "对，不会了",
 	text: [
-		"You've defeated the Ender Dragon!",
+		"你击败了末影龙！",
 		"",
-		"A reward is in order. Check your Shop!"
+		"奖励已经准备好了。在商店查看！"
 	],
 	dependencies: [
 		"a962f849"

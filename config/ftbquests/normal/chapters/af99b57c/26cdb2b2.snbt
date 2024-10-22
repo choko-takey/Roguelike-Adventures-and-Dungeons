@@ -1,13 +1,13 @@
 {
-	title: "Enhanced Semi-Auto Crossbow",
+	title: "强化机弩",
 	x: -3.0d,
 	y: 8.5d,
 	text: [
-		"The improved version of the semi automatic crossbow",
+		"机弩的强化版本。",
 		"",
-		"Depending on what skill you choose you can craft an even stronger crossbow.",
+		"基于你选择的技能，你可以制造出更强大的十字弩。",
 		"",
-		"(Depending on what skills you choose you may not be able to craft a semi automatic crossbow)."
+		"（基于你选择的技能，你可能无法制造出机弩）。"
 	],
 	dependencies: [
 		"cd5826cc"

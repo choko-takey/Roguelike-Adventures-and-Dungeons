@@ -1,10 +1,10 @@
 {
-	title: "It's Kinda Cold",
+	title: "有那么点冷……",
 	x: -9.0d,
 	y: 11.5d,
-	description: "These just make me colder!",
+	description: "这可以让我看上去更冷~~~~酷！",
 	text: [
-		"Ice Wizards are always so mean, and now we know why."
+		"冰术士总是十分冷漠，现在看来不是没有原因的。"
 	],
 	dependencies: [
 		"6b5d4a07"

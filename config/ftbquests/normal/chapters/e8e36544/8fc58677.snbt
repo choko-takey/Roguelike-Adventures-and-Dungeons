@@ -1,10 +1,10 @@
 {
-	title: "Santa Has One of These",
+	title: "圣诞老人也有一个",
 	x: 2.8095238095238244d,
 	y: -13.291666666666664d,
-	description: "The elves have one too",
+	description: "小精灵也有一个",
 	text: [
-		"This almost replaces the Ender Chest. Crazy."
+		"这几乎取代了末影箱。疯了。"
 	],
 	size: 1.5d,
 	tasks: [{

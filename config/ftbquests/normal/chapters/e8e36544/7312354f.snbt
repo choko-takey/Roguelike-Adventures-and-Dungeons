@@ -1,14 +1,14 @@
 {
-	title: "Any Sound You Want!",
+	title: "任何你想要的声音！",
 	x: 6.5d,
 	y: -8.0d,
-	description: "Kinda crazy... ",
+	description: "有点疯狂…",
 	text: [
-		"This block will play any audio file from the modpack.",
+		"这个方块将播放整合包中的任何音频文件。",
 		"",
-		"It's a LONG list.",
+		"这是一个很长的清单。",
 		"",
-		"I can't even think of anything creative for this block. But go ham."
+		"我甚至想不出什么有创意的东西。但是开始吧。"
 	],
 	tasks: [{
 		uid: "0f2fb670",

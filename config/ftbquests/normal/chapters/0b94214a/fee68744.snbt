@@ -1,9 +1,9 @@
 {
 	x: 3.0d,
 	y: -14.0d,
-	description: "You're telling me the knight made this metal?",
+	description: "你是说骑士制造了这种金属？",
 	text: [
-		"Craft some Knight Metal Seeds."
+		"制作一些骑士金属种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

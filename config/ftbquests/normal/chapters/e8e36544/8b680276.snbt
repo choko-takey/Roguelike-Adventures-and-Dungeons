@@ -1,18 +1,18 @@
 {
-	title: "Dead Man Walking",
+	title: "行尸走肉",
 	x: 9.0d,
 	y: 4.0d,
-	description: "So many regrets",
+	description: "太多遗憾",
 	text: [
-		"Let's turn it back a notch, shall we?",
+		"让我们把它还给notch，好吗？",
 		"",
-		"The Time in a Bottle will gather time while sitting in your inventory. REAL time.",
+		"时间之瓶会在你的物品栏中收集时间。 现实时间。",
 		"",
-		"When you use this on objects you can Right-Click on normally, which have a function, like plants, or furnaces, you can speed up the amount of time that is passing for that block.",
+		"你可以右击使用它，它只有一个功能，你可以加速时间，比如植物生长或熔炉的燃烧等。",
 		"",
-		"When used on plants, they grow faster. It's like Bonemeal for ANYTHING.",
+		"用在植物上时，会生长得更快。它就像任何东西的骨粉。",
 		"",
-		"When used on a Furnace, it cooks faster. It's like... um. Yea."
+		"当在火炉上使用时，它烧得更快。这就像……嗯。就是那个。"
 	],
 	size: 2.0d,
 	tasks: [{

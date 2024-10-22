@@ -1,14 +1,14 @@
 {
-	title: "ZOINKS",
+	title: "哇哦！",
 	x: 14.714285714285765d,
 	y: 9.41666666666665d,
-	description: "Let's get out of here!",
+	description: "我们离开这里吧！",
 	text: [
-		"Ectoplasm is obtain from Spirits!",
+		"灵气是从灵魂中获得的！",
 		"",
-		"When a mob dies, it has a small chance to spawn a Spirit. This chance is slightly increased during the night.",
+		"当一个生物死亡，它低概率会产生一个灵魂。这个概率在夜间略有增加。",
 		"",
-		"Spirits can only be killed with magic, potion effects, or by other unorthodox means."
+		"灵魂只能通过魔法、药剂效果或其他非传统的方法被杀死。"
 	],
 	size: 2.0d,
 	tasks: [{

@@ -1,12 +1,12 @@
 {
-	title: "Ghost Busters!",
+	title: "鬼克星！",
 	x: 19.0d,
 	y: 9.0d,
-	description: "Literally, they're dying!",
+	description: "真的，他们快死了！",
 	text: [
-		"Spectre armaments can be used to slay Spirits which rise from mobs after being killed!",
+		"幽灵武器可以杀死怪物死后复活的灵魂！",
 		"",
-		"Gone are the days of needing magic and weird methods!"
+		"需要魔法和奇怪方法的日子一去不复返了！"
 	],
 	dependencies: [
 		"4695c2a6"

@@ -1,10 +1,10 @@
 {
-	title: "Fire in our Hearts",
+	title: "心在跳，是爱情如烈火",
 	x: 6.0d,
 	y: -6.0d,
-	description: "It burns brighter than that Redstone Lamp in your room!",
+	description: "我看见~爱的~火焰~闪烁~~~！",
 	text: [
-		"Your passion might burn your base down!"
+		"你在笑，疯狂的人是我！"
 	],
 	dependencies: [
 		"6dbe8507"

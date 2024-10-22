@@ -1,10 +1,10 @@
 {
-	title: "Wither Beater",
+	title: "凋灵战士",
 	x: -2.0d,
 	y: -6.5d,
-	description: "Wither abuse at its finest",
+	description: "凋灵挨着最毒的打",
 	text: [
-		"Slay 1 Wither."
+		"击杀1只凋灵。"
 	],
 	can_repeat: true,
 	tasks: [{

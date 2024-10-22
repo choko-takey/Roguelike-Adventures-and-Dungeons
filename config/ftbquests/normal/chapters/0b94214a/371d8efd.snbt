@@ -1,9 +1,9 @@
 {
 	x: 3.0d,
 	y: -15.0d,
-	description: "Real slipper making material!",
+	description: "真正的水晶鞋制作材料！",
 	text: [
-		"Craft some Ruby Seeds."
+		"制作一些红宝石种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

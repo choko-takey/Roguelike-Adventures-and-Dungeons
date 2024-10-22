@@ -1,12 +1,12 @@
 {
-	title: "Thaumium",
+	title: "神秘锭",
 	x: 12.5d,
 	y: -9.0d,
-	description: "Like Thaumcraft's diamonds in iron form",
+	description: "其价值近似于钻石，TC的",
 	text: [
-		"Thaumium and Alchemical Brass are important materials in making all sorts of things.",
+		"神秘锭和炼金黄铜都是十分重要的魔法材料。",
 		"",
-		"Don't make too much, however."
+		"多做点，这些东西永远不嫌多。"
 	],
 	dependencies: [
 		"204856d1"

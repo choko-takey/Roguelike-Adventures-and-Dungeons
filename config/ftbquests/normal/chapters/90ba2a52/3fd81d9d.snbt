@@ -1,10 +1,10 @@
 {
-	title: "Kobold Killer",
+	title: "哥布林杀手",
 	x: -1.0d,
 	y: 1.0d,
-	description: "You're a murderer... he just wanted to give you a book",
+	description: "你是个杀人犯...他只是想给你一本书",
 	text: [
-		"Kill 25 Kobolds."
+		"击杀25只哥布林。"
 	],
 	can_repeat: true,
 	tasks: [{

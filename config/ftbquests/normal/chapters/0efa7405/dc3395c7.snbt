@@ -1,12 +1,13 @@
 {
-	title: "You're Basically Iron Man",
+	title: "大概是钢铁侠",
 	x: -1.5d,
 	y: -2.75d,
-	description: "Here's part of your suite, and your power cell",
+	description: "这是近代神秘使人手一份的套件，还有你的核心",
 	text: [
-		"You need a mask now.",
+		"那么我的面罩呢？",
 		"",
-		"This Caster's Gauntlet will help you control Vis in your area, and acts as Wands did from previous iterations of Thaumcraft."
+		"法师护手会从区块灵气厂里汲取灵气以施法，这和曾经TC4的法杖类似。",
+		"（同时法师护手也将作为扳手使用）"
 	],
 	dependencies: [
 		"1af03bae"

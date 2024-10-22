@@ -1,9 +1,9 @@
 {
 	x: -7.5d,
 	y: -9.0d,
-	description: "The stoniest grow ever",
+	description: "有史以来最多的石头",
 	text: [
-		"Craft some Stone Seeds."
+		"制作一些石种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

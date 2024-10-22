@@ -1,12 +1,12 @@
 {
-	title: "The Baddest Lich in Town",
+	title: "城里最坏的巫师",
 	x: 3.0d,
 	y: 0.5d,
-	description: "You're never going away, either!",
+	description: "你也永远不会离开！",
 	text: [
-		"This item holds souls... so it seems.",
+		"这件物品承载着灵魂……所以看起来。",
 		"",
-		"You can hear scratching and clawing from the inside of the receptacle."
+		"你可以听到从容器内部传来的抓抓声。"
 	],
 	dependencies: [
 		"d6d462e3"

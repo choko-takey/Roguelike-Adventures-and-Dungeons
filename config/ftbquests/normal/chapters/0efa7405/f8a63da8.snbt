@@ -1,10 +1,10 @@
 {
-	title: "Efficiency at Last!",
+	title: "提升效率！",
 	x: 15.0d,
 	y: -9.0d,
-	description: "Safer, too",
+	description: "也更安全",
 	text: [
-		"You can now smelt items into essentia."
+		"现在你可以闻闻那些物品的气味了……我是说源质。"
 	],
 	dependencies: [
 		"1ce5751a"

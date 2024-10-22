@@ -1,12 +1,12 @@
 {
-	title: "Hot Rod",
+	title: "“抢手”钓竿",
 	x: -5.5d,
 	y: -8.0d,
-	description: "97' Fire Chicken",
+	description: "就像2.5米高的火鸡一样。",
 	text: [
-		"Craft the Rod of Lyssa.",
+		"制作犬牙钓竿。",
 		"",
-		"You're gonna be going fast once you figure out what this does."
+		"一旦你弄清楚这是怎么回事，你就会很快上手。"
 	],
 	tasks: [{
 		uid: "b5454d41",

@@ -1,10 +1,10 @@
 {
-	title: "Nitor Night Light",
+	title: "闪耀小夜灯",
 	x: 5.5d,
 	y: -13.0d,
-	description: "Nitor sounds like a drug tbh",
+	description: "“闪耀”？这个名字听起来像是某种……额，算了。",
 	text: [
-		"It's a lamp. It's a pretty lamp too."
+		"这是盏灯……对，一盏好灯。"
 	],
 	dependencies: [
 		"7c204714"

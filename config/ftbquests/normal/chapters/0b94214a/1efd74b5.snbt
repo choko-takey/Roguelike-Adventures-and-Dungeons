@@ -1,9 +1,9 @@
 {
 	x: 2.5d,
 	y: -4.5d,
-	description: "But wait there's more!",
+	description: "但等等，还有更多！",
 	text: [
-		"Obtain a Superium Watering Can."
+		"获得一个终极精华洒水壶。"
 	],
 	dependencies: [
 		"9a05eb59"

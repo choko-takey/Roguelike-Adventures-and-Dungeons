@@ -1,10 +1,11 @@
 {
-	title: "Rock-Em Sock-Em Steve",
+	title: "卡拉……额……卡拉……嗄？",
 	x: 8.0d,
 	y: 7.0d,
-	description: "DISCLAIMER: Arms may break",
+	description: "免责声明：注意别把你的胳膊给绞进去了",
 	text: [
-		"Don't be too rough on yourself, your arms aren't meant to take autoattacking at .001ms."
+		"别点的太猛了！你的反射神经不允许你一秒挥1000次剑！",
+		"（打在鞋子或者工具上也许更好……）"
 	],
 	dependencies: [
 		"020a4b1e"

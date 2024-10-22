@@ -1,17 +1,17 @@
 {
-	title: "Magical Mystical Mythical Magician V",
+	title: "神奇的神秘的神话附魔师 V",
 	x: -4.0d,
 	y: -3.0d,
-	description: "You've done it! You've done it!",
+	description: "你做到了！你做到了！",
 	text: [
-		"What did you do?",
+		"你做了什么？",
 		"",
-		"Enchant 25,000 items."
+		"附魔25000个物品。"
 	],
 	tasks: [{
 		uid: "38d59065",
 		type: "stat",
-		title: "Enchant 25,000 items",
+		title: "附魔25000个物品",
 		icon: "minecraft:enchanting_table",
 		stat: "stat.itemEnchanted",
 		value: 25000

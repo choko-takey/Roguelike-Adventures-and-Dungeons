@@ -1,5 +1,5 @@
 {
-	title: "Buy 25 Platinum Coins",
+	title: "买25枚铂金币",
 	x: -21.0d,
 	y: -1.0d,
 	can_repeat: true,

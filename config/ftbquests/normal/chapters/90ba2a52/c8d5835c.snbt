@@ -1,10 +1,10 @@
 {
-	title: "Tar-Tar Binks",
+	title: "焦油喷枪",
 	x: 2.0d,
 	y: 8.0d,
-	description: "Lol",
+	description: "哈哈哈",
 	text: [
-		"Kill 10 Tar Beasts."
+		"击杀10只焦油怪。"
 	],
 	can_repeat: true,
 	tasks: [{

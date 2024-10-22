@@ -1,9 +1,9 @@
 {
 	x: 0.5d,
 	y: -12.0d,
-	description: "Oh no... oh no no NO!",
+	description: "噢，不……噢，不，不，不!",
 	text: [
-		"Craft some Spider Seeds."
+		"制作一些蜘蛛种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

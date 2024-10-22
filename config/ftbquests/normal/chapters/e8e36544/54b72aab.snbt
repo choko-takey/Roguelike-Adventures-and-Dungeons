@@ -1,14 +1,14 @@
 {
-	title: "Look What I Can Buy with My Union Money",
+	title: "让我看看我能用公款整点啥",
 	x: -26.5d,
 	y: -3.5d,
-	description: "All this crazy crap I really don't need...",
+	description: "只有蠢驴才会因为自己拉的磨是24K纯金做的而自豪",
 	text: [
-		"In Survival mode, the Enhanced Building Guide not only displays ghost blocks to make building easier, but also allows the placing of actual blocks by right clicking with any block.",
+		"在生存模式下，强化建筑指导仪不仅可以进行建筑投影，使用方块右击它还可以直接进行建筑！",
 		"",
-		"This block works the same as the other one. Follow those instructions. This one simply has a neat block placement feature so you don't have to place blocks yourself.",
+		"简单来说就是个可以放方块的建筑指导仪",
 		"",
-		"Invest btw... invest early."
+		"这个项目我王多鱼投了！"
 	],
 	tasks: [{
 		uid: "c04023a2",

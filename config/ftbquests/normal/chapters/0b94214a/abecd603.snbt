@@ -1,9 +1,9 @@
 {
 	x: 8.0d,
 	y: -4.5d,
-	description: "This is bad for the environment",
+	description: "这对环境有害",
 	text: [
-		"Obtain some Supremium Coal."
+		"获得一些终极精华煤。"
 	],
 	dependencies: [
 		"f2d105e0"

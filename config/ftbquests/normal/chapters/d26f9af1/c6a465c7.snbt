@@ -1,12 +1,12 @@
 {
-	title: "Portal, but with Items",
+	title: "传送门, 但是带着物品",
 	x: -3.5d,
 	y: -9.5d,
-	description: "GLADOS hates you now",
+	description: "GLADOS（V社游戏中的人工智能）现在恨你了",
 	text: [
-		"Well, she already did, but she DEFINTELY does now.",
+		"好吧，她已经做到了，现在她绝对做到了。",
 		"",
-		"*Cough* Automated Crucible *Cough*"
+		"*咳嗽*自动坩埚*咳嗽*"
 	],
 	dependencies: [
 		"80f9d45b"

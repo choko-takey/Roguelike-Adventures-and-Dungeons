@@ -1,14 +1,14 @@
 {
-	title: "California's Draught!",
+	title: "加利福尼亚干旱！",
 	x: -9.0d,
 	y: -5.25d,
-	description: "Caused by watering your grass too much!",
+	description: "原因是你给草浇水太多了！",
 	text: [
-		"Sprinklers will randomly fertilize an area within a 4x4x4 radius of the device.",
+		"洒水器会随机加速其半径4格以内作物的生长。",
 		"",
-		"Must be supplied with water to be active. Does not require Redstone.",
+		"必须为它供水才能工作，不需要红石信号。",
 		"",
-		"The Sprinkler will count as a water source block."
+		"洒水器可以被视为一个水源方块。"
 	],
 	size: 1.5d,
 	tasks: [{

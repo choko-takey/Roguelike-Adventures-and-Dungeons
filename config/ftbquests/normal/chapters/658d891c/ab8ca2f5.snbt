@@ -1,10 +1,10 @@
 {
-	title: "Super Shiner",
+	title: "闪闪闪！炫炫炫！",
 	x: 12.0d,
 	y: 0.0d,
-	description: "Your dragon is pretty clean",
+	description: "你的龙看起来很干净",
 	text: [
-		"Dragons that wear this own Richard Milles"
+		"龙的这副打扮，应该再来个属于它自己的劳力士"
 	],
 	dependencies: [
 		"768743f4"

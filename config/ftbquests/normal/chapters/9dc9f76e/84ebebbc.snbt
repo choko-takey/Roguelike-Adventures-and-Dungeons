@@ -1,12 +1,12 @@
 {
-	title: "Annual Grape Crushing Contest",
+	title: "年度踩葡萄大赛",
 	x: 0.5d,
 	y: 3.5d,
-	description: "I think you might get first place!",
+	description: "我觉得你能得第一！",
 	text: [
-		"The Crushing Tub will only accept items from the Rustic mod. ",
+		"压榨木盆只能放入乡村模组的物品。",
 		"",
-		"You cannot crush random stuff in the Crushing Tub. Sorry!"
+		"其他东西不能在压榨木盆里挤。骚瑞！"
 	],
 	dependencies: [
 		"ecd0a29d"

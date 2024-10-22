@@ -1,13 +1,13 @@
 {
-	title: "Holiday Helpers",
+	title: "节日助手",
 	x: 2.0d,
 	y: 3.0d,
 	shape: "rsquare",
-	description: "Like those little Chocolate Calendars but in Minecraft",
+	description: "像MC中那些小的巧克力日历",
 	text: [
-		"During the appropriate Holidays, these pets will reward players with little gifts when they are used, once per day.",
+		"在适当的节日里，使用这些宠物将奖励玩家小礼物，每天一次。",
 		"",
-		"You cannot use all of the pets once per day. Only one Holiday pet can be used per day during the appropriate Holiday(s)."
+		"你不能每天使用一次所有的宠物。在相应的节日里，每天只能使用一个节日宠物。"
 	],
 	tasks: [{
 		uid: "e48a511b",

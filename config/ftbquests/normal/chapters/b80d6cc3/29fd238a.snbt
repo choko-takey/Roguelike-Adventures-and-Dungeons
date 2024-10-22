@@ -1,10 +1,11 @@
 {
-	title: "The Fire Gun",
+	title: "凤凰爆破枪",
 	x: 25.0d,
 	y: 4.5d,
-	description: "Okay I shouldn't be responsible for naming items, after all",
+	description: "好吧，我没有这个东西的命名权，你爱叫他啥叫他啥吧",
 	text: [
-		"Don't make fun of me, it shoots fire!"
+		"别笑！这东西真的能喷射火焰！",
+		"（伤害已经提高了哦）"
 	],
 	dependencies: [
 		"05276366"

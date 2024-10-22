@@ -1,10 +1,10 @@
 {
-	title: "Soul Stoned",
+	title: "石化的灵魂",
 	x: -9.5d,
 	y: 2.5d,
-	description: "Feels just like dying for reals",
+	description: "就像真正的死亡",
 	text: [
-		"Craft some Soul Stone."
+		"制作一些灵魂石。"
 	],
 	size: 1.5d,
 	tasks: [{

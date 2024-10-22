@@ -1,11 +1,11 @@
 {
-	title: "Hydra-ulics",
+	title: "液-压（hydra-ulics）",
 	icon: "twilightforest:trophy 1 2",
 	x: 1.0d,
 	y: 0.0d,
-	description: "Lifted legs, non-stumpy",
+	description: "抬起的腿，emm，不像是短肢生物",
 	text: [
-		"Slay 5 Hydras in the Twilight Forest."
+		"击杀5只暮色森林九头蛇。"
 	],
 	can_repeat: true,
 	tasks: [{

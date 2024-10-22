@@ -1,15 +1,15 @@
 {
-	title: "Magical Mystical Mythical Magician I",
+	title: "神奇的神秘的神话附魔师 I",
 	x: -4.0d,
 	y: 1.0d,
-	description: "Do you even exist?",
+	description: "你真的存在吗？",
 	text: [
-		"Enchant 1,000 items."
+		"附魔1000件物品"
 	],
 	tasks: [{
 		uid: "db486581",
 		type: "stat",
-		title: "Enchant 1,000 items",
+		title: "附魔1000件物品",
 		icon: "minecraft:enchanting_table",
 		stat: "stat.itemEnchanted",
 		value: 1000

@@ -1,12 +1,12 @@
 {
-	title: "Take a Horse to Water",
+	title: "带马去喝口水吧",
 	x: 12.5d,
 	y: -5.5d,
-	description: "He'll still want the carrots",
+	description: "但它还是想吃萝卜",
 	text: [
-		"These carrots give horses super powers, or cripples them.",
+		"这些萝卜可以给予你的马更强的能力，也可能使它从此变成残废。",
 		"",
-		"JK Super powers only."
+		"开玩笑的，只有正面buff。"
 	],
 	tasks: [{
 		uid: "b0428c88",

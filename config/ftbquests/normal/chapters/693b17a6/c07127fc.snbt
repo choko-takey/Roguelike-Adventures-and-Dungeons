@@ -1,10 +1,10 @@
 {
-	title: "Waystone Wanderer II",
+	title: "指路石旅行者 II",
 	x: -14.5d,
 	y: 0.0d,
-	description: "Is it dark when you teleport?",
+	description: "你传送的时候是黑暗的吗？",
 	text: [
-		"Activate 25 different Waystones."
+		"激活25个不同的指路石。"
 	],
 	tasks: [{
 		uid: "9a7e68ed",

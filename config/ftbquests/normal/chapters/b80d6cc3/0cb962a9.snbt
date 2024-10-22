@@ -1,12 +1,12 @@
 {
-	title: "Nicholas Flamel Was Cheating if He Used This Thing",
+	title: "尼古拉斯.勒梅如果用了这玩意，他就是在作弊！",
 	x: 25.5d,
 	y: 3.5d,
-	description: "This isn't real alchemy!",
+	description: "你管这叫炼金术？",
 	text: [
-		"Shooting things with high tech fire lasers and turning them into new compounds does not count as being an alchemist!",
+		"使用高温射线轰击物品使其发生转化并不是真正的炼金术！",
 		"",
-		"Craft a set of alchemy equipment!"
+		"但是这里就是这么说的，所以做一套吧！"
 	],
 	dependencies: [
 		"05276366"

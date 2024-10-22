@@ -1,10 +1,10 @@
 {
-	title: "The Goonies!",
+	title: "呕吐者！",
 	x: 0.0d,
 	y: -4.5d,
-	description: "He's here to steal your treasure!",
+	description: "他是来偷你的财宝的！",
 	text: [
-		"Kill 50 Goons"
+		"击杀50只呕吐者"
 	],
 	can_repeat: true,
 	tasks: [{

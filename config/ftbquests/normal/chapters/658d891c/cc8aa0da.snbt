@@ -1,10 +1,10 @@
 {
-	title: "Earthworms",
+	title: "蚯蚓",
 	x: 18.5d,
 	y: -0.5d,
-	description: "Eat em' fried, sauted, grilled!",
+	description: "吃油炸的，炒的，烤的！",
 	text: [
-		"Dragons are thinking you look real tasty right about now."
+		"龙认为你现在看起来真的很好吃。"
 	],
 	tasks: [{
 		uid: "67d28516",

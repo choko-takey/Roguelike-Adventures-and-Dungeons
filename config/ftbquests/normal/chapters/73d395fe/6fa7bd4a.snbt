@@ -1,10 +1,10 @@
 {
-	title: "Purple Tools",
+	title: "暗紫工具",
 	x: -2.0d,
 	y: -8.0d,
-	description: "Not the best, but it will have to do",
+	description: "并非完美，但却必备",
 	text: [
-		"Craft all Nightstone tools."
+		"制作全套暗夜石工具。"
 	],
 	dependencies: [
 		"03bff484"

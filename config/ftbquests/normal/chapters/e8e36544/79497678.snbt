@@ -1,18 +1,18 @@
 {
-	title: "GMD",
+	title: "GMD！",
 	x: -4.0d,
 	y: 10.0d,
-	description: "Genetically Modified Dirt",
+	description: "转基因土",
 	text: [
-		"Now, originally, dirt has no DNA, but we gave it some to help your plants grow faster!",
+		"原来，泥土是没有DNA的，但我们给了它一些DNA来帮助你的植物生长得更快！",
 		"",
-		"Long-term affects of GMD inside of agricultural harvest has not been extensively observed.",
+		"转基因作物对农业收获的长期影响尚未得到广泛观察。",
 		"",
-		"This dirt and GMD (Gentically Modified Dirt) contains chemicals known to cause cancer within the state of California.",
+		"这种泥土和GMD（转基因泥土）含有在加州已知会致癌的化学物质。",
 		"",
-		"Use with caution.",
+		"请谨慎使用。",
 		"",
-		"But hey! Your plants grow fast!"
+		"但是嘿！你的植物长得真快！"
 	],
 	size: 2.0d,
 	tasks: [{

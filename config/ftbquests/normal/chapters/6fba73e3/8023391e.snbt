@@ -1,10 +1,10 @@
 {
-	title: "Running Up the Stairs at Mach 5",
+	title: "上楼梯保持5马赫",
 	x: 5.5d,
 	y: -3.0d,
-	description: "Don't look behind you",
+	description: "别回头看！！",
 	text: [
-		"Craft the Lantern of Paranoia."
+		"制作诞妄提灯。"
 	],
 	tasks: [{
 		uid: "b3054425",

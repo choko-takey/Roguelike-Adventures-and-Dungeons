@@ -1,10 +1,10 @@
 {
-	title: "The Hottest Fires of the Nether",
+	title: "最热的地狱之火",
 	x: 5.5d,
 	y: -7.5d,
-	description: "This is why man fears dragon",
+	description: "这就是为什么人害怕龙",
 	text: [
-		"Mama told you don't touch the stove tops!"
+		"妈妈告诉过你不要碰炉子！"
 	],
 	dependencies: [
 		"8c0c1a31",

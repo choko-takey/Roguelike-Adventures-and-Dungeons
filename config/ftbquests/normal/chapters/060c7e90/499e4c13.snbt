@@ -1,10 +1,10 @@
 {
-	title: "Why Won't You Die!?",
+	title: "你怎么还不死？",
 	x: -19.0d,
 	y: 10.5d,
-	description: "Because I'm already dead!",
+	description: "因为已死之人不能再死一次！",
 	text: [
-		"Now join me!"
+		"现在，加入我！"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

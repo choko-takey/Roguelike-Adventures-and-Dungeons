@@ -1,13 +1,13 @@
 {
-	title: "Airship Workbench",
+	title: "飞艇工作台",
 	x: -5.0d,
 	y: 0.0d,
-	description: "Now just for decoration!",
+	description: "现在仅做装饰！",
 	text: [
-		"The Airship Workbench had a habit of deleting your items left inside, so we put it in time-out forever.",
-		"You can still craft it, but its just a decoration block now.",
+		"飞艇工作台有个习惯，它会删除掉你留在里面的物品，所以我将它永远移除了。",
+		"你仍然可以制作它，但它现在仅作为装饰方块。",
 		"",
-		"Instead, use the Crafting Table."
+		"你可以使用工作台替代。"
 	],
 	tasks: [{
 		uid: "163bb013",

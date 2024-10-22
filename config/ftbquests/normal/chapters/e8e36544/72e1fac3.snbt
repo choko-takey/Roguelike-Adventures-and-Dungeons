@@ -1,14 +1,14 @@
 {
-	title: "Quick-Time Events!",
+	title: "快速反应事件！(QTE)",
 	x: -2.0d,
 	y: 12.5d,
-	description: "Press X for doubt",
+	description: "按 X 表示疑问",
 	text: [
-		"Blocks Of Sticks are basically quick-time scaffolding blocks.",
+		"脚手架是快速搭建方块。",
 		"",
-		"They last 10 seconds before decaying.",
+		"它们在10秒后会消失。",
 		"",
-		"The Returning Block Of Sticks will do just that. Return to your inventory, after decaying."
+		"强化脚手架会这样：消失后返回你的物品栏"
 	],
 	tasks: [{
 		uid: "7a6bf8fd",

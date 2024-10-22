@@ -1,12 +1,12 @@
 {
-	title: "Smeltery Sidekicks",
+	title: "臭味相投",
 	x: 15.0d,
 	y: -7.5d,
-	description: "Robin would be envious",
+	description: "罗宾会羡慕的",
 	text: [
-		"Auxiliary Slurry Pumps allow more Arcane Alembics to be placed ontop of it to filter essentia.",
+		"附属黏浆泵可以让两个蒸馏器同时工作，让单线程变成多线程。",
 		"",
-		"Auxiliary Venting Ports reduce the flux output of the Smeltery. However, it follows the law of diminishing returns."
+		"辅助排放口可以降低源质冶炼厂的咒波排放量，但是装的越多，效率越低。"
 	],
 	dependencies: [
 		"f8a63da8"

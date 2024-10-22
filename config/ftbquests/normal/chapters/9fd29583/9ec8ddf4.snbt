@@ -1,10 +1,10 @@
 {
-	title: "Flower Power",
+	title: "花的力量",
 	x: -2.5d,
 	y: -6.0d,
-	description: "I have the power!!!!!!",
+	description: "我有力量！！！",
 	text: [
-		"Collect all of the flowers available in the Erebus mod."
+		"收集所有能在混沌之地模组获得的花。"
 	],
 	dependencies: [
 		"d01b8d01"

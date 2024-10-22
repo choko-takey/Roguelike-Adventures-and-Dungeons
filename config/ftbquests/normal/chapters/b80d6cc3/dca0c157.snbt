@@ -1,12 +1,13 @@
 {
-	title: "Camel What?",
+	title: "骆驼？什么玩意……",
 	x: 5.5d,
 	y: 3.5d,
-	description: "Cayman Island?",
+	description: "开曼群岛？",
 	text: [
-		"No no... Caminite...",
+		"不，都不是，是方镁钒。我的宝。",
 		"",
-		"Get you sum."
+		"算算你需要多少吧！",
+		"（注：方镁钒Caminite和骆驼camel以及开曼Cayman的读音有些相似，这里作者在玩谐音梗）"
 	],
 	dependencies: [
 		"322bb351"

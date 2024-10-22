@@ -1,12 +1,12 @@
 {
-	title: "Nagrilite Tools",
+	title: "纳格瑞特金属工具",
 	x: 1.5d,
 	y: -1.5d,
-	description: "Grilling mobs with these",
+	description: "用它们来炙烤怪物",
 	text: [
-		"...the sword definitely.",
+		"……这种纹理的剑绝对是这样的。",
 		"",
-		"Craft all of the Nagrilite tools."
+		"制作全套纳格瑞特金属工具。"
 	],
 	dependencies: [
 		"154c18e8"

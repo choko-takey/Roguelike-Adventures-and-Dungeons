@@ -1,12 +1,12 @@
 {
-	title: "Be Gentle Now!",
+	title: "温柔点！",
 	x: 17.0d,
 	y: -4.5d,
-	description: "Pick the flowers nicely",
+	description: "好好摘花",
 	text: [
-		"The Harvester will harvest crops in the specified area when powered with Forge Energy.",
+		"当使用FE能量时，收割机将在指定区域收割庄稼。",
 		"",
-		"It is best to set the Harvester to Area Mode in order to keep up with larger harvests. Single mode will only harvest one crop every time the \"load bar\" ticks in the Harvest GUI."
+		"最好将收割机设置为范围模式，以便跟上更大的收成。单个模式将只收获一个作物每次“加载条”滴答在收获GUI。"
 	],
 	dependencies: [
 		"ecd41947"

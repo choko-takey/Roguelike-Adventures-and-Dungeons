@@ -1,16 +1,16 @@
 {
-	title: "The Shower Monster!",
+	title: "洗澡水怪兽！",
 	x: -14.5d,
 	y: -4.5d,
-	description: "He's gonna get you!",
+	description: "他要抓到你了！",
 	text: [
-		"The XP Drain will take all of your XP and put it into the connected storage container.",
+		"经验地漏会汲取你全部的经验并储存到与它相连的容器中。",
 		"",
-		"You cannot hook the XP Drain to pipes directly.",
+		"你无法直接把经验地漏与管道相连",
 		"",
-		"You must place the XP Drain on top of a storage container as a simple buffer, if you wish to pump it elsewhere over longer distances.",
+		"你必须先将经验地漏放在储存经验的容器中，以这个容器作为缓冲池，再传输到你想要的地方。",
 		"",
-		"The XP Shower must be activated with a Lever, or by a Redstone signal to be activated. It will consume liquid XP from an attached source and output XP orbs."
+		"经验莲蓬头必须被拉杆激活，或者其它能发出红石信号的设备。它会从相邻的经验容器中消耗液体经验并释放。"
 	],
 	dependency_requirement: "one_started",
 	tasks: [{

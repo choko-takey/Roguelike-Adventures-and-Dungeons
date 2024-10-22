@@ -1,14 +1,14 @@
 {
-	title: "You Should Be a Real Mechanic for This Part",
+	title: "是时候成为真正的机械师了！",
 	x: 20.0d,
 	y: -3.0d,
-	description: "Just kidding, not really, haha, smiley face...",
+	description: "开个玩笑啦！真的就是的玩笑……:)",
 	text: [
-		"Have fun! Mechanical power is very fun to deal with, honestly.",
+		"玩的开心，我的宝。余烬奇械学非常有意思的！（虽然没汉化，但是我相信你聪明的小脑瓜应该能看懂）",
 		"",
-		"You are only required to obtain one of the items to complete this quest.",
+		"完成这个任务非常简单，你只需要收集一个物品……",
 		"",
-		"You will probably use all of these items if you are delving into Mechanical Energy anyways."
+		"如果你确实下定决心要研究奇械学，你会用到这些的。"
 	],
 	dependencies: [
 		"1587c33e"

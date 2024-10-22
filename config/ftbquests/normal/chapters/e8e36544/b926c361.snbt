@@ -1,17 +1,17 @@
 {
-	title: "Point 'n' Click!",
+	title: "指哪打哪",
 	icon: "openblocks:cannon",
 	x: -21.5d,
 	y: -3.5d,
-	description: "Who knew Minecraft was a shooter!",
+	description: "真正了解minecraft的人是枪手！",
 	text: [
-		"This item is used to shoot items to a location. Literally.",
+		"这个工具可以把物品发射到指定地点，字面意思上是这样。",
 		"",
-		"The items need a clear path. Use the Pointer to Right-Click the Item Cannon, then Right-Click the location you wish the items to land. The Cannon will auto-adjust to aim to the location. ",
+		"发射物品的轨迹不能有障碍物。用指针shift+右键点击投掷加农炮，然后右键你想要发射的地点，加农炮会根据位置自动调整发射轨迹。",
 		"",
-		"We don't know the full capabilities of this item. Maybe you can figure them out? :)",
+		"我们还没有充分了解加农炮的全部潜力，或许你能？:)",
 		"",
-		"This is the only item the Pointer is used together with."
+		"指针是唯一能与加农炮交互的工具。"
 	],
 	tasks: [{
 		uid: "98da0622",

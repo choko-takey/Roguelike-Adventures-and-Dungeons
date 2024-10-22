@@ -1,10 +1,10 @@
 {
-	title: "Steady Hands",
+	title: "坚定的双手",
 	x: 18.0d,
 	y: -6.5d,
-	description: "Doing no more and no less",
+	description: "做好本职工作",
 	text: [
-		"The Steady Miner will "
+		"这个挖掘者会做到的。"
 	],
 	dependencies: [
 		"ecd41947"

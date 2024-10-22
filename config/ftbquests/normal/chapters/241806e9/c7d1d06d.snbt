@@ -1,10 +1,10 @@
 {
-	title: "BACK FOUL BEAST",
+	title: "走开！肮脏的野兽！",
 	x: 5.0d,
 	y: -2.0d,
-	description: "BACK",
+	description: "走开！",
 	text: [
-		"This item will repel mobs within a certain radius around it."
+		"这个物品将排斥周围一定半径内的生物。"
 	],
 	dependencies: [
 		"4119c49b"

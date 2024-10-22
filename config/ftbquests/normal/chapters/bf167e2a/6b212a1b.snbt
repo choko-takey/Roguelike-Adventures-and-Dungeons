@@ -1,12 +1,12 @@
 {
-	title: "You Mean Poseidon?",
+	title: "你的意思是海神？",
 	x: 6.5d,
 	y: -20.0d,
-	description: "Who came first, the ocean or the wave?",
+	description: "海浪和海洋谁会先到？",
 	text: [
-		"Obtain Neptune's Armaments.",
+		"获得海神套装。",
 		"",
-		"Increases speed and jump height while in the water."
+		"提升在水中游泳和行走的速度。"
 	],
 	dependencies: [
 		"9ca912fb"

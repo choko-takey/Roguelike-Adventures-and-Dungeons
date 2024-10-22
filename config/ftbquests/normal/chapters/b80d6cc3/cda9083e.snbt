@@ -1,10 +1,10 @@
 {
-	title: "How to Break Your Toilet 101",
+	title: "如何引爆你家厕所101企划",
 	x: 33.5d,
 	y: 2.0d,
-	description: "Must've had Mexican food",
+	description: "额……绝对吃过墨西哥的东西……",
 	text: [
-		"Hopefully your porcelain holds up."
+		"希望你的马桶还健在……"
 	],
 	dependencies: [
 		"fe8f99b6"

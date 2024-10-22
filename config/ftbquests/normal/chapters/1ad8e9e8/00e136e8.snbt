@@ -1,12 +1,12 @@
 {
-	title: "The Basics",
+	title: "基础物品",
 	x: 1.5d,
 	y: -3.0d,
-	description: "All you need",
+	description: "你需要的所有",
 	text: [
-		"Craft your basic crafting table and wooden chest from the Weedwood found in the Betweenlands.",
+		"用交错次元的杂草木合成你的基础工作台和木制的箱子。",
 		"",
-		"Why? Because this is the only real wood you have here, in this dank dimension."
+		"为什么? 因为这是在这个维度你可以用的唯一一种木头。"
 	],
 	dependencies: [
 		"3c192351"

@@ -1,10 +1,10 @@
 {
-	title: "Essence Aficionado",
+	title: "酿造迷",
 	x: -5.5d,
 	y: -1.5d,
-	description: "You really like to brew stuff",
+	description: "你真的很喜欢酿造东西",
 	text: [
-		"Craft some Apothecary tools."
+		"制作一些药师的工具（坩埚和研钵）。"
 	],
 	tasks: [{
 		uid: "1359aa3a",

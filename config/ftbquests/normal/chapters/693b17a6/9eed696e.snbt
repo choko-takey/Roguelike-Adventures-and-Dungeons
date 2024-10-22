@@ -1,15 +1,15 @@
 {
-	title: "Trader Joe I",
+	title: "尔虞我诈 I",
 	x: -11.5d,
 	y: 1.0d,
-	description: "Joe mama",
+	description: "来，骗！",
 	text: [
-		"Trade with... anything... 500 times."
+		"完成任意500次交易。"
 	],
 	tasks: [{
 		uid: "752134e0",
 		type: "stat",
-		title: "Make 500 Trades",
+		title: "完成500次交易",
 		icon: "minecraft:book",
 		stat: "stat.tradedWithVillager",
 		value: 500

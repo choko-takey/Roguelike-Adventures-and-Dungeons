@@ -1,10 +1,10 @@
 {
-	title: "Lumberjack Jack",
+	title: "伐木工人杰克",
 	x: -2.5d,
 	y: -3.0d,
-	description: "He chops heads tho",
+	description: "他把头都砍下来了",
 	text: [
-		"Battleaxes, as well as vanilla axes, have a chance to drop a monsters head when a monster is killed with the item."
+		"战斧，就像原版斧一样，但却不仅如此，当使用战斧杀死怪物时，有几率掉落怪物的头。"
 	],
 	dependencies: [
 		"a4636105"

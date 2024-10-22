@@ -1,10 +1,10 @@
 {
-	title: "Self Sustaining Fire",
+	title: "能够自我维持的火焰",
 	x: 4.0d,
 	y: 0.5d,
-	description: "Sulfur incense; the best kind",
+	description: "硫磺香；最好的哪种",
 	text: [
-		"Craft a handful of Sulfur Torches."
+		"制作一把硫磺火把。"
 	],
 	dependencies: [
 		"3c192351"

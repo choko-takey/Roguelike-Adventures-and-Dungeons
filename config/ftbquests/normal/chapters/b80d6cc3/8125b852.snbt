@@ -1,12 +1,12 @@
 {
-	title: "Dawnstone Armaments",
+	title: "黎明石装备",
 	x: 24.0d,
 	y: 5.0d,
-	description: "Shinier than your bald head!",
+	description: "比你那没几根毛的脑瓜还亮！",
 	text: [
-		"Surprisingly powerful...",
+		"出乎意料的强力……",
 		"",
-		"Craft the Dawnstone weapons and armor."
+		"制作一些黎明石装备吧！"
 	],
 	dependencies: [
 		"05276366"

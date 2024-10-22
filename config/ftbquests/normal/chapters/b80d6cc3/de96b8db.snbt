@@ -1,10 +1,10 @@
 {
-	title: "Ahh.. I See the Problem",
+	title: "啊……我想我知道哪里又出问题了",
 	x: 3.5d,
 	y: 1.5d,
-	description: "What the #$%@ am I looking at?",
+	description: "我在看什么鬼东西……",
 	text: [
-		"These lenses will help you figure out things you should already know as an engineer."
+		"这个眼镜可以帮助你看到更多你想，或者避之不及的东西。"
 	],
 	dependencies: [
 		"322bb351"

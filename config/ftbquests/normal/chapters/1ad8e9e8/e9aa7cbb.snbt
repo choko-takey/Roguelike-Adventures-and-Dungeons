@@ -1,10 +1,10 @@
 {
-	title: "A Necromancers Greatest Treasure",
+	title: "亡灵法师最伟大的宝藏",
 	x: -11.5d,
 	y: -6.5d,
-	description: "You're a monster!",
+	description: "你是个怪物！",
 	text: [
-		"This ring allows the wearer to take control of mobs at the cost of XP. There are also some other neat functions."
+		"这个戒指可以让佩戴者用经验为代价控制生物。它还有一些其他的有趣功能。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

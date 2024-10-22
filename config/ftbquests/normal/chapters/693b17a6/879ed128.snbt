@@ -1,16 +1,18 @@
 {
-	title: "No Naga No!",
+	title: "不！娜迦！不！",
 	icon: "mowziesmobs:naga_fang_dagger",
 	x: 0.0d,
 	y: 5.5d,
-	description: "Your days of PTSD from dive bombs are over",
+	description: "你因轰炸机而患PTSD的日子结束了",
 	text: [
-		"You've managed to slay 100 Naga. One of them had to be special or something."
+		"你已经成功杀死了100个娜迦。其中一个必须是特别的或什么的。",
+		"",
+		"（译者注：不是暮色娜迦）",
 	],
 	tasks: [{
 		uid: "64df0206",
 		type: "kill",
-		title: "Slay 100 Naga",
+		title: "击杀100只娜迦",
 		icon: "mowziesmobs:naga_fang",
 		entity: "mowziesmobs:naga",
 		value: 100L

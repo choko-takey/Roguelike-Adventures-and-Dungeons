@@ -1,10 +1,10 @@
 {
-	title: "Necro-WHAT?",
+	title: "局部坏……什么东西？",
 	x: -12.5d,
 	y: 10.0d,
-	description: "Now hear me out...",
+	description: "现在，听我一言……",
 	text: [
-		"It's not as bad as it sounds."
+		"至少不像它听起来那么烂……"
 	],
 	dependencies: [
 		"6b5d4a07"

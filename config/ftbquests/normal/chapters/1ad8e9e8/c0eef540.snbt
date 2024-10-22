@@ -1,12 +1,12 @@
 {
-	title: "I Have the Power!",
+	title: "我充满力量！",
 	x: -12.0d,
 	y: -8.5d,
-	description: "You're fired up!",
+	description: "你完蛋了！",
 	text: [
-		"This ring makes the wearer more powerful.",
+		"这个戒指使得佩戴者变得更加强大。",
 		"",
-		"What else could you want?"
+		"你还会想要些什么？"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

@@ -1,22 +1,22 @@
 {
-	title: "It's Called Being Sophisticated",
+	title: "这叫做老练",
 	x: 4.0d,
 	y: 10.0d,
-	description: "No, John, this is advanced",
+	description: "不，约翰，这是高级",
 	text: [
-		"Like advanced tech.",
+		"比如先进的科技。",
 		"",
-		"This Repeater is the most advanced version of a Repeater you're going to see for a good while.",
+		"这个是中继器的更高级的版本，会延后很长一段时间。",
 		"",
-		"Well, not really, but it's as user-friendly and efficient as it gets.",
+		"嗯，不完全是，但它是方便且高效。",
 		"",
-		"The configuration of this item should be self-explanatory for those who know what they're doing.",
+		"对于那些知道的人来说，这个物品的配置应该不用说。",
 		"",
-		"20 Ticks = 1 Second",
+		"20 Ticks = 1 秒",
 		"",
-		"Press Shift to move in tens, Cntrl to move in hundreds, or both to move in Thousands.",
+		"按住Shift以十为单位移动，按住Ctrl以百为单位移动，同时按以千位为单位移动。",
 		"",
-		"The Tick delay caps out at 10,000 or 8m 20s."
+		"Tick延迟的上限是10,000或8min 20s。"
 	],
 	tasks: [{
 		uid: "894b4b98",

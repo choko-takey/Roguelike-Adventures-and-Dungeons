@@ -1,10 +1,10 @@
 {
-	title: "Hot Hot Hot!",
+	title: "热 热 热！",
 	x: 11.0d,
 	y: 1.5d,
-	description: "Why is it always hot?!",
+	description: "为啥一直都这么热！",
 	text: [
-		"Smelt some Octine into an ingot."
+		"将一些炽炎铁矿石炼成锭"
 	],
 	dependencies: [
 		"5805bceb"

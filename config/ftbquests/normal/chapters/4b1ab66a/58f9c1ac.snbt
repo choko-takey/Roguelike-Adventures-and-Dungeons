@@ -1,14 +1,14 @@
 {
-	title: "Iron Chef Steve",
+	title: "铁厨史蒂夫",
 	x: 8.5d,
 	y: -3.5d,
-	description: "Todays ingredient: Rotten Flesh!",
+	description: "今天的菜谱：腐肉！",
 	text: [
-		"This item will allow you to craft certain foods out of your inventory so long as you have the appropriate cookware available to you.",
+		"只要你有合适的厨具，这本书将允许你从你的库存中制作一些食物。",
 		"",
-		"You cannot cook items that require a crafting station to be prepared.",
+		"你不能直接烹饪需要厨具制作的物品。",
 		"",
-		"This does indeed mean you can't boil an egg from inside your pocket."
+		"换句话说，你总不能从你的背包里直接煮鸡蛋吧？"
 	],
 	dependencies: [
 		"650e7f63"

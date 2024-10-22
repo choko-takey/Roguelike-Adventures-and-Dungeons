@@ -1,5 +1,5 @@
 {
-	title: "Soup or Soldier?",
+	title: "装饰还是士兵？",
 	icon: {
 		id: "ftbquests:custom_icon",
 		tag: {
@@ -8,9 +8,9 @@
 	},
 	x: 2.0d,
 	y: 4.0d,
-	description: "To go!",
+	description: "带走！",
 	text: [
-		"Kill 25 Sentries."
+		"击杀25只战斗哨石。"
 	],
 	can_repeat: true,
 	tasks: [{

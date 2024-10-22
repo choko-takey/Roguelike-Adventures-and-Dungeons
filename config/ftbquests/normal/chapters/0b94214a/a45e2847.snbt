@@ -1,10 +1,10 @@
 {
-	title: "Hell Spawn",
+	title: "地狱生成",
 	x: 3.5d,
 	y: 1.5d,
-	description: "What are you growing over here?!",
+	description: "你在这里种了什么？！",
 	text: [
-		"Craft or obtain a Tier 4 Mob Chunk."
+		"制作或获得一块4级基础怪物灵魂碎片。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

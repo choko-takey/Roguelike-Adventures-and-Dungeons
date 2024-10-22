@@ -1,10 +1,10 @@
 {
-	title: "Obey!",
+	title: "服从！",
 	x: 5.5d,
 	y: -2.5d,
-	description: "I command thee!",
+	description: "我命令你！",
 	text: [
-		"Refer to your Bestiary on different uses for these items."
+		"关于这些物品的不同用途，请参阅你的《异兽手记》。"
 	],
 	dependencies: [
 		"b37a814e"

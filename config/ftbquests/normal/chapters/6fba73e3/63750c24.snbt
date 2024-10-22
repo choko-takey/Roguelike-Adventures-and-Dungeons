@@ -1,10 +1,10 @@
 {
-	title: "Meet Your Maker!",
+	title: "我是造物主！",
 	x: 0.5d,
 	y: -5.5d,
-	description: "By the power of GOD!",
+	description: "上帝的力量！哈利路亚~",
 	text: [
-		"Craft some Holy Hand Grenades."
+		"制作一些神圣手雷。"
 	],
 	tasks: [{
 		uid: "973f7cdb",

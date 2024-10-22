@@ -1,16 +1,16 @@
 {
-	title: "Drop 'n' Unroll",
+	title: "展开并下降",
 	x: -20.0d,
 	y: -3.5d,
-	description: "$19.99/ft",
+	description: "每英尺19.99美元",
 	text: [
-		"Placing the Rope Ladder anywhere farther than 1 block above the ground will drop all needed ladders to reach the ground, if they are in your inventory.",
+		"在任何高于地面一格的地方放置绳梯，所有需要的绳梯会自动搭设到地面，只要物品栏里绳梯足够。",
 		"",
-		"Unlike regular ladders, Rope Ladder will traverse across empty block spaces until hitting the floor.",
+		"与常规的绳子不同的是，绳梯可以穿过空心方块直达地面。",
 		"",
-		"This makes it extra handy in Ravines.",
+		"这使得它在峡谷地带极为好用。",
 		"",
-		"When a Rope Ladder piece is broken, any pieces further below will also break."
+		"当绳梯某个部分被破坏，这个部分以下也会被破坏。"
 	],
 	tasks: [{
 		uid: "9d10d4a6",

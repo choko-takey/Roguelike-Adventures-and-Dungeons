@@ -1,16 +1,16 @@
 {
-	title: "Your Pocket Portal",
+	title: "你的口袋传送门",
 	x: -6.0d,
 	y: -4.5d,
-	description: "A dimension in your denim!",
+	description: "牛仔裤里的次元。",
 	text: [
-		"The Quartz Dimensional Door will create a portal to your personal dimension, no matter where it is, or how many are placed down.",
+		"石英次元门将创建一个通往个人次元的传送门，无论它在哪里，或被放置多少次。",
 		"",
-		"The Quartz Dimension Door will only ever take you to your personal dimension.",
+		"石英次元门只会把你带到你的个人次元。",
 		"",
-		"You can enter this dimension from multiple Quartz doors, and when you leave, player's should exit from the door they've entered.",
+		"你可以从多个石英门进入这个次元，当你离开时，玩家会从他们进入的门离开。",
 		"",
-		"If you accidentally destroy your Quartz Door on the inside of your Personal Dimension, you can simply place any Quartz, Iron or Wooden Dimension Door under that same Rift to exit your Personal Dimension."
+		"如果你不小心破坏了个人次元内部的石英门，你可以将任何石英、铁或木制维度门放在同一裂痕下，以退出个人维度。"
 	],
 	dependencies: [
 		"f5ba5fd8"

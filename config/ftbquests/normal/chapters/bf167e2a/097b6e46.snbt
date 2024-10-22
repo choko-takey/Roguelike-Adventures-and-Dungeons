@@ -1,16 +1,16 @@
 {
-	title: "Slide to the Left!",
+	title: "向左滑行！",
 	x: 2.0d,
 	y: -16.5d,
-	description: "Criss cross!",
+	description: "十字交叉！",
 	text: [
-		"Obtain the Sentry Boots and Shield.",
+		"获得哨卫长靴和哨兵护身符。",
 		"",
-		"Sentry Boots are supposed to give full immunity to Zephyr attacks (damage and all) as well as grant complete fall-damage resistance.",
+		"哨兵长靴应该可以完全免疫西风啸云的攻击（不仅是伤害），并且免疫摔落伤害。",
 		"",
-		"It is unknown if they are still bugged to not work at all. They otherwise, have no detrimental effect.",
+		"因为bug，目前尚不清楚它们是否能有效果，但是它不会对你造成负面影响。",
 		"",
-		"The Sentry Shields use is unknown, but it seems to take durability damage when you are hit."
+		"哨兵护身符不知道有什么用处，但它能在你受到伤害时消耗耐久并造成一次不破坏方块的爆炸。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

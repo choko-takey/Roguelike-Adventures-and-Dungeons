@@ -1,12 +1,12 @@
 {
-	title: "Sage, Mage? What's the Difference?",
+	title: "贤者？法师？傻傻分不清楚~",
 	x: -16.5d,
 	y: 14.0d,
-	description: "The levels in power!",
+	description: "官高一级压死人！",
 	text: [
-		"ALAKAGONE!",
+		"万咒皆空！",
 		"",
-		"Why do these robes smell like inscense?"
+		"为啥这法袍闻起来有一股专业的美？"
 	],
 	dependencies: [
 		"f689a0cb"

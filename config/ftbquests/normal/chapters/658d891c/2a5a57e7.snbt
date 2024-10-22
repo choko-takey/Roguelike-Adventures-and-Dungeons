@@ -1,12 +1,12 @@
 {
-	title: "The Slash Swinging Slasher",
+	title: "人剑合一！",
 	x: 21.0d,
 	y: 0.0d,
-	description: "Swoosh!",
+	description: "唰唰唰~！",
 	text: [
-		"Great for early game, if you can wrestle the materials you need from a Hippogryph.",
+		"非常适合早期游戏，如果你能从骏鹰那里获得所需的材料。",
 		"",
-		"Refer to the Bestiary for more information on Hippogryphs"
+		"有关骏鹰的更多信息，请参阅《异兽手记》"
 	],
 	tasks: [{
 		uid: "30bc2456",

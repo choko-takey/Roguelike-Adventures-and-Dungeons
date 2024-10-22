@@ -1,10 +1,10 @@
 {
-	title: "Putting the POW in Pedestal",
+	title: "将其置于基座之上",
 	x: 34.5d,
 	y: -0.5d,
-	description: "Is this safe?",
+	description: "这东西安全吗？",
 	text: [
-		"Seems safe enough."
+		"大概……吧？"
 	],
 	dependencies: [
 		"ae7c050f"

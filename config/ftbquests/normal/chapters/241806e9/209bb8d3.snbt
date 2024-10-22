@@ -1,10 +1,10 @@
 {
-	title: "Ender Chest Did Its Best",
+	title: "末影箱已经尽力了",
 	x: 10.5d,
 	y: -4.5d,
-	description: "Time to go away forever now, though.",
+	description: "是时候永远离开了",
 	text: [
-		"Functionally an Ender Chest."
+		"就是个手持末影箱。"
 	],
 	dependencies: [
 		"31bf2fad"

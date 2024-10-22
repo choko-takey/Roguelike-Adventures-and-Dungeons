@@ -1,14 +1,14 @@
 {
-	title: "The Rough Way",
+	title: "简单粗暴",
 	x: 2.5d,
 	y: -6.0d,
-	description: "Air pockets never hurt anyone, usually",
+	description: "气泡通常不会伤人",
 	text: [
-		"Not unless you have 200 of them in a small area.",
+		"除非在小范围内有200个。",
 		"",
-		"I hate KNOWING there's air pockets in an area, that's a peeve.",
+		"我讨厌知道某个地方有气泡，这是我的怪癖。",
 		"",
-		"The Exchange Scepter will exchange blocks from your inventory when Right-Clicking. Blocks in your hotbar are not used."
+		"右击时，方块替换杖将从你的物品栏中替换方块，不会快捷栏中的方块使用。"
 	],
 	tasks: [{
 		uid: "e5926fe8",

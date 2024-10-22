@@ -1,11 +1,11 @@
 {
-	title: "I CURSE NOBODY!",
+	title: "我诅咒所有人！",
 	icon: "iceandfire:cyclops_skull",
 	x: -0.5d,
 	y: 1.0d,
-	description: "Did it take you 10 years to complete this quest?",
+	description: "你花了10年时间完成这个任务吗？",
 	text: [
-		"You've slain 50 Cyclops. This great feat does not go unreckoned by the Gods."
+		"你已经杀了50个独眼巨人。这一伟大的壮举不会被众神所否定。"
 	],
 	tasks: [{
 		uid: "cf42dd24",

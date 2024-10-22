@@ -2,13 +2,13 @@
 	x: -5.0d,
 	y: 0.5d,
 	text: [
-		"There are several different models of Drawers.",
+		"抽屉有几种类型。",
 		"",
-		"They may hold more items, but less of that specific item within a single drawer.",
+		"有的可以装更多东西，有的可以装更多种类。",
 		"",
-		"You are only required to make any type of Basic Drawer to complete this quest.",
+		"只需制作出一种类型的抽屉就可完成此任务。",
 		"",
-		"The Compacting Drawer is a special one, which will compact any materials which have a compression recipe, like Cobblestone, or Netherrack."
+		"压缩抽屉是特殊的一种，可以压缩有压缩合成表的材料，例如圆石和地狱岩。"
 	],
 	dependencies: [
 		"5e5e8910"

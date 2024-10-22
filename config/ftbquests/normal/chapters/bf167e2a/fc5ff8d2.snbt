@@ -1,12 +1,12 @@
 {
-	title: "Peek-A-Booted",
+	title: "暗中窥视",
 	x: 1.0d,
 	y: -14.5d,
-	description: "With this, they'll never see it coming 100% of the time",
+	description: "有了这个，你能一直隐身。",
 	text: [
-		"Obtain the Invisibility Gem or the Invisibility Cloak.",
+		"获得隐形斗篷和隐形斗篷。",
 		"",
-		"It does what it says it does. Forever. Always. Permanently."
+		"记得永远按照它说的去做。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

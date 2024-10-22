@@ -1,10 +1,10 @@
 {
-	title: "Somebody Come Get Her",
+	title: "需要有人来接她",
 	x: -0.5d,
 	y: -7.5d,
-	description: "She's drinking all my Limeade!",
+	description: "她喝了我所有的柠檬水！",
 	text: [
-		"Craft the Drink Mixer!"
+		"制作饮料搅拌机"
 	],
 	dependencies: [
 		"45e2dbd1"

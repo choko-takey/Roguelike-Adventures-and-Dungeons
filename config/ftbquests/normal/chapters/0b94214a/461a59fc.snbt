@@ -1,9 +1,9 @@
 {
 	x: -4.0d,
 	y: -11.0d,
-	description: "Oink",
+	description: "哼~哼~（猪叫声）",
 	text: [
-		"Craft some Pig Seeds."
+		"制作一些猪种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

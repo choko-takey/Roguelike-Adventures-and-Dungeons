@@ -1,12 +1,12 @@
 {
-	title: "She Loves Me, She Loves Me Not",
+	title: "她喜欢我（掰），她不喜欢我（掰）……",
 	x: 1.0d,
 	y: -7.0d,
-	description: "She loves me not...",
+	description: "她不喜欢我（没花瓣掰了）……",
 	text: [
-		"Craft the Witherless Rose.",
+		"制作不调玫瑰",
 		"",
-		"I think it's YOUR love that is undying... sorry buddy."
+		"我想这是你永恒的爱……抱歉，兄弟。"
 	],
 	tasks: [{
 		uid: "bf2438a3",

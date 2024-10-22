@@ -1,10 +1,10 @@
 {
-	title: "Go With the Flow",
+	title: "随波逐流",
 	x: 3.0d,
 	y: -2.5d,
-	description: "I SAID GO!",
+	description: "我说！走啊你！",
 	text: [
-		"GO DAMN YOU!"
+		"宁怎么害不出去啊？要不要脸啊你？"
 	],
 	dependencies: [
 		"89e07f91"

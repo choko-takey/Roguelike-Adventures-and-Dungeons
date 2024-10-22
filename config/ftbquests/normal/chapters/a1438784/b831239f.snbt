@@ -1,11 +1,11 @@
 {
-	title: "Don't Lose It Again!",
+	title: "别再把它搞丢了！",
 	icon: "minecraft:book",
 	x: -3.0d,
 	y: 13.0d,
-	description: "You know you will. This desert is huge!",
+	description: "你晓得你自己肯定会的，这沙漠这么大呢！",
 	text: [
-		"For those who lost their player guide to Atum 2"
+		"你们这些会把玩家指南搞丢的家伙呀......"
 	],
 	can_repeat: true,
 	dependencies: [
@@ -24,27 +24,27 @@
 			id: "minecraft:written_book",
 			tag: {
 				pages: [
-					"{\"text\":\" Excavator\\u0027s Logbook\\n      \\n         \"}",
-					"{\"text\":\"Table Of Contents\\n\\nNew Blocks | Pg 3-5\\nCrafting | Pg 6-7\\nFood | Pg 8\\nSunspeakers | Pg 9\\nOres | Pg 10\\nRelics | Pg 11\\nArtifacts | Pg 12\\nMagic | Pg 13-15\\nInhabitants | Pg 16\"}",
-					"{\"text\":\"I\\u0027ve discovered several new materials I can make slabs and walls and stairs from. \\n\\nThey include:\\n-Limestone\\n-Alabaster\\n-Porphyry\\n\"}",
-					"{\"text\":\"The Strange Sand I walk on can also be melted down into a crystal-like glass. I\\u0027d suggest framing it to decrease fragility.\\n\\nIt also seems like the Marl I am finding around here can be refined into Clay, or cooked into Ceramic Tile Blocks.\"}",
-					"{\"text\":\"I\\u0027ve discovered an Oasis. Deadwood isn\\u0027t the only wood available in this wretched wasteland. Palm trees exist in abundance, albeit only in small locations.\"}",
-					"{\"text\":\"I\\u0027ve figured out I can craft a few new items to help me produce common goods in this dimension.\\n\\nThe Kiln is useful, but will not cook all of the same recipes as the Furnace. It seems to be a downgrade.\"}",
-					"{\"text\":\"The Quern can be used to manually perform certain tasks like sifting Clay from Marl or mashing up materials for dye.\\n\\nThe Spinning Wheel can be used to make Linen Thread. This can furthermore be used to make Linen Blocks.\\nThese can be dyed.\"}",
-					"{\"text\":\"I\\u0027ve only been able to acquire Emmer Bread, Camel Meat and Dates on my journies through the desert. It seems some locals will trade for Dates, if I can find straggling Sunspeakers out in the dunes.\"}",
-					"{\"text\":\"I\\u0027ve found a strange cult of individuals out at the red beacons of light.\\n\\nThey seem to rever these skylines like sacred lighthouses, beckoning the lost.\\n\\nThey seem eager to trade for Dates and golden coins.\"}",
-					"{\"text\":\"It seems the ore available in this dimension is the same as my homeland. Diamonds have been found here.\\n\\nA strange material I will call Knumite from now on has appeared constantly in my travels.\"}",
-					"{\"text\":\"I\\u0027ve found some old relics sticking out of the rocks in caves.\\n\\nI tried washing a few of these relics, and while some were revealed to be glorious jewelry, others dissolved into the waters before my very eyes.\"}",
-					"{\"text\":\"I\\u0027ve managed to find some artifacts inside Pyramids scattered across the sands. \\n\\nI\\u0027ve only ever managed to barely make it out alive, so I do not suggest any normal adventurer seek this treasure.\\n\"}",
-					"{\"text\":\"Though powerful in effect, these items may cost you more than you are willing to bargain for, and there are no refunds in the desert.\\n\\nThe item I found aided me during sandstorms, but I doubt you\\u0027ll be able to locate it within the dunes once again.\"}",
-					"{\"text\":\"Whoever dwelled in these lands used minimal magic. It seems any power was delivered from the cosmos through prayer, as the items I\\u0027ve since held in my hand feel holy and blessed as can be.\\n\\nThe remnants of magic I can decipher include the ability to\"}",
-					"{\"text\":\"disenchant items and strip them of unwanted effects. The effect you strip from an item is random, as magic is highly wild in its natural state. You also will not receive the enchantment back. It will be permanently voided. This could be useful. \"}",
-					"{\"text\":\"Atum is absolutely filled with Brigands, Warlords, Assassins, Mummies and Pharoahs. \\nThe ground is litered with danger and it is suggested you avoid the surface unless you are very well prepared to face great peril.\"}",
-					"{\"text\":\"Suggestions include digging underground, and using Airships. \\n\\nJust don\\u0027t get shot down now!\\n\\nIf you dig beneath the surface, I suggest you survey the top of the land every once in a while. This will help you track down structures with loot!\"}",
-					"{\"text\":\"I\\u0027m sure the sands hold many more secrets than I know of yet, but I can continue no longer.\\n\\nMy mouth is parched, and my skin cracks now as the dawn breaks again.\\n\\nI think today will be my last.\"}"
+					"{\"text\":\" 发掘者的日志\\n      \\n         \"}",
+					"{\"text\":\"目录\\n\\n新的方块 | Pg 3-5\\n制作 | Pg 6-7\\n食物 | Pg 8\\n日语者 | Pg 9\\n矿物 | Pg 10\\n遗迹 | Pg 11\\n神器 | Pg 12\\n魔法 | Pg 13-15\\n原住民 | Pg 16\"}",
+					"{\"text\":\"我发现了一些可以用来制作台阶、墙和楼梯的新材料。 \\n\\n它们包括:\\n-石灰岩\\n-雪花石膏\\n-斑岩\\n\"}",
+					"{\"text\":\"我脚下的这些怪沙也可以被熔炼成一种具有水晶质感的玻璃，我建议将它们框起来以增加强度。\\n\\n我还发现我在这四下找到的泥灰岩可以被磨成粘土，或用来烧制瓷砖块。\"}",
+					"{\"text\":\"我发现了一处绿洲。事实证明死树并不是这悲惨废土中木头的唯一来源。绿洲中你可以找到大量的棕榈树，虽然它们也只生长在这一小片地方。\"}",
+					"{\"text\":\"我捣鼓出了一些新的制作配方，我确信它们能让我在这个维度中制作出一些好东西出来。 \\n\\n这个叫窑的东西很有用，但它并不能替代原本熔炉的全部功能，它更像是熔炉的下位版。\"}",
+					"{\"text\":\"窑可以让我进行一些手工制作，比如从泥灰岩中筛出粘土，或是为准备制作染料混合一些特定的材料。\\n\\n纺车可以用来制作亚麻线，这种亚麻线可用来制作可染色的亚麻布方块。\"}",
+					"{\"text\":\"在这趟沙漠之行中，我只找到了小麦面包、骆驼肉和椰枣这些食物。不过看起来这里的土著可以用椰枣来交易，前提是我能找到这四散分布在茫茫沙丘中的他们。\"}",
+					"{\"text\":\"我在很多闪着红光的灯塔处，都能找到一群信仰一种古怪的个人崇拜宗教的信徒。\\n\\n这些灯塔看起来无比的神圣，它们发出的光直达云霄，好似要撕裂这天际线，召唤着过往的迷途之人。\\n\\n不过这些底下教徒们倒是很热衷于交易椰枣和金币。\"}",
+					"{\"text\":\"看起来这个维度可用的矿物和在我的家乡的差不多，我在这边甚至发现了钻石。\\n\\n一种有趣的材料，我称之为克努姆陶，一直也很频繁地出现在我的沙漠之旅中。\"}",
+					"{\"text\":\"我在洞穴里延突出的岩石中发现了一些遗物。\\n\\n我曾尝试过清洗几件，它们有的能是很珍贵的珠宝，而有的则在我还没反应过来时就溶解在水里了。（土块？minecraft？妙啊）\"}",
+					"{\"text\":\"我成功地从四散在沙漠中的金字塔里找到了一些神器。\\n\\n但我并不推荐冒险家们过来寻找这些它们，因为我也仅仅是从这金字塔中勉强逃生。\\n\"}",
+					"{\"text\":\"尽管这些神器有很强大的力量，不过我估计你会花费远远超出你所预期的的时间和精力。毕竟，这片黄沙之中可没有后悔药。\\n\\n这些东西在沙尘暴中给了我很多帮助，但我估计即便我给你这些东西的详细位置，你也很难在这片沙海中再次找到它们。\"}",
+					"{\"text\":\"住在这片大漠上的人并不怎么使用的魔法。他们的力量都是通过祈祷而从茫茫宇宙中获取的。知悉这一点后，我感觉我手里这些的东西好像就变得神圣了起来。\\n\\n为数不多的我能破译的魔法包括，\"}",
+					"{\"text\":\"给物品怯魔，你能成功从物品上抽取你不满意的效果。但因为魔法在其自然状态中相当活跃，你只能随机地在物品上抽取其含有的效果。且原来的附魔物品也会被摧毁。记住，这一点是永久性的。这个机制应该会对你很有用。\"}",
+					"{\"text\":\"阿图姆的世界充斥着强盗、军阀、刺客、木乃伊和法老。\\n地面上充斥着危险，我建议你尽量避开地面，除非你对这些危险做好了充分的准备。\"}",
+					"{\"text\":\"我建议你在地下挖掘自己的通路，或是尝试利用飞艇。\\n\\n但可千万注意别被打下来啊！\\n\\n如果你选择前者这种方法，我建议你每隔一段时间出来看一下周遭。这样你可以比较方便地定位那些可能藏有宝藏的建筑！\"}",
+					"{\"text\":\"我相信阿图姆地世界存在着很多我不曾知晓的秘密，但我没办法再这样继续冒险了。\\n\\n我的嘴唇因长期的缺水而皲裂，我的皮肤因长时间的日晒和干燥而干裂，而每到白天太阳升起时，这些症状会愈发严重。\\n\\n我觉得我可能无法活过到今天了。\"}"
 				],
 				author: "Mastarin",
-				title: "Excavator's Log",
+				title: "发掘者的日志",
 				resolved: 1b
 			}
 		}

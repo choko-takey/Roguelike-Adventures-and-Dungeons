@@ -1,16 +1,16 @@
 {
-	title: "Skull Seller (Monsters)",
+	title: "头颅出售（怪物）",
 	x: 17.0d,
 	y: -7.5d,
-	description: "Skulls here! More skulls here!",
+	description: "头骨在这里！这里有更多的头骨！",
 	text: [
-		"Sell your unwanted Monster Skulls.",
+		"卖掉你不想要的怪物头骨。",
 		"",
-		"Submit ONE Monster Skull at a time to complete this quest.",
+		"一次提交一个怪物头骨以完成此任务。",
 		"",
-		"Collect the reward after each completion.",
+		"每次完成后领取奖励。",
 		"",
-		"You will not receive rewards for more than one item submission at a time."
+		"一次提交多种头颅不会获得奖励。"
 	],
 	can_repeat: true,
 	or_tasks: true,

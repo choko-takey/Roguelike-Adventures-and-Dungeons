@@ -1,20 +1,20 @@
 {
-	title: "Broken? (TESTING REQUIRED)",
+	title: "坏了吗？(需要测试)",
 	x: -4.0d,
 	y: -7.5d,
-	description: "May be actually broken",
+	description: "可能是真的坏了",
 	text: [
-		"I'm not sure how to utilize or even get this item to work as intended.",
+		"我不知道如何利用，甚至不知道如何让这个物品按预期工作。",
 		"",
-		"I'm sure it works, but I don't know how it is used.",
+		"我确定它是有效的，但我不知道它是如何被使用的。",
 		"",
-		"The door states it will take you to a random location. ",
+		"门上写着会带你到一个随机地点。",
 		"",
-		"I am unsure if this means in the Overworld or whatever Dimension, or a random location within a Pocket Dimension.",
+		"我不确定这是否意味着在主世界或任何维度中，或在口袋次元中的随机一个位置。",
 		"",
-		"I have attempted placing this item down over Rifts, by itself in the Overworld and inside Pocket Dimensions, and the door states it does not lead anywhere.",
+		"我曾试图把这个东西放在裂痕上方，自己在主世界和口袋次元内，门上写着它不通往任何地方。",
 		"",
-		"More testing is required by the community to figure out how this item is used!"
+		"社区需要进行更多的测试，以弄清这个物品是如何使用的！"
 	],
 	dependencies: [
 		"00e63368"

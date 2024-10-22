@@ -1,14 +1,14 @@
 {
-	title: "Upgrading Your Backpack",
+	title: "升级背包",
 	x: -5.0d,
 	y: -8.5d,
-	description: "Like Swiss Army, but comes in more colors than black and red.",
+	description: "像瑞士军刀，但除了黑色和红色还有更多的颜色。",
 	text: [
-		"Upgrading your backpack is relatively expensive, but very worth it in the long run.",
+		"升级背包相当贵，但是长远来看非常值得。",
 		"",
-		"Place an upgrade and the desired backpack in the crafting table together in order to apply the upgrade to your backpack!",
+		"在工作台中放入升级和需要升级的背包就能扩大背包的容量！",
 		"",
-		"Craft all upgrades to complete this quest."
+		"完成所有的升级才能完成此任务。"
 	],
 	dependencies: [
 		"902167d4"

@@ -1,10 +1,10 @@
 {
-	title: "Carminite Crusher",
+	title: "砷铅铁破坏者",
 	x: 2.0d,
 	y: 1.0d,
-	description: "Gotten rid of, once and for all!",
+	description: "永远摆脱！",
 	text: [
-		"Slay 25 of any mob found in the Ur-Ghast Tower.",
+		"击杀25只在暮初恶魂塔的怪物。",
 		""
 	],
 	can_repeat: true,

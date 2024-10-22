@@ -1,10 +1,10 @@
 {
-	title: "Blood Bank",
+	title: "鲜血银行",
 	x: -8.0d,
 	y: -4.5d,
-	description: "Don't try chugging this",
+	description: "不要尝试一饮而尽",
 	text: [
-		"Instead of carrying 50 bottles of blood on you, dump that sweet red nectar into a tank."
+		"能够容纳50瓶血液，把那鲜红甜美的血液倒进储血器里吧。"
 	],
 	dependencies: [
 		"79ece8a4"

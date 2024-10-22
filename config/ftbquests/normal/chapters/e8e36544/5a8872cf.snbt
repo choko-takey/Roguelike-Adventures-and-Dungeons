@@ -1,14 +1,14 @@
 {
-	title: "I Believe I Can Fly!",
+	title: "我相信我能飞！",
 	x: 1.5d,
 	y: -3.5d,
-	description: "And now you can!",
+	description: "现在你也可以了！",
 	text: [
-		"For two payments of $9.99 plus Shipping & Handling.",
+		"两笔$9.99的付款加上运输和处理。",
 		"",
-		"Craft the Player Launcher, which launches you in the direction you're facing at a high speed.",
+		"制作弹跳之杖，可以将你快速推向你面对的方向。",
 		"",
-		"Incurs a small cooldown, but it might be able to be combined with some other items, or enchantments, to allow bootleg flight."
+		"短暂的冷却时间，它可与其他物品或附魔相结合，达到永久飞行。"
 	],
 	tasks: [{
 		uid: "df6b2cee",

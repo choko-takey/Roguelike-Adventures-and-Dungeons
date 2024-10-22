@@ -1,16 +1,16 @@
 {
-	title: "Slave Trader",
+	title: "奴隶贩子",
 	x: 17.0d,
 	y: -5.5d,
-	description: "Posting Pixies for trade!",
+	description: "我这里出售精灵！！！！",
 	text: [
-		"Sell your unwanted Pixies!",
+		"卖掉你不想要的精灵。",
 		"",
-		"Submit ONE Pixie Jar at a time to complete this quest.",
+		"一次提交一种精灵罐来完成这个任务。",
 		"",
-		"Collect the reward after each completion.",
+		"每次完成后领取奖励。",
 		"",
-		"You will not receive rewards for more than one item submission at a time."
+		"一次提交多种不会获得奖励。"
 	],
 	can_repeat: true,
 	or_tasks: true,

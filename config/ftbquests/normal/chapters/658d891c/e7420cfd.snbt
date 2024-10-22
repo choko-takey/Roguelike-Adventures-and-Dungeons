@@ -1,10 +1,10 @@
 {
-	title: "You Can Say Anything to Me",
+	title: "笛子，你对我说啥都行",
 	x: 20.0d,
 	y: -0.5d,
-	description: "And I'd Still Take You Back",
+	description: "我还是会带你回去",
 	text: [
-		"Go play her favorite song outside the window"
+		"去窗外演奏她最喜欢的歌曲"
 	],
 	tasks: [{
 		uid: "a7f5e406",

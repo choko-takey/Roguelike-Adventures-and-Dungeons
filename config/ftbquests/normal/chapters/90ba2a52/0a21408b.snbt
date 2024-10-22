@@ -1,10 +1,10 @@
 {
-	title: "Pyradical",
+	title: "金字塔形的",
 	x: 5.0d,
 	y: 9.5d,
-	description: "Flame on!",
+	description: "点火！",
 	text: [
-		"Banish 15 Pyrads."
+		"击杀15只烈焰树妖。"
 	],
 	can_repeat: true,
 	tasks: [{

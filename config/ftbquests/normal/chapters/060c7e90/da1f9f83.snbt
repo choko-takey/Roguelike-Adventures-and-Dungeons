@@ -1,12 +1,12 @@
 {
-	title: "Master of Masters",
+	title: "王中王，大法杖！一根更比六根强！",
 	x: 13.5d,
 	y: -9.5d,
-	description: "You feel all almighty. Bruce Almighty.",
+	description: "如今，你已登峰造极！",
 	text: [
-		"This thing crackles and pops when you hold it.",
+		"当你触摸它时，水晶会发出噼里啪啦的声音。",
 		"",
-		"Is it safe?"
+		"它真的安全吗？"
 	],
 	dependencies: [
 		"7b1045cb"

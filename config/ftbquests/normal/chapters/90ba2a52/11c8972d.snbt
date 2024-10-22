@@ -1,10 +1,10 @@
 {
-	title: "Clearing the Foliage",
+	title: "清除树叶",
 	x: -2.0d,
 	y: -4.5d,
-	description: "Venus fly traps but better",
+	description: "捕蝇草，但更强",
 	text: [
-		"Slay 100 Foliaaths."
+		"击杀100只巨噬叶。"
 	],
 	can_repeat: true,
 	tasks: [{

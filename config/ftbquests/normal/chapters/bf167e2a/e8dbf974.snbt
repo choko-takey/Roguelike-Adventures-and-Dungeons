@@ -1,12 +1,12 @@
 {
-	title: "Am Bro Torch",
+	title: "神能火把",
 	x: 1.0d,
 	y: -17.5d,
-	description: "Nice to meet you Bro Torch",
+	description: "很高兴遇见你，火把兄弟！",
 	text: [
-		"Craft an Ambrosium Torch.",
+		"合成神能火把。",
 		"",
-		"This is the only light source from torches which can be placed in the Aether."
+		"这是唯一一种能放在天境的火把。"
 	],
 	dependencies: [
 		"de9220a6"

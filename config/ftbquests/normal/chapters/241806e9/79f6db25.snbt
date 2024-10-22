@@ -1,12 +1,12 @@
 {
-	title: "Like Ruby Slippers, but Brown, and Ropey",
+	title: "像红色的拖鞋，但是棕色的，并且只有绳子",
 	x: 12.5d,
 	y: -1.0d,
-	description: "Still works I guess",
+	description: "我觉得它还能工作",
 	text: [
-		"The Magic Tether will teleport a player to safety... usually.",
+		"魔法拴绳会将玩家传送到安全地带……通常。",
 		"",
-		"You can also Shift Right-click to teleport to your bed."
+		"你也可以潜行右击以传送到你的床上。"
 	],
 	dependencies: [
 		"31bf2fad"

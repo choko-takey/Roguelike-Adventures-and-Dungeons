@@ -1,14 +1,14 @@
 {
-	title: "It's Corrupt Because It's Cheating",
+	title: "它是腐烂的，因为这是作弊！",
 	x: 12.0d,
 	y: -6.5d,
-	description: "Literally, it's flying and xray all-in-one",
+	description: "毫不夸张地说它集飞行透视于一身",
 	text: [
-		"When consumed, this item will put you into Spectator mode for several seconds. ",
+		"当它被吃下去时，这个物品会让你进入旁观模式几秒钟。",
 		"",
-		"While in Spectator mode, you can scroll your mouse wheel up or down to increase or decrease the speed you travel.",
+		"在旁观模式下，你可以上下滚动鼠标滚轮来增加或减少你的速度。",
 		"",
-		"When you are in an empty block space that is sufficient for you player to spawn in, you will spawn there instead of otherwise being reverted back to where you consumed the Fruit."
+		"当你处于一个足够你站立的无方块空间时，你就会在那里出现，而不是回到你吃它的地方。"
 	],
 	tasks: [{
 		uid: "64ab49b9",

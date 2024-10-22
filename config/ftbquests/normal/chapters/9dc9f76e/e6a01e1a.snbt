@@ -1,12 +1,12 @@
 {
-	title: "Fetch Boy!",
+	title: "捡回来！好狗！",
 	x: -3.0d,
 	y: 6.5d,
-	description: "Don't throw it across the street!",
+	description: "不要把它扔到街对面！",
 	text: [
-		"Your dog(s) will retrive this item and bring it back to. Go play with your dog!",
+		"你的狗会寻回此物品并带给你。去和你的狗玩吧！",
 		"",
-		"And don't bother... you'll never get all the drool off."
+		"别多此一举了……你永远也洗不掉口水。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

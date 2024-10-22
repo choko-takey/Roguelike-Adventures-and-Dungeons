@@ -1,12 +1,12 @@
 {
-	title: "Where'd You F-eye-nd This, Son?",
+	title: "你在哪里找到的，孩子？",
 	x: 2.0d,
 	y: -15.0d,
-	description: "Kill me, now",
+	description: "杀了我吧，现在",
 	text: [
-		"This item will let you spawn 100 Ender Eyes before it breaks.",
+		"这个物品在破碎之前可以生成100个末影之眼。",
 		"",
-		"Yes, it can be repaired, somehow. ;)"
+		"是的，不管怎样，它是可以修理的。;)"
 	],
 	size: 2.0d,
 	tasks: [{

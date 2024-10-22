@@ -1,14 +1,14 @@
 {
-	title: "Brand New Cookware!",
+	title: "全新的烹饪用品！",
 	x: -5.5d,
 	y: -6.0d,
-	description: "Everything is non-stick, I think",
+	description: "我猜，这都是不粘锅的，对吧？",
 	text: [
-		"If you don't burn anything, you won't find out.",
+		"如果你不烧点东西，你就不会发现的",
 		"",
-		"These items are required for certain Pam's Harvest recipes. They can be placed on racks to be accessed with ease for later.",
+		"这些物品都是潘马斯农场食谱里所必需的，而且它们也可以放在架子上，好方便以后使用。",
 		"",
-		"If you've constructed a cozy kitchen, tools and cookware placed on racks do not need to be taken down to be \"used\", so long as the racks are linked to the rest of your \"kitchen system\"."
+		"如果你已经建造了一个舒适的厨房，只要架子与“厨房系统”的其他部分相连，则放在架子上的厨具不需要拿下来使用了。"
 	],
 	dependencies: [
 		"9b9366c6"

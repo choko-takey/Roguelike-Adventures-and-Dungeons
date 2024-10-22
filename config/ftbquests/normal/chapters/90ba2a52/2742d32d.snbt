@@ -1,10 +1,10 @@
 {
-	title: "Ghast Gangsters",
+	title: "恶魂教父",
 	x: 1.0d,
 	y: -3.0d,
-	description: "Take those hooligans down!",
+	description: "打倒那些坏坏！",
 	text: [
-		"Kill 25 Ghasts."
+		"击杀25只恶魂。"
 	],
 	can_repeat: true,
 	tasks: [{

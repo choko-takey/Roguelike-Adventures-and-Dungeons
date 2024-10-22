@@ -1,10 +1,10 @@
 {
-	title: "Greed Is a Deadly Sin",
+	title: "贪婪是一种致命的罪恶",
 	x: 11.5d,
 	y: -3.5d,
-	description: "That's why all those villagers deserve to die",
+	description: "这就是为什么那些村民应当去死",
 	text: [
-		"C'mon, I'm not the only one who kills the entire village almost every time... and captures the ones with good trades... and enslaves them..."
+		"嘿，我可不是唯一一个每次进村庄都会杀光村民的人...也从来不会只留下卖好东西的村民...也不会抓它们当奴隶..."
 	],
 	tasks: [{
 		uid: "6adb2517",

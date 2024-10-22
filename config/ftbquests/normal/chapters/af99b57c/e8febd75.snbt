@@ -1,10 +1,10 @@
 {
-	title: "Vampire Forest",
+	title: "吸血鬼森林",
 	x: -11.0d,
 	y: 4.0d,
-	description: "The vampire's forest??",
+	description: "吸血鬼的森林？？",
 	text: [
-		"The native biome of vampires it can be identified by it's pitch black trees, dense fog and vampires obviously."
+		"吸血鬼的原生居住地，特征是漆黑的云杉木树林、终日覆盖的浓雾、以及遍地可见的吸血鬼。"
 	],
 	dependencies: [
 		"6d6592b1"

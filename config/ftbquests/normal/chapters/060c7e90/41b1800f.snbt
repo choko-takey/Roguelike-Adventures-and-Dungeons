@@ -1,10 +1,10 @@
 {
-	title: "Talk About Deeply Rooted",
+	title: "根深蒂固",
 	x: -16.5d,
 	y: 20.0d,
-	description: "They say he hasn't moved in ten years!",
+	description: "十年没搬家的钉子户",
 	text: [
-		"I think he might just be dead, John..."
+		"我寻思那可能是因为他已经寄了，约翰……"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

@@ -1,12 +1,12 @@
 {
-	title: "Tree Lover",
+	title: "树木爱好者",
 	x: 16.0d,
 	y: -4.0d,
-	description: "I love them because they're useful",
+	description: "我喜欢它们因为它们很有用",
 	text: [
-		"The Forester will automatically plant and harvest trees in a localized area when supplied with Saplings.",
+		"树场会自动砍倒一定范围内的树木，如果有树苗提供的话还会补种。",
 		"",
-		"Be sure to collect the items, as the Forester will not automatically pick up drops from trees."
+		"记得收集掉落物，因为树场本身并不会收集任何产品。"
 	],
 	dependencies: [
 		"ecd41947"

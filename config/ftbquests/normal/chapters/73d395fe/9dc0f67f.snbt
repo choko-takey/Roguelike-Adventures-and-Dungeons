@@ -1,12 +1,12 @@
 {
-	title: "I Welcome You to the Sporch!",
+	title: "孢子火炬欢迎你！",
 	x: -1.0d,
 	y: -6.5d,
-	description: "Its like a spore and torch in one!",
+	description: "它就像孢子和火把融合到了一起！",
 	text: [
-		"Unfortunately, Sporches function just like Torches.",
+		"可惜的是孢子火炬和普通火把的功能一摸一样。",
 		"",
-		"Obtain all Sporches."
+		"获得全种孢子火炬。"
 	],
 	dependencies: [
 		"03bff484"

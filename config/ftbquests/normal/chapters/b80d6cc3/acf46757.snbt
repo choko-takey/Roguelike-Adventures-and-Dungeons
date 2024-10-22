@@ -1,12 +1,12 @@
 {
-	title: "Keg Party!",
+	title: "啤酒派对！",
 	x: 13.5d,
 	y: 1.0d,
-	description: "So does anyone know how to open a keg?",
+	description: "所以你们谁带开瓶器了？",
 	text: [
-		"That's the trick boys...",
+		"这可是男孩子的游戏！",
 		"",
-		"This one opens by itself!"
+		"亲自打开一瓶啤酒吧！"
 	],
 	dependencies: [
 		"899a9a02"

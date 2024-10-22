@@ -1,10 +1,10 @@
 {
-	title: "Hungry Hungry Hippo",
+	title: "好饿好饿好饿的箱子",
 	x: 5.0d,
 	y: 4.0d,
-	description: "*munch munch*",
+	description: "*咀嚼声*",
 	text: [
-		"Basically a hopper on all sides, but does not move items."
+		"相当于六面开口的漏斗，但是只能接受掉落物，不能从另一个容器里提取物品。"
 	],
 	dependencies: [
 		"187ba0b2"

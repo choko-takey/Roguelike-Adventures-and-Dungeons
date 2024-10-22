@@ -1,12 +1,12 @@
 {
-	title: "All Nature-Al",
+	title: "万物有灵",
 	x: -17.5d,
 	y: 20.0d,
-	description: "Doing Mother Nature's dirty work",
+	description: "从大地之母那里接点脏活",
 	text: [
-		"These Battlemages get down and dirty.",
+		"这群战斗法师总是灰头土脸的。",
 		"",
-		"Okay I'm done with dirt jokes."
+		"好吧，这些没营养的笑话就到此为止了。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

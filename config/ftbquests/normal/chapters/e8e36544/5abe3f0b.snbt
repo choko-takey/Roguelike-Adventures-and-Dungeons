@@ -1,20 +1,20 @@
 {
-	title: "The Biggest One of Them All",
+	title: "最大的那个",
 	x: -17.5d,
 	y: -5.5d,
-	description: "A diehard, if you will",
+	description: "一个顽固派，如果你愿意",
 	text: [
-		"Fans will push entities away with a gentle breeze.",
+		"风扇会用轻柔微风把实体推开。",
 		"",
-		"This isn't a joke. These things are not very strong.",
+		"这不是开玩笑。这些东西不是很强。",
 		"",
-		"They're aesthetically pleasing, and you can stack them behind eachother to increase the force.",
+		"它们很美观，你可以把它们叠在一起来增加推力。",
 		"",
-		"The range of the blowback is decreased by one for each fan the farther back it is.",
+		"反吹的范围是风扇越远吹的越近。",
 		"",
-		"This means that the strongest blowback will only occur at the very front of the fans. Meaning the closer you get, the harder it is to move forward.",
+		"这意味着最强的反吹在风扇的最近处。你越靠近，就越难前进。",
 		"",
-		"Can be used to create SOME type of game?"
+		"是否可以用于创造某些类型的游戏？"
 	],
 	tasks: [{
 		uid: "c97f1a09",

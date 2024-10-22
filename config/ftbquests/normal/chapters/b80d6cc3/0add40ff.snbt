@@ -1,12 +1,12 @@
 {
-	title: "Is It Flammable?",
+	title: "这玩意易燃吗？",
 	x: 22.5d,
 	y: -3.0d,
-	description: "I bet you it is!",
+	description: "我肯定是的",
 	text: [
-		"Why are we putting it into our fire based energy system?",
+		"为什么我们要把这种东西丢入机械能系统里？",
 		"",
-		"Oh yea... because more fire equals more fire... and more fire..."
+		"啊……对的。因为火生火，火再生火，火再再生火……"
 	],
 	dependencies: [
 		"bcb31588"

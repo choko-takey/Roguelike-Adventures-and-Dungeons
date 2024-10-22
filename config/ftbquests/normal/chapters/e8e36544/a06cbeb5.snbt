@@ -1,10 +1,10 @@
 {
-	title: "The Sheep Shearing Shearer",
+	title: "剪羊毛机",
 	x: 7.0d,
 	y: -7.0d,
 	description: "AHHHHHHHH AHHHHHHH",
 	text: [
-		"Autoshears the sheep. No Redstone needed."
+		"自动剪羊毛，不需要红石信号。"
 	],
 	tasks: [{
 		uid: "f2870e3c",

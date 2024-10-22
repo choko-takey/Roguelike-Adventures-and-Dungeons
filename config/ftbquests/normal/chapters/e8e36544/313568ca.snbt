@@ -1,12 +1,12 @@
 {
-	title: "A Decent Job",
+	title: "一份体面的工作",
 	x: 1.5d,
 	y: -8.0d,
-	description: "Better than I usually do myself",
+	description: "比我平时做的好多了",
 	text: [
-		"This scepter does a rather decent job of randomizing blocks, especially in larger builds.",
+		"这个权杖在随机化方块方面做得相当不错，尤其是在大型建筑中。",
 		"",
-		"Very handy for creating wall texturing before building in front of it; E.G Castle Walls."
+		"非常方便在它面前创建墙体纹理之前的建筑；例如:城墙。"
 	],
 	tasks: [{
 		uid: "0225bf2a",

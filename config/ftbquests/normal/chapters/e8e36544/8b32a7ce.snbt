@@ -1,16 +1,16 @@
 {
-	title: "Up We Go!",
+	title: "我们走!",
 	x: -8.25d,
 	y: -3.75d,
-	description: "What if we get stuck, John?",
+	description: "如果我们被困住了怎么办，约翰？",
 	text: [
-		"Just don't fart, please.",
+		"请不要放屁。",
 		"",
-		"Place an Elevator block on the floor, where you will be stepping onto it. You can only move between Elevators of the same color.",
+		"在你踩的地板上面，放置一个电梯方块。你只能在相同颜色的电梯之间移动。",
 		"",
-		"Place another Elevator block directly over the one below it. It may be placed up to 20 blocks high.",
+		"将另一个电梯放在它下面的电梯之上。可能最多到20格高。",
 		"",
-		"Pressing space while standing on an Elevator block will transport you up; pressing Shift will transport you down."
+		"当你站在电梯上时按下空格，你就会上升；按下Shift会下降。"
 	],
 	size: 1.5d,
 	or_tasks: true,

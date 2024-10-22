@@ -1,12 +1,12 @@
 {
-	title: "Johnny's Apple Seeds",
+	title: "约翰尼的苹果籽",
 	x: 1.5d,
 	y: 3.5d,
-	description: "He was very nice to share them with you",
+	description: "他很高兴能和你分享",
 	text: [
-		"These seeds will sprout into an Apple Tree when planted.",
+		"这些种子种下后会长成一棵苹果树。",
 		"",
-		"Apple Seeds can be obtained by crushing Apples in a Crushing Tub."
+		"苹果籽可在压榨木盆中碾碎苹果获得。"
 	],
 	dependencies: [
 		"84ebebbc"

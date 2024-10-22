@@ -1,12 +1,12 @@
 {
-	title: "Knock-Knock!",
+	title: "噔噔咚！",
 	x: 3.0d,
 	y: 7.5d,
-	description: "Is anyone in there?",
+	description: "有人在吗？",
 	text: [
-		"The Inventory Tester has to be placed against an inventory and will continuously simulate inserting the ItemStack you specifiy in its gui into the inventory it’s attached to. While successful it will emit a redstone signal.",
+		"物流检测器需要附着在容器上，它会持续模拟把某个物品尝试放入容器中，如果能成功放入会发出红石信号。可以在gui中设定这个物品。",
 		"",
-		"You can invert the redstone output with the button in the GUI. Since it’s only simulated, no items will actually be inserted into the inventory."
+		"你也可以在gui中设定反转信号。仅当物品无法放入容器中时才发出红石信号。"
 	],
 	tasks: [{
 		uid: "6e870427",

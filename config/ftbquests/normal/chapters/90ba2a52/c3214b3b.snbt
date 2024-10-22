@@ -1,10 +1,10 @@
 {
-	title: "Take a Shower for Once!",
+	title: "洗一次澡！",
 	x: 3.0d,
 	y: 9.5d,
-	description: "Gross",
+	description: "恶心！",
 	text: [
-		"Kill 50 Swamp Hags."
+		"击杀50只沼泽怪。"
 	],
 	can_repeat: true,
 	tasks: [{

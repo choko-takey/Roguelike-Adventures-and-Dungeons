@@ -1,19 +1,19 @@
 {
-	title: "Spin to Win",
+	title: "转到死",
 	icon: "mysticalworld:spindle",
 	x: -2.5d,
 	y: -4.5d,
-	description: "Silk stew",
+	description: "丝绸乱炖",
 	text: [
-		"The Spindle is used to get more bang for your buck out of Silk Cocoons.",
+		"用纺锤纺织蚕茧可以获得更多。",
 		"",
-		"Silk Cocoons are obtained from Silk Worms. You cannot find them in the wild, but you can obtain their eggs by breaking leaves.",
+		"蚕茧由蚕产出。在野外找不到，但破坏树叶能获得蚕卵。",
 		"",
-		"Right-Clicking with these eggs will spawn Silk Worms. They will grow when fed Leaves. Simply throw the Leaves onto the ground.",
+		"用蚕卵右击可以生成蚕。喂树叶就能生长。一般是在地上扔一些树叶。",
 		"",
-		"Eventually, when they are big enough, they will spawn Silk Cocoons. These can be combined with a Spindle to make Silk Thread.",
+		"最终，蚕长到足够大之后，他们就会吐出蚕茧。这些茧能与纺锤合成出丝线。",
 		"",
-		"Silk Thread is a highly sustainable alternative to String."
+		"丝线可以高度替代线。"
 	],
 	dependencies: [
 		"293e9097"

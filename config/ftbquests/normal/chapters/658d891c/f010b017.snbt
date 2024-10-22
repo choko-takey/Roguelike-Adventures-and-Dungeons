@@ -1,12 +1,12 @@
 {
-	title: "Arthropod Armaments",
+	title: "节肢动物装备",
 	x: 15.5d,
 	y: -3.5d,
-	description: "Kinda like breaking a dry stick",
+	description: "有点像折断一根干棍子",
 	text: [
-		"The poison damage from weapons imbued with stingers is rather decent. Toxic venom will take down lower difficulty foes with ease.",
+		"布满毒刺的武器所造成的毒性伤害相当可观。毒液可以轻而易举地击倒较弱的敌人。",
 		"",
-		"You are required to make all weapons to complete this quest."
+		"你必须制造所有武器才能完成这项任务。"
 	],
 	dependencies: [
 		"be5e424a"

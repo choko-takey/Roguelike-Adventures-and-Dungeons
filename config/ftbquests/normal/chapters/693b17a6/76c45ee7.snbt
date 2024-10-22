@@ -1,10 +1,10 @@
 {
-	title: "On Thin Ice",
+	title: "如履薄冰",
 	x: 9.5d,
 	y: 1.0d,
-	description: "This is the last time!",
+	description: "这是最后一次！",
 	text: [
-		"Slay 10 Snow Queens."
+		"击杀10只冰雪女王。"
 	],
 	tasks: [{
 		uid: "2e0d5d93",

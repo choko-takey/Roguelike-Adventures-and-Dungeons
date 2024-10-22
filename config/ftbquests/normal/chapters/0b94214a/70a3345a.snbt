@@ -1,9 +1,9 @@
 {
 	x: 4.0d,
 	y: -15.0d,
-	description: "Bluer than Elijah Wood's eyeballs",
+	description: "比伊利亚·伍德的眼球还蓝。",
 	text: [
-		"Craft some Sapphire Seeds."
+		"制作一些蓝宝石种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

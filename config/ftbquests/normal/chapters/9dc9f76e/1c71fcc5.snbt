@@ -1,18 +1,18 @@
 {
-	title: "Directions to the Inn?",
+	title: "客栈的方向？",
 	x: -12.5d,
 	y: -3.5d,
-	description: "You're totally lost",
+	description: "你完全迷路了",
 	text: [
-		"Two rights and follow the river!",
+		"两个右转然后沿着河！",
 		"",
-		"When placed, Right-Click the sign to name a location the sign will point to. This can be anything from Town or City names, to facility names like \"Inn - 1450 Blocks\".",
+		"放置后，右击输入目的地（路标）名字。可以是任意村或城的名字，比如设施名称 “客栈 - 1450 格远”。",
 		"",
-		"Naming signposts with the location of Waystones you have discovered, including those which you have placed and renamed, will allow you to right click on the sign listing that location, and teleport to the specified destination.",
+		"用发现的指路石的位置命名路标，以及那些放置并命名过的，之后右击路标就能传送到指定的目的地。",
 		"",
-		"On Large Signposts, the first line to be named will be the location. The additional lines below the location are flavor text you can add to your Signposts!",
+		"在大路标上，第一行是目的地的名字。之后的几行是无实际用途，添加趣味的！",
 		"",
-		"You are only required to make one Signpost to complete this quest."
+		"只用做一个路标就可完成此任务。"
 	],
 	or_tasks: true,
 	tasks: [{

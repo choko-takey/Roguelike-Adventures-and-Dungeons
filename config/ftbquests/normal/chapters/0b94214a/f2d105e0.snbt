@@ -2,9 +2,9 @@
 	title: "SUPREME",
 	x: 7.0d,
 	y: -3.0d,
-	description: "Always selling out",
+	description: "总是售罄",
 	text: [
-		"Craft some Supremium Essence."
+		"制作一些终极精华。"
 	],
 	size: 1.5d,
 	tasks: [{

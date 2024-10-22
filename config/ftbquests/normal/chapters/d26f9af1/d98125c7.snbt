@@ -1,12 +1,12 @@
 {
-	title: "Plump Plumber",
+	title: "水管工",
 	x: -2.5d,
 	y: -8.5d,
 	description: "Thicc wit a PH",
 	text: [
-		"The Wrench is used to configure Transfer items like pipes and filters, as well as other blocks from EU2.",
+		"扳手可配置传输，如管道和过滤器，以及来自EU2的其他方块。",
 		"",
-		"Right-Click or Shift-Right-Click to use the Wrench and its functions.",
+		"右击或Shift右击使用扳手。",
 		""
 	],
 	dependencies: [

@@ -1,16 +1,16 @@
 {
-	title: "Purple Stone!",
+	title: "紫色的石头！",
 	x: -2.0d,
 	y: -4.0d,
-	description: "It's found underground!",
+	description: "它分布在地下！",
 	text: [
-		"The trees are purple. ",
-		"The stone is purple. ",
-		"The grass is purple. ",
-		"EVERYTHING IS PURPLE.",
-		"Am I purple as well?",
+		"树是紫色的。 ",
+		"石头是紫色的。",
+		"草是紫色的。",
+		"全都是紫色的。",
+		"我也是紫色的吗？",
 		"",
-		"Obtain some Nightstone."
+		"获取一些暗夜石。"
 	],
 	dependencies: [
 		"7ce4e664"

@@ -1,13 +1,13 @@
 {
-	title: "Barrisheeeeeeshhhh",
+	title: "喷火火火火魔兽",
 	icon: "thebetweenlands:rune_door_key",
 	x: 1.0d,
 	y: 8.0d,
-	description: "Sheeeeshhhh",
+	description: "火火火，哈哈",
 	text: [
-		"Slay 10 monstrous Barrishee.",
+		"击杀10只喷火魔兽",
 		"",
-		"Check the Shop for a nice reward."
+		"查看商店以获得丰厚奖励。"
 	],
 	can_repeat: true,
 	tasks: [{

@@ -1,10 +1,10 @@
 {
-	title: "Mo Moas!",
+	title: "哇哦，恐鸟！",
 	x: 11.5d,
 	y: -16.5d,
-	description: "Big dodo birds",
+	description: "变大版的渡渡鸟",
 	text: [
-		"Craft the Nature Staff."
+		"合成自然权杖。"
 	],
 	dependencies: [
 		"157d0b0d"

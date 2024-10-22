@@ -1,14 +1,15 @@
 {
-	title: "Relaxing Bath Salts",
+	title: "舒适牌浴盐",
 	x: 8.5d,
 	y: -13.0d,
-	description: "Like an at home spa",
+	description: "家庭spa……嘿嘿，家庭spa……",
 	text: [
-		"This stuff keeps you sane when you have warp.",
+		"这些东西可以让你在被扭曲困扰的时候保持清醒。",
 		"",
-		"Drop the Purifying Bath Salts into a 1 by 1 pool of water and wait for it to disolve. Hop in to be temporarily guarded from warp.",
+		"把净化浴盐丢进1*1的水里，使其变成泡泡洗澡水（？）舒服的洗个澡，可以让你暂时忘记那些扭曲。",
 		"",
-		"The Sanitizing Soap removes temporary and sticky warp, though you'll have to use a lot of it."
+		"祛邪肥皂可以帮助你摆脱所有的临时扭曲和一点普通扭曲，在和净化浴盐一起使用的时候效果更佳。",
+		"（但是你为什么要祛除扭曲？）"
 	],
 	dependencies: [
 		"7c204714"

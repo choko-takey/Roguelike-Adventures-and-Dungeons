@@ -1,18 +1,18 @@
 {
-	title: "Beans and Things",
+	title: "豆子与魔法",
 	x: -3.976190476190439d,
 	y: 4.904761904761898d,
-	description: "Bean stuff",
+	description: "各种豆子",
 	text: [
-		"Bean activities.",
+		"各种豆子的能力：",
 		"",
-		"Normal beans are beans.",
+		"普通的豆子就是豆子。",
 		"",
-		"Lesser Magic Beans are not so normal, and grow a beanstalk up to the height limit. You can climb it.",
+		"次级魔豆没那么普通，它可以长出豆茎至世界限制的最高高度，你可以向上攀爬。",
 		"",
-		"Magic Beans cannot be crafted, but must be found. They're ABnormal. They'll grow a bean stalk up to the height limit AND it will have a Bean Pod on top. ",
+		"魔豆无法被制作，只能在外面找到。它们很不普通，它可以长出豆茎至世界限制的最高高度并在顶端生成豆荚。",
 		"",
-		"Bean Pods contain loot like Diamonds, Iron and Gold, and other special stuff like Goden Eggs, which will hatch Gold Ingot laying Chickens."
+		"豆荚包含很多战利品，例如钻石、铁锭或金锭，也会生成其它东西例如金蛋，可以孵化出产金锭的鸡。"
 	],
 	size: 1.5d,
 	tasks: [{

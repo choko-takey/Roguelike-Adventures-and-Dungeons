@@ -1,10 +1,10 @@
 {
-	title: "Book of Shinies",
+	title: "闪亮的书",
 	x: 12.5d,
 	y: -3.5d,
-	description: "My precious!",
+	description: "我的宝贝！",
 	text: [
-		"This book should inform you on everything you need to know about trinkets and gadgets from Dungeon Tactics."
+		"这本书会告诉你地牢战术中的首饰和护符的所有信息。"
 	],
 	size: 1.5d,
 	tasks: [{
@@ -14,23 +14,23 @@
 			id: "dungeontactics:dungeonpedia_volume_3",
 			tag: {
 				pages: [
-					"{\"text\":\"\\n\\nï¿½l   Dungeonpedia\\n\\nï¿½l     Volume 3\"}",
-					"{\"text\":\"\\nThis volume contains information on Trinkets and Charms you may come across.\"}",
-					"{\"text\":\"ï¿½l     Trinkets\\n\\nTrinkets are enchanted jewelery. They can be worn by placing them in you inventory and activated to grant numerous effects, at the cost of speeding up your metabolism.\"}",
-					"{\"text\":\"ï¿½l    Bone Charms\\n\\nDespite there grim visage, the charms protect the user. They work in the similarly to Trinkets, except that they remove negative effects from the user and do not stay active.\"}",
-					"{\"text\":\"\\nLegends speak of a Bone Charm that is able to protect the holder from any ailment.\"}",
-					"{\"text\":\"ï¿½l    Speed Boost\\n\\nIncreases the user\\u0027s agility, allowing them to move more quickly.\\nLow Cost\"}",
-					"{\"text\":\"ï¿½l    Jump Boost\\n\\nIncreases the user\\u0027s acrobatic skill, allowing them to jump higher.\\nLow Cost\"}",
-					"{\"text\":\"ï¿½l   Mining Haste\\n\\nAllows the user to strike more efficiently and effectively.\\nLow Cost\"}",
-					"{\"text\":\"ï¿½l       Gills\\n\\nGives the user all the powers of Aquaman, the coolest Justice League Hero, except his ability to talk to fish, or swim fast. Trident sold sepperately.\\nMedium Cost\"}",
-					"{\"text\":\"ï¿½l    Fire Shield\\n\\nProtects the user from hot stuff, but not hot topic.\\nMedium Cost\"}",
-					"{\"text\":\"ï¿½l    Night Sight\\n\\nTorches are for Muggles.\\nMedium Cost\"}",
-					"{\"text\":\"ï¿½l    Stone Skin\\n\\nAllows the user to glance off blows as if their skin were made from a really hard substance... Like some sort of hardened dirt...\\nMedium Cost\"}",
-					"{\"text\":\"ï¿½l     Strength\\n\\nHulk Smash!\\nHigh Cost\"}",
-					"{\"text\":\"ï¿½l     Ghostly\\n\\nNot for use in public changing rooms.\\nHigh Cost\"}"
+					"{\"text\":\"\\n\\nï¿½l   地牢百科\\n\\nï¿½l     第3卷\"}",
+					"{\"text\":\"\\n本卷包含你可能遇到的首饰和护符的信息。\"}",
+					"{\"text\":\"ï¿½l    首饰\\n\\n首饰是附魔的珠宝。你可以通过将它们放入你的背包中来佩戴并激活以提供多种效果，但代价是加速饱食度消耗。\"}",
+					"{\"text\":\"ï¿½l    骨质护符\\n\\n尽管看起来不怎么样，这些护符却可以保护使用者。它们的工作方式与首饰类似，不过它们仅会消除使用者的负面效果并且不会持续生效。\"}",
+					"{\"text\":\"\\n传说中有一种骨质护符，能够保护持有者免受任何病痛的侵害。\"}",
+					"{\"text\":\"ï¿½l    速度\\n\\n增加使用者的速度。\\n较低消耗\"}",
+					"{\"text\":\"ï¿½l    跳跃提升\\n\\n增加使用者的跳跃高度。\\n较低消耗\"}",
+					"{\"text\":\"ï¿½l    急迫\\n\\n增加使用者的挖掘速度。\\n较低消耗\"}",
+					"{\"text\":\"ï¿½l    水下呼吸\\n\\n给予使用者最酷的正义联盟海王的所有能力，除了他与鱼交谈或快速游泳的能力。三叉戟单独出售。\\n中等消耗\"}",
+					"{\"text\":\"ï¿½l    火焰护盾\\n\\n帮助使用者抵御热东西，但不能抵御热门话题。\\n中等消耗\"}",
+					"{\"text\":\"ï¿½l    夜视\\n\\n火把是给麻瓜用的。\\n中等消耗\"}",
+					"{\"text\":\"ï¿½l    铜头铁臂\\n\\n帮助使用者防御攻击，就好像他们的皮肤是由非常坚硬的物质制成的……就像有了铜头铁臂……\\n中等消耗\"}",
+					"{\"text\":\"ï¿½l    力量\\n\\n像绿巨人那样！粉碎他们！\\n较高消耗\"}",
+					"{\"text\":\"ï¿½l    神出鬼没\\n\\n不要在公共更衣室里用。\\n较高消耗\"}"
 				],
 				author: "Some probably-dead guy",
-				title: "Trinkets & Charms",
+				title: "《首饰·护符》",
 				resolved: 1b
 			}
 		}],

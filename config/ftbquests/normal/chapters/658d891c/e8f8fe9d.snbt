@@ -1,12 +1,12 @@
 {
-	title: "Burning Set of Tools",
+	title: "闷烧的一套工具",
 	x: 7.0d,
 	y: -11.0d,
-	description: "These look rough",
+	description: "这些看起来很粗糙",
 	text: [
-		"Durable tools, partially melted. They should still work like new!",
+		"耐用的工具，即使部分熔化。它们仍然像新的一样使用！",
 		"",
-		"You are required to make all tools to complete this quest."
+		"你需要制作所有的工具来完成这个任务。"
 	],
 	dependencies: [
 		"efd81b2a"

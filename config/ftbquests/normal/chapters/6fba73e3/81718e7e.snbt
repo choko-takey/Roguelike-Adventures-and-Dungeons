@@ -1,10 +1,10 @@
 {
-	title: "From the Ashes",
+	title: "死灰复燃！",
 	x: 2.0d,
 	y: -10.0d,
-	description: "But wait, there's more!",
+	description: "哈哈，我还有更多！",
 	text: [
-		"Obtain a Phoenix Down from the Shop."
+		"在商店中购买凤凰之尾。"
 	],
 	tasks: [{
 		uid: "2987f7ed",

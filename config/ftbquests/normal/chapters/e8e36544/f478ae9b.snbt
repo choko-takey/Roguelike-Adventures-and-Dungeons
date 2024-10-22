@@ -1,12 +1,12 @@
 {
-	title: "Just a Bit More Fancy",
+	title: "加点炫酷元素",
 	x: 1.0d,
 	y: 11.5d,
-	description: "Built to last!",
+	description: "经久耐用！",
 	text: [
-		"This Iron Dropper will drop items with a bit more pizzazz. ",
+		"这个铁投掷器会以更多可选的方式投掷物品。",
 		"",
-		"That's really about it... Right-Click to toggle your Iron Dropper and go ham!"
+		"那就是全部了...右键与它交互然后发挥你的创意吧！"
 	],
 	tasks: [{
 		uid: "eea36987",

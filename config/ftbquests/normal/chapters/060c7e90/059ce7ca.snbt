@@ -1,10 +1,10 @@
 {
-	title: "Cold Hearted",
+	title: "冷冽之心",
 	x: -10.5d,
 	y: 16.5d,
-	description: "Who hurt you?",
+	description: "谁伤着你了？",
 	text: [
-		"I'll be your shoulder to cry on."
+		"好吧，如果你需要的话，我随时会成为让你哭泣的肩膀。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

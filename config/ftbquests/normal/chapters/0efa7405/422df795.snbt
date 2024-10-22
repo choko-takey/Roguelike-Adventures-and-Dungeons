@@ -1,12 +1,12 @@
 {
-	title: "Magic Mirror on the Wall",
+	title: "墙上的魔镜",
 	x: 1.5d,
 	y: 2.0d,
-	description: "Who is the fairest of all?",
+	description: "魔镜啊魔镜，谁是世界上最美丽的人啊~",
 	text: [
-		"Over the seven jewelled hills, beyond the &6seventh &ffall, in the cottage of the Seven Dwarfs, dwells Snow White, fairest one of all.",
+		"在那七座镶嵌宝石珍珠的高山之上……翻越第&6七&f座山，寻找那七个小矮人的房屋……里头住着的白雪公主就是最美丽的人。",
 		"",
-		"These Magic Mirrors transport items between any distance and any dimension when paired."
+		"一对互相配对的魔镜可以点对点传输物品（可以跨次元，但是要求区块加载）"
 	],
 	dependencies: [
 		"e976eaad"

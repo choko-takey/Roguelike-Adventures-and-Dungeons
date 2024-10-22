@@ -1,13 +1,13 @@
 {
-	title: "This Seems Familiar",
+	title: "这似曾相识",
 	icon: "randomthings:obsidianskull",
 	x: 11.5d,
 	y: 7.0d,
-	description: "Hmmm must be my imagination",
+	description: "嗯，一定是我的想象",
 	text: [
-		"Yea, imagination alright.",
+		"是的，想象力。",
 		"",
-		"This item has a chance to negate and nullify low level fire damage. The lower the fire damage, the higher the chance this item will nullify it for you."
+		"该物品有一定几率抵消低级的火焰伤害。火焰伤害越低，该物品使你失去火焰伤害的几率就越高。"
 	],
 	or_tasks: true,
 	tasks: [{

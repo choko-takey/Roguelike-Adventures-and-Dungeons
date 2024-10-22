@@ -1,16 +1,16 @@
 {
-	title: "The Keys to All the Drawers ",
+	title: "所有抽屉的钥匙",
 	x: -3.5d,
 	y: 3.0d,
-	description: "No? C'mon--",
+	description: "不是？别吧——",
 	text: [
-		"These keys will do all kinds of snazzy things for your Drawers.",
+		"这些钥匙可以为你的抽屉做各种漂亮的事。",
 		"",
-		"The Personal Key prevents anyone from tampering with your Drawer with other keys. This is essentially to \"claim\" your Drawers.",
+		"私人钥匙防止任何人用钥匙篡改你的抽屉。本质上是“认领”你的抽屉。",
 		"",
-		"The Drawer Key is what is going to actually lock your Drawer.",
+		"抽屉钥匙是用来锁你抽屉的。",
 		"",
-		"The Concealment and Quantify Key are tools for appearance purposes."
+		"屏蔽钥匙和数量钥匙用于显示。"
 	],
 	dependencies: [
 		"7d3c81ce"

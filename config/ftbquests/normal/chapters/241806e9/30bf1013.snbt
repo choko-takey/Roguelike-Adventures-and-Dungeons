@@ -1,10 +1,10 @@
 {
-	title: "Weapons of Uniquity",
+	title: "独特武器",
 	x: -2.0d,
 	y: -5.5d,
-	description: "These have to be useful right?",
+	description: "这些一定很有用，对吧？",
 	text: [
-		"I sure hope they aren't gimmicks."
+		"我当然希望它们不是噱头。"
 	],
 	dependencies: [
 		"bbb78a8b"

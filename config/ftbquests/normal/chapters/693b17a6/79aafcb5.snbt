@@ -1,17 +1,17 @@
 {
-	title: "Fisherman's Man's Man V",
+	title: "钓鱼佬V",
 	x: -7.0d,
 	y: -3.0d,
-	description: "Evidently there is more fish to catch...",
+	description: "显然还有更多的鱼要钓……",
 	text: [
-		"Catch all the fish in the ocean.",
+		"把海里的鱼全部捕获。",
 		"",
-		"Good job. You ruined the ecology of the entire world."
+		"干得好，你破坏了整个世界的生态。"
 	],
 	tasks: [{
 		uid: "b074c23d",
 		type: "stat",
-		title: "Catch 100,000 fish",
+		title: "捕获100000条鱼",
 		icon: "minecraft:fishing_rod",
 		stat: "stat.fishCaught",
 		value: 100000

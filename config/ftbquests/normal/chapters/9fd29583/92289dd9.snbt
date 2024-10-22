@@ -1,10 +1,10 @@
 {
-	title: "Jurrasic Park ALL OVER",
+	title: "到处都是侏罗纪公园",
 	x: 4.0d,
 	y: -11.0d,
-	description: "Who said this was a good idea?!",
+	description: "谁说这是一个好主意？！",
 	text: [
-		"Obtain the Wand of Preservation."
+		"获得封存权杖。"
 	],
 	dependencies: [
 		"d01b8d01"

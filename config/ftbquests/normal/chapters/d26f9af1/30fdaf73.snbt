@@ -1,14 +1,14 @@
 {
-	title: "C'mere Lassy!",
+	title: "Lassy，到这来！",
 	x: -4.0d,
 	y: -11.5d,
-	description: "Lassy is my lasso... actually",
+	description: "Lassy实际上是我的套索……",
 	text: [
-		"Craft the Golden and Cursed Lassos.",
+		"制作黄金套索和诅咒套索。",
 		"",
-		"The Golden Lasso will capture friendly mobs.",
+		"黄金套索可以捕获友善生物。",
 		"",
-		"The Cursed Lasso will capture hostile mobs."
+		"诅咒套索可以捕获敌对生物。"
 	],
 	dependencies: [
 		"80f9d45b"

@@ -1,12 +1,12 @@
 {
-	title: "Crafted from Pieces",
+	title: "从碎片中合成",
 	x: -12.5d,
 	y: -3.0d,
-	description: "The mighty greatsword",
+	description: "一把强大的大剑",
 	text: [
-		"Obtain the Shockwave Sword.",
+		"获得冲击波剑。",
 		"",
-		"Right-clicking with this sword in your mainhand will send a shockwave out from the user up to 18 blocks away."
+		"主手持有这把剑右击可以发射一道能前进约18格的冲击波。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

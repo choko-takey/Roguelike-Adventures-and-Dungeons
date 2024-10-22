@@ -1,10 +1,10 @@
 {
-	title: "What's It Say, John?",
+	title: "它说什么，约翰？",
 	x: 7.0d,
 	y: -13.0d,
-	description: "He's dead...",
+	description: "他死了……",
 	text: [
-		"He had a strok"
+		"他中风了"
 	],
 	tasks: [{
 		uid: "46067215",

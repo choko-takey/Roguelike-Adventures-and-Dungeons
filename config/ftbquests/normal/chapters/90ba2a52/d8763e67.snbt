@@ -1,16 +1,16 @@
 {
-	title: "Artefact Trader (Emerald)",
+	title: "工艺品出售（绿宝石）",
 	x: 12.0d,
 	y: -3.5d,
-	description: "Good deals on Emerald!",
+	description: "绿宝石特惠处理！",
 	text: [
-		"Sell your unwanted Emerald Artefacts.",
+		"卖掉你不想要的绿宝石工艺品。",
 		"",
-		"Submit ONE stack of Emerald Artefacts to complete this quest.",
+		"提交一种绿宝石工艺品以完成此任务。",
 		"",
-		"Collect the reward after each completion.",
+		"每次完成后领取奖励。",
 		"",
-		"You will not receive rewards for more than one stack submission at a time."
+		"一次提交多种不会获得奖励。"
 	],
 	can_repeat: true,
 	or_tasks: true,

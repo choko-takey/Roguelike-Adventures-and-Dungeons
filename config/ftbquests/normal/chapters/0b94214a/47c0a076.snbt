@@ -1,10 +1,10 @@
 {
-	title: "This Pig Popped out of the Ground!",
+	title: "这只猪从地下蹦出来了！",
 	x: -3.5d,
 	y: -8.0d,
-	description: "Where did it even come from?",
+	description: "它到底是从哪里来的？",
 	text: [
-		"Craft some Tier 2 Crafting Seeds."
+		"制作一些二级合成种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

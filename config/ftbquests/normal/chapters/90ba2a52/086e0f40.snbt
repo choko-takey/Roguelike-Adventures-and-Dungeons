@@ -1,12 +1,12 @@
 {
-	title: "Mander Manslaughter",
+	title: "蜥蜴猎人",
 	x: 0.0d,
 	y: -3.0d,
-	description: "It's always an accident",
+	description: "这总是个意外",
 	text: [
-		"Kill 25 Fire Salamanders.",
+		"击杀25只火蜥蜴。",
 		"",
-		"Color does not matter."
+		"颜色无关紧要。"
 	],
 	can_repeat: true,
 	tasks: [{

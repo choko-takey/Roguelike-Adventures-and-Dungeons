@@ -1,16 +1,16 @@
 {
-	title: "Turn Left!",
+	title: "向左~转！",
 	x: 8.25d,
 	y: -16.5d,
-	description: "Off this bridge?!",
+	description: "从桥上下去？！",
 	text: [
-		"The GPS Marker will store a single 1x1x1 block location.",
+		"GPS标记器将存储单个1x1x1方块位置。",
 		"",
-		"You will need to Right-Click or Shift-Right-Click if the item is interactable, like a chest, to store a location.",
+		"如果道具是可交互的（如箱子），则需要右击或潜行右击来存储位置。",
 		"",
-		"The Marker can then be added to machines which use GPS locations in the world to engage their function.",
+		"可以将标记器加到使用GPS的机器上，发挥其功能。",
 		"",
-		"You will need to have basic understanding of how each machine is using the GPS Marker to know what location you want to store.",
+		"你需要对每台机器如何使用GPS标记器有基本的了解，以及想要存储的位置。",
 		"",
 		""
 	],

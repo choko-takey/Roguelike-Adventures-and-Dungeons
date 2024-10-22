@@ -1,10 +1,10 @@
 {
-	title: "Bootleg Predator",
+	title: "越共猎手",
 	x: 13.5d,
 	y: 1.5d,
-	description: "Before the technology",
+	description: "在科技出现之前",
 	text: [
-		"Offers basic protection from attacks, but it won't hide your thermal trace."
+		"提供基本的保护，免受攻击，但不会隐藏你的热成像。"
 	],
 	dependencies: [
 		"e36c7a15"

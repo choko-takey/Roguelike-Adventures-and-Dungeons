@@ -1,5 +1,5 @@
 {
-	title: "Your Own Overworld",
+	title: "我的世界",
 	icon: "minecraft:grass",
 	always_invisible: false,
 	group: 0,

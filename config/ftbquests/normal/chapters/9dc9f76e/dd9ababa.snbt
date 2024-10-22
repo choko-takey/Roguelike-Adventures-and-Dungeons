@@ -1,12 +1,12 @@
 {
-	title: "Supporting Your New Bad Habit",
+	title: "支持你的坏习惯",
 	x: -9.0d,
 	y: 3.5d,
-	description: "Those tents get big!",
+	description: "那些帐篷变大了！",
 	text: [
-		"You will need these to upgrade the size of your tent. ",
+		"你会需要这些来提升你帐篷的尺寸。",
 		"",
-		"Check with JEI for recipes; they're all a bit different!"
+		"用JEI查看配方；他们一点都不困难！"
 	],
 	dependencies: [
 		"90186a89"

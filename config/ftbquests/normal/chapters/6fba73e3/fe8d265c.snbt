@@ -1,10 +1,10 @@
 {
-	title: "Cold and Hungry",
+	title: "又冷又饿",
 	x: 5.5d,
 	y: -6.5d,
-	description: "Those poor bums...",
+	description: "那些可怜的流浪汉……",
 	text: [
-		"Craft the Kraken Shell."
+		"制作海妖壳甲。"
 	],
 	tasks: [{
 		uid: "a671d057",

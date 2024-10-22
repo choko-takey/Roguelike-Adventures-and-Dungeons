@@ -1,10 +1,10 @@
 {
-	title: "Un-Cockatraceable",
+	title: "不可追溯的",
 	x: 3.0d,
 	y: -4.5d,
-	description: "Never to be seen again",
+	description: "再也见不到了",
 	text: [
-		"Slay 25 Cockatrice."
+		"击杀25只鸡蛇。"
 	],
 	can_repeat: true,
 	tasks: [{

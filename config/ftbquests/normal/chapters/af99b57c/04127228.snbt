@@ -1,12 +1,12 @@
 {
-	title: "The Cooler Hunter Axe",
+	title: "更酷的猎人战斧",
 	x: -4.0d,
 	y: 8.5d,
-	description: "David Letterman!",
+	description: "大卫·莱特曼！",
 	text: [
-		"Depending on what skill you choose you can craft an even stronger hunter's axe.",
+		"基于你选择的技能，你可以制造出更强大的猎人战斧。",
 		"",
-		"(Depending on what skills you choose you may not be able to craft an enchanced hunter's axe)."
+		"（基于你选择的技能，你可能无法制造出强化的猎人战斧）"
 	],
 	dependencies: [
 		"58fbee33"

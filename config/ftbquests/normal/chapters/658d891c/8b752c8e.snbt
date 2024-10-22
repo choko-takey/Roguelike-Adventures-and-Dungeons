@@ -1,10 +1,10 @@
 {
-	title: "Poking a Soggy Piñata",
+	title: "戳破一个糯叽叽的蛋",
 	x: 15.5d,
 	y: 2.5d,
-	description: "Why is the piñata buzzing?",
+	description: "为什么这个蛋嗡嗡作响？",
 	text: [
-		"That hornet on a Mickey's cap? That's what's in this thing."
+		"米奇帽子上的黄蜂？这玩意儿长得可真像。"
 	],
 	dependencies: [
 		"ca17647d"

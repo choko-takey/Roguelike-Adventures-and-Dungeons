@@ -1,10 +1,10 @@
 {
-	title: "Elijah's Eyeballs",
+	title: "以利亚的眼球",
 	x: -4.0d,
 	y: -7.5d,
-	description: "He wants them back",
+	description: "他想把它们要回来",
 	text: [
-		"Obtain some Azurite."
+		"获得一些石青晶体。"
 	],
 	dependencies: [
 		"f61dcb12"

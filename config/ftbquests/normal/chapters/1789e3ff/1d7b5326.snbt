@@ -1,12 +1,12 @@
 {
-	title: "Dwarf Likey",
+	title: "矮人最爱",
 	x: -7.5d,
 	y: -1.5d,
-	description: "Metals. What more could a dwarf need?",
+	description: "生命诚可贵，爱情价更高。若为矿石故，二者皆可抛。",
 	text: [
-		"Copper, Tin, Lead, Silver, and Nickle in nearly every wall and floor is this dwarf heaven?",
+		"矮人中作诗和写作的人数不多，但是它们对天堂的描写如出一辙：一个深邃晦暗的洞穴里，从头到脚遍布着金银铜铁锡之类的矿石……",
 		"",
-		"Yes, yes it is!"
+		"嗯……我也觉得"
 	],
 	dependencies: [
 		"0351335f"
@@ -15,7 +15,10 @@
 		uid: "dba606dc",
 		type: "item",
 		items: [{
-			item: "embers:ingot_copper"
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "embers:ingot_copper"
 		}],
 		count: 64L
 	},
@@ -23,7 +26,10 @@
 		uid: "6e0edfc8",
 		type: "item",
 		items: [{
-			item: "embers:ingot_tin"
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "embers:ingot_tin"
 		}],
 		count: 64L
 	},
@@ -31,7 +37,10 @@
 		uid: "f2d8e8e9",
 		type: "item",
 		items: [{
-			item: "embers:ingot_lead"
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "embers:ingot_lead"
 		}],
 		count: 64L
 	},
@@ -39,7 +48,10 @@
 		uid: "0511615c",
 		type: "item",
 		items: [{
-			item: "embers:ingot_nickel"
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "embers:ingot_nickel"
 		}],
 		count: 64L
 	},
@@ -47,7 +59,10 @@
 		uid: "effba0b4",
 		type: "item",
 		items: [{
-			item: "embers:ingot_silver"
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			},
+			id: "embers:ingot_silver"
 		}],
 		count: 64L
 	}],

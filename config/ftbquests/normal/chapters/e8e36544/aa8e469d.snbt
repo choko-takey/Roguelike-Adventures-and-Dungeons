@@ -1,12 +1,12 @@
 {
-	title: "Stealth Mission",
+	title: "秘密行动",
 	x: 11.523809523809575d,
 	y: 4.73214285714284d,
-	description: "Stay low, and stay quiet",
+	description: "低调，保持安静",
 	text: [
-		"With this little handy dandy hood, your nameplate will never display to other players in Multiplayer.",
+		"带上这顶小巧实用又花哨的帽子，你的姓名栏在多人游戏中将被隐藏。",
 		"",
-		"This hood will hide your name, even when not Sneaking, and also removes Potion Effects, enabling you to be truly invisible."
+		"这顶帽子无需潜行即可隐藏名字，同时还会移除药水的粒子效果，让你实现真正的隐形。"
 	],
 	size: 1.5d,
 	tasks: [{

@@ -1,10 +1,10 @@
 {
-	title: "Drop It Low",
+	title: "慢点掉",
 	x: 7.5d,
 	y: -1.0d,
-	description: "Don't hurt your back, now",
+	description: "别伤着背咯",
 	text: [
-		"Just... drops it..."
+		"就只是把物品漏出来……仅此而已"
 	],
 	dependencies: [
 		"3756e9bc"

@@ -1,12 +1,12 @@
 {
-	title: "detnahcnesiD",
+	title: "法魔除解",
 	x: -2.5d,
 	y: 1.5d,
-	description: "Self-turning pages included!",
+	description: "包括自动翻页!",
 	text: [
-		"This item seems to ripple in and out of existence.",
+		"这一物品似乎在人们的生活中时而出现，时而消失。",
 		"",
-		"It may be highly useful."
+		"这可能非常有用。"
 	],
 	dependencies: [
 		"d6d462e3"

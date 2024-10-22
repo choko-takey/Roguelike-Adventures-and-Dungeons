@@ -1,12 +1,12 @@
 {
-	title: "This Is Kinda Harsh, Don't You Think?",
+	title: "这有点苛刻，你不觉得吗？",
 	x: 7.0d,
 	y: -13.5d,
-	description: "No, John, these items are useless.",
+	description: "不，阿鹉，这些东西没用。",
 	text: [
-		"These two items have better alternatives, unless players are attempting to entirely remove enchantments without damaging an item and ALSO do not care about retreiving an enchant.",
+		"这两种道具有更好的选择，除非玩家试图在不破坏道具的情况下完全移除附魔，并且也不关心恢复附魔。",
 		"",
-		"The Unchant Pylon has a price, where other disenchantment retreival methods are cheaper."
+		"祛魔塔是有代价的，但比其他的附魔恢复方法要便宜得多。"
 	],
 	tasks: [{
 		uid: "91ad9bcd",

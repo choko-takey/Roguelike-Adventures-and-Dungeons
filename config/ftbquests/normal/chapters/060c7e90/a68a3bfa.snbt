@@ -1,10 +1,10 @@
 {
-	title: "Diary Paper",
+	title: "日记专用纸",
 	x: -19.0d,
 	y: 14.0d,
-	description: "All the juciest secrets aren't Spells at all!",
+	description: "你最为珍贵的记忆，从来不是咒语！",
 	text: [
-		"This Enchanted Paper is used to craft Sage Tomes!"
+		"这些附魔纸是用于制作贤者宝典的。"
 	],
 	dependencies: [
 		"f3967f6c"

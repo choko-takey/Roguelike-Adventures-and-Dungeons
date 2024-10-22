@@ -1,12 +1,12 @@
 {
-	title: "How Prude",
+	title: "多么粗鲁",
 	x: -3.5d,
 	y: -3.0d,
-	description: "You need to lighten up a bit",
+	description: "你需要放轻松",
 	text: [
-		"Remember everyone, sexual harassment in the workplace, is real.",
+		"请大家记住，工作场所的性骚扰，是真实存在的。",
 		"",
-		"Craft some Prudentium Essence."
+		"制作一些初级精华。"
 	],
 	size: 1.5d,
 	tasks: [{

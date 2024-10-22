@@ -1,10 +1,10 @@
 {
-	title: "Infinite Water Source Ain't Nothing Now",
+	title: "无限的水源现在一无所有",
 	x: 7.5d,
 	y: -7.0d,
-	description: "%&@# your 4x4",
+	description: "憋惦记着你那2*2无限水了",
 	text: [
-		"Craft the Emperor's Chalice."
+		"制作帝王圣杯。"
 	],
 	tasks: [{
 		uid: "171498a0",

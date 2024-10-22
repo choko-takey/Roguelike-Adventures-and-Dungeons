@@ -1,10 +1,10 @@
 {
-	title: "POV: You’re a Skinwalker",
+	title: "POV：你是个皮行者！",
 	x: 8.0d,
 	y: 5.0d,
-	description: "And you're playing Minecraft",
+	description: "以及你现在在玩Minecraft",
 	text: [
-		"This is the life."
+		"这就是生活，小子！"
 	],
 	dependencies: [
 		"020a4b1e"

@@ -1,10 +1,10 @@
 {
-	title: "On a Trip",
+	title: "在旅行中",
 	x: 0.0d,
 	y: -0.5d,
-	description: "A cow killing trip",
+	description: "杀牛之旅",
 	text: [
-		"Slay 5 Minoshrooms."
+		"击杀5只米诺菇。"
 	],
 	can_repeat: true,
 	tasks: [{

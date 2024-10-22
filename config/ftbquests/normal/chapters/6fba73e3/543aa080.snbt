@@ -1,10 +1,10 @@
 {
-	title: "Remembender",
+	title: "识途老马",
 	x: 6.0d,
 	y: -4.5d,
-	description: "Shoot for the stars! Or your house",
+	description: "射向远方的星辰，或者......你的房子",
 	text: [
-		"Craft the Ender Staff."
+		"制作末影法杖。"
 	],
 	tasks: [{
 		uid: "f84493c5",

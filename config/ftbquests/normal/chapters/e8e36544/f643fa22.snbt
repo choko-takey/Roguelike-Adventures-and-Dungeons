@@ -1,16 +1,16 @@
 {
-	title: "Septic Leak?",
+	title: "病菌泄漏？",
 	x: 19.0d,
 	y: -7.0d,
-	description: "We got you covered",
+	description: "我们帮你搞定了",
 	text: [
-		"The Fluid Collector will collect fluid in a large area beneath it, and replace the collected fluid with blocks.",
+		"流体收集器可以收集它下方巨大一块区域的流体，并替换为方块。",
 		"",
-		"The Fluid Collector MUST have blocks available to fill, or it will not activate.",
+		"流体收集器必须填充方块，否则不会被激活。",
 		"",
-		"This is useful for automatically draining and filling large lakes, or random ponds you find around your base.",
+		"这可以用来抽干并填平大型湖泊，或者在你基地附近发现的湖泊。",
 		"",
-		"It can also be useful for draining large amounts of Lava from the Nether, or any other fluids in large quantity."
+		"也适合用来抽干地狱的岩浆湖，或者其它一大片的流体。"
 	],
 	dependencies: [
 		"ecd41947"

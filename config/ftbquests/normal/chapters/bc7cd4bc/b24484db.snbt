@@ -1,13 +1,13 @@
 {
-	title: "The Mythical Magical World of Inside Jokes",
+	title: "神奇的魔幻世界里的内部笑话",
 	x: -2.0d,
 	y: 3.0d,
 	shape: "rsquare",
-	description: "It's a love/hate relationship",
+	description: "这是一种爱恨交织的关系",
 	text: [
-		"I feel like all of these have some Mod Dev joke going on that I don't understand.",
+		"这些模组开发者的所有笑话我都不懂。",
 		"",
-		"But, alas, here's some more pets."
+		"但是，唉，这里还有一些宠物。"
 	],
 	tasks: [{
 		uid: "e527b107",

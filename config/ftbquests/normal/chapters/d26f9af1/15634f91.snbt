@@ -1,12 +1,12 @@
 {
-	title: "Silence Is Golden!",
+	title: "沉默是金！",
 	x: 5.5d,
 	y: -14.0d,
-	description: "Gold plated though... I'm a chatterbox",
+	description: "不过是镀金的……我是个话匣子",
 	text: [
-		"SHUT UP!",
+		"住口！",
 		"",
-		"Sounds near this block will be decreased by a LARGE amount. Almost silenced."
+		"这个方块附近的声音将会减少很多。几乎静音。"
 	],
 	tasks: [{
 		uid: "48868a22",

@@ -1,10 +1,10 @@
 {
-	title: "This Weird Feeling",
+	title: "你瞅啥？",
 	x: -16.5d,
 	y: 12.5d,
-	description: "I swear... nevermind",
+	description: "瞅你咋地？",
 	text: [
-		"The Ender Watcher will send out a max signal when you are looking at it with your Crosshair."
+		"末影侦测器会在你凝视它时发出15级红石信号"
 	],
 	tasks: [{
 		uid: "5a396678",

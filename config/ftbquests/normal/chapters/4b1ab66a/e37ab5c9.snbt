@@ -1,14 +1,14 @@
 {
-	title: "I'm Going to the Market!",
+	title: "我要去农贸市场！",
 	x: 1.0d,
 	y: -4.5d,
-	description: "He's not coming back either",
+	description: "他再也不会回来了",
 	text: [
-		"Since you're now an orphan in this strange land, you need to start creating sustainable sources of food!",
+		"既然你现在成了一名异乡游子，那么你需要开始创造一些可持续的食物来源！",
 		"",
-		"This Market will offer all the seeds and saplings you will ever need.",
+		"这个农贸市场将会提供你需要的所有种子和树苗。",
 		"",
-		"Additionally, you can purchase certain animals and other small goods from the Market."
+		"另外，你也可以从农贸市场购买某些牲畜和其他杂货。"
 	],
 	size: 2.0d,
 	tasks: [{

@@ -1,12 +1,12 @@
 {
-	title: "I Wish You Were a Puppy Forever!",
+	title: "我希望你永远都是一只修狗！",
 	x: -4.5d,
 	y: 8.5d,
-	description: "Aww!",
+	description: "啊呜呜！",
 	text: [
-		"Little bone makes your doggy little forever.",
+		"小骨头让狗永远变小。",
 		"",
-		"Big bone makes your doggy big forever."
+		"大骨头让狗永远变大。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

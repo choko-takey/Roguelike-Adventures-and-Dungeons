@@ -1,12 +1,12 @@
 {
-	title: "More Life, More Love",
+	title: "越多生命。越多爱。",
 	x: 3.0d,
 	y: -12.5d,
-	description: "That's a saying right? Well it is now",
+	description: "这句话说的对吗？现在捏。",
 	text: [
-		"Obtain a Life Shard.",
+		"获得生命补片。",
 		"",
-		"They increase the players HP by 1 heart up to a maximum of 20 hearts."
+		"一个能提升一颗心，最高能提升到20颗心。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

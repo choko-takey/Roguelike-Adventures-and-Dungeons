@@ -1,10 +1,10 @@
 {
-	title: "Stay Golden Dragonman",
+	title: "金装龙骑士",
 	x: 8.5d,
 	y: -2.0d,
-	description: "Stay golden...",
+	description: "保持金色……",
 	text: [
-		"Ride out in bling! Looks great on green Dragons."
+		"穿着闪闪发光的衣服出门！绿龙看起来很棒。"
 	],
 	dependencies: [
 		"768743f4"

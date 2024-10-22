@@ -1,10 +1,10 @@
 {
-	title: "Special Scepters",
+	title: "特殊权杖",
 	x: -0.5d,
 	y: 1.5d,
-	description: "Like changing gears, but better",
+	description: "像变速档，但更好",
 	text: [
-		"Collect all Scepters of Power from the Liches of the Twilight Forest."
+		"收集暮色森林巫妖的所有权杖。"
 	],
 	dependencies: [
 		"99878e27"

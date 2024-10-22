@@ -1,12 +1,12 @@
 {
-	title: "Advanced Alakazam!",
+	title: "先进的施法工具！",
 	x: 8.0d,
 	y: -5.0d,
-	description: "And vamoosh! The monster went to Heaven!",
+	description: "原谅怪物的恶行是上帝该做的事情，而我负责送他们去见上帝！",
 	text: [
-		"Finally, your wand doesn't only look like a stick anymore.",
+		"显然，仅仅是加粗烧烤签的尺寸是远远不够的。",
 		"",
-		"But you'll always know that it is."
+		"但是这仍然有效。"
 	],
 	dependencies: [
 		"4a5a2156"

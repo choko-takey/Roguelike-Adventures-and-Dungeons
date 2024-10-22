@@ -1,13 +1,13 @@
 {
-	title: "Plant Picker",
+	title: "植物收集者",
 	x: 8.0d,
 	y: -2.0d,
 	shape: "hexagon",
-	description: "Did any of them bite you?",
+	description: "它们有没有咬你？",
 	text: [
-		"No? What a surprise.",
+		"大概……没有？真是令人惊讶。",
 		"",
-		"I wonder if I can make mustard gas with these flowers..."
+		"我想知道是否可以用这些花制造芥子气……"
 	],
 	dependencies: [
 		"4119c49b"

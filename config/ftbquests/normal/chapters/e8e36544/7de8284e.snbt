@@ -1,14 +1,14 @@
 {
-	title: "The Energy Is in the Rhythm",
+	title: "能量就在韵律中",
 	x: 18.5d,
 	y: 8.0d,
-	description: "Feel that transfer!",
+	description: "感受这转移！",
 	text: [
-		"The Spectre Transfer Coil will transfer energy from your Buffer to an item which it can be attached to, and which takes energy to run.",
+		"通灵线圈将把能量从缓冲区转移到一个可以贴上的并需要能量的方块。",
 		"",
-		"All Transfer Coils will consume energy from the same Buffer. ",
+		"所有线圈消耗同一缓冲区的能量。",
 		"",
-		"The Buffer can only hold 1,000,000 FE. You must either have huge charging capacity, or low energy consumption. Otherwise, your Buffer will always be out of energy."
+		"缓冲区只能容纳1,000,000FE。 要么容量大，要么能耗低。否则，你的缓冲区将永远没有能量。"
 	],
 	dependencies: [
 		"4695c2a6"

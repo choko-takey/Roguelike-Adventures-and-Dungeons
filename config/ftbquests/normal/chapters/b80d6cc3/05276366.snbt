@@ -1,12 +1,12 @@
 {
-	title: "The Dawn of Stone",
+	title: "破晓",
 	x: 22.5d,
 	y: 3.5d,
-	description: "You mean man?",
+	description: "你是说男人吗？",
 	text: [
-		"No, I mean stone.",
+		"不，我说石头……",
 		"",
-		"This thing is definitely worth a new era. Have you seen it?"
+		"这东西可以让我们步入新时代的老兄！"
 	],
 	dependencies: [
 		"bcb31588"

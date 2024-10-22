@@ -1,12 +1,12 @@
 {
-	title: "You Don't Really Know How Fast I Am",
+	title: "你根本不知道我有多快",
 	x: 13.5d,
 	y: -1.5d,
-	description: "I'M FAST AS---",
+	description: "我快得就像——",
 	text: [
-		"You are...",
+		"你仿佛代表了……",
 		"",
-		"Speed."
+		"速度本身。"
 	],
 	dependencies: [
 		"31bf2fad"

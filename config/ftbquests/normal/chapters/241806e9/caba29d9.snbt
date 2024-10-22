@@ -1,10 +1,10 @@
 {
-	title: "Super Shankers",
+	title: "超级匕首",
 	x: 1.5d,
 	y: -6.5d,
-	description: "Guard! Guard!",
+	description: "护驾！护驾！",
 	text: [
-		"Fast... super fast... so fast they hit twice..."
+		"快……太快了……甚至快到能连刺两下……"
 	],
 	dependencies: [
 		"bbb78a8b"

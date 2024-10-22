@@ -1,15 +1,15 @@
 {
-	title: "Ghost Buster",
+	title: "魔鬼克星",
 	icon: "pvj:spectral_wrappings",
 	x: 1.0d,
 	y: -4.5d,
-	description: "You have a lot of calls now",
+	description: "你现在有很多名号",
 	text: [
-		"Put 50 Shades to rest",
-		"OR",
-		"Put 50 Ghosts to rest",
-		"OR",
-		"Put 50 Banshees to rest"
+		"让50只阴鬼安息",
+		"或者",
+		"让50只幽魂安息",
+		"或者",
+		"让50只女妖安息"
 	],
 	can_repeat: true,
 	or_tasks: true,

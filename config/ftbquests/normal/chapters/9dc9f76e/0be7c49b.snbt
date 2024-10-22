@@ -1,15 +1,15 @@
 {
 	x: -7.5d,
 	y: 5.0d,
-	description: "The tent is not going to construct itself!",
+	description: "帐篷不会自己建造自己！",
 	text: [
-		"Place down your tent of choice!",
+		"放下你选好的帐篷！",
 		"",
-		"Right-Click each frame block multiple times in order to construct your tent.",
+		"多次右击每个框架方块来建造你的帐篷。",
 		"",
-		"This will take a few minutes in real time, since each block must be constructed individually.",
+		"这需要几分钟的时间，因为每个方块必须单独建造。",
 		"",
-		"Don't wait until night-fall!"
+		"别等到夜晚来临！"
 	],
 	dependencies: [
 		"90186a89"

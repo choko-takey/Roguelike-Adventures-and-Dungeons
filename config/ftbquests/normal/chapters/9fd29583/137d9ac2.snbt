@@ -1,10 +1,10 @@
 {
-	title: "The Ants and the Bees",
+	title: "蚂蚁和蜜蜂",
 	x: -1.0d,
 	y: -10.5d,
-	description: "Didn't your parents talk to you about this?",
+	description: "你的父母不会跟你说这些事吗?",
 	text: [
-		"Craft the materials for an Ant Silo, and obtain some Honeycomb."
+		"合成蚂蚁筒罐的全部部件，并获得一些蜂窝。"
 	],
 	dependencies: [
 		"d01b8d01"

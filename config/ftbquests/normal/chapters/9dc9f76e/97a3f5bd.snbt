@@ -1,12 +1,12 @@
 {
-	title: "Fishing in Style",
+	title: "钓鱼时尚",
 	x: -1.0d,
 	y: -4.5d,
-	description: "Real 24k",
+	description: "真·24k",
 	text: [
-		"A small speckled trout might bend your pole, but this is okay. Totally worth the investment.",
+		"一条小小的斑点鳟鱼就有可能拉弯你的钓竿，但这不是问题。完全值得冒险。",
 		"",
-		"Applying anything above Lure V to your Rod will break it. Don't do that."
+		"任何高于饵钓V附魔施加在钓竿上都会损毁钓竿。别那样做."
 	],
 	dependencies: [
 		"d3807dee"

@@ -1,12 +1,12 @@
 {
-	title: "You Can't Stop the Rain--",
+	title: "雨停不下来！",
 	x: 8.5d,
 	y: 8.5d,
-	description: "WHEN IT STARTS TO PoOOUuUUR",
+	description: "当它开始糟糕的时候",
 	text: [
-		"Well, we can now.",
+		"现在可以了。",
 		"",
-		"This item will stop the rain within a large radius around it."
+		"这个物品将组织它周围的大范围内降雨。"
 	],
 	tasks: [{
 		uid: "7376034b",

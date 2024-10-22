@@ -1,12 +1,12 @@
 {
-	title: "I Need More Mana!",
+	title: "我需要更多魔力！",
 	x: -7.5d,
 	y: 7.5d,
-	description: "I can't cast that.",
+	description: "不能扔，别看了……",
 	text: [
-		"Going OOM is the worst.",
+		"如果在战场上魔力耗尽的话，我的法师生涯就结束了罢。",
 		"",
-		"Prevent symptoms of being OOM by using this!"
+		"所以这个东西可以帮你！"
 	],
 	dependencies: [
 		"aa64e1f7"

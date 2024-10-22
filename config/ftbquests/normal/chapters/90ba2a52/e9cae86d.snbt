@@ -1,10 +1,10 @@
 {
-	title: "Whalers",
+	title: "捕鲸船",
 	x: -1.0d,
 	y: 2.5d,
-	description: "Aerwhale blubber is super special!",
+	description: "帝王云鲸脂非常特别！",
 	text: [
-		"Slay 5 Aerwhale Kings."
+		"击杀5只帝王云鲸"
 	],
 	can_repeat: true,
 	tasks: [{

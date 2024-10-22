@@ -1,10 +1,10 @@
 {
-	title: "Like a Hopper, but Up.",
+	title: "形似漏斗，但作用向上。",
 	x: 1.5d,
 	y: -1.0d,
-	description: "You'll never be down again... or... wait...",
+	description: "你永远不会朝下……等等……",
 	text: [
-		"This thing sucks. Literally."
+		"这东西一点也不好用。真的。"
 	],
 	dependencies: [
 		"b325bb25"

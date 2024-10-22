@@ -1,10 +1,10 @@
 {
-	title: "Plant 'em, Throw 'em",
+	title: "种下它们，丢掉它们",
 	x: -3.5d,
 	y: -6.5d,
-	description: "You'll never run out of these",
+	description: "你永远也用不完这些东西",
 	text: [
-		"Obtain a Bladeshroom Cap and some Bladeshroom Spores."
+		"获取一个刀锋菇飞帽和一些刀锋菇孢子。"
 	],
 	dependencies: [
 		"03bff484"

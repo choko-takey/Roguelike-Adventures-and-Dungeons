@@ -1,10 +1,10 @@
 {
-	title: "Fly Man!",
+	title: "苍蝇侠！",
 	x: 3.0d,
 	y: -2.5d,
-	description: "Your super power is vomiting on things",
+	description: "你的超能力是令人呕吐。",
 	text: [
-		"Craft the Reinfornced Compound Goggles."
+		"合成强化复眼护目镜。"
 	],
 	dependencies: [
 		"acb2f772"

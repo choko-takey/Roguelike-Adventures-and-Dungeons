@@ -1,12 +1,12 @@
 {
-	title: "Charting the Fields",
+	title: "列个表吧",
 	x: 33.5d,
 	y: 6.0d,
-	description: "Tells you where the fire is",
+	description: "告诉你哪里更热……？",
 	text: [
-		"You know, that fire fire.",
+		"你知道的，那就是火焰……",
 		"",
-		"That HEAT!"
+		"那即是改变！"
 	],
 	dependencies: [
 		"fe8f99b6"

@@ -1,5 +1,5 @@
 {
-	title: "Wisk Away the Wights",
+	title: "轻轻一挥",
 	icon: {
 		id: "ftbquests:custom_icon",
 		tag: {
@@ -8,11 +8,11 @@
 	},
 	x: 3.0d,
 	y: -3.0d,
-	description: "Bye-bye Brutes!",
+	description: "再见，布鲁特斯！",
 	text: [
-		"Kill 25 Wights.",
-		"OR",
-		"Kill 10 Brutes."
+		"击杀25只阴魂。",
+		"或者",
+		"击杀10只蛮兽。"
 	],
 	can_repeat: true,
 	or_tasks: true,

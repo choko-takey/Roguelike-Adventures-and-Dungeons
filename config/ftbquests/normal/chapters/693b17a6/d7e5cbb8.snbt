@@ -1,16 +1,16 @@
 {
-	title: "Mob Mobster III",
+	title: "屠戮者 III",
 	icon: "minecraft:bone",
 	x: -10.0d,
 	y: -1.0d,
-	description: "Slaying lots are we?",
+	description: "我们杀了很多生物？",
 	text: [
-		"Slay 10,000 mobs."
+		"击杀10000只生物。"
 	],
 	tasks: [{
 		uid: "1e6999f4",
 		type: "stat",
-		title: "Slay 10,000 mobs",
+		title: "击杀10000只生物",
 		icon: "minecraft:bone",
 		stat: "stat.mobKills",
 		value: 10000

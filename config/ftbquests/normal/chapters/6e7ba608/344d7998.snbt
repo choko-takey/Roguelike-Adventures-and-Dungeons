@@ -1,10 +1,10 @@
 {
-	title: "Midget Murderer",
+	title: "矮人杀人犯",
 	x: -3.0d,
 	y: -6.5d,
-	description: "Who'd you kill for these masks?",
+	description: "你为了这些面具杀了谁？",
 	text: [
-		"I know what you did."
+		"我知道你做了什么。"
 	],
 	dependencies: [
 		"f61dcb12"

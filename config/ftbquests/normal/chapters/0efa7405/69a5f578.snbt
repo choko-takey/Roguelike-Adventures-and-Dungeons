@@ -1,10 +1,10 @@
 {
-	title: "A Cooler Looking Hook",
+	title: "工程师天钩（神秘使特供）",
 	x: 2.0d,
 	y: 3.0d,
-	description: "Requires vis",
+	description: "需要Vis（悲）",
 	text: [
-		"Functions like a grapling hook."
+		"工程师天钩投来了异样的目光……但是管他呢，RAD没有沉浸哈哈哈。"
 	],
 	dependencies: [
 		"187ba0b2"

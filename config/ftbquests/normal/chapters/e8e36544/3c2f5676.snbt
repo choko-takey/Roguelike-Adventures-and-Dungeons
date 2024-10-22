@@ -1,12 +1,12 @@
 {
-	title: "John, Did You Fart?",
+	title: "约翰，你放屁了？",
 	x: -9.75d,
 	y: -3.75d,
-	description: "No, I didn't",
+	description: "不我没有",
 	text: [
-		"Just because it was silent doesn't mean I can't smell it, John.",
+		"很安静不代表我闻不到，约翰。",
 		"",
-		"This Elevator block is the exact same as the other one, exact the player will be facing whichever way the arrow is pointing when being transported."
+		"这个电梯方块与另一个方块完全相同，玩家在乘坐后会朝向箭头所指的方向。"
 	],
 	size: 1.5d,
 	or_tasks: true,

@@ -1,12 +1,12 @@
 {
-	title: "Fine I'll Do It Myself",
+	title: "好吧，我自己来",
 	x: 6.0d,
 	y: -16.0d,
-	description: "World gen go brrrr",
+	description: "世界生生成成成zh...",
 	text: [
-		"On some occassions world generation can end up destroying strongholds/end portals. ",
-		"There are alternatives in that case one being the ender gateway prefab ",
-		"which has a fully built unlit end portal."
+		"有些时候生成的世界的末地传送门不是完整的。",
+		"这种情况下，你可以使用预制建筑中的末地门。",
+		"它里面有一个完整的、未点亮的末地传送门。"
 	],
 	dependencies: [
 		"a962f849"

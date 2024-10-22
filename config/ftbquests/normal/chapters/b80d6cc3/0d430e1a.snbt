@@ -1,12 +1,12 @@
 {
-	title: "Woah Bessy",
+	title: "哇……哔哔哔",
 	x: 24.0d,
 	y: -1.0d,
-	description: "Woah...",
+	description: "哇哦……",
 	text: [
-		"Slow down now.",
+		"现在慢点……",
 		"",
-		"Now speed it up a little---!!!!"
+		"我~~~~~~~让~~~~~~~你~~~~~~~慢~~~~~~~点~~~~~~~啊~~~~~~~"
 	],
 	dependencies: [
 		"9b46dc0a"

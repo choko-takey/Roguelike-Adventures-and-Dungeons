@@ -1,10 +1,10 @@
 {
-	title: "Skeet Rockets",
+	title: "双向火箭炮",
 	x: 2.0d,
 	y: -3.5d,
-	description: "These things are gonna blow everything away",
+	description: "这些东西会把一切都吹走",
 	text: [
-		"Fun item."
+		"有趣的玩意。"
 	],
 	dependencies: [
 		"bbb78a8b"

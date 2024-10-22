@@ -1,9 +1,9 @@
 {
 	x: 6.5d,
 	y: -10.0d,
-	description: "Your plants will always die when you grow dead stuff",
+	description: "当你种死物时，你的植物也总会死",
 	text: [
-		"Craft some Wither Skeleton Seeds."
+		"制作一些凋灵骷髅种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

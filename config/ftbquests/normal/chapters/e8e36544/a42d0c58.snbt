@@ -1,18 +1,18 @@
 {
-	title: "Drawing on the Walls",
+	title: "在墙上乱涂乱画",
 	x: -25.0d,
 	y: -5.5d,
-	description: "I got beat for this",
+	description: "哦天哪我真的服了你了",
 	text: [
-		"The Crayons do the same thing as the Pencil.",
+		"魔法蜡笔和魔法铅笔其实差不到哪里去",
 		"",
-		"The difference is, you can walk through the invisible walls made by Crayons, when not wearing Crayon Glasses.",
+		"不同的是，你可以在不带蜡笔眼镜时穿过魔法蜡笔画出来的墙壁（带上你就过不去了）",
 		"",
-		"AND, there are multiple colors of Crayons to draw with.",
+		"而且，有&4多&6种&e颜&a色&3可&b供&d你&r选择",
 		"",
-		"Make sure you have the correct color of glasses on!",
+		"记得带上与蜡笔对应颜色的眼镜！",
 		"",
-		"Can easily be used to create some wacky games."
+		"可以轻松和你的朋友们进行一些有趣的图画游戏……"
 	],
 	tasks: [{
 		uid: "42fc292a",

@@ -1,12 +1,12 @@
 {
-	title: "Colder Than My Ex",
+	title: "比我的前任更冷",
 	x: 7.0d,
 	y: 7.0d,
-	description: "She was mean",
+	description: "她很刻薄",
 	text: [
-		"Stay up kings.",
+		"我最恨她像个石头一样。",
 		"",
-		"Obtain some Ice Dragonsteel Ingots to feel better."
+		"获取一些龙霜钢锭，让自己感觉更好。"
 	],
 	dependencies: [
 		"55077529"

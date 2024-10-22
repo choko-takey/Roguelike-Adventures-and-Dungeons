@@ -1,16 +1,16 @@
 {
-	title: "Touchless Delivery",
+	title: "无接触快递",
 	x: 3.5d,
 	y: 11.5d,
-	description: "Well.. I did grab your food from the drive-thru window...",
+	description: "嗯……我确实从得来窗口给你拿了吃的……",
 	text: [
-		"Ya know, now that I think about it...",
+		"对，现在我想起来了…",
 		"",
-		"Contact Buttons and Levers will cause the block in front of them to act as the Button or Lever.",
+		"接触式按钮和拉杆会使它们前面的方块充当按钮或拉杆。",
 		"",
-		"The Contact Button or Lever block itself will output a signal when the block in front of it is Right-Clicked!",
+		"当右击前面的方块时，接触式按钮或拉杆本身将输出一个信号！",
 		"",
-		"The most secret button of all, is one that isn't actually a button ;)"
+		"最隐秘的按钮，不是一个按钮 ;)"
 	],
 	tasks: [{
 		uid: "fc23de1c",

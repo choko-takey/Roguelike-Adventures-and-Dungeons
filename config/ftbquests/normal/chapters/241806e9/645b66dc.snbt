@@ -1,12 +1,12 @@
 {
-	title: "Why Don't the Books Have a Common Name?!?!",
+	title: "为什么这些书没有一个通用的名字？！？！",
 	x: -7.0d,
 	y: -3.5d,
-	description: "I went crazy learning this mod fully",
+	description: "为了学会这个模组，我都要疯了",
 	text: [
-		"This guide should lead you to most of the information you'll seek regarding this mod.",
+		"这本指南会告诉你本模组的大部分信息。",
 		"",
-		"If you can't find it, well... I duh know. Look harder. Do some testing."
+		"如果你找不到，好吧……我知道了。再看看，然后尝试一下。"
 	],
 	size: 3.0d,
 	tasks: [{

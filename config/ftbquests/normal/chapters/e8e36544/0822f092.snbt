@@ -1,12 +1,12 @@
 {
-	title: "You, You, You, Not You",
+	title: "你，你，你，不是你",
 	x: -4.5d,
 	y: 11.5d,
-	description: "You're not cool enough",
+	description: "你不够酷",
 	text: [
-		"Lapis Glass is only solid for players!",
+		"青金石玻璃仅对玩家而言是坚固的！",
 		"",
-		"Now how about that, a win for the mobs... maybe."
+		"现在怎么样，怪物胜利了…也许吧。"
 	],
 	tasks: [{
 		uid: "7832ccf5",

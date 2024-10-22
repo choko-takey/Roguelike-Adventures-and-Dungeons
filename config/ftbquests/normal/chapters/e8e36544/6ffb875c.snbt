@@ -1,16 +1,16 @@
 {
-	title: "ASMR but for Your Eyes",
+	title: "ASMR  但是眼睛",
 	x: 7.0d,
 	y: -15.0d,
-	description: "Satisfaction",
+	description: "舒坦",
 	text: [
-		"These items will help you create large builds without having to invest huge amounts of time destroying those dirt lines you created. ",
+		"这些物品将帮助你创建大型建筑，不必投入大量的时间拆除之前建的泥土房子。",
 		"",
-		"Yes they're faster than using VeinMiner to destroy those dirt lines, too.",
+		"没错，它们也比使用连锁拆那些泥土更快。",
 		"",
-		"You just have to know how to use them.",
+		"你只需要知道如何使用它们。",
 		"",
-		"The Decaying and Responsive variants are my most highly used."
+		"衰减和响应的变体是我最常用的。"
 	],
 	tasks: [{
 		uid: "2e050040",

@@ -1,12 +1,12 @@
 {
-	title: "AHH GET IT OFF ME!",
+	title: "把它从我身上拿开！",
 	x: 9.0d,
 	y: -5.5d,
-	description: "EW EW EW EW EW ",
+	description: "哼哼哼啊啊啊啊啊啊",
 	text: [
-		"I hate spiders.",
+		"我恨蜘蛛。",
 		"",
-		"Use this to mount any entity onto YOUR head."
+		"使用这个物品可以让生物骑在你的头上。"
 	],
 	tasks: [{
 		uid: "fa1195b2",

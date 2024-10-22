@@ -1,10 +1,10 @@
 {
-	title: "Floral Fellow",
+	title: "置身花海",
 	x: -5.5d,
 	y: -11.5d,
-	description: "One with nature",
+	description: "与自然融为一体",
 	text: [
-		"Collect the flora available from Tropicraft."
+		"收集热带世界的所有植物。"
 	],
 	dependencies: [
 		"f61dcb12"

@@ -1,14 +1,15 @@
 {
-	title: "Engineer Certified",
+	title: "去考个工程师……",
 	x: 5.5d,
 	y: 0.0d,
-	description: "Lasts for a year",
+	description: "这是好久之前的事了。",
 	text: [
-		"Embers Certification lasts 2 months.",
+		"余烬工程师证，有效期2个月。",
 		"",
-		"Yea... hard workin'.",
+		"是的，现在开始努力工作吧！",
 		"",
-		"If you get scared of tech mods, this is the mod for you. Don't even try doing math here."
+		"如果你不擅长，甚至是恐惧科技类模组，余烬将是你最好的选择！你甚至不会在这个模组的发展线里计算什么东西！",
+		"（真的吗？）"
 	],
 	dependencies: [
 		"9f0327f8"

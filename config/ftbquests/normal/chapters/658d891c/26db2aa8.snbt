@@ -1,12 +1,12 @@
 {
-	title: "Frozen Set of Tools",
+	title: "一套冻得绑硬的趁手玩意儿",
 	x: 7.0d,
 	y: 9.0d,
-	description: "These don't look brittle, do they?",
+	description: "这些看起来不易碎，是吗？",
 	text: [
-		"Very durable tools of legend. ",
+		"非常耐用的传奇工具。 ",
 		"",
-		"You are required to make all tools to complete this quest."
+		"你需要制作所有工具来完成这个任务。"
 	],
 	dependencies: [
 		"26d0790c"

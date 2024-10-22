@@ -1,16 +1,16 @@
 {
-	title: "My Floo Fireplace?",
+	title: "我的飞路壁炉？",
 	x: 11.5d,
 	y: 11.5d,
-	description: "Sounds like an oldfolks home",
+	description: "听起来像个老人院",
 	text: [
-		"Rename a Floo Sign in an Anvil to name your location. Then Right-Click on a Brick block, or a line of Brick blocks to create Floo Bricks.",
+		"在铁砧上重命名一个飞路告示牌来命名你的位置。然后右击一个砖块，或者一行砖块来创建飞路砖。",
 		"",
-		"To teleport between Floo Bricks, you must have Floo Powder or a Floo Pouch inside your inventory. ",
+		"要在飞路之间传送，确保在你的物品栏中有飞路粉或飞路粉袋。",
 		"",
-		"Stand on top of the Floo Bricks, and type the name of the Floo Network location you wish to teleport to in chat. The message will NOT be sent to chat, if it is a location you can teleport to.",
+		"站在飞路砖的顶部，在聊天中输入你想要传送到的飞路网络位置的名称。消息将不会被发送到聊天，如果它是一个位置，你就可以传送到。",
 		"",
-		"There is no way to remember or recall names of locations. Place a regular sign above your Floo Bricks in order to remember what you named them during creation."
+		"没有办法记住或回忆起地点的名字。在你的飞路砖上方放置一个常规的标志，以便记住你在创作时给它们起的名字。"
 	],
 	tasks: [{
 		uid: "cc8fe78d",

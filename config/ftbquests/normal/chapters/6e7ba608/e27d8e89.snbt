@@ -1,12 +1,12 @@
 {
-	title: "Invasive Species!",
+	title: "入侵物种！",
 	x: -3.0d,
 	y: -14.0d,
-	description: "Not really... they're native here",
+	description: "不太确定。。。他们是本地人",
 	text: [
-		"Collect some Iguana materials.",
+		"收集一些鬣蜥的材料。",
 		"",
-		"The Iguana Leather can be used in place of normal Leather."
+		"鬣蜥皮革可以代替普通皮革。"
 	],
 	dependencies: [
 		"f61dcb12"

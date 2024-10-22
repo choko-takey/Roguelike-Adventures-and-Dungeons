@@ -1,12 +1,12 @@
 {
-	title: "What You Get for Christmas",
+	title: "你会收到什么圣诞礼物",
 	x: -1.0d,
 	y: -2.0d,
-	description: "You've been a NAUGHTY boy",
+	description: "真是个淘气鬼",
 	text: [
-		"And naughty boys get the coal.",
+		"淘气鬼收到了煤。",
 		"",
-		"Now be naughty and go get some."
+		"保持童心然后挖点煤。"
 	],
 	dependencies: [
 		"293e9097"

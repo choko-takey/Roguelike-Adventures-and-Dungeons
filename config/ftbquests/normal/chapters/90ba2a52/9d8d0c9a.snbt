@@ -1,10 +1,10 @@
 {
-	title: "Tree Hugger",
+	title: "拥抱树木",
 	x: 2.0d,
 	y: 9.5d,
-	description: "They love you too",
+	description: "他们也喜欢你",
 	text: [
-		"Cut down 50 Living Roots."
+		"砍倒50个活根"
 	],
 	can_repeat: true,
 	tasks: [{

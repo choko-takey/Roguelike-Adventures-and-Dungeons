@@ -1,12 +1,12 @@
 {
-	title: "The Domain of Half Life",
+	title: "无生无亡之所",
 	icon: "dimdoors:record_creepy",
 	x: -6.0d,
 	y: 0.0d,
 	shape: "hexagon",
-	description: "When you gaze into the abyss, the abyss also gazes into you",
+	description: "当你凝视深渊时，深渊也在凝视你",
 	text: [
-		"Welcome to limbo enjoy your stay"
+		"欢迎来到次元监牢，祝你逗留愉快"
 	],
 	dependency_requirement: "one_started",
 	tasks: [{

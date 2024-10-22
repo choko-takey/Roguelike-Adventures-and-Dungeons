@@ -1,12 +1,12 @@
 {
-	title: "Gateway To Hellenes",
+	title: "希腊之门",
 	icon: "landsoficaria:greek_fire_grenade",
 	x: 1.5d,
 	y: 0.0d,
 	text: [
-		"Collect the requested materials and trade them in for a pre built icaria portal.",
+		"收集所需材料，用它们换取一个预制的伊卡利亚传送门。",
 		"",
-		"Any future portals are built in the same way as the one in the capsule."
+		"今后所有的传送门都可以用建造胶囊里的这个传送门一样的方式建造。"
 	],
 	dependencies: [
 		"9373438b"
@@ -80,7 +80,7 @@
 				structureName: "config/capsule/rewards/icaria_portal",
 				display: {
 					color: 16777215,
-					Name: "Icaria Portal"
+					Name: "伊卡利亚传送门"
 				},
 				label: "Icaria_Portal",
 				canRotate: 1b

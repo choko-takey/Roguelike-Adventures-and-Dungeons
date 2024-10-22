@@ -1,14 +1,14 @@
 {
-	title: "Primitive",
+	title: "原始人",
 	x: -2.5d,
 	y: -3.0d,
-	description: "Pathetic",
+	description: "可怜可怜",
 	text: [
-		"Craft a Stone Pickaxe.",
+		"制作出石镐。",
 		"",
-		"It will become your most coveted tool.",
+		"它会是你最渴望的工具。",
 		"",
-		"Craft you Dirt House, where you may covet your tool."
+		"建一个泥土火柴盒。"
 	],
 	dependencies: [
 		"16c3f3d7"

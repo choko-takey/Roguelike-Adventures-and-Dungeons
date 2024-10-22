@@ -1,12 +1,12 @@
 {
-	title: "If the Dirty Bubble Was Clean",
+	title: "假如脏的气泡被清理干净了。",
 	x: 2.0d,
 	y: -12.5d,
-	description: "But he was in the ocean?",
+	description: "但它在海中？",
 	text: [
-		"Obtain the Iron Bubble.",
+		"获得坚铁气泡。",
 		"",
-		"It allows the wearer to breathe underwater."
+		"它允许佩戴者在水下呼吸。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

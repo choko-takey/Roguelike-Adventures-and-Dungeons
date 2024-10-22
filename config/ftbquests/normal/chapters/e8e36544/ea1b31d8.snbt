@@ -1,12 +1,12 @@
 {
-	title: "Hot Footed",
+	title: "烫脚",
 	x: 11.500000000000043d,
 	y: 9.452380952380935d,
-	description: "Where you headed?",
+	description: "你在往哪走？",
 	text: [
-		"Allows you to walk on water and lava.",
+		"允许你在水和岩浆上行走。",
 		"",
-		"Players often take no fire damage and will not take lava damage for 10 seconds after entering lava.",
+		"玩家一般不会受到火焰伤害，也不会持续受到岩浆伤害超过10s。",
 		""
 	],
 	dependencies: [

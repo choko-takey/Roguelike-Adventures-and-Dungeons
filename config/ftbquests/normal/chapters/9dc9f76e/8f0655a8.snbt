@@ -1,12 +1,12 @@
 {
-	title: "You've Never Hated Silverfish More than Now",
+	title: "你从未如此厌恶蠹虫",
 	x: 14.5d,
 	y: 2.0d,
-	description: "Oh I KNOW you hate them",
+	description: "Oh，我懂你厌恶的原因了",
 	text: [
-		"After all your hard work killing Goons, you can make this nasty stuff. Not sure what to do with it? Well... this goes into your food... basically.",
+		"在你奋力杀完呕吐者之后，就可以制作这个恶心的东西。不清楚它是干什么的？额……这个会当作你常吃的食物……",
 		"",
-		"Use this to power your Mystical Grill!"
+		"用这个启动神秘烤架！"
 	],
 	dependencies: [
 		"79095e08"

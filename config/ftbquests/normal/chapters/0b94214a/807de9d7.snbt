@@ -1,9 +1,9 @@
 {
 	x: -6.5d,
 	y: -9.0d,
-	description: "Growing the thing you need most!",
+	description: "种你最需要的东西！",
 	text: [
-		"Craft some Dirt Seeds."
+		"制作一些泥土种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

@@ -1,5 +1,5 @@
 {
-	title: "Cloud Chaser",
+	title: "追云者",
 	icon: {
 		id: "ftbquests:custom_icon",
 		tag: {
@@ -8,9 +8,9 @@
 	},
 	x: -1.0d,
 	y: 4.0d,
-	description: "A storm is brewin'!",
+	description: "暴风雨来了！",
 	text: [
-		"Slay 25 Zephyr."
+		"击杀25只西风啸云。"
 	],
 	can_repeat: true,
 	tasks: [{

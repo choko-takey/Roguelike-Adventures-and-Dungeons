@@ -1,12 +1,12 @@
 {
-	title: "Limbo's Poem",
+	title: "次元监牢之歌",
 	x: -6.0d,
 	y: 1.5d,
-	description: "An ode to the realm between",
+	description: "一首监牢颂歌",
 	text: [
-		"The realm of evergazing eyes and endless black land",
-		"Be wise of the ever gazing setinels",
-		"Venture down and be reborn in the eternal sea of red"
+		"黑暗无边的土地上，永恒的眼睛凝视",
+		"你要小心那些守卫，智慧是你的利器",
+		"勇敢地向下探索，红色的海洋等你重生"
 	],
 	dependencies: [
 		"21f8d722"

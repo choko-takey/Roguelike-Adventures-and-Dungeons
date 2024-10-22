@@ -1,12 +1,12 @@
 {
-	title: "Grapes To Oranges",
+	title: "葡萄到橙子",
 	x: 0.4404761904762182d,
 	y: -7.077380952380942d,
-	description: "You still can't compare them?!",
+	description: "你分不出来区别吗？",
 	text: [
-		"I hate that phrase.",
+		"我讨厌那种回答。",
 		"",
-		"Now make some Crystallized Obsidian, and Amber."
+		"现在做一些黑曜石结晶和琥珀结晶吧。"
 	],
 	dependencies: [
 		"be7868d4"

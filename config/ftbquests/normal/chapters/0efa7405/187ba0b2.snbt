@@ -1,11 +1,11 @@
 {
-	title: "Two Thaumometers",
+	title: "俩魔导透镜",
 	x: 3.0d,
 	y: 5.0d,
-	description: "Strapped to your face",
+	description: "眼睛瞪得像铜铃~（唱起来）",
 	text: [
-		"Its like a Thaumometer, but its equipable in your baubles.",
-		"Requires no effort on your part."
+		"类似于魔导透镜，但是可以装在饰品栏（和头盔栏）",
+		"这个护目镜会伴随你很久……"
 	],
 	dependencies: [
 		"1af03bae"

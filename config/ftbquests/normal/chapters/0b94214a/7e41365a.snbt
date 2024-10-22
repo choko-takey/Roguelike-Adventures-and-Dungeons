@@ -1,10 +1,10 @@
 {
-	title: "Tier 2 Inferium Seeds",
+	title: "初级精华种子",
 	x: -3.0d,
 	y: -1.5d,
-	description: "Grows a bit more",
+	description: "再长大一点",
 	text: [
-		"Craft Tier 2 Inferium Seeds."
+		"制作初级精华种子。"
 	],
 	dependencies: [
 		"aaa2120a"

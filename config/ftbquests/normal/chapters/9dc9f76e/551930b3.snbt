@@ -1,10 +1,10 @@
 {
-	title: "Emerald Armor",
+	title: "绿宝石护甲",
 	x: 6.5d,
 	y: -8.0d,
-	description: "Make a set of this... or trade with villagers?",
+	description: "制作一套……或者和村民换一套?",
 	text: [
-		"This stuff is pretty darn good..."
+		"这东西相当不错……"
 	],
 	dependencies: [
 		"2352b3e3"

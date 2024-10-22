@@ -1,10 +1,10 @@
 {
-	title: "Ashen Armaments",
+	title: "灰烬装甲",
 	x: 29.5d,
 	y: 7.0d,
-	description: "They rub off on you, literally",
+	description: "它们似乎具有别样的力量",
 	text: [
-		"Craft all of the Ashen Armaments."
+		"制作全套灰烬装甲"
 	],
 	dependencies: [
 		"cefd6ce1"

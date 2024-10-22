@@ -1,10 +1,10 @@
 {
-	title: "Like Neo but with a Hood",
+	title: "带着兜帽的Neo",
 	x: -21.0d,
 	y: 17.5d,
-	description: "You're The One",
+	description: "你，独一无二",
 	text: [
-		"The Evil One."
+		"我亲爱的黑巫师。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

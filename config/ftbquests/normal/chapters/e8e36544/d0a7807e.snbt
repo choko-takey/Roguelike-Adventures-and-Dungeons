@@ -1,10 +1,10 @@
 {
-	title: "I Don't Recognize You",
+	title: "你谁啊",
 	x: -11.5d,
 	y: 12.5d,
-	description: "Where you from?",
+	description: "你从哪里来？",
 	text: [
-		"This pressure plate will only activate when a Player steps on top of it. Mobs and other entities including items do not activate this pressure plate."
+		"黑曜石压力板只会被玩家触发，除玩家外任何实体都触发不了"
 	],
 	tasks: [{
 		uid: "b3c6a2ee",

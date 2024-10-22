@@ -1,11 +1,11 @@
 {
-	title: "Troll Hunters",
+	title: "食人妖猎人",
 	icon: "iceandfire:troll_tusk",
 	x: 4.0d,
 	y: -4.5d,
-	description: "You'll love the armor, but hate the mob",
+	description: "你会喜欢它的盔甲，但讨厌食人妖",
 	text: [
-		"Slay 25 Trolls."
+		"击杀25只食人妖。"
 	],
 	can_repeat: true,
 	tasks: [{

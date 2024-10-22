@@ -1,9 +1,9 @@
 {
 	x: 7.5d,
 	y: -9.0d,
-	description: "My plants bring all the villages to the yard",
+	description: "我的植物把所有村民都引到院子里来了",
 	text: [
-		"Craft some Emerald Seeds."
+		"制作一些绿宝石种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

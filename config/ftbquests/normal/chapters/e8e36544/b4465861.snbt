@@ -1,10 +1,10 @@
 {
-	title: "Brick by Brick!",
+	title: "一砖一瓦",
 	x: -20.0d,
 	y: 12.5d,
-	description: "I built this house!",
+	description: "好的，房子造好了！",
 	text: [
-		"Right-Clicking with the Trowel in your hand will place a random placeable item from your hotbar."
+		"手持抹泥铲右击方块，会放置你快捷栏里随机一个方块。"
 	],
 	tasks: [{
 		uid: "018cab88",

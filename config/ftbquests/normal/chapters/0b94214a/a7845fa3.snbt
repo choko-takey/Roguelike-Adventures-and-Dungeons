@@ -1,9 +1,9 @@
 {
 	x: 3.0d,
 	y: -9.0d,
-	description: "How much gold can you grow? All of it",
+	description: "你能种多少黄金？所有",
 	text: [
-		"Craft some Gold Seeds."
+		"制作一些金种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

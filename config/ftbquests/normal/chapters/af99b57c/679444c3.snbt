@@ -1,12 +1,12 @@
 {
-	title: "Pointiest Stick",
+	title: "最尖锐的木棍",
 	x: -6.0d,
 	y: 3.0d,
-	description: "Point taken",
+	description: "简单易懂",
 	text: [
-		"To begin your hunter's journey craft a stake.",
+		"制作一个钉桩来开始你的猎人之旅。",
 		"",
-		"Find a vampire and use it on them. If they are low enough hp, then it will instantly kill them."
+		"找一只吸血鬼试试你的钉桩，在它血量低的时候钉桩会秒杀它。"
 	],
 	dependencies: [
 		"90371785"

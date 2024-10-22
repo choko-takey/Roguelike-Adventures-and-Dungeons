@@ -1,12 +1,12 @@
 {
-	title: "This Is My Swamp!",
+	title: "这是我的沼泽！",
 	x: -9.0d,
 	y: -0.5d,
-	description: "Get out!",
+	description: "滚出去！",
 	text: [
-		"Obtain a Swamp Talisman.",
+		"获得一个沼泽护身符。",
 		"",
-		"It seems to react when it is near any tree sapling... maybe using it on one will do something."
+		"当它靠近任何树苗时，它似乎都会做出反应……也许用在一棵树上身上会有所帮助。"
 	],
 	size: 2.0d,
 	tasks: [{

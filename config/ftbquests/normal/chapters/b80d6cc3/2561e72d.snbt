@@ -1,10 +1,12 @@
 {
-	title: "The Rookies and the Pro",
+	title: "菜鸟和高手的差距",
 	x: 20.5d,
 	y: 9.0d,
-	description: "Just one pro, he don't need no one",
+	description: "如果你自认为技术不错，你就不需要这个了",
 	text: [
-		"The rookies keep taking turns looking up how to do things on the internet, as they're doing it."
+		"菜鸟总是在互联网上问这问那……就比如他们现在这样。",
+		"",
+		"我没说中谁吧？"
 	],
 	dependencies: [
 		"091cf380"

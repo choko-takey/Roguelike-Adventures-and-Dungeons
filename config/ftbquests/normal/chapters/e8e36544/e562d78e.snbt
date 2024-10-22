@@ -1,12 +1,12 @@
 {
-	title: "Hang Ten!",
+	title: "冲刺！",
 	x: -19.0d,
 	y: -3.5d,
-	description: "Cowabunga!",
+	description: "好耶！",
 	text: [
-		"The Hang Glider will allow you to glide to safety from high up.",
+		"滑翔翼能让你安全地滑行至高空",
 		"",
-		"Simply Right-Click with the Glider in your Main Hand and get your squirrel on!"
+		"只需要在主手右键滑翔翼，记得带上你的小松鼠。"
 	],
 	tasks: [{
 		uid: "3707a921",

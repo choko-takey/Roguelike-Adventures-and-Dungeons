@@ -1,10 +1,10 @@
 {
-	title: "Almost a True Fly!",
+	title: "这几乎是真正的飞行！",
 	x: 4.0d,
 	y: -3.0d,
-	description: "You'd definitely get squashed",
+	description: "你绝对会被压扁。",
 	text: [
-		"Craft the Powered Glider Chestplate."
+		"合成充能滑翔胸甲。"
 	],
 	dependencies: [
 		"acb2f772"

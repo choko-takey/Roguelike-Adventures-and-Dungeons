@@ -1,22 +1,22 @@
 {
-	title: "It's Illegal to Yell Fire in a Theatre",
+	title: "在剧场大喊“着火了”是犯法的！",
 	x: 8.5d,
 	y: 12.5d,
-	description: "Boy if there is a fire, I'm letting em' KNOW",
+	description: "孩子们如果真的起火了我会告诉你们的",
 	text: [
-		"This... device... will spawn fire...",
+		"这个工具...可以产生火焰...",
 		"",
-		"Special fire.",
+		"特别的火。",
 		"",
-		"Fast fire.",
+		"很快的火。",
 		"",
-		"Fire that makes you regret fire.",
+		"产生让你后悔的火。",
 		"",
-		"Fire.",
+		"总之就是火。",
 		"",
-		"Make sure you know what you're doing.",
+		"最好知道你在做什么。",
 		"",
-		"Only YOU... can prevent forest fires... and burning your own house down."
+		"只要你...可以阻止森林大火...也可以阻止自己的房子被烧毁。"
 	],
 	tasks: [{
 		uid: "ee1c3772",

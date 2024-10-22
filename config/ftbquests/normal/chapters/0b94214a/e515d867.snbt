@@ -1,10 +1,10 @@
 {
-	title: "Why Are All My Crops Withering?",
+	title: "为什么我的作物都在枯萎？",
 	x: 7.0d,
 	y: -8.0d,
-	description: "Maybe because you're growing Wither Skeletons?",
+	description: "也许是因为你在种植凋灵骷髅？",
 	text: [
-		"Craft some Tier 5 Crafting Seeds."
+		"制作一些五级合成种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

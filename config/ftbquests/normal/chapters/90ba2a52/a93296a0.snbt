@@ -1,10 +1,10 @@
 {
-	title: "Nomad? No, I'm mad",
+	title: "没有生气？不，我气疯了",
 	x: 0.0d,
 	y: 6.5d,
-	description: "Get away from me!",
+	description: "离我远点！",
 	text: [
-		"Kill 50 Nomads."
+		"击杀50只游牧人。"
 	],
 	can_repeat: true,
 	tasks: [{

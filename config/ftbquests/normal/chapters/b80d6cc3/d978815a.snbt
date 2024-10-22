@@ -1,10 +1,10 @@
 {
-	title: "Charged Up!",
+	title: "充电！",
 	x: 15.5d,
 	y: 1.0d,
-	description: "Does this count as high voltage?",
+	description: "这算高压电吗？",
 	text: [
-		"I mean... you can get burned?"
+		"我是说……你会被烫着吗？"
 	],
 	dependencies: [
 		"899a9a02"

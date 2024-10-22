@@ -1,10 +1,10 @@
 {
-	title: "Valkyrie Vanquisher",
+	title: "女武神征服者",
 	x: 12.0d,
 	y: 1.0d,
-	description: "Victory is ours!",
+	description: "胜利是属于我们的！",
 	text: [
-		"Slay 25 Valkyrie Queens."
+		"击杀25只武神女王"
 	],
 	tasks: [{
 		uid: "bf1db7e7",

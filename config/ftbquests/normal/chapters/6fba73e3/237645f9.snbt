@@ -1,12 +1,12 @@
 {
-	title: "Is This How Pads Work?",
+	title: "这玩意儿是这样工作的吗？",
 	x: 0.5d,
 	y: -12.0d,
-	description: "Where do you put it?",
+	description: "你打算放在哪里？",
 	text: [
-		"Craft a Fertile Lilypad.",
+		"制作富饶莲叶。",
 		"",
-		"Speeds up the growth of crops within a 9x9x1 area."
+		"加快9x9x1区域内作物的生长。"
 	],
 	tasks: [{
 		uid: "8113d54d",

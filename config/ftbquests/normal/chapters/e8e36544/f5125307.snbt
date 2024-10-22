@@ -1,12 +1,12 @@
 {
-	title: "Like the Player Launcher, but Firey",
+	title: "弹跳之杖，但带火",
 	x: 2.0221088435374526d,
 	y: -9.2105442176871d,
-	description: "And not as dangerous, per say",
+	description: "而且也没那么危险",
 	text: [
-		"The Torch Launcher is going to be your new friend when you're cave diving. This tool will literally HOCK a torch into the darkness, and it will spawn wherever it lands, taking down durability from your item.",
+		"当你在洞穴潜水时，火把发射器将成为你的新朋友。这个工具可以将火把发射到黑暗中，无论火把落在哪里都会产生火把，这会导致物品的耐久度降低。",
 		"",
-		"The Torch Launcher should also automatically consume torches from your inventory, so you can simply make more in order to repair the durability, while keeping inventory space down a notch."
+		"火把发射器也会自动消耗你物品栏中的火把，因此你可以制造更多火把来修复火把发射器的耐久度，同时减少物品栏空间。"
 	],
 	size: 1.5d,
 	tasks: [{

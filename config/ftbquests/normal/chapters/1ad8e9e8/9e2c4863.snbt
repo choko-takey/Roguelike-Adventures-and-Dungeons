@@ -1,12 +1,12 @@
 {
-	title: "Get Back!",
+	title: "快返回！",
 	x: -11.5d,
 	y: 1.5d,
-	description: "I've got a doll, and it's you!",
+	description: "我得到一个娃娃，并且那是你的脸！",
 	text: [
-		"Deals damage to monsters within a range around the player.",
+		"对玩家周围的怪物造成伤害。",
 		"",
-		"Durability is drained on use."
+		"在使用时会消耗耐久。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

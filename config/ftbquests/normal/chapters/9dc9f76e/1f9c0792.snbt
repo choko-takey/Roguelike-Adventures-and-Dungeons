@@ -1,10 +1,10 @@
 {
-	title: "I Have the Power!",
+	title: "我有力量了！",
 	x: 7.5d,
 	y: -13.0d,
-	description: "Skeletons have been real quiet lately!",
+	description: "骷髅最近好安分！",
 	text: [
-		"Is your Emerald pyramid even READY?!"
+		"你的绿宝石金字塔准备好了吗？！"
 	],
 	dependencies: [
 		"d59f801f"

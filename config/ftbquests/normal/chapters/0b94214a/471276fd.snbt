@@ -1,9 +1,9 @@
 {
 	x: 3.0d,
 	y: -11.0d,
-	description: "Damn it's blazing out here! Literally!",
+	description: "该死的，这里太热了! 字面意思！",
 	text: [
-		"Craft some Blaze Seeds."
+		"制作一些烈焰人种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

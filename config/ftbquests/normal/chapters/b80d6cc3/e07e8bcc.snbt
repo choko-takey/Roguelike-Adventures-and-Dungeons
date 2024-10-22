@@ -1,12 +1,12 @@
 {
-	title: "Journey to the Center of the Earth ",
+	title: "地心历险记",
 	x: 9.5d,
 	y: 0.0d,
-	description: "So deep underground that copyright doesn't even know we exist",
+	description: "因为这里实在是太太太太深了，所以不用担心版权部门找上门……",
 	text: [
-		"Don't jinx it before we get a cease and desist.",
+		"在这一票干成之前别给我掉链子！",
 		"",
-		"Get down deep into that earth, and place that Ember Bore!"
+		"去往世界的最深处，把灰烬晶体开采机安顿好！"
 	],
 	dependencies: [
 		"322bb351"

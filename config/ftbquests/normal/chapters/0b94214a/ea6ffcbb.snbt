@@ -2,11 +2,11 @@
 	title: "Chunky Chunks",
 	x: 0.0d,
 	y: 1.5d,
-	description: "This is quite a lot...",
+	description: "这是相当多的……",
 	text: [
-		"Are you keeping up?",
+		"你跟上需求了吗？",
 		"",
-		"Craft or obtain a Tier 3 Mob Chunk."
+		"制作或获得一块3级怪物基础灵魂碎片。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

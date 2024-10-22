@@ -1,14 +1,14 @@
 {
-	title: "Magic! But Wait, There's More!",
+	title: "魔法！但等等，还有更多！",
 	x: 7.0d,
 	y: -1.5d,
-	description: "Now with scrolls!",
+	description: "现在我们有了卷轴！",
 	text: [
-		"WICK",
+		"威克！",
 		"",
-		"WACK",
+		"瓦克！",
 		"",
-		"ALAKAZAK"
+		"阿拉卡扎卡！"
 	],
 	dependencies: [
 		"4119c49b"

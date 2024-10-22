@@ -1,8 +1,8 @@
 {
-	title: "Sticky Sap",
+	title: "粘性汁液",
 	x: 14.5d,
 	y: 3.0d,
-	description: "You can wash your hands all you want",
+	description: "你可以随心所欲地洗手",
 	dependencies: [
 		"61972b76"
 	],

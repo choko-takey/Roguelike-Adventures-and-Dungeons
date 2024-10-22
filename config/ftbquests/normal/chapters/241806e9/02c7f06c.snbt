@@ -1,12 +1,12 @@
 {
-	title: "You're The Best Pirate I've Ever Met",
+	title: "你是我见过的最棒的海盗",
 	x: 0.5d,
 	y: -0.5d,
-	description: "But you have met me right?",
+	description: "但你见到我了，不是吗？",
 	text: [
-		"Obviously...",
+		"很明显……",
 		"",
-		"Is a sword. Doesn't do anything special."
+		"这是一把剑，没什么特别的。"
 	],
 	dependencies: [
 		"a4636105"

@@ -1,9 +1,9 @@
 {
 	x: 0.0d,
 	y: 5.0d,
-	description: "I hate spiders in real life. Really. I hate them",
+	description: "我讨厌现实中的蜘蛛。真的，我讨厌它们",
 	text: [
-		"Obtain a Spider Chunk."
+		"获得一块蜘蛛灵魂碎片。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

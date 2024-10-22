@@ -1,16 +1,16 @@
 {
-	title: "Short, but also Long",
+	title: "金制按钮，舒适手感",
 	x: -12.5d,
 	y: 12.5d,
-	description: "A long leap for mankind that is",
+	description: "人类的飞跃",
 	text: [
-		"These buttons are simple and produce simple results.",
+		"和一般按钮的用法差不多",
 		"",
-		"And sometimes simple is good.",
+		"有些时候简单点更好。",
 		"",
-		"Gold Button will output a 2 tick pulse. This is an instant ON/OFF.",
+		"金质按钮只会输出2tick的信号，这是一个即时开/关的装置。",
 		"",
-		"Iron Button will output a 100 tick pulse. This is equal to 5 seconds."
+		"铁按钮是一款非常沉重的按钮，按下时，它会发出5秒的信号。"
 	],
 	tasks: [{
 		uid: "a211817b",

@@ -1,16 +1,16 @@
 {
-	title: "Artefacft Trader (Silver)",
+	title: "工艺品出售（银）",
 	x: 8.0d,
 	y: -3.5d,
-	description: "Silver heirlooms here!",
+	description: "这里有银传家宝！",
 	text: [
-		"Sell your unwanted Silver Artefacts.",
+		"卖掉你不想要的银工艺品。",
 		"",
-		"Submit ONE stack of Silver Artefacts to complete this quest.",
+		"提交一种白银工艺品以完成此任务。",
 		"",
-		"Collect the reward after each completion.",
+		"每次完成后领取奖励。",
 		"",
-		"You will not receive rewards for more than one stack submission at a time."
+		"一次提交多组不会获得奖励。"
 	],
 	can_repeat: true,
 	or_tasks: true,

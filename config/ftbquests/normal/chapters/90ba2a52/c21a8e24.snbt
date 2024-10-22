@@ -1,16 +1,16 @@
 {
-	title: "Artefact Trader (Ruby)",
+	title: "工艺品出售红宝石",
 	x: 11.0d,
 	y: -3.5d,
-	description: "Ruby for the lowlow!",
+	description: "红宝石新史低！！",
 	text: [
-		"Sell your unwanted Ruby Artefacts.",
+		"卖掉你不想要的红宝石工艺品。",
 		"",
-		"Submit ONE stack of Ruby Artefacts to complete this quest.",
+		"提交一种红宝石工艺品以完成此任务。",
 		"",
-		"Collect the reward after each completion.",
+		"每次完成后领取奖励。",
 		"",
-		"You will not receive rewards for more than one stack submission at a time."
+		"一次提交多种不会获得奖励。"
 	],
 	can_repeat: true,
 	or_tasks: true,

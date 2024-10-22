@@ -1,14 +1,14 @@
 {
-	title: "You Have WHAT?",
+	title: "你有啥？",
 	x: 11.0d,
 	y: 12.5d,
-	description: "Is it contagious?",
+	description: "它会传染吗？",
 	text: [
-		"Floo Powder is used as a fuel source for teleporting with the Floo Network.",
+		"飞路粉用作在飞路网络中传送的燃料源。",
 		"",
-		"The Floo Network is a network of Brick lines, usually shaped into cozy fireplaces.",
+		"飞路网络是一个砖线网络，通常塑造成舒适的壁炉。",
 		"",
-		"The Floo Pouch can be used up to 2 stacks of Floo Powder, reducing the footprint in your inventory."
+		"飞路粉袋最多可以存2组飞路粉，减少背包的占用。"
 	],
 	tasks: [{
 		uid: "92a6801b",

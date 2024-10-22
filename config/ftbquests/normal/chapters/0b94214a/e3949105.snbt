@@ -1,12 +1,12 @@
 {
-	title: "Infrared?",
+	title: "红外线？",
 	x: -7.0d,
 	y: -3.0d,
-	description: "No, John, Inferium",
+	description: "不，约翰，精华",
 	text: [
-		"Obtain some Inferium Essence.",
+		"获得一些下级精华。",
 		"",
-		"It can be obtained at a 20% drop rate from any monsters."
+		"任何怪物都有20%的概率掉落。"
 	],
 	size: 1.5d,
 	tasks: [{

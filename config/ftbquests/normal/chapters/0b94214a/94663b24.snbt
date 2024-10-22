@@ -1,9 +1,9 @@
 {
 	x: -3.0d,
 	y: -15.0d,
-	description: "You sound kinda salty",
+	description: "你听起来有点咸",
 	text: [
-		"Craft some Basalt Seeds."
+		"制作一些玄武岩种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

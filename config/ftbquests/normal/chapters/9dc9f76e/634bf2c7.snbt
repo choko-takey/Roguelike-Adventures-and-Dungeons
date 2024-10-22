@@ -1,12 +1,12 @@
 {
-	title: "25 Platinum Coin Turn-In",
+	title: "25枚铂金币回收",
 	x: -20.0d,
 	y: -1.0d,
-	description: "Richer than all your enemies!",
+	description: "比所有人都富有！",
 	text: [
-		"Treat yo self!",
+		"款待好自己！",
 		"",
-		"Enables trading between players.",
+		"支持玩家之间的交易。",
 		""
 	],
 	can_repeat: true,

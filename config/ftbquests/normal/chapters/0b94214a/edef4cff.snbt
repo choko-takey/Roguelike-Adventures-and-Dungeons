@@ -1,9 +1,9 @@
 {
 	x: 4.0d,
 	y: -16.0d,
-	description: "Cucumber Gatorade is nasty.",
+	description: "黄瓜佳得乐很难喝。",
 	text: [
-		"Craft some Jade Seeds."
+		"制作一些翡翠种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

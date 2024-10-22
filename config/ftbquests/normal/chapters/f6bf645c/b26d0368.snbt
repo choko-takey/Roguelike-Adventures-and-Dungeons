@@ -1,10 +1,10 @@
 {
-	title: "Bug Boy",
+	title: "小虫男孩",
 	x: 4.5d,
 	y: 11.0d,
-	description: "Well, girl",
+	description: "好吧，女孩",
 	text: [
-		"Will shoot Moonworms! How fun!"
+		"能够发射月光蠕虫，有趣！"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

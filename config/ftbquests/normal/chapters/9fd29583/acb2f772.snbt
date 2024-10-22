@@ -1,10 +1,10 @@
 {
-	title: "This Gear Stinks",
+	title: "这是有臭味的装备",
 	x: 3.0d,
 	y: -4.5d,
-	description: "But not like death...",
+	description: "但不像死亡……",
 	text: [
-		"Ever smelled dead bugs?"
+		"闻起来像死的虫子的气味？"
 	],
 	dependencies: [
 		"d7ca76bc"

@@ -1,10 +1,12 @@
 {
-	title: "Crate Kisses",
+	title: "惊人的一发",
 	x: 19.0d,
 	y: 3.0d,
-	description: "25 Cents",
+	description: "中（间穿）出",
 	text: [
-		"Inundated means overwhelm, or flood."
+		"钻进水中意味着被水包围。"
+		"译者注：原文作者开黄车，但不好翻（我不会，长大后再学）"
+		"翻得比较抽象，凑合着理解"
 	],
 	tasks: [{
 		uid: "6a6c9a2b",

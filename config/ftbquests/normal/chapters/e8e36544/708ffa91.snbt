@@ -1,12 +1,12 @@
 {
-	title: "Calculated Parkour",
+	title: "计算跑酷",
 	x: -1.0d,
 	y: 10.5d,
-	description: "The perfect bounce",
+	description: "完美弹跳",
 	text: [
-		"This Compacted Slime Block will bounce the player 4 blocks high, and break any falls.",
+		"这个压缩的黏液块会将玩家弹起4个方块高，并打破任何跌落。",
 		"",
-		"Doesn't matter how high you jump from, it's only gonna bounce you 4 blocks high."
+		"不管你从多高跳起，它只会把你弹到4个方块高。"
 	],
 	tasks: [{
 		uid: "e760c7b5",

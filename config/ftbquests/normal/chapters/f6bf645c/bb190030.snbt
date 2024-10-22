@@ -1,12 +1,12 @@
 {
-	title: "Tickle Tickle Tickle!",
+	title: "挠痒痒！",
 	x: 5.0d,
 	y: 6.5d,
-	description: "Doesn't matter if you're not ticklish, this thing will GETCHU",
+	description: "如果你不怕痒的话，没事，这东西也有用处",
 	text: [
-		"Put it in someone's armpits to make them scream.",
+		"用它放在别人胳肢窝下，让他们大笑。",
 		"",
-		"Alternatively, you can probably use this as some type of focus."
+		"或者，你也可以用作某种物品的材料。"
 	],
 	dependencies: [
 		"12ae72c5"

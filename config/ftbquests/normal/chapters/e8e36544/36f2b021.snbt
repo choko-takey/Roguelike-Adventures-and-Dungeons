@@ -1,10 +1,10 @@
 {
-	title: "The Ground Bit Me!",
+	title: "大地痛击我！",
 	x: -1.0d,
 	y: -3.0d,
-	description: "Oh no, it's Tremors all over again!",
+	description: "哦不，是又发生地震了!",
 	text: [
-		"The Evoker Fang will summon spikes from the ground in a straight line, dealing moderate damage to mobs.",
+		"唤魔之牙魔杖会从地面下召唤出一条直线的尖刺，对怪物造成一定的伤害。",
 		""
 	],
 	tasks: [{

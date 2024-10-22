@@ -2,17 +2,17 @@
 	title: "007",
 	x: -26.5d,
 	y: -5.5d,
-	description: "But you can't find a damn thing",
+	description: "但是你啥也找不到",
 	text: [
-		"This item is suppose to find structures.",
+		"这个物品可以用来寻找结构。",
 		"",
-		"Well... it DOES find them... just not often, and not a lot.",
+		"但是不要把希望完全寄托于这个物品上……",
 		"",
-		"This may be to due to file structure within the pack and the fact that there aren't many structures in the modpack for this item to lock onto.",
+		"由于配置文件里的文件结构没加载，导致该物品只能寻找原版结构，这个包里的其他结构是找不到的……",
 		"",
-		"For clarity, structures are a special type of file which generate the buildings. They are located in a \"Structures\" folder.",
+		"结构全部位于“Structures”文件夹中",
 		"",
-		"Either there isn't a lot of \"structures\" in the folder, or this item sucks. I really can't tell, and I've tested it a lot. Maybe it's my Seed?"
+		"要么是“structures”文件夹中没有结构，要么是这个东西抽风。反正我是真无语了，我都测了好几次了。也许是我的种子的问题？"
 	],
 	tasks: [{
 		uid: "3ada13ca",

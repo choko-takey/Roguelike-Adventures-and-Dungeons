@@ -1,10 +1,10 @@
 {
-	title: "Leech Therapy",
+	title: "水蛭疗法",
 	x: 6.0d,
 	y: 9.5d,
-	description: "Ever tried it?",
+	description: "试过吗？",
 	text: [
-		"Squish 30 Leeches."
+		"碾碎30只水蛭"
 	],
 	can_repeat: true,
 	tasks: [{

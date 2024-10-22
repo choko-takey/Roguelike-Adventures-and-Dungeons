@@ -1,20 +1,20 @@
 {
-	title: "A Good Hobby",
+	title: "一个好爱好",
 	x: -4.0d,
 	y: -2.0d,
-	description: "Don't get pulled in!",
+	description: "不要被拉进去！",
 	text: [
-		"Dive right in!",
+		"直接跳进去！",
 		"",
-		"The Vanilla Fishing Rod will only capture Vanilla fish.",
+		"原版的钓鱼竿只会抓原版的鱼。",
 		"",
-		"The Aquaculture Fishing Rod will only catch Aquaculture related items.",
+		"水产品模组的钓鱼竿只会钓水产品相关的物品。",
 		"",
-		"Applying anything above Lure V to your Rod will break it. Don't do that.",
+		"任何高于饵钓V附魔在钓竿施加上都会损毁钓竿。别那样做。",
 		"",
-		"You are required to make a Vanilla AND an Aquaculture Fishing Rod to complete this quest.",
+		"你需要制作原版的和水产品的钓竿才能完成这个任务。",
 		"",
-		"THESE ARE TWO DIFFERENT FISHING POLES!"
+		"这-是-两-种-不-同-的-钓-竿！"
 	],
 	dependencies: [
 		"16c3f3d7"

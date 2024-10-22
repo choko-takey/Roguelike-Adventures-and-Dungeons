@@ -1,10 +1,10 @@
 {
-	title: "Slender Ender",
+	title: "瘦长末影人",
 	x: 4.0d,
 	y: -5.5d,
-	description: "He leaves you sweet notes",
+	description: "他给你留下甜蜜的音符",
 	text: [
-		"Kill 50 Endermen."
+		"击杀50只末影人。"
 	],
 	can_repeat: true,
 	tasks: [{

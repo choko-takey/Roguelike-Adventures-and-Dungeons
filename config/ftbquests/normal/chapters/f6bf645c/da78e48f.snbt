@@ -1,10 +1,10 @@
 {
-	title: "Steely Stealeaf",
+	title: "钢铁般的钢叶",
 	x: 5.0d,
 	y: 8.5d,
-	description: "So is it metal, or plant?",
+	description: "那么问题来了，它是金属还是植物？",
 	text: [
-		"Obtain a rare but valuable Steeleaf."
+		"获取一个稀有的钢叶。"
 	],
 	dependencies: [
 		"12ae72c5"

@@ -1,14 +1,14 @@
 {
-	title: "HOT HOT HOT",
+	title: "太热了吧 耶耶耶耶耶耶",
 	x: 13.0d,
 	y: 9.5d,
-	description: "Ahh... not so hot",
+	description: "啊…还不太热",
 	text: [
-		"BUT STILL HOT",
+		"但还是很热！",
 		"",
-		"The Lava Charm will prevent LAVA DAMAGE for 10 seconds when entering Lava. The Lava Charm will need some time to recover if you're in the lava longer than 10 seconds.",
+		"当进入熔岩时，熔岩魔符将在10秒内阻止熔岩伤害。如果你在熔岩中超过10秒，熔岩魔符将需要一些时间来恢复。",
 		"",
-		"The Lava Charm does not need to be in the Baubles slot to gain its effect."
+		"熔岩魔符不需要放在饰品槽就能获得效果。"
 	],
 	tasks: [{
 		uid: "79b314cb",

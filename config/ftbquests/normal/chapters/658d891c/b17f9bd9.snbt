@@ -1,12 +1,12 @@
 {
-	title: "The Blues",
+	title: "宝蓝",
 	x: -3.5d,
 	y: 0.5d,
-	description: "Sometimes you need expensive jewels for rainy days.",
+	description: "有时你需要昂贵的珠宝以备不时之需。",
 	text: [
-		"Sapphires are usually found deep underground.",
+		"蓝宝石通常在地下深处发现。",
 		"",
-		"Someone may be interested in this."
+		"可能有人对此物感兴趣。"
 	],
 	size: 2.0d,
 	tasks: [{

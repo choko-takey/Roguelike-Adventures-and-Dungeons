@@ -1,14 +1,14 @@
 {
-	title: "The New Blood",
+	title: "新血族",
 	x: -5.0d,
 	y: -3.5d,
-	description: "It's not a phase Mom!!",
+	description: "难道这不酷吗？",
 	text: [
-		"For a new blood vampire to become stronger you'll need some inspiration.",
+		"对于刚成为吸血鬼的你，想要变强需要一些激励。",
 		"",
-		"Place down an inspiration altar and start getting inspiried.",
+		"放下振奋祭坛并从中获取力量吧。",
 		"",
-		"Does look a bit empty should fill it with something."
+		"只不过里面看上去空空的，可能需要用什么灌满它。"
 	],
 	dependencies: [
 		"1840a7f1"

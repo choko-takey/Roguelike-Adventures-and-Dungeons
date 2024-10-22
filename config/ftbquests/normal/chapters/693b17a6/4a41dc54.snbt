@@ -1,15 +1,15 @@
 {
-	title: "Quest Completer",
+	title: "任务完成者",
 	x: -5.5d,
 	y: -1.0d,
-	description: "Work done!",
+	description: "工作完成！",
 	text: [
-		"Complete 350 uncommon bounties."
+		"完成350件特殊悬赏"
 	],
 	tasks: [{
 		uid: "1e6fd85c",
 		type: "stat",
-		title: "Complete 350 uncommon bounties",
+		title: "完成350件特殊悬赏",
 		icon: "bountiful:bounty",
 		stat: "stat.bountiesUncommon",
 		value: 350

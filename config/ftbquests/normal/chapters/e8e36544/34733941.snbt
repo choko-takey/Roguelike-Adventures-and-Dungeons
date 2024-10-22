@@ -1,10 +1,10 @@
 {
-	title: "Falling Sand",
+	title: "落沙为寇",
 	x: -29.0d,
 	y: 4.0d,
-	description: "RIP Flash",
+	description: "Flash一路走好……",
 	text: [
-		"Redstone Sand behaves like a Redstone Block except it falls down."
+		"沙质红石块和红石块一样，只不过它受重力影响。"
 	],
 	tasks: [{
 		uid: "71744259",

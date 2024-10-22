@@ -1,15 +1,15 @@
 {
-	title: "Spooky Scary Skeletons",
+	title: "怪异可怕的骷髅",
 	icon: "minecraft:bone",
 	x: -2.0d,
 	y: -5.5d,
-	description: "That's gonna get used a lot...",
+	description: "这会被大量使用。。。",
 	text: [
-		"Kill 50 Skeletons",
-		"OR",
-		"Kill 50 Strays",
-		"OR",
-		"Kill 50 Wither Skeletons"
+		"击杀50只骷髅",
+		"或者",
+		"击杀50只流髑",
+		"或者",
+		"击杀50只凋灵骷髅"
 	],
 	can_repeat: true,
 	or_tasks: true,

@@ -1,10 +1,10 @@
 {
-	title: "The C-old Man",
+	title: "超酷~~~~~~~~~~~的男人",
 	x: -10.0d,
 	y: 17.5d,
-	description: "Gives some truthful advice",
+	description: "这里给出一些建议",
 	text: [
-		"Ya' know, the stuff that really hurts people?"
+		"呐……你知道那些真正伤人的东西是什么吗？"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

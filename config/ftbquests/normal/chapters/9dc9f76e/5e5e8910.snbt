@@ -1,12 +1,12 @@
 {
-	title: "Chester the Chest",
+	title: "箱子精",
 	x: -5.0d,
 	y: -1.0d,
-	description: "He will hold your stuff",
+	description: "他会帮你保管东西",
 	text: [
-		"Everyone needs storage!",
+		"每个人都需要存东西！",
 		"",
-		"You are only required to make one type of Chest to complete this quest."
+		"你只需要一种箱子就能完成这个任务。"
 	],
 	dependencies: [
 		"16c3f3d7"

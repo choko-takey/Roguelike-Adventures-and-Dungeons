@@ -1,16 +1,16 @@
 {
-	title: "Mob Mobster IV",
+	title: "屠戮者 IV",
 	icon: "minecraft:bone",
 	x: -10.0d,
 	y: -2.0d,
-	description: "You are indeed, slaying lots...",
+	description: "你真的在屠杀很多生物……",
 	text: [
-		"Slay 50,000 mobs."
+		"击杀50000只生物。"
 	],
 	tasks: [{
 		uid: "cf74782f",
 		type: "stat",
-		title: "Slay 50,000 mobs",
+		title: "击杀50000只生物",
 		icon: "minecraft:bone",
 		stat: "stat.mobKills",
 		value: 50000

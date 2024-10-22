@@ -1,18 +1,18 @@
 {
-	title: "The Super Remoto 720 Super Flip",
+	title: "720型超级远程触发器",
 	x: 4.0d,
 	y: 12.5d,
-	description: "Now with standard toaster installed!",
+	description: "现在购买即可免费赠送一台烤面包机！",
 	text: [
-		"This is the basic one though, so it doesn't have the toaster. ",
+		"但是这个任务要求的是基础的触发器，所以没有烤面包机。",
 		"",
-		"But it's got everything else! Like being able to send a 20 tick (1s) pulse to up to 9 locations, remotely!",
+		"但它已经能做很多事了，例如，可以远程为最多9个地点发送一个20ticks（1s）的红石脉冲信号。",
 		"",
-		"Use a Position Filter to select the location or block you wish to be powered.",
+		"使用方位过滤器来选择你想要远程激活的地点或方块。",
 		"",
-		"Shift-Right-Click to \"open\" your Redstone Remote. Place an item below the Position Filter. This will be the item icon that appears for that location when activating your Redstone Remote.",
+		"shift+右键来打开你的远程红石触发器。在方位过滤器的下方放一个方块，在激活触发器时，方块的图标标记着方位过滤器所记录的那个地点。",
 		"",
-		"Right-Click to activate your Remote and select a location. Rapidly clicking a location seems to give a continuous Redstone signal."
+		"右键激活你的触发器并选择一个地点。快速点击同一地点会输出持续的红石信号。"
 	],
 	tasks: [{
 		uid: "47cb42a4",

@@ -1,12 +1,12 @@
 {
-	title: "The Worst Sewage System Ever",
+	title: "我就没见过这么烂的流体运输系统！",
 	x: 4.5d,
 	y: -2.5d,
-	description: "That smell that smells smelly",
+	description: "闻起来有一股臭水沟的味道！",
 	text: [
-		"Ever had a septic leak?",
+		"有什么腐蚀性流体泄漏吗……",
 		"",
-		"It's something I WOULD wish upon my worst enemy."
+		"这是我仇敌的心愿，呵！"
 	],
 	dependencies: [
 		"322bb351"

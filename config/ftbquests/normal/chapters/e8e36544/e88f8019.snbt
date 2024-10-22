@@ -1,5 +1,5 @@
 {
-	title: "Book",
+	title: "指导书",
 	icon: {
 		id: "guideapi:cyclicmagic-guide",
 		tag: {
@@ -8,11 +8,12 @@
 	},
 	x: 7.0d,
 	y: -10.5d,
-	description: "A book about cyclic",
+	description: "循环指南",
 	text: [
-		"Quest are much better because they give rewards",
+		"因为奖励所以任务更好",
+
 		"",
-		"Unlike books only nerds read books."
+		"而不像指导书，书只能读"
 	],
 	can_repeat: true,
 	tasks: [{

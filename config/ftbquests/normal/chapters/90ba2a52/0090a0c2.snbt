@@ -1,16 +1,16 @@
 {
-	title: "Artefact Trader (Diamond)",
+	title: "工艺品出售（钻石）",
 	x: 13.0d,
 	y: -3.5d,
-	description: "Totally non-fake Diamonds here!",
+	description: "这里的钻石完全是假的！",
 	text: [
-		"Sell your unwanted Diamond Artefacts.",
+		"卖掉你不想要的钻石工艺品。",
 		"",
-		"Submit ONE stack of Diamond Artefacts at a time to complete this quest.",
+		"每次提交一种钻石工艺品以完成此任务。",
 		"",
-		"Collect the reward after each completion.",
+		"每次完成后领取奖励。",
 		"",
-		"You will not receive the reward for more than one stack submission at a time."
+		"一次提交多组不会获得奖励。"
 	],
 	can_repeat: true,
 	or_tasks: true,

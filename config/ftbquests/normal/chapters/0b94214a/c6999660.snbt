@@ -1,9 +1,9 @@
 {
 	x: 4.5d,
 	y: -4.5d,
-	description: "This can't be okay to burn",
+	description: "这可不能烧了",
 	text: [
-		"Obtain some Superium Coal."
+		"获得一些高级精华煤。"
 	],
 	dependencies: [
 		"9a05eb59"
