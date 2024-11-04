@@ -125,8 +125,8 @@ mia.config.base_additions.evtp.redstone_lantern_enabled=启用红石灯笼
 mia.config.base_additions.evtp.dead_flower_chance=枯死的花生成几率
 
 # Size module
-mia.config.base_additions.size_component=Experimental size feature
-mia.config.base_additions.size_component.enabled=启用experimental size feature
+mia.config.base_additions.size_component=实验性体型特征
+mia.config.base_additions.size_component.enabled=启用实验性体型特征
 mia.config.base_additions.size_component.min_player_size=最小玩家体型
 mia.config.base_additions.size_component.max_player_size=最大玩家体型
 mia.config.base_additions.size_component.min_mob_size=最小生物体型
@@ -134,54 +134,54 @@ mia.config.base_additions.size_component.max_mob_size=最大生物体型
 mia.config.base_additions.size_component.scale_speed=调节移动速度
 mia.config.base_additions.size_component.scale_strength=调节力量
 mia.config.base_additions.size_component.scale_max_health=调节最大生命值
-mia.config.base_additions.size_component.scale_current_health=调节current health when growing
+mia.config.base_additions.size_component.scale_current_health=体型变大时增加生命值
 mia.config.base_additions.size_component.scale_reach=调节触及距离
 mia.config.base_additions.size_component.scale_swim_speed=调节游泳速度
-mia.config.base_additions.size_component.fix_rendering=Fix entity rendering at small sizes
-mia.config.base_additions.size_component.fix_rendering_inventory=Fix player rendering in inventory
-mia.config.base_additions.size_component.banned_entities_size=Entities banned from size change
+mia.config.base_additions.size_component.fix_rendering=修复小体型生物的渲染
+mia.config.base_additions.size_component.fix_rendering_inventory=修复玩家在物品栏中的渲染
+mia.config.base_additions.size_component.banned_entities_size=设置无法改变体型的实体
 mia.config.base_additions.size_component.mob_size=允许改变生物体型
-mia.config.base_additions.size_component.giants_crush_entities=允许碾压比其小的生物
-mia.config.base_additions.size_component.players_crush_players=允许玩家
-mia.config.base_additions.size_component.banned_entities_crushing=Entities banned from crushing others or being crushed
-mia.config.base_additions.size_component.roses_hurt_player=Do small players get hurt while walking through roses
-mia.config.base_additions.size_component.plants_slow_player=Do small players get slowed down while walking through plants
-mia.config.base_additions.size_component.climb_some_blocks=允许small players climb some块s
-mia.config.base_additions.size_component.climb_with_slime=允许small players climb any块s while holding slime
-mia.config.base_additions.size_component.glide_with_paper=允许small players glide while holding paper
-mia.config.base_additions.size_component.hot_blocks_lift=Do small players get flight height boost while gliding over hot块s
+mia.config.base_additions.size_component.giants_crush_entities=允许大体型实体碾压比其小的实体
+mia.config.base_additions.size_component.players_crush_players=允许大体型玩家碾压比其小的玩家
+mia.config.base_additions.size_component.banned_entities_crushing=设置无法碾压和被碾压的实体
+mia.config.base_additions.size_component.roses_hurt_player=使小体型玩家穿过玫瑰时收到伤害
+mia.config.base_additions.size_component.plants_slow_player=使小体型玩家穿过植物时减缓移动速度
+mia.config.base_additions.size_component.climb_some_blocks=允许小体型玩家攀爬部分方块
+mia.config.base_additions.size_component.climb_with_slime=允许小体型玩家持有黏液球或黏液块时攀爬方块
+mia.config.base_additions.size_component.glide_with_paper=允许小体型玩家持有纸时滑翔
+mia.config.base_additions.size_component.hot_blocks_lift=使小体型玩家飞越热源方块上空时抬升飞行高度
 mia.config.base_additions.size_component.thaumcraft_integration=Thaumcraft兼容性
 
 ## Mod specific
 
-mia.config.harvestcraft.squid_drops_calamari=Squid drops calamari
-mia.config.harvestcraft.balance_modded_food=Balance modded food similarly to vanilla ones
-mia.config.thaumcraft.register_aspects=Register aspects for other mods
-mia.config.botania.orechid_vacuam_oredict=凝矿兰 ore dictionary
-mia.config.xu2.register_shady_merchant_jer=Register shady merchant trades in JER
+mia.config.harvestcraft.squid_drops_calamari=鱿鱼掉落生鱿鱼
+mia.config.harvestcraft.balance_modded_food=按原版方式平衡模组食物
+mia.config.thaumcraft.register_aspects=为其它模组的物品添加要素
+mia.config.botania.orechid_vacuam_oredict=设置凝矿兰能生成的矿物
+mia.config.xu2.register_shady_merchant_jer=在JER中展示黑心商人的可交易物品
 
-mia.config.aether.laser_drill_blacklist_aether=Blacklist laser drill Aether biome for non-Aether ores
+mia.config.aether.laser_drill_blacklist_aether=禁止镭射钻在天境中生产非天境矿物
 
 ## JEI
 
-mia.config.jei.loot_bag=启用loot bag category
-mia.config.jei.alchemical_cauldron=启用alchemical cauldron category
-mia.config.jei.orechid_vacuam=启用orechid vacuam category
+mia.config.jei.loot_bag=启用战利品袋的内容物查询
+mia.config.jei.alchemical_cauldron=启用炼金术大锅的配方查询
+mia.config.jei.orechid_vacuam=启用凝矿兰的产物查询
 
 ## Quark
 
 
 # Industrial Foregoing
 
-mia.config.industrial_foregoing.enable_froster=启用new Froster recipes
-mia.config.industrial_foregoing.enable_laser_drill=启用new Laser Drill entries
-mia.config.industrial_foregoing.enable_protein_generator=启用new Protein Generator entries
-mia.config.industrial_foregoing.enable_tree_fluid_extractor=启用Tree Fluid Extractor entries
+mia.config.industrial_foregoing.enable_froster=允许为速冻机添加新的产物
+mia.config.industrial_foregoing.enable_laser_drill=允许为镭射钻添加新的条目
+mia.config.industrial_foregoing.enable_protein_generator=允许为蛋白质发电机添加新的条目
+mia.config.industrial_foregoing.enable_tree_fluid_extractor=允许为树液提取机添加新的条目
 
 ## Mo' Creatures
 
 
-mia.commands.size.usage_op=/size <player> <size> or /size [size]
+mia.commands.size.usage_op=/size <玩家> <体型大小> or /size [体型大小]
 mia.commands.size.usage=/size
 mia.commands.size.success_1=%s大小调节为%s (实际大小为%s)
 mia.commands.size.success_2=成功将%s体型改为%s

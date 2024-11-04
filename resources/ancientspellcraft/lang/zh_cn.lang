@@ -49,7 +49,7 @@ tile.ancientspellcraft\:unseal_button.name=解封符文
 commands.ancientspellcraft\:listbiomes.usage=/%1$s
 
 #config
-config.ancientspellcraft.loot_injection_locations.tooltip=古代咒法的战利品应该注入的战利品表列表 (as specified in loot_tables/chests/dungeon_additions.json) into.
+config.ancientspellcraft.loot_injection_locations.tooltip=古代咒法的战利品应该注入的战利品列表（列于loot_tables/chests/dungeon_additions.json文件中）
 config.ancientspellcraft.loot_injection_locations=战利品注入
 
 #element
@@ -891,7 +891,7 @@ spell.ancientspellcraft\:corpse_bomb=尸爆术
 spell.ancientspellcraft\:covenant.=%1$s不再跟随你
 spell.ancientspellcraft\:covenant.desc=通过唤醒来自巫师秩序的古代誓言，你能请求一名巫师帮助你对抗邪恶。
 spell.ancientspellcraft\:covenant.following=%1$s正在跟随你
-spell.ancientspellcraft\:covenant.no_longer_following=%1$s不在跟随你
+spell.ancientspellcraft\:covenant.no_longer_following=%1$s不再跟随你
 spell.ancientspellcraft\:covenant=誓约
 spell.ancientspellcraft\:create_igloo.desc=在施法者所指之处生成一个冰屋。使用的时候魔杖必须指向下方。
 spell.ancientspellcraft\:create_igloo=冰屋术
@@ -1401,7 +1401,7 @@ spell.ancientspellcraft\:death_mark.desc=在目标实体上放置一个魔法铭
 spell.ancientspellcraft\:death_mark.entity_death_message=拥有死亡标记的 %1$s 死了。
 spell.ancientspellcraft\:tome_warp=魔典经线
 spell.ancientspellcraft\:tome_warp.desc=潜行使用魔典管理器与活化的魔典交换位置。
-tooltip.ancientspellcraft\:more_info=[Press sneak for more info]
+tooltip.ancientspellcraft\:more_info=【按下潜行键查看详细信息】
 tooltip.ancientspellcraft\:mystic_spell_book.more_info=奥秘法术书只能与贤者魔典绑定，并由贤者使用。可以使用抄写法术将空白奥秘法术书创作为它。
 tooltip.ancientspellcraft\:runic_plate.more_info=符文石板可以容纳符文法术，只能绑定到战斗法师使用的施法刃上。它们的制造方法已经丢失，只能被搜寻到。
 tooltip.ancientspellcraft\:sage_tome.more_info=贤者魔典可以容纳贤者使用的奥秘法术，必须穿全套贤者装备才能施放。如果有足够的熟练度的话，贤者魔典可以在奥秘览术台上用附魔书页升级。
