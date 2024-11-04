@@ -3,7 +3,7 @@
    <h1>Roguelike冒险与地牢简体中文翻译</h1>
 </div>
 
-FTB官网|加载器|整合包版本|状态
+CurseForge|加载器|整合包版本|状态
 :-|:-|:-|:-
 [链接](https://www.curseforge.com/minecraft/modpacks/roguelike-adventures-and-dungeons)|Forge|mc1.12.2 1.54|*翻译新版中*|
 
