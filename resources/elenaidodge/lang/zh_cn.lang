@@ -11,14 +11,14 @@ reskillable.unlock.elenaidodge.walljump.desc=在半空中时背对墙面按下�
 reskillable.unlock.elenaidodge.ledgegrab=悬挂
 reskillable.unlock.elenaidodge.ledgegrab.desc=在半空中时面朝墙面跳跃按下跳跃键将自己悬挂在墙面的边缘！
 
-tutorial.dodge.title=按住 %s 键
-tutorial.dodge.description=使用 %s, %s, %s 或者 %s 进行闪避！
+tutorial.dodge.title=按住%s键
+tutorial.dodge.description=使用%s、%s、%s或者%s进行闪避！
 
-tutorial.doubledodge.title=双击 %s, %s 或者 %s
-tutorial.doubledodge.description=按下 %s 冲刺！
+tutorial.doubledodge.title=双击%s、%s或者%s
+tutorial.doubledodge.description=按下%s冲刺！
 
 tutorial.forwardsdoubledodge.title=连续翻滚
-tutorial.forwardsdoubledodge.description=双击 %s, %s, %s 或 %s
+tutorial.forwardsdoubledodge.description=双击%s、%s、%s或%s
 
 potion.effect.can_dodge=Elenai的祝福药水
 splash_potion.effect.can_dodge=喷溅型Elenai的祝福药水

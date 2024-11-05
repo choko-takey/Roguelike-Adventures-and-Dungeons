@@ -183,7 +183,7 @@ mia.config.industrial_foregoing.enable_tree_fluid_extractor=允许为树液提�
 
 mia.commands.size.usage_op=/size <玩家> <体型大小> or /size [体型大小]
 mia.commands.size.usage=/size
-mia.commands.size.success_1=%s大小调节为%s (实际大小为%s)
+mia.commands.size.success_1=%s大小调节为%s（实际大小为%s）
 mia.commands.size.success_2=成功将%s体型改为%s
 mia.commands.size.failure_1=%s既不是一个玩家也不是一个有效的值。
 
@@ -197,7 +197,7 @@ mia.commands.size.failure_1=%s既不是一个玩家也不是一个有效的值�
 # Unused， TOP uses server to display that data， and we can't access language files there
 
 #mia.top.progress=进程
-#mia.top.progress_speed=速度： %s
+#mia.top.progress_speed=速度：%s
 #mia.top.not_enough_dirt=附近没有足够的草和土
 #mia.top.not_enough_water=附近没有足够的水
 
@@ -254,7 +254,7 @@ mia.jei.botania.orechid_vacuam=凝矿兰
 mia.jer.affected_by_research=进行神秘学研究时会影响概率
 mia.jer.less_chance_if_held=当物品在物品栏时会影响概率
 mia.jer.if_last_one_killed=只有最后一个敌人才会掉落此物品
-mia.jer.named=仅当生物名字为以下之一时: %s
+mia.jer.named=仅当生物名字为以下之一时：%s
 mia.jer.adult=仅当长大时
 mia.jer.not_adult=仅当未长大时
 mia.jer.carrying=仅当携带此物品时
@@ -478,7 +478,7 @@ tile.void_creator.name=虚空制造者
 # Thaumcraft research
 
 research.void_creator.title=虚空制造者
-research.void_creator.stage.1=我感觉好奇怪，像是丢失了某些东西....或者是因为我在这个世界。这里太安全了，我不能接收到更加“先进”的研究。我应该试着更深入地了解这一点。
+research.void_creator.stage.1=我感觉好奇怪，像是丢失了某些东西……或者是因为我在这个世界。这里太安全了，我不能接收到更加“先进”的研究。我应该试着更深入地了解这一点。
 research.void_creator.stage.2=就是这样！根据我从血腥教徒收集到的信息，我成功地制造了一个设备，它能从周围的腐化之地中制造一种罕见而强大的材料——虚空种子。比起魔力，它更需要咒波，并且需要足够的咒波来启动它。
 
 research.focus_size_change.title=核心效果：改变大小

@@ -12,13 +12,13 @@ key.radenchants.sockets_info=显示镶嵌信息
 #Commands
 commands.earplugs.usage=/earplugs <add|remove> <sound> 或者/earplugs list
 commands.earplugs.add.full=声音列表已满！
-commands.earplugs.add.success=已添加 '%s' 进入耳塞列表
-commands.earplugs.add.fail=Sound '%s' 已经在列表中
-commands.earplugs.remove.success=已将 '%s'从耳塞列表中移除
-commands.earplugs.remove.fail='%s' 未设置在列表中
-commands.earplugs.list.success=耳塞声音列表:
+commands.earplugs.add.success=已添加“%s”进入耳塞列表
+commands.earplugs.add.fail=声音“%s”已经在列表中
+commands.earplugs.remove.success=已将“%s”从耳塞列表中移除
+commands.earplugs.remove.fail=“%s”未设置在列表中
+commands.earplugs.list.success=耳塞声音列表：
 commands.earplugs.list.fail=没有任何声音在列表中
-commands.earplugs.unknownSound='%s'为未知音效
+commands.earplugs.unknownSound=“%s”为未知音效
 commands.earplugs.enchant=未发现耳塞
 
 
@@ -48,7 +48,7 @@ enchantment.radenchants.decapitating.desc=有概率斩下你敌人的头颅
 enchantment.radenchants:dual_edge=对立双刃
 enchantment.radenchants.dual_edge.desc=击杀生物后会永久增加你受到和造成的伤害
 
-tooltip.radenchants.dual_edge=§6对立双刃 (%s)
+tooltip.radenchants.dual_edge=§6对立双刃（%s）
 
 enchantment.radenchants:barbs=倒刺
 enchantment.radenchants.barbs.desc=被钓钩钓住的目标将会持续受到伤害
@@ -129,7 +129,7 @@ enchantment.radenchants.illuminate.desc=显示附近的隐形生物
 
 enchantment.radenchants:seventh=第七个
 enchantment.radenchants.seventh.desc=当攻击次数计数中有7时，造成更多伤害
-tooltip.radenchants.seventh=§a命中次数: (%s)
+tooltip.radenchants.seventh=§a命中次数：（%s）
 
 enchantment.radenchants:appetite=食欲不振
 enchantment.radenchants.appetite.desc=你吃什么都味同嚼蜡，没有任何进食的欲望
@@ -163,19 +163,19 @@ enchantment.radenchants.one_with_the_blade.desc=当你只携带剑时，增加�
 enchantment.radenchants:snitch=窥探
 enchantment.radenchants.snitch.desc=附魔在被命名为玩家的名字的地图上。右键使用消耗地图，获取对应玩家信息。级别越高，信息越详细
 message.radenchants:snitch.alert.target.anon=有人窥探着你！
-message.radenchants:snitch.alert.target.user=<%s> 窥探着你的行踪！
+message.radenchants:snitch.alert.target.user=<%s>窥探着你的行踪！
 message.radenchants:snitch.alert.global.anon=有人窥探了<%s>的行踪：
 message.radenchants:snitch.alert.global.user=%s窥探了<%s>的行踪：
 message.radenchants:snitch.alert.info=<%s>的行踪：
 message.radenchants:snitch.alert.self=你已经窥探了自己的行踪
 message.radenchants:snitch.restriction=你只能对自己使用窥探！
 message.radenchants:snitch.limit.max=目标离你实在太远了
-message.radenchants:snitch.limit.amount= 距离: %s
-message.radenchants:snitch.dimension.info= 维度： %s
+message.radenchants:snitch.limit.amount= 距离：%s
+message.radenchants:snitch.dimension.info= 维度：%s
 message.radenchants:snitch.dimension.restriction=目标不在同一纬度
-message.radenchants:snitch.distance= 距离： %s
-message.radenchants:snitch.coords= 位置： %s
-message.radenchants:snitch.health= 生命值： %s
+message.radenchants:snitch.distance= 距离：%s
+message.radenchants:snitch.coords= 位置：%s
+message.radenchants:snitch.health= 生命值：%s
 message.radenchants:snitch.gear= 装备：
 message.radenchants:snitch.item= - %s
 message.radenchants:snitch.bambi= 装备：未携带
@@ -192,26 +192,26 @@ enchantment.radenchants.glare.desc=与你对视的生物将被你的怒火所灼
 
 enchantment.radenchants:socketed=镶嵌
 enchantment.radenchants.socketed.desc=奇迹般地强化你物品的品质
-tooltip.radenchants.sockets.count=§e镶嵌(%s) §8
+tooltip.radenchants.sockets.count=§e镶嵌（%s）§8
 tooltip.radenchants.sockets.show=§e镶嵌：
-tooltip.radenchants.sockets.stat.flat=%s:§r +%s
-tooltip.radenchants.sockets.stat.percent=%s:§r +%s%%
+tooltip.radenchants.sockets.stat.flat=%s：§r+%s
+tooltip.radenchants.sockets.stat.percent=%s：§r+%s%
 tooltip.radenchants.sockets.star=✦
 tooltip.radenchants.sockets.upgrade.symbol=❖
 tooltip.radenchants.sockets.upgrade_pending= +？
-tooltip.radenchants.sockets.etch_pending= + 新镶嵌!
-tooltip.radenchants.sockets.enhance_pending= + 等阶!
+tooltip.radenchants.sockets.etch_pending= + 新镶嵌！
+tooltip.radenchants.sockets.enhance_pending= + 等阶！
 tooltip.radenchants.sockets.enhance_symbol=+
-tooltip.radenchants.sockets.hold=[包含 %s]
-tooltip.radenchants.sockets.info= %sx '%s' + %s 级
+tooltip.radenchants.sockets.hold=【包含%s】
+tooltip.radenchants.sockets.info= %sx “%s”+ %s 级
 tooltip.radenchants.sockets.info.how=使用带有镶嵌附魔的物品在铁砧中与其他材料结合
-tooltip.radenchants.sockets.info.stars= > 星级 (%s): 1 = 90%%+ 升星卷轴, 2 = 100%% 升星卷轴, 3 = 100%% 升星卷轴和100%% 升级卷轴
-tooltip.radenchants.sockets.info.upgrade= > 已升级 (增加统计信息 %s):
-tooltip.radenchants.sockets.info.wipe= > 已祛除 (重置镶嵌):
-tooltip.radenchants.sockets.info.etch= > 已镶嵌 (填充空镶嵌):
-tooltip.radenchants.sockets.info.enhance= > 已擢升 (提升等阶 %s):
-tooltip.radenchants.sockets.original_value=起源卷轴： %s, %s - %s, %s%%"
-tooltip.radenchants.sockets.upgrade_value=升级消耗： %s, %s - %s, %s%%"
+tooltip.radenchants.sockets.info.stars= > 星级（%s）：1 = 90%+升星卷轴, 2 = 100%升星卷轴, 3 = 100%升星卷轴和100%升级卷轴
+tooltip.radenchants.sockets.info.upgrade= > 已升级（增加统计信息%s）：
+tooltip.radenchants.sockets.info.wipe= > 已祛除（重置镶嵌）：
+tooltip.radenchants.sockets.info.etch= > 已镶嵌（填充空镶嵌）：
+tooltip.radenchants.sockets.info.enhance= > 已擢升（提升等阶%s）：
+tooltip.radenchants.sockets.original_value=起源卷轴：%s, %s - %s, %s%"
+tooltip.radenchants.sockets.upgrade_value=升级消耗：%s, %s - %s, %s%"
 
 enchantment.radenchants:lucky_strike=幸运一击
 enchantment.radenchants.lucky_strike.desc=原版暴击不再生效，现在你的每次攻击都有概率触发暴击
@@ -220,7 +220,7 @@ enchantment.radenchants:sacrifice=献祭
 enchantment.radenchants.sacrifice.desc=杀死被驯服的动物可以提升你的力量
 
 enchantment.radenchants:earplugs=耳塞
-enchantment.radenchants.earplugs.desc=使用'/earplugs'指令来抑制游戏声音。 你可以直接禁用一个声音来源而不只是一个声音，如： 'minecraft:entity.cow'。
+enchantment.radenchants.earplugs.desc=使用“/earplugs”指令来抑制游戏声音。你可以直接禁用一个声音来源而不只是一个声音，如：“minecraft:entity.cow”。
 
 enchantment.radenchants:boosted=聪慧
 enchantment.radenchants.boosted.desc=提升经验获取
