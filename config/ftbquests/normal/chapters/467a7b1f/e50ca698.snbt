@@ -1,10 +1,10 @@
 {
-	title: "Bad Doggy",
+	title: "坏狗狗",
 	x: 2.0d,
 	y: 1.5d,
-	description: "What did the dog do?",
+	description: "这只笨狗做了什么？",
 	text: [
-		"You showed them whose top dog now go send them a message by turning  there dead kin into a cloak"
+		"用它们的毛皮做一件斗篷，向它们展示谁才是狗狗之王。"
 	],
 	dependencies: [
 		"955cf90b"

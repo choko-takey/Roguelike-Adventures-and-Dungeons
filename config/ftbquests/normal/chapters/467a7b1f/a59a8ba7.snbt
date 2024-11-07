@@ -1,10 +1,10 @@
 {
-	title: "Stick A Block In It",
+	title: "木棍成块",
 	x: 3.0d,
 	y: 1.5d,
-	description: "Highly flammable",
+	description: "高度易燃",
 	text: [
-		"Tired of sticks filling up your chest why not just combined them into a pile."
+		"不想让木棍堆满箱子为什么不把它们拼成一堆。"
 	],
 	tasks: [{
 		uid: "a6f77190",

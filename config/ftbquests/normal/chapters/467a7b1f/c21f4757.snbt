@@ -1,12 +1,12 @@
 {
-	title: "Get Over Here",
+	title: "给我过来",
 	x: 0.5d,
 	y: -2.0d,
-	description: "Finish him",
+	description: "跟他爆了",
 	text: [
-		"Wanna be a ninja? ",
+		"想成为忍者吗？",
 		"",
-		"Steal one of these from a bonepile and you can start your journey as a shinobi."
+		"从bonepile身上获取一份kunai随后开始你的忍术之旅。"
 	],
 	dependencies: [
 		"8e9b9c3a"

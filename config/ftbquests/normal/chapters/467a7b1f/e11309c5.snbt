@@ -1,19 +1,19 @@
 {
-	title: "Here, There, Everywere",
+	title: "自由传送",
 	x: -0.5d,
 	y: -2.0d,
-	description: "Your like a kirby boss now",
+	description: "就像卡比系列的头目一样",
 	text: [
-		"Tired of getting ambushed by mobs and pinned in a corner then dying",
-		"due to not being able to escape.",
+		"你是否曾有过被一大群怪物逼到墙角，",
+		"无处可逃而被围殴致死的惨痛经历？",
 		"",
-		"Worry no more carry some rifted pearls or drink a rifted potion",
-		"and that will be a worry of the past",
+		"带一些裂隙末影珍珠或者喝一瓶裂隙药水，",
+		"那些痛苦将不复存在。",
 		"",
-		"Side effects may include",
-		"Being warped randomly",
-		"Teleport living creatures randomly",
-		"Teleporting dropped items randomly"
+		"副作用可能包括：",
+		"自己随机被传送。",
+		"周边的生物随机被传送。",
+		"周边的掉落物随机被传送。"
 	],
 	dependencies: [
 		"8fe168f2"

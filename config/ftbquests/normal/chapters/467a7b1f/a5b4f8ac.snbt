@@ -1,14 +1,14 @@
 {
-	title: "Hot Headed",
+	title: "头脑发热",
 	x: 1.5d,
 	y: -2.0d,
-	description: "A bright idea",
+	description: "一个亮点子",
 	text: [
-		"Forgot your torches at home or tired of wasting your coal?",
+		"忘了带火把又或者是不想浪费煤炭？",
 		"",
-		"Beat up enough bouldering zombies and maybe you can steal its neat hat.",
+		"多击杀几只攀岩僵尸，你将有机会得到它头上那顶好看的帽子。",
 		"",
-		"No need for torches when your light headed enough to reveal your surrondings."
+		"从此不再需要火把，你亮堂堂的脑袋已经足够揭示周边环境了。"
 	],
 	dependencies: [
 		"6a57abef"

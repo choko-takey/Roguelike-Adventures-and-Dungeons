@@ -1,19 +1,19 @@
 {
-	title: "They Came From Somewhere",
+	title: "它们来自某个地方",
 	x: -0.5d,
 	y: -1.0d,
-	description: "Probably space, all the weird things live there",
+	description: "也许是太空，那里有太多奇怪的事情",
 	text: [
-		"An enderman that went to a place it should never have in the first place",
+		"一个末影人去了一个不该去的地方。",
 		"",
-		"It's punishment is being able to fire cool lasers and getting armour all over it's body",
+		"作为惩罚，它学会了发射酷炫的激光，并且全身覆盖了一层铠甲。",
 		"",
-		"Don't even dream about trying to face these thing without a shield."
+		"不要妄想在没有护甲的情况下与它们战斗。"
 	],
 	tasks: [{
 		uid: "614c1d07",
 		type: "kill",
-		title: "Slay Some Rifted Endermen",
+		title: "击杀一些裂隙末影人",
 		icon: {
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}

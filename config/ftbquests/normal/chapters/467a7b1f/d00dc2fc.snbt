@@ -1,17 +1,17 @@
 {
-	title: "Zombie, It's Cold Outside",
+	title: "僵尸先生，外面真的很冷",
 	x: 2.5d,
 	y: -1.0d,
-	description: "Then you should of brought a coat",
+	description: "你应该带件外套的",
 	text: [
-		"These zombies got turned into half popsicles and now use it to have deadly snowball fights.",
+		"这些僵尸有半个身子被冻成了冰棍，不过现在它们可以和你打一场激烈的雪仗了。",
 		"",
-		"If snowballs were deadly spikes that is."
+		"不过说是打雪仗，其实发射的是致命的冰锥就是了。"
 	],
 	tasks: [{
 		uid: "2b5e0294",
 		type: "kill",
-		title: "Slay Some Frostwalkers",
+		title: "击杀一些急冻漫游者",
 		entity: "ancientbeasts:frost_walker",
 		value: 10L
 	}],

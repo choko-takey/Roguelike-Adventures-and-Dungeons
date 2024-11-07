@@ -1,12 +1,12 @@
 {
-	title: "Cactus Soup",
+	title: "仙人掌浓汤",
 	x: 0.0d,
 	y: 2.0d,
-	description: "Could use a bit of salt",
+	description: "可以再加一点盐",
 	text: [
-		"Tired of boring old meat skewers or nether stars on toast?",
+		"已经吃腻各种肉串和吐司之星了？",
 		"",
-		"Why not be a real adventurer and drink cactus broth it also counts for one of your five a day."
+		"为什么不像真正的冒险家一样来一碗仙人掌浓汤呢？它还能算作“一天五种果蔬”中的一种。"
 	],
 	tasks: [{
 		uid: "7beae697",

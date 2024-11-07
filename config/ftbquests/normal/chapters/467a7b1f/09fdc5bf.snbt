@@ -1,19 +1,19 @@
 {
-	title: "The Forgotten Circus",
+	title: "马戏团遗迹",
 	x: -2.0d,
 	y: 2.5d,
-	description: "It pulls it's own strings",
+	description: "它能操控自己的提线",
 	text: [
-		"When the sunset's venture into the abandoned carnival",
+		"当落日照进这个被遗弃的嘉年华，",
 		"",
-		"Observe the final cast members show ",
+		"最后的演出便将拉开帷幕。",
 		"",
-		"Be wary for it may invite you to join in."
+		"要小心，不要轻易接受它们的邀请。"
 	],
 	tasks: [{
 		uid: "c4850857",
 		type: "kill",
-		title: "Defeat A Vessel",
+		title: "击杀一只剧场人偶",
 		entity: "ancientbeasts:vessel",
 		value: 1L
 	}],

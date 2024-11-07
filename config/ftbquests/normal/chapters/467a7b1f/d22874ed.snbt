@@ -1,19 +1,19 @@
 {
-	title: "Desert Skulers",
+	title: "沙手",
 	x: -3.0d,
 	y: 3.5d,
-	description: "Snakes why did it have to be snakes",
+	description: "蛇？为什么非得是蛇？",
 	text: [
-		"Be wary of entering deserts when the forest are under siege by thunder and rain.",
+		"当森林在下雷暴雨的时候，进入沙漠需要格外小心。",
 		"",
-		"Unless you wish to encounter its ancient guardian.",
+		"除非你想和这个地方的上古守卫者会会。",
 		"",
-		"Carry a sacrifice of flesh or it will show no mercy."
+		"献祭一组鲜肉，否则它可不会手下留情。"
 	],
 	tasks: [{
 		uid: "ba2fed51",
 		type: "observation",
-		title: "Observe A Sandmonster",
+		title: "观察一只沙地女妖",
 		icon: {
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}

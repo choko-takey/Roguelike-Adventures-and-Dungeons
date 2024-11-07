@@ -1,10 +1,10 @@
 {
-	title: "Knuckle Sandwhich",
+	title: "吃我一拳",
 	x: -1.0d,
 	y: 1.5d,
-	description: "Punching is the easiest way to solve lifes problems",
+	description: "一切问题都能用拳头轻松解决",
 	text: [
-		"Even though that giant was like 10 times the size of you its glive fits you perfectly."
+		"尽管巨人的体型是你的10倍，但它的拳套倒是完美适合你的拳头。"
 	],
 	dependencies: [
 		"7f99d42d"

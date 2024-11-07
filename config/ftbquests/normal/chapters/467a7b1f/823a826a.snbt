@@ -1,19 +1,19 @@
 {
-	title: "Frost Foxy",
+	title: "冰霜霍斯",
 	x: 1.0d,
 	y: 2.5d,
-	description: "Cute as a cold",
+	description: "可爱又冷酷",
 	text: [
-		"Frozen foxes that wander the frozen lands hunting for rabbits or chickens.",
+		"极地灵狐一般在寒冷的地方游荡，寻找兔子或鸡当作猎物。",
 		"",
-		"Get to close them and they will introduce you to the spikes that cover there fur.",
+		"随意靠近它们的话，它们就会请你吃遍布在它们毛皮上的冰锥大餐。",
 		"",
-		"Give it's favourite prey and maybe you can befriend it"
+		"给它喂最喜欢的食物，也许有机会和它成为伙伴。"
 	],
 	tasks: [{
 		uid: "738638f6",
 		type: "observation",
-		title: "Observe A Frostash Fox",
+		title: "观察一只极地灵狐",
 		icon: {
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}

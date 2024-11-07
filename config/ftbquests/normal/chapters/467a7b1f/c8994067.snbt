@@ -1,12 +1,12 @@
 {
-	title: "I'm In You Walls",
+	title: "我~就~在~墙~里~面~",
 	x: -3.5d,
 	y: -2.0d,
-	description: "You better be paying rent then",
+	description: "那麻烦你付一下房租",
 	text: [
-		"Ever wanted to scare you friends or move freely through all walls.",
+		"想要吓一吓你的朋友吗，或者只是想在墙壁之间自由穿梭？",
 		"",
-		"Shug down a ghostly  form potion and you can be the first ever living ghost."
+		"闷了这瓶幽灵变身药水，你将成为史上第一位还活着的幽灵。"
 	],
 	dependencies: [
 		"e0e1aa5c"
