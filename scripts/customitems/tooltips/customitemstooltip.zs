@@ -1,1 +1,1 @@
-<contenttweaker:reforge_cat>.addTooltip(format.darkAqua("This token can be used to reforge any item with a trait"));
+<contenttweaker:reforge_cat>.addTooltip(format.darkAqua("此物品可重铸任何具有属性的物品"));

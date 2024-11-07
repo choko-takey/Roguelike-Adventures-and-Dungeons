@@ -157,7 +157,7 @@ tile.pillar_head_relicstone.name=竖纹遗迹石柱顶
 tile.head_revenant.name=亡魂头骨
 tile.head_arachne.name=阿拉克涅的头
 tile.head_arachne_drone.name=阿拉克涅随从的头
-tile.head_myrmeke.name= 米尔墨克巨蚁的头
+tile.head_myrmeke.name=米尔墨克巨蚁的头
 tile.head_cerver.name=切沃兽的头
 tile.head_argan_hound.name=阿尔甘猎犬的头
 tile.head_foresthag_plane.name=悬铃木树妖的头
@@ -244,7 +244,7 @@ tile.herb.bolbos.name=布里奥萨月季
 tile.herb.dathulla.name=大丽花
 tile.herb.mondanos.name=曼陀罗花
 tile.herb.moth_agaric.name=蛾菌
-tile.herb.namdrake.name=沙漠玫瑰 
+tile.herb.namdrake.name=沙漠玫瑰
 tile.herb.psilocybos.name=迷幻蘑菇
 tile.herb.rowan.name=花楸
 tile.herb.wilted_elm.name=枯萎的榆树
@@ -258,9 +258,9 @@ tile.mushroom_ground0.name=棕色蘑菇
 tile.mushroom_ground1.name=绿色蘑菇
 tile.mushroom_ground2.name=大型棕色蘑菇
 tile.mushroom_tree0.name=火鸡尾蘑菇
-tile.mushroom_tree1.name=Tinder 菌
+tile.mushroom_tree1.name=Tinder菌
 tile.mushroom_tree2.name=未命名的蘑菇
-tile.cardon_cactus.name=Cardon 仙人掌
+tile.cardon_cactus.name=Cardon仙人掌
 
 #vines
 tile.vine_bloomy_dead.name=开花的藤蔓
@@ -422,7 +422,7 @@ entity.icaria.forest_hag_laurel.name=月桂树妖
 entity.icaria.forest_hag_droughtroot.name=旱根木树妖
 entity.icaria.arachne_drone.name=阿拉克涅随从
 entity.icaria.arachne.name=阿拉克涅
-entity.icaria.myrmeke.name= 米尔墨克巨蚁
+entity.icaria.myrmeke.name=米尔墨克巨蚁
 entity.icaria.cerver.name=切沃兽
 entity.icaria.argan_hound.name=阿尔甘猎犬
 entity.icaria.revenant_civilian.name=亡魂市民
@@ -472,7 +472,7 @@ advancements.loi.vanadium.title=这适合做武器
 advancements.loi.vanadium.description=冶炼钒钢合金
 advancements.loi.unfair_plane.title=不公平！
 advancements.loi.unfair_plane.description=乱砍滥伐！
-advancements.loi.physalis.title=它不属于这世界...
+advancements.loi.physalis.title=它不属于这世界……
 advancements.loi.physalis.description=找到酸浆果
 
 

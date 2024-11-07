@@ -4,6 +4,6 @@ events.onPlayerAnvilUpdate(function(event as PlayerAnvilUpdateEvent) {
 	if (event.leftItem.amount > 1 && <minecraft:enchanted_book>.matches(event.leftItem) && <minecraft:enchanted_book>.matches(event.rightItem)) {
 		//event.outputItem = <minecraft:air>;
 		event.xpCost = 2147483646;
-		event.outputItem = <minecraft:book>.withTag({display: {Lore: ["§r§cHypothetically you could abuse this bug just requires you to reach level 2147483646 each time you want to abuse it."], Name: "§o§6Normal Book"}});
+		event.outputItem = <minecraft:book>.withTag({display: {Lore: ["§r§c假设你可以滥用这个bug，那么每次利用它，你都需要达到2147483646级。"], Name: "§o§6寻常的书"}});
 	}
 });

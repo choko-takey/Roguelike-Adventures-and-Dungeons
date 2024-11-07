@@ -1,12 +1,12 @@
-game.setLocalization("title.twilightforest.root", "§dTwilight Adventurer");
-game.setLocalization("title.twilightforest.progress_naga", "§2Naga Butcher");
-game.setLocalization("title.twilightforest.progress_lich", "§3The Undead Scourge");
-game.setLocalization("title.twilightforest.progress_labyrinth", "§cMooshroom Mauler");
-game.setLocalization("title.twilightforest.progress_hydra", "§4Hydra Slaughterer");
-game.setLocalization("title.twilightforest.progress_knights", "§bThe Phantom Buster");
-game.setLocalization("title.twilightforest.progress_trophy_pedestal", "§5Twilight Headhunter");
-game.setLocalization("title.twilightforest.progress_ur_ghast", "§9Banshee Banisher");
-game.setLocalization("title.twilightforest.progress_yeti", "§3§lThe Yeti Hunter");
-game.setLocalization("title.twilightforest.progress_glacier", "§3§lThe Cold §c§lBlooded §3§lUsurper");
-game.setLocalization("title.twilightforest.quest_ram", "§c§lR§6§la§e§lm §3§lB§b§lu§2§ld§a§ld§d§ly");
+game.setLocalization("title.twilightforest.root", "§d暮色探险家");
+game.setLocalization("title.twilightforest.progress_naga", "§2娜迦杀手");
+game.setLocalization("title.twilightforest.progress_lich", "§3亡灵天敌");
+game.setLocalization("title.twilightforest.progress_labyrinth", "§c爆杀牛头人");
+game.setLocalization("title.twilightforest.progress_hydra", "§4九头蛇屠夫");
+game.setLocalization("title.twilightforest.progress_knights", "§b幻影破灭者");
+game.setLocalization("title.twilightforest.progress_trophy_pedestal", "§5暮色头颅猎人");
+game.setLocalization("title.twilightforest.progress_ur_ghast", "§9驱鬼人");
+game.setLocalization("title.twilightforest.progress_yeti", "§3§l雪怪猎人");
+game.setLocalization("title.twilightforest.progress_glacier", "§3§l冷§c§l血§3§l篡权者");
+game.setLocalization("title.twilightforest.quest_ram", "§c§l谜§6§l题§e§l羊§3§l的§b§l好§2§l兄§a§l弟");
 

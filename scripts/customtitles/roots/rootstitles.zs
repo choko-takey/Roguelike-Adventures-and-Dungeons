@@ -1,7 +1,7 @@
-game.setLocalization("title.roots.root", "§aThe Herbologist");
-game.setLocalization("title.roots.wildwood", "§aForest Guru");
-game.setLocalization("title.roots.staff", "§aWoodland Sage");
-game.setLocalization("title.roots.pacifist", "§cForest Warmonger");
-game.setLocalization("title.roots.renewable_renaissance", "§f§lHeisenberg");
-game.setLocalization("title.roots.wildwood_armor", "§a§lForest Protector");
-game.setLocalization("title.roots.sylvan_armor", "§2§lWoodland Guardian");
+game.setLocalization("title.roots.root", "§a草药学家");
+game.setLocalization("title.roots.wildwood", "§a森林领袖");
+game.setLocalization("title.roots.staff", "§a林间圣人");
+game.setLocalization("title.roots.pacifist", "§c森林拱火大师");
+game.setLocalization("title.roots.renewable_renaissance", "§f§l海森堡");
+game.setLocalization("title.roots.wildwood_armor", "§a§l森林卫士");
+game.setLocalization("title.roots.sylvan_armor", "§2§l林地卫士");
