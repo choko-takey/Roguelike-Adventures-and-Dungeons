@@ -3,7 +3,7 @@
 	x: -6.5d,
 	y: -1.0d,
 	shape: "square",
-	description: "如果遇见了这个bug再来看一眼这个任务",
+	description: "如果你遇见了这个 bug ，再来看一眼这个任务吧",
 	text: [
 		"理论上你是不会遇到这个怪物的，但如果你遇到了，请向我反馈这个 bug 。",
 		"",
