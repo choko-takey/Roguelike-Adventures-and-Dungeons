@@ -11,7 +11,7 @@
 	tasks: [{
 		uid: "35c6f55f",
 		type: "kill",
-		title: "击杀一些Nekro",
+		title: "击杀一些 Nekro",
 		icon: {
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
