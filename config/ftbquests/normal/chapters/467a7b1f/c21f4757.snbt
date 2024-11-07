@@ -6,7 +6,7 @@
 	text: [
 		"想成为忍者吗？",
 		"",
-		"从bonepile身上获取一份kunai随后开始你的忍术之旅。"
+		"从 bonepile 身上获取一份 kunai 随后开始你的忍术之旅。"
 	],
 	dependencies: [
 		"8e9b9c3a"
