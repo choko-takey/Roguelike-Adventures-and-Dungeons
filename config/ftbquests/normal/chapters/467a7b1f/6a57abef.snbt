@@ -1,15 +1,15 @@
 {
-	title: "Spider Zombie Spider Zombie!",
+	title: "失败的僵尸！",
 	x: 1.5d,
 	y: -1.0d,
-	description: "Does whatever a spider can",
+	description: "蜘蛛会的它也都会",
 	text: [
-		"They may look big and bulky but these zombies are as agile as spiders when it comes to climbing"
+		"也许它们看上去又大又笨重，但这些僵尸在攀爬领域可是和蜘蛛一样灵活。"
 	],
 	tasks: [{
 		uid: "d7b05b11",
 		type: "kill",
-		title: "Slay Some Bouldering Zombies",
+		title: "击杀一些攀岩僵尸",
 		entity: "ancientbeasts:boulderer",
 		value: 10L
 	}],

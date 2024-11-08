@@ -1,18 +1,18 @@
 {
-	title: "Hotdogs",
+	title: "热狗",
 	x: 2.0d,
 	y: 2.5d,
-	description: "There bite is worse than there bark",
+	description: "刀子心豆腐嘴",
 	text: [
-		"These hounds wander the nether attacking anything that dares to exist in there",
-		"terroirty.",
+		"这些猎犬在下界四处游荡，攻击一切敢闯入它们领地的生物。",
 		"",
-		"They can be bargained with if you offer them undead flesh but dont assume you and it are friends."
+		"",
+		"你可以用腐肉来平息它们的怒火，但不要以为此后你们就是永远的朋友了。"
 	],
 	tasks: [{
 		uid: "601eb148",
 		type: "observation",
-		title: "Observe A Netherhound",
+		title: "观察一只地狱猎犬",
 		icon: {
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}

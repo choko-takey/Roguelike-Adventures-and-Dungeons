@@ -1,12 +1,12 @@
 {
-	title: "Serpent Slayer",
+	title: "蛇形杀手",
 	x: -3.0d,
 	y: 2.5d,
-	description: "Be ware of danger noddles",
+	description: "别被咬到了",
 	text: [
-		"The desert is guarded by many fearsome beast",
+		"沙漠由许多骇人听闻的野兽所保护。",
 		"",
-		"The most formidabble is the sandmonster"
+		"其中最令人闻风丧胆的便是沙地女妖。"
 	],
 	dependencies: [
 		"d22874ed"
@@ -14,7 +14,7 @@
 	tasks: [{
 		uid: "5053197c",
 		type: "kill",
-		title: "Defeat A Sandmonster",
+		title: "击杀一只沙地女妖",
 		entity: "ancientbeasts:sandy",
 		value: 1L
 	}],

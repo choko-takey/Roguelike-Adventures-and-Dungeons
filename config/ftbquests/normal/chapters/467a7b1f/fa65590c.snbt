@@ -1,5 +1,5 @@
 {
-	title: "Snake Skin Garments",
+	title: "蛇皮服装",
 	icon: {
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
@@ -8,13 +8,13 @@
 	},
 	x: -3.0d,
 	y: 1.5d,
-	description: "Smells like sand",
+	description: "闻起来像沙子",
 	text: [
-		"Harvest the scales of fallen sandmonsters to make a new set of armour.",
+		"从倒下的沙地女妖中剥取鳞片来制造新的盔甲。",
 		"",
-		"Now you look the part when wandering the desert.",
+		"现在的你看起来就像是和沙漠融为一体。",
 		"",
-		"(pants and shoes not included)"
+		"（并没有裤子和鞋子）"
 	],
 	dependencies: [
 		"48c13f33"

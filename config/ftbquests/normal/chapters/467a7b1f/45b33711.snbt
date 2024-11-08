@@ -1,18 +1,18 @@
 {
-	title: "Give A Hoot",
+	title: "叫一声看看",
 	x: 3.0d,
 	y: 2.5d,
 	text: [
-		"These little fellas make forest there residence protecting",
-		"animals and adventurers that live in them from the monsters that roam around.",
+		"这些小不点们能够保护森林里的居民。",
+		"它们的叫声能够赶跑动物和冒险者周围四处游荡的怪物。",
 		"",
 		"",
-		"Give it a stick and maybe you'll be able to carry it home."
+		"给它根木棍，说不定就能把它带回家。"
 	],
 	tasks: [{
 		uid: "4b601cd6",
 		type: "observation",
-		title: "Observe An Owlstack",
+		title: "观察一只叠枭",
 		icon: {
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}

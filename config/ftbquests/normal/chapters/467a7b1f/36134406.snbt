@@ -1,15 +1,15 @@
 {
-	title: "Mod Bug",
+	title: "模组 Bug",
 	x: -6.5d,
 	y: -1.0d,
 	shape: "square",
-	description: "Ignore this quest unless you encounter the bug",
+	description: "如果你遇见了这个 bug ，再来看一眼这个任务吧",
 	text: [
-		"You should not be seeing this if you encounter this mob please report it.",
+		"理论上你是不会遇到这个怪物的，但如果你遇到了，请向我反馈这个 bug 。",
 		"",
-		"This means that beast slayer is not recognising spawn weight 0.",
+		"这意味着上古凶灵没有正确识别到“生成权重为0”的设置选项。",
 		"",
-		"This mob is disabled due to it's main drop being made redudant."
+		"这个怪物被禁用的主要原因是它的掉落物没什么用。"
 	],
 	hide_dependency_lines: true,
 	hide: true,

@@ -1,15 +1,15 @@
 {
-	title: "Booo",
+	title: "哇啊啊啊啊啊",
 	x: -3.5d,
 	y: -1.0d,
-	description: "Did I scare you",
+	description: "我吓到你了吗",
 	text: [
-		"Freshly dead spirits that are said to wanderer the covered forests looking for a new body to call home."
+		"据说刚死去的生物其灵魂会在茂密黑暗的森林中四处游荡，寻找新的身体来返回生界。"
 	],
 	tasks: [{
 		uid: "59b37c99",
 		type: "kill",
-		title: "Bust A Ghost",
+		title: "超度一只幽灵",
 		icon: {
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}

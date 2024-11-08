@@ -1,10 +1,10 @@
 {
-	title: "Book Of Ancient Creatures",
+	title: "上古凶灵大全",
 	x: 0.0d,
 	y: 0.0d,
-	description: "At least it has pictures",
+	description: "还好它有配图",
 	text: [
-		"Adventurers of old made this book in hope to understand some of the creatures that wander this land."
+		"老一辈的冒险者撰写了这本书，为了能够更好的理解在这个世界游荡的某些生物。"
 	],
 	tasks: [{
 		uid: "cb374a2e",

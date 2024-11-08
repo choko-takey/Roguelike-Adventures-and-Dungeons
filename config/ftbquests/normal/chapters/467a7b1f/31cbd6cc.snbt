@@ -1,17 +1,17 @@
 {
-	title: "The Forgotten Evoker",
+	title: "被遗忘的唤魔者",
 	x: -1.5d,
 	y: -1.0d,
-	description: "The dead are easy to forget",
+	description: "已故之人很容易被世人遗忘",
 	text: [
-		"A decayed evoker whose joined the undead forces.",
+		"一位腐朽的唤魔者拥有了不死族的力量。",
 		"",
-		"It uses it's dark magic to shield undead and curse any adventurer foolish enough to crass its path."
+		"它将使用它的黑魔法来保护不死族，并诅咒一切挡在它路上的愚蠢冒险者。"
 	],
 	tasks: [{
 		uid: "aa953f54",
 		type: "kill",
-		title: "Slay Some Zealots",
+		title: "击杀一些狂热信徒",
 		entity: "ancientbeasts:zealot",
 		value: 5L
 	}],

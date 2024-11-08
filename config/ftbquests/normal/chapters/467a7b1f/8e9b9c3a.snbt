@@ -1,17 +1,17 @@
 {
-	title: "Two Heads Are Worse Than One",
+	title: "两个脑子不如一个脑子好使",
 	x: 0.5d,
 	y: -1.0d,
-	description: "I heard you like skeletons",
+	description: "我听说你喜欢骷髅",
 	text: [
-		"What's better than one skeleton? two skeletons these fellas got together and took using there heads literally ",
+		"比一个骷髅更厉害的是什么？两个骷髅。现在这两位融合到了一起并各自使用自己的脑袋。",
 		"",
-		"They'll open up there ribcages and use there deadly kunais to pull you in trust me don't try finding out what happens next."
+		"它们会打开它们的胸腔并发射kunai尝试把你拉进去。相信我，你不会想知道接下来会发生什么的。"
 	],
 	tasks: [{
 		uid: "847836ff",
 		type: "kill",
-		title: "Slay Some Bonepiles",
+		title: "击杀一些Bonepile",
 		entity: "ancientbeasts:bonepile",
 		value: 5L
 	}],

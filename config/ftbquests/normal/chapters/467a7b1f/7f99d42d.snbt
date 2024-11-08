@@ -1,15 +1,15 @@
 {
-	title: "David",
+	title: "“大”卫",
 	x: -1.0d,
 	y: 2.5d,
-	description: "The bigger they are",
+	description: "体型越大，摔得越重",
 	text: [
-		"Giants as the name implies are giant undead zombies"
+		"正如名字所述，巨人就是巨大的僵尸。"
 	],
 	tasks: [{
 		uid: "faa5bf3c",
 		type: "kill",
-		title: "Defeat A Giant",
+		title: "击杀一只巨人",
 		entity: "ancientbeasts:giant_zombie",
 		value: 1L
 	}],

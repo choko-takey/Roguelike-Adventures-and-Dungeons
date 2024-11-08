@@ -1,12 +1,12 @@
 {
-	title: "Knowledge Is Impregnable",
+	title: "知识固若金汤",
 	x: -1.5d,
 	y: -2.0d,
-	description: "Safeguarding undead since 2016",
+	description: "自 2016 年起，专业为不死族保驾护航",
 	text: [
-		"A book of dark spells sadly your reading comprehension only allows you to use one.",
+		"一本写满了黑魔法咒语的书，可惜的是你的阅读理解能力只能让你学会使用其中一种。",
 		"",
-		"Cast this book on yourself or allies to make them impervious to any damage for a limited time."
+		"对你自己或盟友施放这本书的法术来让他们一定时间内免疫所有伤害。"
 	],
 	dependencies: [
 		"31cbd6cc"

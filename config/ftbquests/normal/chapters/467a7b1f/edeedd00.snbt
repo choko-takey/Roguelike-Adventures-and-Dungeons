@@ -1,17 +1,17 @@
 {
-	title: "Casper The Unfriendly Ghost",
+	title: "鬼马小精灵",
 	x: -2.5d,
 	y: -1.0d,
-	description: "And friends",
+	description: "但不是你的朋友",
 	text: [
-		"These fiends will resurrect undead to assit them while fighting.",
+		"这些小精灵会在战斗中复活不死族来支援它们战斗。",
 		"",
-		"Upon being killed they will drop dark essence which can be used to make potions of undeath."
+		"被击杀后会掉落dark essence，可以用来酿造undeath药水。"
 	],
 	tasks: [{
 		uid: "35c6f55f",
 		type: "kill",
-		title: "Slay Some Nekros",
+		title: "击杀一些 Nekro",
 		icon: {
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}

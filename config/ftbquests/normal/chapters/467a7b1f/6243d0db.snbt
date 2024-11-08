@@ -1,10 +1,10 @@
 {
-	title: "Popsicle Wand",
+	title: "冰棍法杖",
 	x: 2.5d,
 	y: -2.0d,
-	description: "Don't try eating this trust me",
+	description: "相信我别想着啃它一口",
 	text: [
-		"Wanna snowball fight with those popsicle zombies beat up enough of them and maybe one will show you how."
+		"想要和那些结冰了的僵尸来场真正的雪仗吗？多打败它们几次，也许其中一只会教你怎么做。"
 	],
 	dependencies: [
 		"d00dc2fc"

@@ -1,12 +1,12 @@
 {
-	title: "RGB Ice",
+	title: "RGB 冰",
 	x: 1.0d,
 	y: 1.5d,
-	description: "Green is somewere trust me...",
+	description: "别问我绿色的冰在哪……",
 	text: [
-		"You may find your new pet frostash fox shedding ice spikes everywhere.",
+		"你也许会发现你的新宠物极地灵狐身上的冰锥会掉落得到处都是。",
 		"",
-		"This is a perfectly natural habit and no cause for concern."
+		"这是很正常的自然现象，你无需担心。"
 	],
 	dependencies: [
 		"823a826a"
