@@ -1,5 +1,5 @@
 {
-	title: "我应该干掉他们了......吧？",
+	title: "我应该干掉他们了……吧？",
 	x: -1.5d,
 	y: 6.5d,
 	description: "靠，它们还在动！",
@@ -43,7 +43,7 @@
 	{
 		uid: "7a5dd53e",
 		type: "random",
-		title: "Random Atum Artefact",
+		title: "随机阿图姆饰品",
 		table: 3
 	}]
 }

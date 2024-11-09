@@ -3,13 +3,13 @@
 	icon: "minecraft:bone",
 	x: -2.0d,
 	y: -5.5d,
-	description: "这会被大量使用。。。",
+	description: "这会被大量使用……",
 	text: [
-		"击杀50只骷髅",
+		"击杀 50 只骷髅",
 		"或者",
-		"击杀50只流髑",
+		"击杀 50 只流髑",
 		"或者",
-		"击杀50只凋灵骷髅"
+		"击杀 50 只凋灵骷髅"
 	],
 	can_repeat: true,
 	or_tasks: true,

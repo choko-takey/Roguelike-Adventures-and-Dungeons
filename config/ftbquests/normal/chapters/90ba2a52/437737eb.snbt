@@ -2,9 +2,9 @@
 	title: "潜尾鳄杀手史蒂夫",
 	x: 12.0d,
 	y: 9.5d,
-	description: "潜尾鳄是交错次元最危险的动物。。。小心",
+	description: "潜尾鳄是交错次元最危险的动物，小心！",
 	text: [
-		"剥下50只潜尾鳄的皮。"
+		"剥下 50 只潜尾鳄的皮"
 	],
 	can_repeat: true,
 	tasks: [{

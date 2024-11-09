@@ -61,12 +61,12 @@
 				pages: [
 					"[\"\",{\"text\":\"Animals\",\"bold\":true,\"italic\":true},{\"text\":\"\\n\",\"color\":\"reset\",\"bold\":true},{\"text\":\"adsfadsf\",\"bold\":true,\"obfuscated\":true},{\"text\":\" \",\"color\":\"reset\",\"bold\":true},{\"text\":\"fdswaf\",\"bold\":true,\"obfuscated\":true},{\"text\":\" \",\"color\":\"reset\",\"bold\":true},{\"text\":\"alle asdfasdf\",\"bold\":true,\"obfuscated\":true},{\"text\":\" \",\"color\":\"reset\",\"bold\":true},{\"text\":\"uww\",\"bold\":true,\"obfuscated\":true},{\"text\":\" \",\"color\":\"reset\",\"bold\":true},{\"text\":\"asdf\",\"bold\":true,\"obfuscated\":true},{\"text\":\" warm\\n\",\"color\":\"reset\",\"bold\":true},{\"text\":\"dssdf\",\"bold\":true,\"obfuscated\":true},{\"text\":\" \",\"color\":\"reset\",\"bold\":true},{\"text\":\"werwer\",\"bold\":true,\"obfuscated\":true},{\"text\":\" fo\\n\",\"color\":\"reset\",\"bold\":true},{\"text\":\"asdf\",\"bold\":true,\"obfuscated\":true},{\"text\":\" \",\"color\":\"reset\",\"bold\":true},{\"text\":\"oiif\",\"bold\":true,\"obfuscated\":true},{\"text\":\" \",\"color\":\"reset\",\"bold\":true},{\"text\":\"sasff\",\"bold\":true,\"obfuscated\":true},{\"text\":\"\\n\",\"color\":\"reset\",\"bold\":true},{\"text\":\"ssfsd\",\"bold\":true,\"obfuscated\":true},{\"text\":\"d. \\u258a\\u25e5\\n\",\"color\":\"reset\",\"bold\":true},{\"text\":\"Come\",\"bold\":true,\"obfuscated\":true},{\"text\":\" \",\"color\":\"reset\",\"bold\":true},{\"text\":\"hier\",\"bold\":true,\"obfuscated\":true},{\"text\":\" \",\"color\":\"reset\",\"bold\":true},{\"text\":\"is\",\"bold\":true,\"obfuscated\":true},{\"text\":\"t w\",\"color\":\"reset\",\"bold\":true},{\"text\":\"as\",\"bold\":true,\"obfuscated\":true},{\"text\":\" \",\"color\":\"reset\",\"bold\":true},{\"text\":\"craty\",\"bold\":true,\"obfuscated\":true},{\"text\":\" \",\"color\":\"reset\",\"bold\":true},{\"text\":\"halt\",\"bold\":true,\"obfuscated\":true},{\"text\":\" \",\"color\":\"reset\",\"bold\":true},{\"text\":\"waal\",\"bold\":true,\"obfuscated\":true},{\"text\":\" \",\"color\":\"reset\",\"bold\":true},{\"text\":\"same\",\"bold\":true,\"obfuscated\":true},{\"text\":\" \",\"color\":\"reset\",\"bold\":true},{\"text\":\"ass\",\"bold\":true,\"obfuscated\":true},{\"text\":\" \",\"color\":\"reset\",\"bold\":true},{\"text\":\"komm\",\"bold\":true,\"obfuscated\":true},{\"text\":\" \",\"color\":\"reset\",\"bold\":true},{\"text\":\"halt\",\"bold\":true,\"obfuscated\":true},{\"text\":\" hei \",\"color\":\"reset\",\"bold\":true},{\"text\":\"asdf\",\"bold\":true,\"obfuscated\":true},{\"text\":\".\",\"color\":\"reset\",\"bold\":true}]"
 				],
-				author: "Unknown",
+				author: "未知",
 				display: {
 					Lore: [
-						"Cryptic document"
+						"神秘的文件"
 					],
-					Name: "Vampire Book"
+					Name: "吸血鬼之书"
 				},
 				title: "Animals"
 			}

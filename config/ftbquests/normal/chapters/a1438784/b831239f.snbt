@@ -5,7 +5,7 @@
 	y: 13.0d,
 	description: "你晓得你自己肯定会的，这沙漠这么大呢！",
 	text: [
-		"你们这些会把玩家指南搞丢的家伙呀......"
+		"你们这些会把玩家指南搞丢的家伙呀……"
 	],
 	can_repeat: true,
 	dependencies: [

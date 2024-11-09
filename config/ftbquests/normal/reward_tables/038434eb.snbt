@@ -11,7 +11,7 @@
 		}
 	},
 	{
-		title: "Uncommon Wizardry Artefacts",
+		title: "稀有巫师饰品",
 		item: {
 			id: "ftbquests:lootcrate",
 			tag: {
@@ -20,7 +20,7 @@
 		}
 	},
 	{
-		title: "Rare Wizardry Artefacts",
+		title: "罕见巫师饰品",
 		item: {
 			id: "ftbquests:lootcrate",
 			tag: {

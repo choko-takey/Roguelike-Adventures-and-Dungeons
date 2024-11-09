@@ -72,11 +72,11 @@
 						Operation: 0,
 						Name: "qualitytools"
 					}],
-					Name: "Cursed"
+					Name: "诅咒"
 				},
 				display: {
 					Lore: [
-						"Cursed with the vengeance of the chicken's feathers that forged them"
+						"被那以鸡羽铸成武器的女武神的复仇所诅咒"
 					],
 					Name: "武神羽靴"
 				},
@@ -130,7 +130,7 @@
 						Operation: 2,
 						Name: "qualitytools"
 					}],
-					Name: "Heavy"
+					Name: "重"
 				},
 				display: {
 					Name: "贯虹之槊"
@@ -149,7 +149,7 @@
 				UUIDMost: -7438496064174340754L,
 				UUIDLeast: -7911660595295927001L,
 				display: {
-					Name: "Valkyrie's Javelin Bundle"
+					Name: "女武神的标枪捆绑包"
 				},
 				enchChecked: 1b,
 				Original: 1b

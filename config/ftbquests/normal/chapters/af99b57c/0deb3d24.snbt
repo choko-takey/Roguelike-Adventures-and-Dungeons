@@ -37,19 +37,18 @@
 			id: "vampirism:vampire_book",
 			tag: {
 				generation: 3,
-				pages: [
-					"[\"\",{\"text\":\"Venatio\",\"bold\":true},{\"text\":\"\\nstabunt quadrupedes et flexis laetus habenis teque tuumque canam terris venerabile numen. Aurea pacati regeres cum saecula mundi,\\nIustitia inviolata malis, placidissima virgo,\\nsive illa Astraei genus es, quem fama parentem\",\"color\":\"reset\"}]",
-					"{\"text\":\"tradidit astrorum, seu vera intercidit aevo\\nortus fama tui, mediis te laeta ferebas\\nsublimis populis nec dedignata subire\\ntecta hominum et puros sine crimine, diva, penatis iura dabas cultuque novo rude vulgus in omnem \"}",
-					"{\"text\":\"formabas vitae sinceris artibus usum.\\nnondum vesanos rabies nudaverat ensis\\nnec consanguineis fuerat discordia nota,\\nignotique maris cursus privataque tellus\"}"
+				"pages": [
+					"[\"\",{\"text\":\"狩\",\"bold\":true},{\"text\":\"\\n四足兽将伏，弯弓盈矢，欢庆之情洋溢。你将为众生所赞颂，地上的神祇，神圣的庇佑。黄金时代将再临，天下和平，执政如君王，公义恒久，恶行无法逾越，至仁无害的少女，无论你是阿斯特拉埃斯之裔，还是世人传颂之先祖的后代。\n\"}]",
+					"{\"text\":\"星辰传承给你，或是已逝之岁月，你名的光辉早已照耀四方，你在人群中高举，凯旋而归，不以凡人居所为卑微，乃为纯洁之神，你赐予人们家庭与法律之秩序，并以崭新风尚引领百姓，教化愚民，以真诚之技艺塑造生活，未曾有暴乱之剑披露，也未曾有亲族纷争之乱，未知的海洋，无法抵达的陆地，你依旧将万物引向和谐与安宁。\n\"}"
 				],
-				author: "Unknown",
+				author: "未知",
 				display: {
 					Lore: [
-						"Ancient writing"
+						"古代文字"
 					],
-					Name: "Vampire Book"
+					Name: "吸血鬼之书"
 				},
-				title: "Venatio"
+				title: "狩"
 			}
 		}
 	},
