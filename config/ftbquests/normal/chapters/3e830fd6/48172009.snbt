@@ -1,12 +1,12 @@
 {
-	title: "The Most Expensive Sandwich Ever",
+	title: "史上最贵的三明治",
 	x: -16.5d,
 	y: -4.0d,
-	description: "Saviour every bite this costed your life savings.",
+	description: "每咬一口都在消耗你的积蓄",
 	text: [
-		"Ever dreamed of having have golden bread?",
+		"有梦想过拥有一份金子做的面包吗？",
 		"",
-		"Get some golden rods and make that dream a reality"
+		"弄一些秋麒麟捆来让梦想成真。。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

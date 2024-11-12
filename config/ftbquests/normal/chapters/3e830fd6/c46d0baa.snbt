@@ -1,10 +1,10 @@
 {
-	title: "I'm Watching You",
+	title: "我正盯着你呢",
 	x: -17.5d,
 	y: -4.0d,
-	description: "Always watching",
+	description: "一直在盯着你",
 	text: [
-		"The eye of millenium sees all and hides all that it deems unworthy."
+		"千禧之眼能够看穿一切，并隐藏那些无价值的东西。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

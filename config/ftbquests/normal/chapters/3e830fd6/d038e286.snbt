@@ -1,12 +1,12 @@
 {
-	title: "The Block That Lurks In The Dark",
+	title: "潜伏在黑暗中的方块",
 	x: -2.5d,
 	y: 8.0d,
-	description: "Vantablock",
+	description: "梵塔块",
 	text: [
-		"When bedrock is near petramia it will convert said bedrock into dark blocks.",
+		"暗岩花会把靠近它的基岩转换为暗岩。",
 		"",
-		"To collect these dark blocks sneak click on them with an ender snooker."
+		"使用末影套杆潜行右键来收集这些暗岩。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

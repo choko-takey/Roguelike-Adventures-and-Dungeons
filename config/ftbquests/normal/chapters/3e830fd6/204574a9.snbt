@@ -1,10 +1,10 @@
 {
-	title: "Sixteen Tons",
+	title: "十六吨",
 	x: -7.5d,
 	y: 2.0d,
-	description: "Raise your pick and raise your voice!",
+	description: "举起你的稿子，干活喊大声点！",
 	text: [
-		"A real miner needs no shield just a pickaxe and this emblem to make all blocks fear them."
+		"真正的矿工只需要一把稿子而不需要其它防护措施，这个饰品能让所有方块见了他们都发抖。"
 	],
 	tasks: [{
 		uid: "5432029c",

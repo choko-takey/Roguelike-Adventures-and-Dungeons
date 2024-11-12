@@ -1,12 +1,12 @@
 {
-	title: "Running Shoes",
+	title: "超级跑鞋",
 	x: -11.0d,
 	y: 9.0d,
-	description: "Run steve run",
+	description: "跑起来，史蒂夫，跑起来",
 	text: [
-		"Like running from your problems?",
+		"想要把烦人的问题“跑”在脑后？",
 		"",
-		"Get some running shoes then you can run from them even faster."
+		"穿上这双鞋子你将跑得比之前更快。"
 	],
 	tasks: [{
 		uid: "6769c76e",

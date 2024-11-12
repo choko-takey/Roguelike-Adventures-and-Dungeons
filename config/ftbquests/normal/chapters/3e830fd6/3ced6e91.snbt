@@ -1,12 +1,12 @@
 {
-	title: "A Unique Experience",
+	title: "独特经验",
 	x: -3.5d,
 	y: -3.5d,
-	description: "It's like growing my own exp",
+	description: "感觉像在培育我自己的经验",
 	text: [
-		"Hexis feeds on experience orbs to grow.",
+		"巫灵草需要吸食经验球才能成长。",
 		"",
-		"Once it has matured milk it with a bottle to get as experienceds as it."
+		"成熟后使用空瓶子即可收获其结出的经验。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

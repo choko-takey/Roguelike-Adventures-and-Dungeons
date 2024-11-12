@@ -1,10 +1,10 @@
 {
-	title: "A Dummies Guide To Upgrading",
+	title: "笨蛋都能看懂的升级宝典",
 	x: -8.5d,
 	y: 7.0d,
-	description: "Upgrades people upgrades",
+	description: "升级，孩子，升级",
 	text: [
-		"Combined this book with certain equipment enough times and they'll get a special bonus."
+		"把这本书和特定装备在铁砧上组合，一定次数后装备会获得特殊效果。"
 	],
 	tasks: [{
 		uid: "f08b3cec",

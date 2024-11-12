@@ -1,10 +1,10 @@
 {
-	title: "Plant Plant Revolution",
+	title: "节奏植物国",
 	x: -2.5d,
 	y: -0.5d,
-	description: "It was a showplant",
+	description: "一场植物音乐会",
 	text: [
-		"These plants love to vibe so much that they'll only grow when hearing songs from note blocks."
+		"这些植物非常喜欢与环境共鸣，因此它们只在听到音符盒的音乐后才会生长。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

@@ -1,14 +1,14 @@
 {
-	title: "To me To You",
+	title: "双向奔赴",
 	x: -2.0d,
 	y: -4.5d,
-	description: "Something always attracts me to magnets",
+	description: "磁铁总是会吸引我",
 	text: [
-		"I hope you remeber your cardinal direction because magnes does.",
+		"我希望你能分清东南西北因为并蒂磁会。",
 		"",
-		"When planted far enough from each other they will slam together.",
+		"当两株相互距离足够远时，它们就会尝试彼此靠近。",
 		"",
-		"Don't forget when it comes to magnets only opposites attract!"
+		"别忘了磁铁的特点是异极相吸！"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

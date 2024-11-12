@@ -1,14 +1,14 @@
 {
-	title: "Schrodinger's Crop",
+	title: "薛定谔的作物",
 	x: -1.5d,
 	y: -1.5d,
-	description: "I will not know if there is a plant in this chest until I open it",
+	description: "除非我打开这个箱子否则我无法知道里面是否存在植物",
 	text: [
-		"Abstract seeds puts the unique in this mod",
+		"抽象种子在这个模组中十分特别。",
 		"",
-		"You may notice it disappearing after being planted but don't worry it still exist.",
+		"你可能会注意到它刚种下没多久就会消失，不过别担心，它仍然存在于此。",
 		"",
-		"They'll come back to you just adventure and wait."
+		"在你外出冒险或闲暇等待一段时间后它自然会回来。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

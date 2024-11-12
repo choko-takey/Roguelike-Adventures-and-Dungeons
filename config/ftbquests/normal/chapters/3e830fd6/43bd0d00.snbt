@@ -1,14 +1,14 @@
 {
-	title: "Eco Friendly Engineering",
+	title: "环保的运输方式",
 	x: -4.5d,
 	y: -3.5d,
-	description: "It's green so its good",
+	description: "它是绿色的一看就很环保",
 	text: [
-		"Lacuisa acts like a hopper for a single item.",
+		"递物藤能像管道一样传输单个物品。",
 		"",
-		"When lacuisa is next to a chest and powered by redstone it will transport items along a straight from inside the chest to other lacuisa in the same diagonal path as it.",
+		"当递物藤挨着箱子并收到红石信号时，它会从箱子里取出物品，并传递给与它相邻的递物藤，接着继续传递下去。",
 		"",
-		"It will stop upon reaching another chest in which it will store said item."
+		"遇到另一个挨着箱子的递物藤后便会停止运输，物品将储存到这个箱子里。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

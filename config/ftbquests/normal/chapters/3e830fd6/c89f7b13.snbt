@@ -1,12 +1,12 @@
 {
-	title: "Be Precise",
+	title: "精度准一点",
 	x: -9.5d,
 	y: 6.0d,
-	description: "Be efficient",
+	description: "效率高一点",
 	text: [
-		"When max upgraded these tools gain powerful new traits. ",
+		"完全升级后这些工具将拥有强力的新特性。",
 		"",
-		"These traits make them so precise at there job even a surgeon would blush."
+		"这些特性使得它们在各自的领域中有相当高的精度，连手术医生看了都自愧不如。"
 	],
 	tasks: [{
 		uid: "94f24a97",

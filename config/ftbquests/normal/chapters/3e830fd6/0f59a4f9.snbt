@@ -1,12 +1,12 @@
 {
-	title: "The Wall",
+	title: "高墙",
 	x: -11.5d,
 	y: 2.0d,
-	description: "Easier to talk to than some would think",
+	description: "交谈比想象中的容易",
 	text: [
-		"The ultimate stat stick emblem don't care about all those bonus effects of armour?",
+		"最厉害的饰品也不会给盔甲套装带来额外属性加成。",
 		"",
-		"Slap one of these on if all you care about is big numbers."
+		"如果你只关心防御数值的话带一个试试。"
 	],
 	tasks: [{
 		uid: "61b767dc",

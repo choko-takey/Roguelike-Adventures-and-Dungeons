@@ -1,14 +1,14 @@
 {
-	title: "I'm A Savage",
+	title: "我是野蛮人",
 	x: -15.5d,
 	y: -3.0d,
-	description: "Barely even human",
+	description: "连人都算不上",
 	text: [
-		"After following the list of demands set out you can have your revenge.",
+		"在遵循一系列生长要求后终于轮到你的回合了。",
 		"",
-		"Use their own essence against them to make a sun block.",
+		"使用它们产出的源质制作日光体来狠狠报复它们。",
 		"",
-		"Certain crops when placed next to it will grow like any old seed no need to follow any complicated rules or demands."
+		"与日光体相邻的作物将像传统作物一样无需满足任何复杂生长条件或要求即可生长。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

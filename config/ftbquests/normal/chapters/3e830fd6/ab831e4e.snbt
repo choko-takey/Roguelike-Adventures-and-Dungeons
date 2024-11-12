@@ -1,12 +1,12 @@
 {
-	title: "Bookworm Jim",
+	title: "书虫吉姆",
 	x: -16.5d,
 	y: 3.0d,
-	description: "Waiter another book please",
+	description: "先生麻烦再给我一本书",
 	text: [
-		"Your hunger for knowledge is insatiable.",
+		"你对知识的渴望永远无法满足。",
 		"",
-		"The only meal fit for you are enchanted books."
+		"唯一适合你的食物只剩下附魔书了。"
 	],
 	tasks: [{
 		uid: "0e0ff7f5",

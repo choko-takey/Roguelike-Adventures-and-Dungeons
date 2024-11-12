@@ -1,12 +1,12 @@
 {
-	title: "Solar Powered Cow",
+	title: "太阳能牛皮",
 	x: -19.5d,
 	y: -3.0d,
-	description: "All that grass got to old besty",
+	description: "所有的草都喂给了老贝丝蒂",
 	text: [
-		"Kill two birds with one two reduce polution but putting coal and leather together.",
+		"一石二鸟能够减少污染，但你现在需要把煤炭和皮革混合起来。",
 		"",
-		"When impregnated leather is shown to growing crops they'll teach it a thing or two."
+		"把浸制皮革拿给那些生长中的作物看看，它们会给这些牛皮指点一二。"
 	],
 	tasks: [{
 		uid: "bae25f8e",

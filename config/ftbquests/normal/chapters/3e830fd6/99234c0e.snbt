@@ -1,12 +1,12 @@
 {
-	title: "REEEEEEEE",
+	title: "啊啊啊啊啊啊啊啊啊",
 	x: -4.5d,
 	y: 5.5d,
-	description: "This plant is anything but normal",
+	description: "这种植物十分普通但它是万物根源",
 	text: [
-		"The backbone of all unique crops seeds.",
+		"它是独特作物模组里所有种子的起点。",
 		"",
-		"You can find them randomly when breaking grass."
+		"破坏草丛时会随机掉落。"
 	],
 	tasks: [{
 		uid: "545b80d2",

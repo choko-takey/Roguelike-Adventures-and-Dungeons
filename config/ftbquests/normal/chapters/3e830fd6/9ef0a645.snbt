@@ -1,14 +1,14 @@
 {
-	title: "Time Out!",
+	title: "时间到！",
 	x: -16.5d,
 	y: -2.0d,
-	description: "Time travel is a dangerous game",
+	description: "时间旅行非常危险",
 	text: [
-		"Time dust is dropped by the plant that ages backwards.",
+		"逆时粉尘掉落于逆时生长的作物。",
 		"",
-		"Once aquired it can be used to make either a potion of reversing effects or hourglass of nostalgia.",
+		"你可以用它酿造逆转药水或者制造思旧沙漏。",
 		"",
-		"Time to find out what both of them do don't you think?"
+		"现在该试试这两个东西有什么用了。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

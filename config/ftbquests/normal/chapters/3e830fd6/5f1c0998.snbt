@@ -1,12 +1,12 @@
 {
-	title: "Diamonds Are A Girls Best Snack",
+	title: "钻石是女孩子最爱的零食",
 	x: -10.0d,
 	y: 0.5d,
-	description: "Abigail is that you?",
+	description: "阿比盖尔是你吗？",
 	text: [
-		"Everyone knows diamonds make up all food groups to bad a regular stomache can't handle it.",
+		"所有人都知道钻石根本没法吃，因为一般的肠胃无法消化。",
 		"",
-		"But on the other end an Iron one definetly can!"
+		"但如果是一个铁胃的话绝对可以！"
 	],
 	tasks: [{
 		uid: "749f998f",

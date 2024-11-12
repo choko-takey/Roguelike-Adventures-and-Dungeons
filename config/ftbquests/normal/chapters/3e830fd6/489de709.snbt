@@ -1,10 +1,10 @@
 {
-	title: "Forged In Fire",
+	title: "锻刀大赛",
 	x: -8.0d,
 	y: 1.0d,
-	description: "Anvil insurance",
+	description: "已为铁砧买好保险",
 	text: [
-		"Never worry about anvils being broken again as long as you have this emblem slapped on."
+		"有了这个饰品你就再也不用担心铁砧会碎裂了。"
 	],
 	tasks: [{
 		uid: "43aea257",

@@ -1,14 +1,14 @@
 {
-	title: "Biome Identifying For The Lazy",
+	title: "帮助懒人分辨生物群系",
 	x: -7.0d,
 	y: -2.0d,
-	description: "Using the f3 menu is cheating",
+	description: "看 F3 菜单等于作弊",
 	text: [
-		"Weatherflesia are able to gather information about the land there in.",
+		"Weatherflesia 能够收集它所在群系的相关信息。",
 		"",
-		"If a pixel brush is given to them they will tell it everything they know.",
+		"给它一把要素汲取刷，它会告诉你它所知道的一切。",
 		"",
-		"This process takes some time so be patient"
+		"这个过程需要一点时间所以麻烦耐心一点。"
 	],
 	dependencies: [
 		"8dbd1241"
@@ -16,7 +16,7 @@
 	tasks: [{
 		uid: "f15befef",
 		type: "observation",
-		title: "Gaze Upon A Weatherflesia",
+		title: "观察 Weatherflesia",
 		icon: {
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}

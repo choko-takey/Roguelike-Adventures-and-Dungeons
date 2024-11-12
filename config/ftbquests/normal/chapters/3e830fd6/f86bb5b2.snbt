@@ -1,12 +1,12 @@
 {
-	title: "It's Time You Dye",
+	title: "染色（dye）时间到",
 	x: -2.5d,
 	y: -1.5d,
-	description: "I was dying to meet you",
+	description: "我很想（dying）见你",
 	text: [
-		"Quirky is the only way to describe the dyeius.",
+		"要用一个词来形容缤彩花的话，那就是诡异。",
 		"",
-		"Depending on when you harvest it you'll get a different type of dye."
+		"收获的时间不同，得到的染料颜色也截然不同。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

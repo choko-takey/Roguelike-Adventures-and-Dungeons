@@ -1,10 +1,10 @@
 {
-	title: "Random Items GO",
+	title: "随机物品发射",
 	x: -16.5d,
 	y: 2.0d,
-	description: "You think throwing random items around is a class",
+	description: "你开始觉得四处乱扔物品也是门学问",
 	text: [
-		"Who needs weapons when you can just throw pocket sand at your enemies."
+		"如果随便撒一把沙子都能对敌人造成伤害那谁还需要武器？"
 	],
 	tasks: [{
 		uid: "e63897e0",

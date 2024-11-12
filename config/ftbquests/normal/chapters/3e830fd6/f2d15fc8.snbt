@@ -1,12 +1,12 @@
 {
-	title: "Mother I Demand Sustenance",
+	title: "妈妈我饿了",
 	x: -11.0d,
 	y: -4.0d,
-	description: "Get in my belly",
+	description: "进我的肚子里",
 	text: [
-		"Exedo are carnivorous anything that stays near them for to long will be gobbled up whole.",
+		"Exedo 的肉食欲望极其强烈，它会把在附近待了一段时间内的任何生物全部吞掉。",
 		"",
-		"Fortunately they don't have a taste for players... yet!"
+		"幸运的是它们现在对玩家还不感兴趣……至少现在是！"
 	],
 	dependencies: [
 		"8dbd1241"
@@ -14,7 +14,7 @@
 	tasks: [{
 		uid: "7b42741b",
 		type: "observation",
-		title: "Observe An Exedo",
+		title: "观察 Exedo",
 		icon: {
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}

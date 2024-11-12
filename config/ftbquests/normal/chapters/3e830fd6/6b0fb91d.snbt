@@ -1,11 +1,11 @@
 {
-	title: "Plant Construction 101",
+	title: "作物结构 101",
 	x: -9.5d,
 	y: -6.0d,
 	text: [
-		"Congratulations if your seeing this that means you've encountered all multi blocks.",
+		"如果你看见了这条任务，那么恭喜你已经完成了独特作物的所有多方块结构。",
 		"",
-		"Enjoy your reward."
+		"收下你的奖励。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

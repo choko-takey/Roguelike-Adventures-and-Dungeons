@@ -1,16 +1,16 @@
 {
-	title: "Hungry Hungry Plants",
+	title: "饥渴的植物",
 	x: -0.5d,
 	y: 5.5d,
-	description: "The plant ate my homework",
+	description: "它们把我的作业给吃了",
 	text: [
-		"Scientia's thirst for knowledge has no bounds.",
+		"博识英对知识的渴求永无止境。",
 		"",
-		"When near bookshelves if there happens to be a chest on that bookshelf",
+		"如果附近有个书架且碰巧在书架上有个箱子的话，",
 		"",
-		"Pray for any written book inside as these bad plants will gobble up some knowledge from em.",
+		"那么你就可以为箱子里的书默哀了，因为这些植物会从它们当中汲取知识。",
 		"",
-		"Don't worry about them eating your entire book also don't try feeding them the same book twice."
+		"不用担心它会把你所有的书都吃了，但也别尝试把同一本书喂给它两次。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

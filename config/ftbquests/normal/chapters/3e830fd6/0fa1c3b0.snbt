@@ -1,12 +1,12 @@
 {
-	title: "Benjamin Plant",
+	title: "本杰明草",
 	x: 0.5d,
 	y: -0.5d,
-	description: "Back to the past",
+	description: "回到过去",
 	text: [
-		"Merlinia start fully grown.",
+		"梅林草一开始就是成熟状态。",
 		"",
-		"Supposedly they age backwards."
+		"据说它们会逆向生长。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

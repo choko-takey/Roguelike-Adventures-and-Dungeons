@@ -1,23 +1,23 @@
 {
-	title: "Enchanting At Home",
+	title: "在家附魔",
 	x: -9.5d,
 	y: -5.0d,
 	description: "The book gets the pancake",
 	text: [
-		"Tired of the rng behind enchanting tables make a Fascino.",
+		"不想再凹附魔台的随机附魔的话就来搭一个 Fascino 吧。",
 		"",
-		"When placed the fascino can accept up to 5 items.",
+		"放置好后 fascino 能够接受最多五个物品。",
 		"",
-		"Depending on what is put in clicking it with a wildwood staff in your main hand and an enchantable item in your off hand.",
+		"主手拿着野木法杖右击它，副手拿着需要附魔的物品。",
 		"",
-		"Will reveal a pattern of hexis to surrond it with.",
+		"它就会根据你放入的材料，揭示完成附魔需要放置巫灵草的位置。",
 		"",
-		"This way you can choose what enchants you receive.",
+		"这样你就可以自由选择你想要的附魔。",
 		"",
-		"For a full list right click the wildwood staff in jei. ",
+		"想要查询全部附魔配方，在 JEI 中右键野木法杖。",
 		"",
 		"",
-		"§4Optifine will hide the particles that show were hexis is supposed to be placed!"
+		"§4Optifine 会隐藏指示你放置巫灵草位置的粒子效果。"
 	],
 	dependencies: [
 		"8dbd1241"
@@ -25,7 +25,7 @@
 	tasks: [{
 		uid: "ad90a4d7",
 		type: "observation",
-		title: "Look At A Fascino",
+		title: "观察 Fascino",
 		icon: {
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}

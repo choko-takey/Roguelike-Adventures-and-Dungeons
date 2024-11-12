@@ -1,12 +1,12 @@
 {
-	title: "Run Away Run Away!",
+	title: "快跑快跑！",
 	x: -16.5d,
 	y: -5.0d,
-	description: "One to many zubats",
+	description: "超音蝠太多了",
 	text: [
-		"In a pickle and need a quick way out?",
+		"陷入困境需要尽快逃脱？",
 		"",
-		"Carry an escape rope and never worry about getting overwhelmed by bats again."
+		"带一个逃生绳就不用再担心被蝙蝠淹没了。"
 	],
 	tasks: [{
 		uid: "0b3578d3",

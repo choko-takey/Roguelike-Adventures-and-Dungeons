@@ -1,12 +1,12 @@
 {
-	title: "6 Blocks Under",
+	title: "六层以下",
 	x: -2.5d,
 	y: -2.5d,
-	description: "Going down like super down",
+	description: "急速下降",
 	text: [
-		"Petramia will only grow below certain y levels.",
+		"暗岩花只在低于特定 y 轴高度下才会生长。",
 		"",
-		"Once they've matured they'll begin the process of transforming nearby bedrock into dark blocks."
+		"成熟之后它们会开始将附近的基岩转化为暗岩。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

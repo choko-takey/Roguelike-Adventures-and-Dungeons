@@ -1,10 +1,10 @@
 {
-	title: "Cry For The Weeper",
+	title: "因哭泣者而哭泣",
 	x: -15.5d,
 	y: -4.0d,
-	description: "Machine what is this crop",
+	description: "这是什么作物",
 	text: [
-		"The weeping eye cries for it can see all the horrors of this world."
+		"泣血之眼在哭泣是因为它能看到世间所有的骇人之物。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

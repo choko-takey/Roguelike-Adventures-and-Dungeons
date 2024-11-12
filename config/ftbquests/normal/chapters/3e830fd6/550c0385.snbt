@@ -1,5 +1,5 @@
 {
-	title: "I'm Rubber",
+	title: "我是橡皮",
 	icon: {
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
@@ -8,11 +8,11 @@
 	},
 	x: -14.5d,
 	y: 3.0d,
-	description: "You're glue",
+	description: "你是胶",
 	text: [
-		"Ever wanted to make your fights someone elses problem?",
+		"想要把战斗受伤的困扰转移给别人吗？",
 		"",
-		"Give this to your favourite pig pour the results in a goblet and let it deal with your problems."
+		"把油膏给你最喜欢的宠物猪，再把标记物倒入金杯里，然后撒手不管让猪帮你解决问题。"
 	],
 	tasks: [{
 		uid: "069f6321",

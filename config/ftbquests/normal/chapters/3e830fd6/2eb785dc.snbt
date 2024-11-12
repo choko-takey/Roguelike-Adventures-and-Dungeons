@@ -1,12 +1,12 @@
 {
-	title: "Everything Is A Nail",
+	title: "一切事物都可以是钉子",
 	x: -9.5d,
 	y: 7.0d,
-	description: "Hammer time",
+	description: "尽管开锤",
 	text: [
-		"Why fill your hotbar with 4 different tools.",
+		"为什么要让四种不同的工具挤满快捷栏。",
 		"",
-		"When a hammer can do all of that for the cost of 1 hotbar slot!"
+		"这把锤子只需要一个快捷栏栏位就能干四种工具的活！"
 	],
 	dependencies: [
 		"c89f7b13"

@@ -1,14 +1,14 @@
 {
-	title: "Mmmmm Doughtnuts",
+	title: "别偷菜",
 	x: -0.5d,
 	y: -3.5d,
-	description: "D'oh",
+	description: "噢！",
 	text: [
-		"A living little guy under the protection of eula corp.",
+		"这棵受《最终用户许可协议》保护的作物下面住着一个小不点。",
 		"",
-		"Killing them would land you in way to much legal trouble even if you could harm it.",
+		"杀死它会在法律意义上给你带来许多麻烦，你甚至都无法对它造成伤害。",
 		"",
-		"Maybe there's a way to make it seem like it killed itself?"
+		"也许有办法能让它自己杀了自己？"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

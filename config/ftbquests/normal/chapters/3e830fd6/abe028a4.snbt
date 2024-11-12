@@ -1,12 +1,12 @@
 {
-	title: "The Most Huggable Armour",
+	title: "最适合拥抱的盔甲",
 	x: -9.5d,
 	y: 8.0d,
-	description: "If your wearing armour that is",
+	description: "如果你喜欢穿盔甲那它就是",
 	text: [
-		"Tired of mobs hugging you?",
+		"不想让怪物和你贴贴？",
 		"",
-		" Slap some cactus on your armour and teach them why hugging strangers is dangerous."
+		"往你的盔甲上糊几片仙人掌，告诉它们随便和陌生人拥抱有多么危险。"
 	],
 	tasks: [{
 		uid: "45db4005",

@@ -1,14 +1,14 @@
 {
-	title: "Devil's Snare Devil's Snare",
+	title: "魔鬼网的藤蔓",
 	x: -4.5d,
 	y: -2.5d,
-	description: "There deadly fun unless there in the sun",
+	description: "没有太阳的话十分致命",
 	text: [
-		"Devil's snare are the emo daughter of the unique crops family.",
+		"魑魅罗是独特作物家族中比较容易 EMO 的女孩子。",
 		"",
-		"Just like vampire's this crops develops best in darkness.",
+		"像吸血鬼一样，这种作物只适合在黑暗中生长。",
 		"",
-		"Remeber to  watch out they can get big!"
+		"小心它们会四处蔓延！"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
