@@ -4,7 +4,7 @@
 	y: -2.5d,
 	description: "我花钱买了所有像素",
 	text: [
-		"它们生长度越高所表现出来的贴图质量也越高。"
+		"它们生长度越高，所表现出来的贴图质量也越高。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
