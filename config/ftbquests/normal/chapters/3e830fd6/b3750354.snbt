@@ -1,12 +1,12 @@
 {
-	title: "Bird Brain",
+	title: "鸟的大脑",
 	x: -17.5d,
 	y: -2.0d,
-	description: "It's vision is based on movement",
+	description: "只能看见在移动的事物",
 	text: [
-		"Invisiblia twine is gotten from the sneakiest of crops.",
+		"隐仙绳可以从最隐秘的作物身上获得。",
 		"",
-		"It can then be crafted into feathers or glass."
+		"它可以用来制作对应的羽毛或玻璃。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

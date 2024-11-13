@@ -1,10 +1,10 @@
 {
-	title: "Going Green",
+	title: "开始环保",
 	x: -14.5d,
 	y: -3.5d,
-	description: "Do they come in triple a sizes?",
+	description: "它们大概和 AAA 电池一样大？",
 	text: [
-		"Battery beans can be used as a source of power for a certain crop."
+		"电容豆可以充当特定作物的能量来源。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

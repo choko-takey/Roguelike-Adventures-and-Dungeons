@@ -1,12 +1,12 @@
 {
-	title: "You can't see me",
+	title: "你看不见我",
 	x: -2.5d,
 	y: 2.5d,
-	description: "But you can see my messages",
+	description: "但你可以看见我的消息",
 	text: [
-		"Invisibilia are some sneaky crops or maybe you just need glasses?",
+		"是隐仙子本身藏得很隐秘，还是说你需要戴眼镜了？",
 		"",
-		"Probably the latter."
+		"大概率是后者。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

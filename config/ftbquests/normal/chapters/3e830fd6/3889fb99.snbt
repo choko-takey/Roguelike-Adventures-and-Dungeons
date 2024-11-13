@@ -1,10 +1,10 @@
 {
-	title: "Make Love Not War",
+	title: "要爱，不要战争",
 	x: -9.5d,
 	y: 2.0d,
-	description: "Love & Peace",
+	description: "爱与和平",
 	text: [
-		"Become a monk and show those around you the ways of pacifism."
+		"成为一名僧侣，向周围人展示和平主义者的生活之道。"
 	],
 	dependencies: [
 		"0f59a4f9",

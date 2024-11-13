@@ -1,12 +1,12 @@
 {
-	title: "A Plant Called Mary",
+	title: "名为玛丽的植物",
 	x: -2.5d,
 	y: 1.5d,
-	description: "Like that's my favourite name",
+	description: "像是我最喜欢的名字",
 	text: [
-		"Mary Jane came from hell and wants to go back.",
+		"麻丽简来自下界，但它现在想要回去。",
 		"",
-		"Unless your burning hot they wont even let you harvest them."
+		"只有你浑身烧得足够热的时候它们才会允许你收获。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

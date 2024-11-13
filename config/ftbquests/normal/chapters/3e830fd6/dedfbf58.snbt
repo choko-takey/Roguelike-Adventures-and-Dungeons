@@ -1,10 +1,10 @@
 {
-	title: "Can You Swing Your Sword?",
+	title: "你能挥舞一下你的剑吗？",
 	x: -8.0d,
 	y: 3.0d,
-	description: "Return to 1.8",
+	description: "梦回 1.8 版本",
 	text: [
-		"Who needs bows when you can swing your sword faster than any arrow flies!"
+		"如果挥舞剑的速度比弓箭飞得还快的话谁还用弓啊！"
 	],
 	tasks: [{
 		uid: "d4444daf",

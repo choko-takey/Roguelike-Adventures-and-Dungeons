@@ -1,16 +1,16 @@
 {
-	title: "Crafty Plants",
+	title: "工作台植物",
 	x: -12.0d,
 	y: -2.0d,
-	description: "Plants and crafts",
+	description: "植物与合成",
 	text: [
-		"Tired of throwing your seeds at artisia?",
+		"厌倦了每次合成都要往巧艺花里扔物品？",
 		"",
-		"Combined them together to make a crafty plant.",
+		"把它们组合成更大的工作台作物吧。",
 		"",
-		"Now you can go back to manually crafting seeds.",
+		"现在你可以回归传统合成方式来合成种子了。",
 		"",
-		"If a wildwood staff is inserted inside it will use crop power so that you can save on resources when crafting."
+		"如果往里面放入野木法杖，合成时将不再消耗原材料而是消耗作物能量。"
 	],
 	dependencies: [
 		"8dbd1241"

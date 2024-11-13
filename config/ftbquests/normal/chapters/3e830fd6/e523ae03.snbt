@@ -1,12 +1,12 @@
 {
-	title: "When I Said I Like Glazed Doughnuts",
+	title: "要我说我比较喜欢釉面甜甜圈",
 	x: -13.5d,
 	y: -3.0d,
-	description: "This is not what I mean't",
+	description: "但这不是我说的那种",
 	text: [
-		"Don't try eating these doughnuts trust me.",
+		"信我别吃这些甜甜圈。",
 		"",
-		"Their hard as steel just use em as weapons instead!"
+		"它们硬得像钢铁，所以拿来做武器会比较好。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

@@ -1,12 +1,12 @@
 {
-	title: "Hunger Strike",
+	title: "绝食抗议",
 	x: -18.5d,
 	y: -2.5d,
-	description: "Burning some calories",
+	description: "燃烧卡路里",
 	text: [
-		"Abstract residue does it exist does it not?",
+		"抽象残片是真实存在的吗？",
 		"",
-		"No one knows but if it does maybe you can use it in your new diet plan."
+		"没有人知道答案，但你可以把它加入到你的减肥菜单里。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

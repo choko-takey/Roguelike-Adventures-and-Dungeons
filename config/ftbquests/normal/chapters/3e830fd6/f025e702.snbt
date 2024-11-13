@@ -1,12 +1,12 @@
 {
-	title: "Up Up And Away",
+	title: "高高飞起",
 	x: -3.5d,
 	y: 4.5d,
-	description: "Your voice sounds funny",
+	description: "你的声音听起来很好笑",
 	text: [
-		"These plump plums are filled with helium so make sure you keep your windows locked.",
+		"这些飞艇梅里面充满了氦气，所以记得关好门窗。",
 		"",
-		"Or else they might fly off into space."
+		"否则它们会飞到太空中去。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

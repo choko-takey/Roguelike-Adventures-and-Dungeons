@@ -1,5 +1,5 @@
 {
-	title: "The Druid",
+	title: "德鲁伊",
 	icon: {
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {},
@@ -15,15 +15,15 @@
 	},
 	x: -18.5d,
 	y: 3.0d,
-	description: "Nature is magical",
+	description: "自然如此魔幻",
 	text: [
-		"Before you begin your journey into unique crops multiblocks you will need to craft a wildwood staff.",
+		"开始探索独特作物的多方块结构之前，你需要制作一把野木法杖。",
 		"",
-		"Once crafted it will absorb crop energy from nearby growing crops.",
+		"它会从四周生长的作物中吸收作物能量。",
 		"",
-		"The most optimal crops to steal energy from are potatoes, wheat, beetroots or carrots.",
+		"最适合为它供应能量的作物是马铃薯、小麦、甜菜根和胡萝卜。",
 		"",
-		"The orb of good harvest allows the staff to act in a larger radius"
+		"丰收宝珠能够扩大法杖对作物的搜索范围。"
 	],
 	tasks: [{
 		uid: "068fabae",

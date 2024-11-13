@@ -1,12 +1,12 @@
 {
-	title: "It's Rewind Time",
+	title: "倒带时间",
 	x: -16.5d,
 	y: 1.0d,
-	description: "Ahhhh that's crop",
+	description: "啊啊指的是作物",
 	text: [
-		"Liked your crops when there were just mere weeds?",
+		"喜欢作物未成熟的样子？",
 		"",
-		"By using a time meal on a crop it will reverse it's growing process."
+		"使用逆时骨粉即可回溯作物的生长阶段。"
 	],
 	tasks: [{
 		uid: "50610b7e",

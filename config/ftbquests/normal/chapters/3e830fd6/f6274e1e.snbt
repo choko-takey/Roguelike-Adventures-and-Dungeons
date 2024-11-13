@@ -1,16 +1,16 @@
 {
-	title: "Bottomless Barrel?",
+	title: "无底之桶？",
 	x: -16.5d,
 	y: -1.0d,
-	description: "I don't know if the item in barrel until I check",
+	description: "不看一眼我都不知道里面装没装东西",
 	text: [
-		"Tired of how small regular chest are?",
+		"觉得一般的箱子太小了？",
 		"",
-		"Make an abstract barrel and it will show a chest how to really store things.",
+		"做一个抽象之桶，让一般箱子看看怎样才叫储存空间利用最大化。",
 		"",
-		"It may look small when opened up but these babies can store up to a 100 items.",
+		"虽然它看上去很小，不过内部可以储存 100 格物品，",
 		"",
-		"With a cost of course!"
+		"当然，需要一点代价！"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

@@ -1,5 +1,5 @@
 {
-	title: "Praise The Sun",
+	title: "赞美太阳",
 	icon: {
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
@@ -8,13 +8,13 @@
 	},
 	x: -2.5d,
 	y: -3.5d,
-	description: "The power of the sun in the palm of my hand",
+	description: "我的手掌握着太阳的力量",
 	text: [
-		"Harness solar energy with the power plant.",
+		"利用太阳能来培育能量种子。",
 		"",
-		"While exposed to sunlight they will grow and storage its energy.",
+		"暴露在阳光下时它们会生长并储存能量。",
 		"",
-		"When fully grown and harvested it has a chance of dropping a battery bean."
+		"完全成熟后，收获有概率获得电容豆。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

@@ -1,12 +1,12 @@
 {
-	title: "16 Bit Reality",
+	title: "16 比特的现实",
 	x: -14.5d,
 	y: -2.5d,
-	description: "I heard you like pixels",
+	description: "我听说你喜欢像素",
 	text: [
-		"Ever wanted to play minecraft if it was made in the 90s?",
+		"如果 Minecraft 是 90 年代的游戏玩起来是什么感受？",
 		"",
-		"Put on these shades and then you'll be blasted to the past!"
+		"戴上这副眼镜你就能瞬间回到过去！"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

@@ -1,14 +1,14 @@
 {
-	title: "Endy The Plant",
+	title: "末影植物",
 	x: -1.5d,
 	y: 4.5d,
-	description: "Wanna see me teleport to that mountain and back?",
+	description: "想看我传送到那座山上再传回来吗？",
 	text: [
-		"Ender lillies love to teleport so give them lots of empty farmland to work with.",
+		"末影百合喜欢到处传送，所以给它们留一大块空的耕地让它们玩吧。",
 		"",
-		"Watch out though they might swap places with anything that does not resemble them.",
+		"需要注意的是它们甚至会和不同类的东西交换位置。",
 		"",
-		"Toss an enderpearl at it and It will return the favour."
+		"往成熟体身上扔个末影珍珠，它可能会加倍回报你。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

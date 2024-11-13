@@ -1,12 +1,12 @@
 {
-	title: "Captain Thunderpants",
+	title: "雷霆裤队长",
 	x: -10.0d,
 	y: 9.0d,
-	description: "Hey there fancy pants",
+	description: "好炫酷的裤子",
 	text: [
-		"Remeber being a kid an getting a static shock now you get to give others that experience.",
+		"还记得小时候被静电吓到的瞬间吗？现在你可以让其它人也体验一下静电的酸爽了。",
 		"",
-		"Slap down some carpet dance around a bit and give your enemies the shock of their life."
+		"铺几块地毯并在上面跳舞，随后给你的敌人来一下静电冲击。"
 	],
 	tasks: [{
 		uid: "fb0784a6",

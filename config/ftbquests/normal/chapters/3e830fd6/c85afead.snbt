@@ -1,10 +1,10 @@
 {
-	title: "Now In 4k",
+	title: "现在开启 4K 分辨率",
 	x: -3.5d,
 	y: -2.5d,
-	description: "I paid for all the pixels",
+	description: "我花钱买了所有像素",
 	text: [
-		"The more they mature the more high quality they will appear."
+		"它们生长度越高，所表现出来的贴图质量也越高。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

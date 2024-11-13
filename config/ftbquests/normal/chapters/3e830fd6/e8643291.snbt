@@ -1,12 +1,12 @@
 {
-	title: "I'm Not Getting Any Older Over Here",
+	title: "我不会让任何人通过这里的",
 	x: -2.5d,
 	y: 4.5d,
-	description: "Maiden in unique",
+	description: "少女除外",
 	text: [
-		"Millennium have all the time in the world unfortunately you don't!",
+		"千禧之蕊有大把的时间能在这个世界里逍遥自在，但可惜你不行！",
 		"",
-		"Unless you want to turn into a fossil you better find a way to speed up there growth."
+		"除非你想活生生等到自己变成化石，否则你最好找个方法来加速它们的生长。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

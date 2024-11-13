@@ -1,12 +1,12 @@
 {
-	title: "Quick Maths",
+	title: "简单的数学计算",
 	x: -0.5d,
 	y: -1.5d,
-	description: "Even Stevens",
+	description: "史蒂芬一家",
 	text: [
-		"Wafflonia's love being with eachother.",
+		"华夫兰喜欢相互靠在一起。",
 		"",
-		"Make sure each one has a friend to talk to!"
+		"确保每一株都有朋友能够聊天。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

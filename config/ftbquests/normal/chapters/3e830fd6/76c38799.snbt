@@ -1,16 +1,16 @@
 {
-	title: "Dwarven Horticulture",
+	title: "矮人园艺",
 	x: -1.5d,
 	y: -3.5d,
-	description: "As longs as it drinks and has a beard it can be a dwarf",
+	description: "只要会喝啤酒的和长胡须的都可以是矮人",
 	text: [
-		"Fossura were orignally raised by dwarves.",
+		"掘石者最开始是由矮人培育的。",
 		"",
-		"To prove your a real dwarf to it mine it a few times.",
+		"要证明你是真正的矮人，用稿子敲它几下。",
 		"",
-		"When matured it will mine nearby blocks and place them into any chest ontop of it.",
+		"成熟之后，它将挖掘附近的方块并存放到上方的箱子里。",
 		"",
-		"It also needs a method of making beer so give it some wheat friends so it can make some."
+		"它还需要能酿造啤酒的原料，所以别忘了在它周围种几株小麦。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

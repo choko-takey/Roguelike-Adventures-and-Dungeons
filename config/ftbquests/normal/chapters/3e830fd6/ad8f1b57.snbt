@@ -1,12 +1,12 @@
 {
-	title: "Kaboom Laddy!",
+	title: "瞬间爆炸！",
 	x: -15.5d,
 	y: 2.5d,
-	description: "Is it safe to carry a bomb as a shield?",
+	description: "拿炸弹当盾牌安全吗？",
 	text: [
-		"Like a regular shield the impact shield blocks attack but with added bous of storing them for later.",
+		"就像一般的盾牌一样，冲击盾能够为你阻挡敌人的攻击，不过它还能吸收并储存受到的所有伤害",
 		"",
-		"When its about to break it will unleash all the damage taken to the unfortunate foe who happens to break it."
+		"当它快要碎裂的时候，它将释放所有伤害给碰巧击碎盾牌的倒霉蛋。"
 	],
 	tasks: [{
 		uid: "7dbb68dd",

@@ -1,14 +1,14 @@
 {
-	title: "Steve And The Beanstalk",
+	title: "史蒂夫与豌豆",
 	x: -9.5d,
 	y: -2.0d,
 	description: "Fee fi fo fum",
 	text: [
-		"Bigger is better.",
+		"大就是好。",
 		"",
-		"After crafting the wild wood staff you can use it to make certain multi blocks.",
+		"制作出野木法杖后你就可以用它搭建特定的多方块结构了。",
 		"",
-		"Each multi block has its own unique features and mechanics."
+		"每个多方块结构有它独特的功能与作用。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

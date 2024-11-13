@@ -1,14 +1,14 @@
 {
-	title: "The Family Plant",
+	title: "植物一家人",
 	x: -4.0d,
 	y: -4.5d,
-	description: "Never turn your back on family",
+	description: "不要把你的背后留给家人",
 	text: [
-		"Instabilis only grow as a family with eachother.",
+		"落弱兰需要相互组成一家人才会生长。",
 		"",
-		"Once matured be careful when harvesting.",
+		"成熟后收获要格外小心。",
 		"",
-		"The only way your seperating it from its family is with a pair of shears."
+		"把它从家族中剥离的唯一方法是使用剪刀。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

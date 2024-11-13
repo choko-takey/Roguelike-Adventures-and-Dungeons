@@ -1,14 +1,14 @@
 {
-	title: "Blink",
+	title: "眨一下眼",
 	x: -1.5d,
 	y: 5.5d,
-	description: "And you'll miss it",
+	description: "你就会错过关键",
 	text: [
-		"When it comes to collecting being precise Precision crops are you plant ",
+		"收集是很需要精确度的一件工作，而你接下来要种的高精花厉害的就是精度。",
 		"",
-		"The nuggets they drop can be used to craft precision tools.",
+		"它的产物高精粒可以用于制作高精度工具。",
 		"",
-		"But be careful if your not being precise with them you might miss the oppurtunity to get anything from it."
+		"但要小心，一旦你错过了收获它的精确时机，你就无法再获得任何产物了。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

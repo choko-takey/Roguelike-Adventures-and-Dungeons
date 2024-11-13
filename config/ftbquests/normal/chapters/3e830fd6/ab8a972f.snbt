@@ -1,12 +1,12 @@
 {
-	title: "Chaos Cube",
+	title: "混沌魔方",
 	x: -9.5d,
 	y: 5.0d,
-	description: "Spatial logic block",
+	description: "三维逻辑方块",
 	text: [
-		"It's easier to understand teleportation than it is to solve a rubik cube.",
+		"比起还原三阶魔方还是传送更好懂一些。",
 		"",
-		"Prove me wrong!"
+		"不信的话证明我是错的！"
 	],
 	tasks: [{
 		uid: "4968e99c",

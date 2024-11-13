@@ -1,12 +1,12 @@
 {
-	title: "Objection!",
+	title: "异议！",
 	x: -4.5d,
 	y: -1.5d,
-	description: "Order in the court of plants",
+	description: "这是植物法院颁布的法令",
 	text: [
-		"Remeber to read the fine print before planting this crop.",
+		"记得在种植这棵作物之前阅读完整篇文件。",
 		"",
-		"every... single......TIME!!"
+		"每一次……都要！！"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

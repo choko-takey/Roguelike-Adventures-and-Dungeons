@@ -1,12 +1,12 @@
 {
-	title: "Alchemist Bane",
+	title: "炼金术士 Bane",
 	x: -9.5d,
 	y: 3.5d,
-	description: "Miracle cure",
+	description: "奇迹治愈",
 	text: [
-		"Tired of all those random potion effects.",
+		"疲于应付一系列乱七八糟的药水效果？",
 		"",
-		"equip the Golden Scarab Emblem to negegate the abillity to be effected by all potions."
+		"装备这个黄金圣甲虫印记即可免疫所有药水效果。"
 	],
 	tasks: [{
 		uid: "6f38d2a3",

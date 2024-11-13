@@ -1,12 +1,12 @@
 {
-	title: "The High Ground",
+	title: "我占领了高地",
 	x: -2.5d,
 	y: 3.5d,
-	description: "It's over anakin",
+	description: "已经结束了阿纳金",
 	text: [
-		"Collis love having the high ground.",
+		"秋麒麟喜欢站在高处。",
 		"",
-		"The higher up they are the faster they grow."
+		"它们站得越高长得越快。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

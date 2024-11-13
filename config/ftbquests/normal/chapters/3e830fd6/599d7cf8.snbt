@@ -1,8 +1,8 @@
 {
-	title: "Let Me Be Precise",
+	title: "你不会是认真的吧",
 	x: -15.5d,
 	y: -2.0d,
-	description: "And stop calling me shirley",
+	description: "我很认真！但我名字不叫认真的",
 	text: [
 		""
 	],

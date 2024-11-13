@@ -1,10 +1,10 @@
 {
-	title: "Easy Mode Enabled",
+	title: "启用简单模式",
 	x: -17.5d,
 	y: 3.5d,
-	description: "It's not cheating",
+	description: "这不是作弊",
 	text: [
-		"Make life a little bit easier by having one of these in your pocket."
+		"放一个这个在你口袋里，让生活变得轻松一点。"
 	],
 	tasks: [{
 		uid: "59fc3c60",

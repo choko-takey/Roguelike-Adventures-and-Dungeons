@@ -1,18 +1,18 @@
 {
-	title: "Leapfrog",
+	title: "青蛙跳荷叶",
 	x: -16.5d,
 	y: 5.0d,
-	description: "The cooler lillipads",
+	description: "更酷的睡莲",
 	text: [
-		"Tired of regular boring lillies? Why not make them unique!",
+		"厌倦了原版睡莲？试试这几款独特版本。",
 		"",
-		"Ender lillies can be used as elevators as long as another is above or below it.",
+		"末影睡莲可以当电梯用，只需把两个末影睡莲垂直放置。",
 		"",
-		"Ice lillies will freeze items on top of them, this will stop said item despawning",
+		"冰霜睡莲可以冻结在其上方的物品，使它们不会被刷新。",
 		"",
-		"Lava lillies burn anything that touches them! They also prefer lava over water.",
+		"熔岩睡莲会灼烧触碰到它的任何物品。比起水它们更喜欢岩浆。",
 		"",
-		"Jungle lillies act the same as slime blocks without the bounce."
+		"丛林睡莲和史莱姆块具有一样的特性，除了不会让你弹跳。"
 	],
 	tasks: [{
 		uid: "5fa0df35",

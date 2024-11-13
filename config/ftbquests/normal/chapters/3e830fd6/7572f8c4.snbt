@@ -1,12 +1,12 @@
 {
-	title: "Phoenix Down",
+	title: "不死鸟之羽",
 	x: -16.5d,
 	y: 0.0d,
-	description: "Revival not guranteed",
+	description: "但是并不能复活",
 	text: [
-		"Gotten from the hottest of crops.",
+		"从最烫手的作物上收获而得。",
 		"",
-		"Cinder leaves act as a neat alternative to coal for those that don't want to pollute there world."
+		"燃烬叶片相当于更环保的煤炭，对于那些不想污染环境的人来说。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

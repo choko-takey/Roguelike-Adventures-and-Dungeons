@@ -1,10 +1,10 @@
 {
-	title: "I'll Turn You Into A Frog",
+	title: "我要把你变成一只青蛙",
 	x: -9.0d,
 	y: 0.5d,
-	description: "Don't worry it won't hurt.. I think",
+	description: "别担心，一点都不疼……应该吧",
 	text: [
-		"Be like a real witch and transform annoying creatures into a completely differnet lifeform."
+		"像真正的女巫一样把那些烦人的生物转换成其它完全不同的生物类型。"
 	],
 	tasks: [{
 		uid: "07a60486",

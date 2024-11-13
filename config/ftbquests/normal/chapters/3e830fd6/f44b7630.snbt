@@ -1,14 +1,14 @@
 {
-	title: "Let Em Cook",
+	title: "让它做饭吧",
 	x: -11.5d,
 	y: -3.0d,
-	description: "Cooking a five star meal",
+	description: "做一份五星级料理",
 	text: [
-		"Cocito are burning hot not to hot though.",
+		"Cocito 的火烧得很旺，但也没那么旺。",
 		"",
-		"Any item dropped near it will begin to cook.",
+		"所有掉在它附近的东西都会被拿来烹饪",
 		"",
-		"Try not to leave them near it to long or else they might burn up"
+		"别把东西留在地上太久，否则可能就烧焦了。"
 	],
 	dependencies: [
 		"8dbd1241"

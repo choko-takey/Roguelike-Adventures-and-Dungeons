@@ -1,14 +1,14 @@
 {
-	title: "Get Off My Lawn",
+	title: "滚出我的草坪",
 	x: -0.5d,
 	y: -2.5d,
-	description: "You damn mobs",
+	description: "你个坏东西",
 	text: [
-		"Imperia have a weird obsession with violence. ",
+		"古怪的英普瑞斯对暴力情有独钟。",
 		"",
-		"They'll only grow if you do some murdering near them.",
+		"只有当你在它们附近进行屠杀时它们才会成长。",
 		"",
-		"When fully grown they negate mob spawns."
+		"完全成熟后它们将阻止怪物生成。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

@@ -1,12 +1,12 @@
 {
-	title: "A Unique Book",
+	title: "一本独特的书",
 	x: -2.5d,
 	y: 5.5d,
-	description: "This book is cool",
+	description: "这本书很酷",
 	text: [
-		"The big guide book behind unique crops.",
+		"一本关于独特作物的指导书。",
 		"",
-		"If your ever confused about anything just read it."
+		"感到困惑的时候就翻开来看看吧。"
 	],
 	tasks: [{
 		uid: "b0f93e49",

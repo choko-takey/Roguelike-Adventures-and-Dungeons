@@ -1,12 +1,12 @@
 {
-	title: "Billards",
+	title: "打台球",
 	x: -16.5d,
 	y: -3.0d,
-	description: "Good luck trying to play it in a world of cubes",
+	description: "虽然这里全是方块，但还是祝你好运",
 	text: [
-		"The ender snooker was originally made for playing pool to bad the entire world is made out of cubes.",
+		"末影套杆最初造出来是用来打台球的，但坏消息是这个方块世界根本没有球。",
 		"",
-		"But nothing is stopping you from trying."
+		"但我想这也无法阻止你尝试使用它。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

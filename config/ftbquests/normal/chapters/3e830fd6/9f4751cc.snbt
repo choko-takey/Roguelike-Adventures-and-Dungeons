@@ -1,18 +1,18 @@
 {
-	title: "Craftology 101",
+	title: "工艺学 101",
 	x: -3.5d,
 	y: 5.5d,
-	description: "Plants vs items",
+	description: "植物大战物品",
 	text: [
-		"The second most important plant in unique crops",
+		"独特作物中第二重要的植物。",
 		"",
-		"Artisa is used to craft all seeds in unique crops.",
+		"巧艺花用来合成独特作物中的全部种子。",
 		"",
-		"When placed in a 3x3 grid with the center plant being the last to fully bloom items dropped in will be stored.",
+		"在3x3范围内种满巧艺花，待其完全成熟后，它们就会开始接收掉落物。",
 		"",
-		"Once filled if the recipe matches a seed it will be crafted at the center plant.",
+		"按配方填充好物品后它就会合成种子并产生于最中间的植物上。",
 		"",
-		"To get the seed just break the center crop."
+		"想要获得种子只需击碎中间的作物，"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

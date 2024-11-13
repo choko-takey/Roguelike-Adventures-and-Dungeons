@@ -1,12 +1,12 @@
 {
-	title: "Even Plants Can Be Lumberjacks",
+	title: "植物也可以成为伐木工",
 	x: -7.5d,
 	y: -3.0d,
-	description: "A bit counterproductive though",
+	description: "虽然可能会适得其反",
 	text: [
-		"When planted lignator will cut down any nearby trees.",
+		"种下 lignator 它将砍伐周围的树木。",
 		"",
-		"They are trees themselves though so try not to have them to close to eachother."
+		"它们自己也是树木的一种所以别让它们靠得太近。"
 	],
 	dependencies: [
 		"8dbd1241"
@@ -14,7 +14,7 @@
 	tasks: [{
 		uid: "c2940da3",
 		type: "observation",
-		title: "Stare At A Lignator",
+		title: "观察 Lignator",
 		icon: {
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}

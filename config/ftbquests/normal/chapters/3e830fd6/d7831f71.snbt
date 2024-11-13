@@ -1,10 +1,10 @@
 {
-	title: "Baba Black Sheep... Wait Red Sheep",
+	title: "黑绵羊在咩咩叫……等等好像是红绵羊",
 	x: -11.0d,
 	y: 1.0d,
-	description: "A gift from the questing ram",
+	description: "谜题羊的礼物",
 	text: [
-		"It's like gambling but instead of slot machines it's sheep wool colours."
+		"虽然有点赌的成分但这不是老虎机，这是羊毛染色机。"
 	],
 	tasks: [{
 		uid: "59eaa54c",

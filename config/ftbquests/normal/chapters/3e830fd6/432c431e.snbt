@@ -1,14 +1,14 @@
 {
-	title: "All Eyes On Me",
+	title: "所有人目光向我看齐",
 	x: -2.5d,
 	y: 0.5d,
-	description: "Look at me i'm the plant now",
+	description: "看着我！我现在是棵植物！",
 	text: [
-		"Weeping bells love to be watched so much so that unless you have all your attention on them they wont grow an inch.",
+		"泣血铃非常喜欢被他人注视的感觉，所以如果你不紧盯着它它就完全不会生长。",
 		"",
-		"Once fully matured they want your undived attention!",
+		"成熟之后它对你的视线更是狂热与敏感。",
 		"",
-		"Try not to find out what they do if you don't give it to them."
+		"此时不要轻易尝试把视角从它身上移开。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

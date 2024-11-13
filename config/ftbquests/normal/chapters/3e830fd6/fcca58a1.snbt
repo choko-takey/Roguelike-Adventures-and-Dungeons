@@ -1,14 +1,14 @@
 {
-	title: "Fairest Of Them All",
+	title: "最梦幻的作物",
 	x: -5.0d,
 	y: -0.5d,
-	description: "A fairytale as old as time",
+	description: "一个古老的童话故事",
 	text: [
-		"Cinderbella are right out of a childrens fairy tale book. ",
+		"卉姑娘来自于孩子们都读过的一本童话书。",
 		"",
-		"Much like those fairy tale princess this plant can only achieve its dream of maturing by being planted after midnight.",
+		"就像那些童话中的公主一样，这种植物只能在午夜之后种植才能实现生长成熟的梦想。",
 		"",
-		"They also require some pumpkin friends to protect them."
+		"它们还需要一些南瓜朋友来保护它们。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

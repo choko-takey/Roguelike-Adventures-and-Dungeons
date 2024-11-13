@@ -1,12 +1,12 @@
 {
-	title: "Ring Of Potassium",
+	title: "土豆之环",
 	x: -16.5d,
 	y: 4.0d,
-	description: "Potatoes boil em mash em turn em into a ring",
+	description: "土豆煮软并捣碎后把它们捏成环状",
 	text: [
-		"As long as you have the Funyun ring equipped never worry about starving again.",
+		"只要装备了这个 Funyun 洋葱圈就不用再怕饿肚子了。",
 		"",
-		"It will use it's durabillity to fill your hunger."
+		"它会消耗耐久度为你恢复饱食度。"
 	],
 	tasks: [{
 		uid: "87ae00dc",

@@ -1,12 +1,12 @@
 {
-	title: "A Fairytail Princess",
+	title: "童话中的公主",
 	x: -17.5d,
 	y: -3.0d,
-	description: "The fairest of them all",
+	description: "拥有无与伦比的美貌",
 	text: [
-		"To find your Cinderella match your half of the glass slipper to creatures of land.",
+		"使用这只水晶鞋寻访这片大陆上的各个生物来找到属于你的灰姑娘。",
 		"",
-		"Fair maidens wear shoes so remeber that before trying to find your soulmate."
+		"别忘了你的那位灵魂伴侣是穿着鞋子的。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

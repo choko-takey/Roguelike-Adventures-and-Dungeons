@@ -1,16 +1,16 @@
 {
-	title: "Planty Says",
+	title: "植物说",
 	x: -8.0d,
 	y: -4.0d,
-	description: "Jump",
+	description: "跳！",
 	text: [
-		"Itero love playing simon says.",
+		"Itero 喜欢玩我说你做。",
 		"",
-		"Once planted and activated right click it and the pressure plates around it will light up in a sequence.",
+		"种植好并右击激活后，它四周的压力板就会以特定序列射出光束。",
 		"",
-		"Follow that sequence to make it advance a growth stage.",
+		"按照顺序踩下压力板即可推进它的生长阶段。",
 		"",
-		"Don't mess up or you'll have to redo the previous stage!"
+		"别搞错顺序了，否则你将会回到上一关重新开始！"
 	],
 	dependencies: [
 		"8dbd1241"
@@ -18,7 +18,7 @@
 	tasks: [{
 		uid: "8443318d",
 		type: "observation",
-		title: "Observe An Itero",
+		title: "观察一株 Itero",
 		icon: {
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}

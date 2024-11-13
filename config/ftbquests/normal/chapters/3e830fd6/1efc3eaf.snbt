@@ -1,10 +1,10 @@
 {
-	title: "The Cake Might Be A Lie",
+	title: "蛋糕是个谎言",
 	x: -17.5d,
 	y: 2.5d,
-	description: "Making the mother of all omelettes",
+	description: "做一份史上最大的欧姆蛋",
 	text: [
-		"To make an omelette you have to break a few eggs to bad chickens take forever to make them."
+		"想要做一份欧姆蛋，你需要准备好几个鸡蛋，而这些蠢鸡下一辈子都不一定下的出来。"
 	],
 	tasks: [{
 		uid: "32b5f285",

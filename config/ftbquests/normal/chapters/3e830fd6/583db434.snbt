@@ -1,14 +1,14 @@
 {
-	title: "Sticks & Stones",
+	title: "棍棒与石头",
 	x: -18.5d,
 	y: -3.5d,
-	description: "May break my bones but legal documents will hurt me",
+	description: "可能会砸碎我的骨头，但法律文件……更是伤人",
 	text: [
-		"Have a nosey neighbour that won't stop bothering you.",
+		"嫌隔壁邻居没日没夜地吵个不停？",
 		"",
-		"Hit em with a cease and desist from the eula book! ",
+		"把这本《最终用户许可协议》糊他脸上。",
 		"",
-		"It's buried in there somewere I think?"
+		"他应该不会被这些法律文件活埋致死吧。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

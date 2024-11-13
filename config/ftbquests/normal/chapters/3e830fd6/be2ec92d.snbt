@@ -1,10 +1,10 @@
 {
-	title: "The Anti Pincushion",
+	title: "膝盖缓冲垫",
 	x: -11.0d,
 	y: 3.0d,
-	description: "I used to be an adventurer like you",
+	description: "我曾经和你一样是个冒险者",
 	text: [
-		"Tired of bone bags sniping you get your favourite shield and slap on a cobalt emblem and make that a worry of the past."
+		"不想让骷髅围着你射个千疮百孔的话，带上你喜欢的盾牌并装备上这个饰品，让这些担忧成为过去。"
 	],
 	tasks: [{
 		uid: "ef39d7f6",

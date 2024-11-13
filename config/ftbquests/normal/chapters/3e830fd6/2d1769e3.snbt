@@ -1,10 +1,10 @@
 {
-	title: "A Present From Mima",
+	title: "来自 Mima 的礼物",
 	x: -9.0d,
 	y: 9.0d,
-	description: "It may not be stylish but it was made with love",
+	description: "可能不够时髦但它满怀着制作者的爱意",
 	text: [
-		"A comfy sweater to keep you warm on those cold winter nights."
+		"这件舒服的棉斗篷能让你在寒冷的冬夜中保持温暖。"
 	],
 	tasks: [{
 		uid: "0a775649",

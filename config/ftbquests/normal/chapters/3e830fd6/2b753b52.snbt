@@ -1,12 +1,12 @@
 {
-	title: "Count Plantula",
+	title: "植物中的伯爵",
 	x: -3.0d,
 	y: -4.5d,
-	description: "Vegans can be vampires",
+	description: "素食者也可以变成吸血鬼",
 	text: [
-		"Apparently there's plant based alternatives to blood.",
+		"显然这个植物和血液有关系。",
 		"",
-		"The only way you seeing this blood sucking plant is by trapping it in a mirror dimension when the moon is hollow."
+		"想要看到这个吸血植物的唯一方式是在新月期间通过镜子观察耕地。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

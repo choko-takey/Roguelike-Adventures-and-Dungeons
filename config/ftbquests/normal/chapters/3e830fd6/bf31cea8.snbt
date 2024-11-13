@@ -1,10 +1,10 @@
 {
-	title: "Flash Sale",
+	title: "限时促销",
 	x: -10.5d,
 	y: 7.0d,
-	description: "50% of your next repair",
+	description: "下次修复只需要 50%",
 	text: [
-		"Only the smartest plants can guide you to saving."
+		"只有最聪明的植物能够教你怎么省钱。"
 	],
 	tasks: [{
 		uid: "e560b1a8",
