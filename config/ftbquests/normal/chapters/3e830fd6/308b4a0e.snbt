@@ -18,7 +18,7 @@
 	tasks: [{
 		uid: "8443318d",
 		type: "observation",
-		title: "观察一株 Itero",
+		title: "观察 Itero",
 		icon: {
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
