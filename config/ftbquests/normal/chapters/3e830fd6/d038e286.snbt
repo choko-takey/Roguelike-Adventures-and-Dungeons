@@ -6,7 +6,7 @@
 	text: [
 		"暗岩花会把靠近它的基岩转换为暗岩。",
 		"",
-		"使用末影套杆潜行右键来收集这些暗岩。"
+		"使用末影套杆潜行右击来收集这些暗岩。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
