@@ -6,7 +6,7 @@
 	text: [
 		"有梦想过拥有一份金子做的面包吗？",
 		"",
-		"弄一些秋麒麟捆来让梦想成真。。"
+		"弄一些秋麒麟捆来让梦想成真。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
