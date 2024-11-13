@@ -18,7 +18,7 @@
 	tasks: [{
 		uid: "0d2688dd",
 		type: "interaction",
-		title: "Interact With A Craft Plant",
+		title: "与 Crafty Stalks 交互",
 		icon: {
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
