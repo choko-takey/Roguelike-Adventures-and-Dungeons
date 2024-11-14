@@ -3,13 +3,12 @@
    <h1>Roguelike冒险与地牢简体中文翻译</h1>
 </div>
 
-CurseForge|加载器|整合包版本|状态
+CurseForge|加载器|整合包版本|汉化维护状态
 :-|:-|:-|:-
-[链接](https://www.curseforge.com/minecraft/modpacks/roguelike-adventures-and-dungeons)|Forge|mc1.12.2 1.54|*翻译新版中*|
+[链接](https://www.curseforge.com/minecraft/modpacks/roguelike-adventures-and-dungeons)|Forge|mc1.12.2 1.54|*维护中*|
 
 ---
 
 汉化发布：[VM汉化组官网](https://vmct-cn.top/modpacks/rad)
 
 ![授权](https://vmct-cn.top/imgs/rad.png)
-
