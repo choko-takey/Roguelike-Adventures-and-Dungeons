@@ -1,0 +1,2 @@
+<naturescompass:naturescompass>.addTooltip(format.white("当你在主世界使用的时候请注意：在 OTG 世界中这个物品可能无法正常运作。"));
+mods.jei.JEI.addDescription(<naturescompass:naturescompass>,"由于本整合包所使用的 OTG 在创建世界时并没有准确的注册生物群系，这将意味着在主世界，生物群系指南针可能无法正确定位。");
