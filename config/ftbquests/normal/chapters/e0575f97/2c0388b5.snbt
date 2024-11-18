@@ -4,11 +4,12 @@
 	y: -2.5d,
 	description: "你这个纵火狂",
 	text: [
-		"柴堆是用来举行仪式和制作物品的工具。"
+		"柴堆是用来举行仪式和制作根源魔法模组物品的工具。"
 	],
 	dependencies: [
 		"90edb6b4"
 	],
+	size: 2.0d,
 	tasks: [{
 		uid: "0239443e",
 		type: "item",
