@@ -16,7 +16,6 @@
 			id: "minecraft:obsidian"
 		}],
 		count: 1000000L,
-		consume_items: true
 	}],
 	rewards: [{
 		uid: "a3936569",
