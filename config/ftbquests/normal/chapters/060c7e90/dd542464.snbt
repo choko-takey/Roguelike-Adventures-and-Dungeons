@@ -8,6 +8,7 @@
 	},
 	x: -17.0d,
 	y: 12.5d,
+	description: "魔法的力量胜于文字！",
 	text: [
 		"想要开始学习贤者法术，你需要获得scribe法术书和experiment法术书。",
 		"",

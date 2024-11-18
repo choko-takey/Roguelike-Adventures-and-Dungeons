@@ -11,6 +11,7 @@
 	tasks: [{
 		uid: "9ef24124",
 		type: "interaction",
+		title: "与猎人研究台交互",
 		icon: {
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}

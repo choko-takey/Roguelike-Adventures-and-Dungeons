@@ -30,6 +30,7 @@
 		"",
 		"&l图例即将上线！！"
 	],
+	can_repeat: true,
 	tasks: [{
 		uid: "ae9fc606",
 		type: "ftbmoney:money",
