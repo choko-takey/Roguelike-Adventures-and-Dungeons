@@ -13,7 +13,7 @@
 	tasks: [{
 		uid: "fefa6883",
 		type: "advancement",
-		title: "New Vampire Overlord",
+		title: "新的吸血鬼君王",
 		icon: "vampirism:vampire_fang",
 		advancement: "vampirism:vampire/max_level",
 		criterion: ""
