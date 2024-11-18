@@ -16,7 +16,6 @@
 			id: "minecraft:log"
 		}],
 		count: 100000L,
-		consume_items: true
 	},
 	{
 		uid: "27a35529",
