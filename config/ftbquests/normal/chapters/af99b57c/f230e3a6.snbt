@@ -4,16 +4,23 @@
 	y: -5.5d,
 	description: "下一个目标是征服太阳",
 	text: [
-		""
+		"§4你已站在所有吸血鬼之上，标志着暮色时代的到来，温血生物将永无安宁之日。",
+		"",
+		"§4光是听到你的名字就能让其它生物害怕反抗你。",
+		"",
+		"§4他们的血液是你的养分",
+		"",
+		"§4但你的嗜血欲仅止于此吗！"
 	],
 	dependencies: [
 		"824b664e"
 	],
 	hide: true,
+	hide_text_until_complete: true,
 	tasks: [{
 		uid: "fefa6883",
 		type: "advancement",
-		title: "New Vampire Overlord",
+		title: "新的吸血鬼君王",
 		icon: "vampirism:vampire_fang",
 		advancement: "vampirism:vampire/max_level",
 		criterion: ""

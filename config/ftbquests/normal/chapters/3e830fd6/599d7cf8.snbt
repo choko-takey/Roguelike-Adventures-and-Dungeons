@@ -1,10 +1,10 @@
 {
-	title: "你不会是认真的吧",
+	title: "需要更高精度",
 	x: -15.5d,
 	y: -2.0d,
-	description: "我很认真！但我名字不叫认真的",
+	description: "钻石精度满足不了任何人",
 	text: [
-		""
+		"所以拿出这些东西让其它人吓一跳吧。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

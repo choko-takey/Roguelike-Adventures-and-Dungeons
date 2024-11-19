@@ -2,10 +2,11 @@
 	title: "作物结构 101",
 	x: -9.5d,
 	y: -6.0d,
+	description: "你现在是一名称职的植物工程师了",
 	text: [
-		"如果你看见了这条任务，那么恭喜你已经完成了独特作物的所有多方块结构。",
+		"恭喜你获得了所有的多方块植物，虽然也有可能你是直接闯入别人基地偷来的，反正我也没法确认。",
 		"",
-		"收下你的奖励。"
+		"无论如何收下你的奖励吧，比你想象中的要丰厚哦。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
@@ -21,7 +22,8 @@
 	hide: true,
 	tasks: [{
 		uid: "a4fafaf4",
-		type: "checkmark"
+		type: "checkmark",
+		icon: "randomthings:pitcherplant"
 	}],
 	rewards: [{
 		uid: "93e5f835",
