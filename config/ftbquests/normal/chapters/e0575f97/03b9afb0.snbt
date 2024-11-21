@@ -10,7 +10,7 @@
 	},
 	x: -2.0d,
 	y: 5.5d,
-	description: "Until it is done",
+	description: "直到完成为止",
 	text: [
 		"不同于上面的咒术，自然之镰必须添加修饰物才能有特定效果。"
 	],
