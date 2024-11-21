@@ -1,0 +1,98 @@
+{
+	title: "我被符刻了",
+	x: -4.5d,
+	y: 2.5d,
+	description: "我一定会回来符仇的",
+	text: [
+		"最高级别的工具和武器是符刻系列。",
+		"",
+		"每种工具在其领域都有特殊的效果。",
+		"",
+		"与地韵系列相比，它们耐久恢复得更慢、挖掘速度更低，但作为补偿模组赋予了它们独特的功能。"
+	],
+	dependencies: [
+		"bf22be52"
+	],
+	tasks: [{
+		uid: "db28d392",
+		type: "item",
+		items: [{
+			id: "roots:runed_pickaxe",
+			tag: {
+				Quality: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "df2b2a86",
+		type: "item",
+		items: [{
+			id: "roots:runed_axe",
+			tag: {
+				Quality: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "22088568",
+		type: "item",
+		items: [{
+			id: "roots:runed_shovel",
+			tag: {
+				Quality: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "cec6b8cd",
+		type: "item",
+		items: [{
+			id: "roots:runed_hoe",
+			tag: {
+				Quality: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "4808232c",
+		type: "item",
+		items: [{
+			id: "roots:runed_sword",
+			tag: {
+				Quality: {
+					Slots: [
+						"mainhand"
+					],
+					Color: "red",
+					AttributeModifiers: [{
+						UUIDMost: -7863132157692916759L,
+						UUIDLeast: -9222912768429744998L,
+						Amount: -0.10000000149011612d,
+						AttributeName: "potioncore.digSpeed",
+						Operation: 2,
+						Name: "qualitytools"
+					},
+					{
+						UUIDMost: 2344180757658749493L,
+						UUIDLeast: -5495955481743980901L,
+						Amount: -0.10000000149011612d,
+						AttributeName: "generic.attackDamage",
+						Operation: 2,
+						Name: "qualitytools"
+					}],
+					Name: "quality.rusted.name"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

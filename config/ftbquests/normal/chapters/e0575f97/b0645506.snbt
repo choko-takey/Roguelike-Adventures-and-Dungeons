@@ -1,0 +1,96 @@
+{
+	title: "开花与生长",
+	icon: {
+		id: "roots:spell_icon",
+		tag: {
+			spell_storage: {
+				s: "roots:spell_growth_infusion"
+			}
+		}
+	},
+	x: 2.0d,
+	y: 5.5d,
+	description: "懒人园艺",
+	text: [
+		"觉得植物长一辈子都长不出来？",
+		"",
+		"生机灌注能够加速大多数作物的生长，让它们在几秒之内就能成熟。"
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"f342cc17",
+		"4e10fdfb"
+	],
+	tasks: [{
+		uid: "205089c3",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "allFlowers",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "任意花朵"
+				}
+			}
+		}]
+	},
+	{
+		uid: "f1dadd5b",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "treeSapling",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "任意树苗"
+				}
+			}
+		}]
+	},
+	{
+		uid: "f483b60a",
+		type: "item",
+		items: [{
+			item: "roots:terra_moss"
+		}]
+	},
+	{
+		uid: "3e314a25",
+		type: "item",
+		items: [{
+			item: "mysticalworld:aubergine"
+		}]
+	},
+	{
+		uid: "0f37f64b",
+		type: "item",
+		items: [{
+			item: "minecraft:wheat"
+		}]
+	}],
+	rewards: [{
+		uid: "d1a04067",
+		type: "loot",
+		table: 63
+	},
+	{
+		uid: "0b0dca2b",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	},
+	{
+		uid: "01814ed7",
+		type: "xp_levels",
+		xp_levels: 5
+	}]
+}

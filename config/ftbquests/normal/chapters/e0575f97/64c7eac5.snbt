@@ -1,0 +1,30 @@
+{
+	title: "木麒麟王子",
+	x: -9.0d,
+	y: 3.0d,
+	description: "并不具备力量",
+	text: [
+		"作为德鲁伊给仙子特地准备的礼物, 木麒麟是咒术和仪式所需要的最基本的植物之一。"
+	],
+	dependencies: [
+		"53a2c6a0"
+	],
+	tasks: [{
+		uid: "5c0eafda",
+		type: "item",
+		items: [{
+			item: "roots:pereskia"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "be6d8b7f",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	},
+	{
+		uid: "d8990b3c",
+		type: "xp_levels",
+		xp_levels: 3
+	}]
+}

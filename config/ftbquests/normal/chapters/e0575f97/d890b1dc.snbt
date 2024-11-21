@@ -1,0 +1,86 @@
+{
+	title: "自然加速",
+	icon: "roots:ritual_germination",
+	x: 1.0d,
+	y: -5.0d,
+	description: "它们长得稍微快了一点点？",
+	text: [
+		"一个简单的催熟仪式，自然萌芽能够增加树苗或作物生长的几率。"
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"2c0388b5"
+	],
+	tasks: [{
+		uid: "c0576593",
+		type: "item",
+		items: [{
+			item: "roots:spirit_herb"
+		}]
+	},
+	{
+		uid: "352baeb3",
+		type: "item",
+		items: [{
+			item: "mysticalworld:aubergine"
+		}]
+	},
+	{
+		uid: "325f6c43",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "rootsBark",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "任意树皮"
+				}
+			}
+		}]
+	},
+	{
+		uid: "8bab8126",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "dyeWhite",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "任意白色染料"
+				}
+			}
+		}]
+	},
+	{
+		uid: "d48dcbd1",
+		type: "item",
+		items: [{
+			item: "roots:wildroot"
+		}]
+	}],
+	rewards: [{
+		uid: "750f6ac1",
+		type: "loot",
+		table: 9
+	},
+	{
+		uid: "da24f335",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	},
+	{
+		uid: "de9fbeee",
+		type: "xp_levels",
+		xp_levels: 5
+	}]
+}

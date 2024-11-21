@@ -1,0 +1,99 @@
+{
+	title: "再森林化协议",
+	icon: "roots:ritual_spreading_forest",
+	x: 1.0d,
+	y: -7.0d,
+	description: "Smokey 想要给你一个金五角星",
+	text: [
+		"根源魔法需要把整片森林夷为平地，希望盖亚能原谅你破坏自然的罪行。",
+		"",
+		"但现在，你可以使用这股精灵的力量给大地带来新生。"
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"2c0388b5"
+	],
+	tasks: [{
+		uid: "994b9900",
+		type: "item",
+		items: [{
+			item: "roots:terra_moss"
+		}]
+	},
+	{
+		uid: "8ba0f42f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "rootsBark",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "任意树皮"
+				}
+			}
+		}]
+	},
+	{
+		uid: "7350491f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "treeSapling",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "任意树苗"
+				}
+			}
+		}]
+	},
+	{
+		uid: "bf49fabc",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "treeSapling",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "任意树苗"
+				}
+			}
+		}]
+	},
+	{
+		uid: "1e597989",
+		type: "item",
+		items: [{
+			item: "roots:spirit_herb"
+		}]
+	}],
+	rewards: [{
+		uid: "ea1ec045",
+		type: "loot",
+		table: 12
+	},
+	{
+		uid: "68c126ea",
+		type: "ftbmoney:money",
+		ftb_money: 100L
+	},
+	{
+		uid: "23d05f61",
+		type: "xp_levels",
+		xp_levels: 15
+	}]
+}

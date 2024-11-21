@@ -1,0 +1,78 @@
+{
+	title: "时间到",
+	icon: {
+		id: "roots:spell_icon",
+		tag: {
+			spell_storage: {
+				s: "roots:spell_time_stop"
+			}
+		}
+	},
+	x: -3.0d,
+	y: 4.5d,
+	description: "砸瓦鲁多",
+	text: [
+		"使用这个强力的时间操控咒术，让世界停止旋转。"
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"f342cc17",
+		"4e10fdfb"
+	],
+	tasks: [{
+		uid: "3a89b67d",
+		type: "item",
+		items: [{
+			item: "minecraft:ender_pearl"
+		}]
+	},
+	{
+		uid: "eac7fd9c",
+		type: "item",
+		items: [{
+			item: "roots:moonglow_leaf"
+		}]
+	},
+	{
+		uid: "24f180eb",
+		type: "item",
+		items: [{
+			id: "minecraft:potion",
+			tag: {
+				Potion: "minecraft:slowness"
+			}
+		}]
+	},
+	{
+		uid: "003c85d5",
+		type: "item",
+		items: [{
+			item: "roots:pereskia"
+		}]
+	},
+	{
+		uid: "95ea620e",
+		type: "item",
+		items: [{
+			id: "minecraft:clock",
+			tag: {
+				"quark:clock_calculated": 1b
+			}
+		}]
+	}],
+	rewards: [{
+		uid: "0d020890",
+		type: "loot",
+		table: 63
+	},
+	{
+		uid: "25300378",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	},
+	{
+		uid: "f7bb62a3",
+		type: "xp_levels",
+		xp_levels: 5
+	}]
+}

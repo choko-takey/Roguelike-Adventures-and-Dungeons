@@ -1,0 +1,21 @@
+{
+	title: "仅供展示",
+	x: 1.5d,
+	y: -2.5d,
+	description: "禁止触碰！",
+	text: [
+		"一些仪式需要在附近放置触媒才能进行。",
+		"",
+		"放置的方法是在柴堆附近摆下触媒台，并在上面放上所需要的物品。"
+	],
+	dependencies: [
+		"90edb6b4"
+	],
+	tasks: [{
+		uid: "d88a2b32",
+		type: "item",
+		items: [{
+			item: "roots:catalyst_plate"
+		}]
+	}]
+}

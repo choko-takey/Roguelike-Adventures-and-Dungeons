@@ -1,0 +1,86 @@
+{
+	title: "懒人繁花森林",
+	icon: "roots:ritual_flower_growth",
+	x: -0.5d,
+	y: -4.0d,
+	description: "花店老板可喜欢了",
+	text: [
+		"这个仪式可以让你在家门口直接生成各种各样的花，专为那些不想出门找繁花森林的人准备。"
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"2c0388b5"
+	],
+	tasks: [{
+		uid: "210a7ccf",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "allFlowers",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "任意花朵"
+				}
+			}
+		}]
+	},
+	{
+		uid: "5e47047c",
+		type: "item",
+		items: [{
+			item: "roots:terra_moss"
+		}]
+	},
+	{
+		uid: "55fc9548",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "allFlowers",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "任意花朵"
+				}
+			}
+		}]
+	},
+	{
+		uid: "276d97b0",
+		type: "item",
+		items: [{
+			item: "roots:petals"
+		}]
+	},
+	{
+		uid: "e8181bde",
+		type: "item",
+		items: [{
+			item: "roots:wildroot"
+		}]
+	}],
+	rewards: [{
+		uid: "ecf5e8d7",
+		type: "loot",
+		table: 8
+	},
+	{
+		uid: "b89434c8",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	},
+	{
+		uid: "0c2de209",
+		type: "xp_levels",
+		xp_levels: 3
+	}]
+}

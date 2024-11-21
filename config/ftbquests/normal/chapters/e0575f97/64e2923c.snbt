@@ -1,0 +1,29 @@
+{
+	title: "【施工中】",
+	x: 2.0d,
+	y: 3.5d,
+	text: [
+		"【这个任务将在未来的版本更新标题和任务描述】"
+	],
+	dependencies: [
+		"e84d2bdf",
+		"21229234"
+	],
+	tasks: [{
+		uid: "1014763c",
+		type: "item",
+		items: [{
+			item: "roots:imposer"
+		}]
+	}],
+	rewards: [{
+		uid: "8be12144",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	},
+	{
+		uid: "5254527b",
+		type: "xp_levels",
+		xp_levels: 5
+	}]
+}

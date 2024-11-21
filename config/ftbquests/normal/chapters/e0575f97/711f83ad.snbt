@@ -1,0 +1,30 @@
+{
+	title: "零残忍弓箭",
+	x: -2.0d,
+	y: 2.5d,
+	description: "现在完全无需羽毛",
+	text: [
+		"不喜欢到处抓鸡拔羽毛用来做弓箭？",
+		"",
+		"使用蕴生箭矢作为替代吧，它们不仅更强，还不需要用到羽毛！"
+	],
+	dependencies: [
+		"e2cde820"
+	],
+	tasks: [{
+		uid: "3bb779f3",
+		type: "item",
+		items: [{
+			item: "roots:living_arrow"
+		}]
+	},
+	{
+		uid: "05b30fbe",
+		type: "item",
+		items: [{
+			item: "roots:wildwood_quiver"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

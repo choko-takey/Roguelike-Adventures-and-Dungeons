@@ -1,0 +1,41 @@
+{
+	title: "尝试之前先别下结论",
+	x: -2.0d,
+	y: 1.5d,
+	description: "有人说它拥有阿尔忒弥斯的祝福",
+	text: [
+		"原始森林之弓",
+		"",
+		"与根源魔法的其它工具和武器相同，原始森林之弓能够随时间慢慢自我修复。"
+	],
+	dependencies: [
+		"53a2c6a0"
+	],
+	tasks: [{
+		uid: "35d245ed",
+		type: "item",
+		items: [{
+			id: "roots:wildwood_bow",
+			tag: {
+				Quality: {
+					Slots: [
+						"mainhand",
+						"offhand"
+					],
+					Color: "blue",
+					AttributeModifiers: [{
+						UUIDMost: -2927320351576798634L,
+						UUIDLeast: -8559612319618487482L,
+						Amount: 0.05000000074505806d,
+						AttributeName: "potioncore.projectileDamage",
+						Operation: 2,
+						Name: "qualitytools"
+					}],
+					Name: "quality.light.name"
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

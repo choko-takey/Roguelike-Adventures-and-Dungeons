@@ -1,0 +1,86 @@
+{
+	title: "阿嚏！",
+	icon: "roots:ritual_frost_lands",
+	x: -1.5d,
+	y: -4.0d,
+	description: "保佑你",
+	text: [
+		"使用这个仪式释放你潜藏的艾莎公主人格，让寒冬降临在周边的陆地上。"
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"2c0388b5"
+	],
+	tasks: [{
+		uid: "04bfaa35",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "sugarcane",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "任意甘蔗"
+				}
+			}
+		}]
+	},
+	{
+		uid: "22122e37",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "vine",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "任意藤蔓"
+				}
+			}
+		}]
+	},
+	{
+		uid: "8a37d46f",
+		type: "item",
+		items: [{
+			item: "roots:bark_spruce"
+		}]
+	},
+	{
+		uid: "0a482b0f",
+		type: "item",
+		items: [{
+			item: "roots:bark_spruce"
+		}]
+	},
+	{
+		uid: "57982e8f",
+		type: "item",
+		items: [{
+			item: "roots:dewgonia"
+		}]
+	}],
+	rewards: [{
+		uid: "4f37cefc",
+		type: "loot",
+		table: 8
+	},
+	{
+		uid: "437ff86c",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	},
+	{
+		uid: "d563c1ae",
+		type: "xp_levels",
+		xp_levels: 3
+	}]
+}

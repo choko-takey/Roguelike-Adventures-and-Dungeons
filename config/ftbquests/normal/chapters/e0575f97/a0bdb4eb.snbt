@@ -1,0 +1,94 @@
+{
+	title: "全知之眼",
+	icon: {
+		id: "roots:spell_icon",
+		tag: {
+			spell_storage: {
+				s: "roots:spell_extension"
+			}
+		}
+	},
+	x: -3.0d,
+	y: 6.5d,
+	description: "我能看见一切",
+	text: [
+		"Extension 是另一个需要修饰物才能完全发挥其作用的咒术。",
+		"",
+		"Extension 咒术主要为你提供各种功能性 buff ，例如协助探索和揭示信息。"
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"f342cc17",
+		"4e10fdfb"
+	],
+	tasks: [{
+		uid: "879bf966",
+		type: "item",
+		items: [{
+			item: "minecraft:chest"
+		}]
+	},
+	{
+		uid: "71ef7bdf",
+		type: "item",
+		items: [{
+			id: "minecraft:stone_pickaxe",
+			tag: {
+				Quality: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "f3428ca0",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "eye",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "任意眼睛"
+				}
+			}
+		}]
+	},
+	{
+		uid: "cec5d794",
+		type: "item",
+		items: [{
+			id: "minecraft:compass",
+			tag: {
+				"quark:compass_calculated": 1b,
+				"quark:compass_in_nether": 0b
+			}
+		}]
+	},
+	{
+		uid: "0a4b0bc3",
+		type: "item",
+		items: [{
+			item: "minecraft:golden_carrot"
+		}]
+	}],
+	rewards: [{
+		uid: "c687631d",
+		type: "loot",
+		table: 63
+	},
+	{
+		uid: "a7338ae3",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	},
+	{
+		uid: "db398086",
+		type: "xp_levels",
+		xp_levels: 5
+	}]
+}

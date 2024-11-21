@@ -1,0 +1,37 @@
+{
+	title: "【施工中】",
+	x: 3.0d,
+	y: -1.0d,
+	text: [
+		"【这个任务将在未来的版本更新标题和任务描述】"
+	],
+	dependencies: [
+		"90edb6b4"
+	],
+	tasks: [{
+		uid: "99e6c348",
+		type: "item",
+		items: [{
+			item: "mysticalworld:aubergine_seed"
+		}],
+		count: 16L
+	},
+	{
+		uid: "97163993",
+		type: "item",
+		items: [{
+			item: "mysticalworld:aubergine"
+		}],
+		count: 32L
+	}],
+	rewards: [{
+		uid: "97e9fd86",
+		type: "ftbmoney:money",
+		ftb_money: 15L
+	},
+	{
+		uid: "34b52fc3",
+		type: "xp_levels",
+		xp_levels: 3
+	}]
+}

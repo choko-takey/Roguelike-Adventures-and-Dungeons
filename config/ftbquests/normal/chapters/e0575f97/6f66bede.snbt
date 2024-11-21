@@ -1,0 +1,40 @@
+{
+	title: "它并不会真的发光",
+	x: -10.0d,
+	y: -2.0d,
+	description: "要是有荧光棒就好了",
+	text: [
+		"很遗憾的是，我们的预算不足以添加一个真的会发光的植物。",
+		"",
+		"萤月之叶是咒术和仪式所需要的最基本的植物之一。"
+	],
+	dependencies: [
+		"53a2c6a0"
+	],
+	tasks: [{
+		uid: "a2419558",
+		type: "item",
+		items: [{
+			item: "roots:moonglow_leaf"
+		}],
+		count: 16L
+	},
+	{
+		uid: "8f55c5a0",
+		type: "item",
+		items: [{
+			item: "roots:moonglow_seed"
+		}],
+		count: 8L
+	}],
+	rewards: [{
+		uid: "5382131b",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	},
+	{
+		uid: "d8edda34",
+		type: "xp_levels",
+		xp_levels: 3
+	}]
+}

@@ -1,0 +1,32 @@
+{
+	title: "致幻菌子",
+	x: -9.0d,
+	y: -3.0d,
+	description: "好吃！",
+	text: [
+		"我们已经见过许多蘑菇了，而这是最奇怪的一种。",
+		"",
+		"困惑蘑菇是咒术和仪式所需要的最基本的植物之一。"
+	],
+	dependencies: [
+		"53a2c6a0"
+	],
+	tasks: [{
+		uid: "f2ab5623",
+		type: "item",
+		items: [{
+			item: "roots:baffle_cap_mushroom"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "a28d1a1b",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	},
+	{
+		uid: "f51f6fe9",
+		type: "xp_levels",
+		xp_levels: 3
+	}]
+}

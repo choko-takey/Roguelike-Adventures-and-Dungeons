@@ -1,0 +1,81 @@
+{
+	title: "拮据女巫",
+	icon: {
+		id: "roots:spell_icon",
+		tag: {
+			spell_storage: {
+				s: "roots:spell_sky_soarer"
+			}
+		}
+	},
+	x: 1.0d,
+	y: 5.5d,
+	description: "很遗憾必须减少开销",
+	text: [
+		"像真正的女巫一样坐着扫帚在空中飞行。",
+		"",
+		"现在你的木杖就是你的扫帚，而飞行方式可以理解为不间断的冲刺。",
+		"",
+		"不过从好的角度看至少真的使用了魔法！"
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"f342cc17",
+		"4e10fdfb"
+	],
+	tasks: [{
+		uid: "5032be6f",
+		type: "item",
+		items: [{
+			item: "minecraft:ladder"
+		}]
+	},
+	{
+		uid: "3b3ed3bc",
+		type: "item",
+		items: [{
+			item: "roots:petals"
+		}]
+	},
+	{
+		uid: "15dc7b95",
+		type: "item",
+		items: [{
+			id: "minecraft:bow",
+			tag: {
+				Quality: {}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "b4c47677",
+		type: "item",
+		items: [{
+			item: "mysticalworld:aubergine_seed"
+		}]
+	},
+	{
+		uid: "8221118f",
+		type: "item",
+		items: [{
+			item: "roots:cloud_berry"
+		}]
+	}],
+	rewards: [{
+		uid: "3b5ffd85",
+		type: "loot",
+		table: 63
+	},
+	{
+		uid: "363840a4",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	},
+	{
+		uid: "108cc3c7",
+		type: "xp_levels",
+		xp_levels: 5
+	}]
+}

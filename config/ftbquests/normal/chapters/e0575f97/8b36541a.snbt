@@ -1,0 +1,24 @@
+{
+	title: "【施工中】",
+	x: 4.0d,
+	y: 0.0d,
+	text: [
+		"【这个任务将在未来的版本更新标题和任务描述】"
+	],
+	dependencies: [
+		"90edb6b4"
+	],
+	tasks: [{
+		uid: "967fc31d",
+		type: "item",
+		items: [{
+			item: "roots:wildroot"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "0b308410",
+		type: "loot",
+		table: 8
+	}]
+}

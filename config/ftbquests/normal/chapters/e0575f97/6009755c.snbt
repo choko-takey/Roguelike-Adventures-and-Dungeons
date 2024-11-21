@@ -1,0 +1,107 @@
+{
+	title: "预算不足的龟派气功波",
+	icon: {
+		id: "roots:spell_icon",
+		tag: {
+			spell_storage: {
+				s: "roots:spell_radiance"
+			}
+		}
+	},
+	x: 1.0d,
+	y: 6.5d,
+	description: "吃我大激光",
+	text: [
+		"这个咒术能够让你创造一小束能够遇墙反射和穿透敌人的直线光波。",
+		"",
+		"虽然看上去没什么威力，但它能够穿透多个实体。"
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"f342cc17",
+		"4e10fdfb"
+	],
+	tasks: [{
+		uid: "161465f8",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "ingotSilver",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "任意银锭"
+				}
+			}
+		}]
+	},
+	{
+		uid: "5876963f",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "dyeYellow",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "任意黄色染料"
+				}
+			}
+		}]
+	},
+	{
+		uid: "adc3ce6a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "torch",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "任意火把"
+				}
+			}
+		}]
+	},
+	{
+		uid: "d6e102b3",
+		type: "item",
+		items: [{
+			item: "roots:cloud_berry"
+		}]
+	},
+	{
+		uid: "b6444148",
+		type: "item",
+		items: [{
+			item: "roots:pereskia"
+		}]
+	}],
+	rewards: [{
+		uid: "40d9f53f",
+		type: "loot",
+		table: 63
+	},
+	{
+		uid: "acab52b5",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	},
+	{
+		uid: "5c062685",
+		type: "xp_levels",
+		xp_levels: 5
+	}]
+}

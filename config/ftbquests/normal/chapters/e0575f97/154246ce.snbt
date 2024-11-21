@@ -1,0 +1,30 @@
+{
+	title: "si笋！？石shun？？sishun！！",
+	x: -12.0d,
+	y: 0.0d,
+	description: "希望你能念对这个名字",
+	text: [
+		"石笋这个名字对某些人来说相当难以念对，这种植物是咒术和仪式所需要的最基本的植物之一。"
+	],
+	dependencies: [
+		"53a2c6a0"
+	],
+	tasks: [{
+		uid: "bea8b251",
+		type: "item",
+		items: [{
+			item: "roots:stalicripe"
+		}],
+		count: 16L
+	}],
+	rewards: [{
+		uid: "5e57a09c",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	},
+	{
+		uid: "441cb566",
+		type: "xp_levels",
+		xp_levels: 3
+	}]
+}

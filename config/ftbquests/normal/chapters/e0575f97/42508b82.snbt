@@ -1,0 +1,77 @@
+{
+	title: "全面转化",
+	icon: "roots:ritual_transmutation",
+	x: 2.5d,
+	y: -6.0d,
+	description: "变形记",
+	text: [
+		"使用妖精的力量将附近的特定方块转化为别的方块或物品。",
+		"",
+		"留意不要陷入死循环了！"
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"2c0388b5"
+	],
+	tasks: [{
+		uid: "82e4b865",
+		type: "item",
+		items: [{
+			item: "minecraft:furnace"
+		}]
+	},
+	{
+		uid: "edaa0747",
+		type: "item",
+		items: [{
+			item: "roots:cloud_berry"
+		}]
+	},
+	{
+		uid: "50fc3f82",
+		type: "item",
+		items: [{
+			item: "roots:chiseled_runestone"
+		}]
+	},
+	{
+		uid: "84a36f4a",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "rootsBark",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "任意树皮"
+				}
+			}
+		}]
+	},
+	{
+		uid: "c02c855f",
+		type: "item",
+		items: [{
+			item: "minecraft:gravel"
+		}]
+	}],
+	rewards: [{
+		uid: "98af565d",
+		type: "loot",
+		table: 9
+	},
+	{
+		uid: "03a7effb",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	},
+	{
+		uid: "8af8e8a8",
+		type: "xp_levels",
+		xp_levels: 5
+	}]
+}

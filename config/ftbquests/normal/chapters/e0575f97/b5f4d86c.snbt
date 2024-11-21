@@ -1,0 +1,110 @@
+{
+	title: "吃点蔬菜",
+	icon: "roots:ritual_overgrowth",
+	x: 0.5d,
+	y: -4.0d,
+	description: "让它生长",
+	text: [
+		"根源魔法有很多配方需要用到大地苔藓，这意味着如果你不跑遍每一个遗迹采集苔石你很快就会用完。",
+		"",
+		"使用仪式：过度生长可以让一定范围内的圆石和石砖转变为苔藓版本，前提是挨着水源方块。"
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"2c0388b5"
+	],
+	tasks: [{
+		uid: "51c291c9",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "sugarcane",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "任意甘蔗"
+				}
+			}
+		}]
+	},
+	{
+		uid: "5173784e",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "tallgrass",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "任意高草丛"
+				}
+			}
+		}]
+	},
+	{
+		uid: "1bd12a55",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "rootsBark",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "任意树皮"
+				}
+			}
+		}]
+	},
+	{
+		uid: "5350f371",
+		type: "item",
+		items: [{
+			ForgeCaps: {
+				Parent: {
+					data: "rootsBark",
+					id: "ore"
+				}
+			},
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "任意树皮"
+				}
+			}
+		}]
+	},
+	{
+		uid: "0e73a86c",
+		type: "item",
+		items: [{
+			item: "roots:terra_moss"
+		}]
+	}],
+	rewards: [{
+		uid: "a07bdd5e",
+		type: "loot",
+		table: 8
+	},
+	{
+		uid: "d76d3070",
+		type: "ftbmoney:money",
+		ftb_money: 25L
+	},
+	{
+		uid: "98dbe0c5",
+		type: "xp_levels",
+		xp_levels: 3
+	}]
+}
