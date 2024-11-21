@@ -1,9 +1,9 @@
 {
 	x: -0.5d,
 	y: -10.0d,
-	description: "E-Steve萤石",
+	description: "E-Steve荧石",
 	text: [
-		"制作一些萤石种子。"
+		"制作一些荧石种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
