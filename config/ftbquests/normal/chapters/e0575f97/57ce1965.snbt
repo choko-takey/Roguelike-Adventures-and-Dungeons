@@ -1,12 +1,12 @@
 {
-	title: "For Display Only",
+	title: "仅供展示",
 	x: 1.5d,
 	y: -2.5d,
-	description: "No touchy!",
+	description: "禁止触碰！",
 	text: [
-		"Certain rituals requires catalyst to be placed near them.",
+		"一些仪式需要在附近放置触媒才能进行。",
 		"",
-		"To place these catalyst place a catalyst plate near your pyre then the required item on the plate."
+		"放置的方法是在柴堆附近摆下触媒台，并在上面放上所需要的物品。"
 	],
 	dependencies: [
 		"90edb6b4"

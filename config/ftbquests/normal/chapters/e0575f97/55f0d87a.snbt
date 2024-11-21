@@ -1,12 +1,12 @@
 {
-	title: "It's Alive",
+	title: "它是活的",
 	x: -3.0d,
 	y: 1.5d,
-	description: "I can hear it's heart beating",
+	description: "我能听见它的心跳",
 	text: [
-		"Living tools are an alternative to iron if you have the means to obtain them.",
+		"蕴生系列工具可以作为铁制工具的平替，前提是你有方法做出它们。",
 		"",
-		"They are slighlty less durabillity but have the added benefit of repairing themselves over time."
+		"它们的耐久稍微低一点，但能够随着时间自我修复。"
 	],
 	dependencies: [
 		"53a2c6a0"

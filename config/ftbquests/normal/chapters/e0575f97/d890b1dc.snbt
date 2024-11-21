@@ -1,11 +1,11 @@
 {
-	title: "Nature's Accelerant",
+	title: "自然加速",
 	icon: "roots:ritual_germination",
 	x: 1.0d,
 	y: -5.0d,
-	description: "They grow up so slightly faster?",
+	description: "它们长得稍微快了一点点？",
 	text: [
-		"A simple growth ritual, Germination increases how often a sapling/crops chance of growing."
+		"一个简单的催熟仪式，自然萌芽能够增加树苗或作物生长的几率。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
@@ -38,7 +38,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any rootsBark"
+					Name: "任意树皮"
 				}
 			}
 		}]
@@ -56,7 +56,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any dyeWhite"
+					Name: "任意白色染料"
 				}
 			}
 		}]

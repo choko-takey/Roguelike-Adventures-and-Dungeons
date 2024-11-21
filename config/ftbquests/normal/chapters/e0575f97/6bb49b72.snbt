@@ -1,12 +1,12 @@
 {
-	title: "Dewly Departed",
+	title: "致天国的陆酱",
 	x: -11.0d,
 	y: -1.0d,
-	description: "Dewgonia? I hardly know her",
+	description: "露海棠？认错人了吧",
 	text: [
-		"The dewiest of plants. ",
+		"最纯洁的植物。",
 		"",
-		"Dewgonia is one of the one of the primary plants used in creating spells and rituals."
+		"露海棠是咒术和仪式所需要的最基本的植物之一。"
 	],
 	dependencies: [
 		"53a2c6a0"

@@ -1,5 +1,5 @@
 {
-	title: "Reap & Sow",
+	title: "收获与播种",
 	icon: {
 		id: "roots:spell_icon",
 		tag: {
@@ -12,7 +12,7 @@
 	y: 5.5d,
 	description: "Until it is done",
 	text: [
-		"Unlike the previous spells Scythe must be modified in an imbuer to have any effect."
+		"不同于上面的咒术，自然之镰必须添加修饰物才能有特定效果。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
@@ -79,7 +79,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any tallgrass"
+					Name: "任意高草丛"
 				}
 			}
 		}]

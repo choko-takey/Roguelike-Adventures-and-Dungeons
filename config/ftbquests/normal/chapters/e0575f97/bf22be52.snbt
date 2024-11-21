@@ -1,12 +1,12 @@
 {
-	title: "Reconstruct What!?",
+	title: "重建什么！？",
 	x: -3.0d,
 	y: 2.5d,
-	description: "Oh wait their's something left",
+	description: "哦等一下好像留下了什么东西",
 	text: [
-		"The next tier of tools in the roots family are the terrastone series.",
+		"根源魔法工具的下一级别是地韵系列。",
 		"",
-		"They boast both increased mining and repair speed and better durabillity."
+		"它们的挖掘速度、耐久恢复速度和耐久值都有所增加。"
 	],
 	dependencies: [
 		"55f0d87a"

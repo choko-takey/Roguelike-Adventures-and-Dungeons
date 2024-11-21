@@ -1,5 +1,5 @@
 {
-	title: "A Hungry Exchange",
+	title: "饱食度转换",
 	icon: {
 		id: "roots:spell_icon",
 		tag: {
@@ -10,9 +10,9 @@
 	},
 	x: -1.0d,
 	y: 6.5d,
-	description: "How hungry",
+	description: "好饿",
 	text: [
-		"In exchange for your hunger recoever a portion of your health back."
+		"消耗饱食度来恢复一部分生命值。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
@@ -53,7 +53,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any bone"
+					Name: "任意骨头"
 				}
 			}
 		}]

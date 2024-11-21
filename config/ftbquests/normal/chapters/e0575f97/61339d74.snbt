@@ -1,5 +1,5 @@
 {
-	title: "Let Their Be Light",
+	title: "神说要有光",
 	icon: {
 		id: "roots:spell_icon",
 		tag: {
@@ -10,9 +10,9 @@
 	},
 	x: 0.0d,
 	y: 6.5d,
-	description: "Go towards the light",
+	description: "走向光明",
 	text: [
-		"A simple spell that creates a small coloured light."
+		"一个简单的咒术，能够创造出一小团带颜色的光。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
@@ -53,7 +53,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any rootsBark"
+					Name: "任意树皮"
 				}
 			}
 		}]

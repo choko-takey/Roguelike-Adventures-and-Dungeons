@@ -1,11 +1,11 @@
 {
-	title: "Purification Purficiation  Purficiation!",
+	title: "净化净化净化！",
 	icon: "roots:ritual_purity",
 	x: 1.0d,
 	y: -6.0d,
-	description: "Be purified",
+	description: "您好需要洁面乳吗",
 	text: [
-		"Cure yourself and nearby passive mobs of any aliments and cure zombie villagers faster while this ritual is active."
+		"仪式激活时，净化你自己和附近被动型生物身上的负面效果，并且还能加速僵尸村民的治疗过程。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

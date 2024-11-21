@@ -1,13 +1,13 @@
 {
-	title: "With This Sacred Ritual I Summon!",
+	title: "我可以用这个仪式召唤生物！",
 	icon: "roots:ritual_summon_creatures",
 	x: -2.0d,
 	y: -5.0d,
-	description: "Just don't try to summon herobrine!",
+	description: "只要别试着召唤 herobrine 就好！",
 	text: [
-		"To lazy to go out and lure some mobs home to a farm?",
+		"不想出门抓动物带回家养？",
 		"",
-		"Why not spend much more time setting up a ritual to summon them right at home!"
+		"为什么不花更多时间准备这个仪式直接把它们召唤到家里面呢？"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
@@ -34,7 +34,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any egg"
+					Name: "任意蛋"
 				}
 			}
 		}]

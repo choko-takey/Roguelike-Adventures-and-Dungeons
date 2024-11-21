@@ -1,5 +1,5 @@
 {
-	title: "Maybe You Just Smell Bad?",
+	title: "也许是你闻起来很臭？",
 	icon: {
 		id: "roots:spell_icon",
 		tag: {
@@ -10,9 +10,9 @@
 	},
 	x: 2.0d,
 	y: 6.5d,
-	description: "Wait can mobs even smell",
+	description: "等一下怎么连怪物都能闻到",
 	text: [
-		"Unleash a acidic aura melting away your foes."
+		"释放一片酸雨融化你的敌人。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
@@ -32,7 +32,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any eye"
+					Name: "任意眼睛"
 				}
 			}
 		}]

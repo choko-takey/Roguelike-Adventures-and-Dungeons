@@ -1,9 +1,9 @@
 {
-	title: "Imbuing 101",
+	title: "注造 101",
 	x: 1.0d,
 	y: 3.5d,
 	text: [
-		"So you wanna learn? "
+		"所以你真的想学？"
 	],
 	dependencies: [
 		"90edb6b4"

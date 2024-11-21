@@ -1,5 +1,5 @@
 {
-	title: "Fullmetal Herbologist",
+	title: "钢之草药术师",
 	icon: {
 		id: "roots:spell_icon",
 		tag: {
@@ -10,11 +10,11 @@
 	},
 	x: -3.0d,
 	y: 7.5d,
-	description: "Transformation or transmogrification",
+	description: "变形或嬗变",
 	text: [
-		"An immensenly powerful spell that can convert one item into a completely differnet one.",
+		"这个咒术可以把一种物品转化成截然不同的另一种物品，十分强大。",
 		"",
-		"For a full list of recipes check JEI."
+		"使用 JEI 查看全部配方。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

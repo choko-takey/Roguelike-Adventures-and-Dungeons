@@ -1,13 +1,13 @@
 {
-	title: "A Total Conversion",
+	title: "全面转化",
 	icon: "roots:ritual_transmutation",
 	x: 2.5d,
 	y: -6.0d,
-	description: "Total metamorphosis",
+	description: "变形记",
 	text: [
-		"With the power of the fey convert nearby objects into entirely different objects. ",
+		"使用妖精的力量将附近的特定方块转化为别的方块或物品。",
 		"",
-		"Remeber to avoid loops!"
+		"留意不要陷入死循环了！"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
@@ -47,7 +47,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any rootsBark"
+					Name: "任意树皮"
 				}
 			}
 		}]

@@ -1,13 +1,13 @@
 {
-	title: "Eat Your Greens",
+	title: "吃点蔬菜",
 	icon: "roots:ritual_overgrowth",
 	x: 0.5d,
 	y: -4.0d,
-	description: "Let it grow",
+	description: "让它生长",
 	text: [
-		"Terra moss is required for a large amount of recipes in roots meaning unless your taking every dungeon you find home you can easily run out of it.",
+		"根源魔法有很多配方需要用到大地苔藓，这意味着如果你不跑遍每一个遗迹采集苔石你很快就会用完。",
 		"",
-		"With the overgrowth ritual any cobblestone/stone bricks in range will be converted to mossy versions as long as a water source block is near."
+		"使用仪式：过度生长可以让一定范围内的圆石和石砖转变为苔藓版本，前提是挨着水源方块。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
@@ -26,7 +26,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any sugarcane"
+					Name: "任意甘蔗"
 				}
 			}
 		}]
@@ -44,7 +44,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any tallgrass"
+					Name: "任意高草丛"
 				}
 			}
 		}]
@@ -62,7 +62,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any rootsBark"
+					Name: "任意树皮"
 				}
 			}
 		}]
@@ -80,7 +80,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any rootsBark"
+					Name: "任意树皮"
 				}
 			}
 		}]

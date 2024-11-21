@@ -1,5 +1,5 @@
 {
-	title: "Hungry Hungry Staff",
+	title: "饿饿，饭饭，喂喂",
 	icon: {
 		id: "roots:spell_icon",
 		tag: {
@@ -10,9 +10,9 @@
 	},
 	x: 0.0d,
 	y: 5.5d,
-	description: "Just don't feed it after midnight",
+	description: "午夜之后就别喂了",
 	text: [
-		"For when your feeling extra lazy have magic feed you instead of wasting time and eating yourself."
+		"如果你懒到连吃饭都嫌浪费时间的话，就用这个咒术来给你喂食吧。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

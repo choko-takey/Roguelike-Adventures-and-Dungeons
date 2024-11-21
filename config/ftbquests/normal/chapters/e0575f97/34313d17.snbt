@@ -1,11 +1,11 @@
 {
-	title: "Clean Up Your Room",
+	title: "把你的房间打扫干净",
 	icon: "roots:ritual_gathering",
 	x: 1.5d,
 	y: -4.0d,
-	description: "If only it was really this easy",
+	description: "要是真有这么简单就好了",
 	text: [
-		"Call upon the power of magic to clean up after you and store away any messes!"
+		"呼唤魔法的力量来帮助你打扫并储存乱七八糟的东西。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

@@ -1,5 +1,5 @@
 {
-	title: "All Seeing Eye",
+	title: "全知之眼",
 	icon: {
 		id: "roots:spell_icon",
 		tag: {
@@ -10,11 +10,11 @@
 	},
 	x: -3.0d,
 	y: 6.5d,
-	description: "I can see everything",
+	description: "我能看见一切",
 	text: [
-		"The extension spell is another spell that requires an imposer to fully utilize it's capabillties.",
+		"Extension 是另一个需要修饰物才能完全发挥其作用的咒术。",
 		"",
-		"Extension main focus is on utility type buffs that focus on exploration/ revealing information."
+		"Extension 咒术主要为你提供各种功能性 buff ，例如协助探索和揭示信息。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
@@ -53,7 +53,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any eye"
+					Name: "任意眼睛"
 				}
 			}
 		}]

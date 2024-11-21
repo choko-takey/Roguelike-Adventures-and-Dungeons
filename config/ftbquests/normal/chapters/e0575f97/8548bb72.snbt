@@ -1,13 +1,13 @@
 {
-	title: "Cruetly Free Butchery",
+	title: "零残忍屠夫",
 	icon: "roots:ritual_animal_harvest",
 	x: -1.0d,
 	y: -7.0d,
-	description: "Pacifist%",
+	description: "和平主义者",
 	text: [
-		"If you ever feel guilty about killing defenless animals this ritual is just for you!",
+		"如果你会因为杀害被动生物而感到愧疚的话，这个仪式非常适合你！",
 		"",
-		"Animal harvest, harvest the drops of nearby passive mobs without harming them."
+		"动物采收，在不对被动型生物造成伤害的情况下获得对应掉落物。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
@@ -47,7 +47,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any slimeball"
+					Name: "任意粘液球"
 				}
 			}
 		}]
@@ -65,7 +65,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any wool"
+					Name: "任意羊毛"
 				}
 			}
 		}]

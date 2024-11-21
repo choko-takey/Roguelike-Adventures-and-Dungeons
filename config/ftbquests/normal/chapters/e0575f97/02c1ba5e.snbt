@@ -1,11 +1,11 @@
 {
-	title: "Its Rainning It's Pouring",
+	title: "下雨啦，哗啦啦",
 	icon: "roots:ritual_heavy_storms",
 	x: -1.0d,
 	y: -6.0d,
-	description: "The old villager is snoring",
+	description: "老村民正在打瞌睡",
 	text: [
-		"Invoke the power of zeus to summon a new storm to bathe the land!"
+		"祈求宙斯的力量唤来一场新的暴风雨以洗刷整个大陆！"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

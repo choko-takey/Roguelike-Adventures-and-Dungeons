@@ -1,11 +1,11 @@
 {
-	title: "You Really Are....",
+	title: "你现在是真的……",
 	icon: "roots:ritual_warding_protection",
 	x: -1.0d,
 	y: -8.0d,
-	description: "Invincible!",
+	description: "无敌了！",
 	text: [
-		"An immensely powerful ritual that negates the death of lifeform within it's range."
+		"一个十分强大的仪式，能够阻止其作用范围内的一切生物死亡。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
@@ -50,7 +50,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any rootsBark"
+					Name: "任意树皮"
 				}
 			}
 		}]

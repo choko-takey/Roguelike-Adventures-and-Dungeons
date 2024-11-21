@@ -1,11 +1,11 @@
 {
-	title: "Up Up Up & AWAY!",
+	title: "起飞！",
 	icon: "roots:ritual_windwall",
 	x: 0.0d,
 	y: -6.0d,
-	description: "Revali's gale is now ready",
+	description: "英杰力巴尔的勇猛已就绪",
 	text: [
-		"Send mobs flying away with this powerful draft!"
+		"用这股强力的气流把怪物吹走！"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
@@ -31,7 +31,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any rootsBark"
+					Name: "任意树皮"
 				}
 			}
 		}]
@@ -49,7 +49,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any allFlowers"
+					Name: "任意花朵"
 				}
 			}
 		}]
@@ -67,7 +67,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any rootsBark"
+					Name: "任意树皮"
 				}
 			}
 		}]
@@ -85,7 +85,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any stonebrick"
+					Name: "任意石砖"
 				}
 			}
 		}]

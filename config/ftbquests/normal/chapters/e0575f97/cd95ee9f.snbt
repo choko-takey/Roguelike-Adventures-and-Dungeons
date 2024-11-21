@@ -1,5 +1,5 @@
 {
-	title: "Watch Your Step",
+	title: "小心脚下",
 	icon: {
 		id: "roots:spell_icon",
 		tag: {
@@ -10,11 +10,11 @@
 	},
 	x: 1.0d,
 	y: 4.5d,
-	description: "Even the most beautiful roses have thorns",
+	description: "最美丽的玫瑰也有茎刺",
 	text: [
-		"Rose thorn is a simple spell were ever the spell lands it creats a trap.",
+		"玫瑰荆棘咒术会在施法点布置一个陷阱。",
 		"",
-		"When this trap is activated it explodes, applying poison and slow to any poor fool that steps into it."
+		"陷阱激活时将会爆炸，给踩到陷阱的蠢蛋施加中毒和缓慢效果。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
@@ -48,7 +48,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any stickWood"
+					Name: "任意木棍"
 				}
 			}
 		}]
@@ -66,7 +66,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any dyeRed"
+					Name: "任意红色染料"
 				}
 			}
 		}]

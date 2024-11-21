@@ -1,14 +1,14 @@
 {
-	title: "I'm Ruined",
+	title: "我被符刻了",
 	x: -4.5d,
 	y: 2.5d,
-	description: "You'll rue the day you crossed me",
+	description: "我一定会回来符仇的",
 	text: [
-		"The final tier of tools and weapons are the runed.",
+		"最高级别的工具和武器是符刻系列。",
 		"",
-		"Each tool has a unique effect in regards to their field.",
+		"每种工具在其领域都有特殊的效果。",
 		"",
-		"They have slower repair and breaking speed compared to terrastone, but they make up for it with their unique effects."
+		"与地韵系列相比，它们耐久恢复得更慢、挖掘速度更低，但作为补偿模组赋予了它们独特的功能。"
 	],
 	dependencies: [
 		"bf22be52"

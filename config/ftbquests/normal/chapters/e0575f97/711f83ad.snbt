@@ -1,12 +1,12 @@
 {
-	title: "Cruelty Free Arrows",
+	title: "零残忍弓箭",
 	x: -2.0d,
 	y: 2.5d,
-	description: "Now with 100% less feathers",
+	description: "现在完全无需羽毛",
 	text: [
-		"Do you dislike chasing chickens to try and get their feathers for arrows?",
+		"不喜欢到处抓鸡拔羽毛用来做弓箭？",
 		"",
-		"User living arrows as an alternative option not only are they stronger, but they dont need feathers!"
+		"使用蕴生箭矢作为替代吧，它们不仅更强，还不需要用到羽毛！"
 	],
 	dependencies: [
 		"e2cde820"

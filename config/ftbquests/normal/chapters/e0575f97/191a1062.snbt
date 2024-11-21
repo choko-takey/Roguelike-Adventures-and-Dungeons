@@ -1,5 +1,5 @@
 {
-	title: "Time Out",
+	title: "时间到",
 	icon: {
 		id: "roots:spell_icon",
 		tag: {
@@ -10,9 +10,9 @@
 	},
 	x: -3.0d,
 	y: 4.5d,
-	description: "Za warudo",
+	description: "砸瓦鲁多",
 	text: [
-		"Make the entire world; The world being a small bubble around you stand still with this powerful time manipulating spell."
+		"使用这个强力的时间操控咒术，让世界停止旋转。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

@@ -1,11 +1,11 @@
 {
-	title: "Achooo!",
+	title: "阿嚏！",
 	icon: "roots:ritual_frost_lands",
 	x: -1.5d,
 	y: -4.0d,
-	description: "Bless you",
+	description: "保佑你",
 	text: [
-		"Unless your inner frozen princess with this ritual and lay the wrath of winter onto the surronding land."
+		"使用这个仪式释放你潜藏的艾莎公主人格，让寒冬降临在周边的陆地上。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
@@ -24,7 +24,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any sugarcane"
+					Name: "任意甘蔗"
 				}
 			}
 		}]
@@ -42,7 +42,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any vine"
+					Name: "任意藤蔓"
 				}
 			}
 		}]

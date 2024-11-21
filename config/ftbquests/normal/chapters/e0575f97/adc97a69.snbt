@@ -1,5 +1,5 @@
 {
-	title: "A Bountiful Harvest",
+	title: "大丰收",
 	icon: {
 		id: "roots:spell_icon",
 		tag: {
@@ -10,9 +10,9 @@
 	},
 	x: -1.0d,
 	y: 7.5d,
-	description: "Reap & wait we already made that joke",
+	description: "收获与……等一下这个组合已经用过了",
 	text: [
-		"The cooler Nature's Scythe, harvest focuses on harvesting crops and replanting them."
+		"更厉害的自然之镰，这个咒术能够同时收获并自动补种。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

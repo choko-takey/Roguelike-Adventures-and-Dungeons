@@ -1,10 +1,10 @@
 {
-	title: "The Prince Of Pereskia",
+	title: "木麒麟王子",
 	x: -9.0d,
 	y: 3.0d,
-	description: "Powers not included",
+	description: "并不具备力量",
 	text: [
-		"A special gift from druids given to the fairies, pereskia is one of the primary plants used in creating spells and ritual."
+		"作为德鲁伊给仙子特地准备的礼物, 木麒麟是咒术和仪式所需要的最基本的植物之一。"
 	],
 	dependencies: [
 		"53a2c6a0"

@@ -1,15 +1,15 @@
 {
-	title: "PRAISE THE SUN!!",
+	title: "赞美太阳！！",
 	icon: "roots:ritual_divine_protection",
 	x: 0.0d,
 	y: -5.0d,
-	description: "Bathe in it's warmth and light",
+	description: "沐浴在它的温暖与光明之下",
 	text: [
-		"You like the sun?",
+		"你喜欢太阳吗？",
 		"",
-		"This spell is the sun SMITE THE UNDEAD WITH ITS FLAMES!",
+		"这个仪式会让亡灵生物感受到阳光的灼热。",
 		"",
-		"Make the day last longer and make night go by faster."
+		"让白天持续得更久一些，让夜晚离开得更快一些。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
@@ -35,7 +35,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any rootsBark"
+					Name: "任意树皮"
 				}
 			}
 		}]

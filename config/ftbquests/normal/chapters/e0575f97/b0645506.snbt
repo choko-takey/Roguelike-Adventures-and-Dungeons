@@ -1,5 +1,5 @@
 {
-	title: "Bloom And Grow",
+	title: "开花与生长",
 	icon: {
 		id: "roots:spell_icon",
 		tag: {
@@ -10,11 +10,11 @@
 	},
 	x: 2.0d,
 	y: 5.5d,
-	description: "Horiculture for the lazy",
+	description: "懒人园艺",
 	text: [
-		"Tired of plant's taking ages to grow?",
+		"觉得植物长一辈子都长不出来？",
 		"",
-		"Growth Infusion accelerates most crops growth allowing them to grow to full maturity in a matter of seconds."
+		"生机灌注能够加速大多数作物的生长，让它们在几秒之内就能成熟。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
@@ -34,7 +34,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any allFlowers"
+					Name: "任意花朵"
 				}
 			}
 		}]
@@ -52,7 +52,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any treeSapling"
+					Name: "任意树苗"
 				}
 			}
 		}]

@@ -1,12 +1,12 @@
 {
-	title: "Clouds Not Included",
+	title: "并没有云",
 	x: -10.0d,
 	y: 2.0d,
-	description: "Does cotton candy taste like clouds?",
+	description: "棉花糖的味道像云吗？",
 	text: [
-		"Don't worry it wont turn into a cloud nor does it taste like one.",
+		"不用担心，它不会变成云飘走，吃起来也不像云。",
 		"",
-		"The cloudberry is one of the primary plants used in creating spells and rituals"
+		"云莓是咒术和仪式所需要的最基本的植物之一。"
 	],
 	dependencies: [
 		"53a2c6a0"

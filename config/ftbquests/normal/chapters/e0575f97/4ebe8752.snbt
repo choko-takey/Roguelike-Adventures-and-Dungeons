@@ -1,5 +1,5 @@
 {
-	title: "I Want To Suck Your Blood",
+	title: "让我尝一口你的血吧",
 	icon: {
 		id: "roots:spell_icon",
 		tag: {
@@ -10,9 +10,9 @@
 	},
 	x: -2.0d,
 	y: 6.5d,
-	description: "Don't we already have vampires?",
+	description: "不是已经有吸血鬼模组了吗",
 	text: [
-		"Suck the lifeforce out of anything in sight, any missing health will also be restored by this spell."
+		"吸取视野内所有生物的生命力，并为你恢复缺失的生命值。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

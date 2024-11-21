@@ -1,12 +1,12 @@
 {
-	title: "It Doesn't Really Glow",
+	title: "它并不会真的发光",
 	x: -10.0d,
 	y: -2.0d,
-	description: "If only we had glowsticks",
+	description: "要是有荧光棒就好了",
 	text: [
-		"Sadly having the plant actually glow wasnt in our budget. ",
+		"很遗憾的是，我们的预算不足以添加一个真的会发光的植物。",
 		"",
-		"Moonglow is one of the primary plants used in creating spells and rituals."
+		"萤月之叶是咒术和仪式所需要的最基本的植物之一。"
 	],
 	dependencies: [
 		"53a2c6a0"

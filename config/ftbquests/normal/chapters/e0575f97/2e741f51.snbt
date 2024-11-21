@@ -1,5 +1,5 @@
 {
-	title: "Mining With Magic",
+	title: "使用咒术挖矿",
 	icon: {
 		id: "roots:spell_icon",
 		tag: {
@@ -10,9 +10,9 @@
 	},
 	x: -3.0d,
 	y: 5.5d,
-	description: "Dwarfs hate this one simple trick",
+	description: "矮人们讨厌这种把戏",
 	text: [
-		"Pickaxes are overrated when you have magic."
+		"有了咒术之后稿子已经没用了。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
@@ -87,7 +87,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any cobblestone"
+					Name: "任意圆石"
 				}
 			}
 		}]

@@ -1,11 +1,11 @@
 {
-	title: "I Need A Medic Bag",
+	title: "我需要医疗包",
 	icon: "roots:ritual_healing_aura",
 	x: -1.0d,
 	y: -5.0d,
-	description: "Ahhhhhhhhh!",
+	description: "啊啊啊啊啊啊啊啊！",
 	text: [
-		"With the use of magic and nature call upon the forest to heal nearby passive mobs in players in the range of this ritual."
+		"同时运用魔法与自然的力量，呼唤森林之力治疗仪式范围内的被动型生物和玩家。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
@@ -38,7 +38,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any treeSapling"
+					Name: "任意树苗"
 				}
 			}
 		}]

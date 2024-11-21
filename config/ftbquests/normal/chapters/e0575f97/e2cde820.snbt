@@ -1,12 +1,12 @@
 {
-	title: "Don't Nock It Till You Try It",
+	title: "尝试之前先别下结论",
 	x: -2.0d,
 	y: 1.5d,
-	description: "Some say it's blessed by Artemis",
+	description: "有人说它拥有阿尔忒弥斯的祝福",
 	text: [
-		"The wildwood bow is an",
+		"原始森林之弓",
 		"",
-		"Similiar to other tools/weapons in roots the wildwood bow is capable of repairing itself over time."
+		"与根源魔法的其它工具和武器相同，原始森林之弓能够随时间慢慢自我修复。"
 	],
 	dependencies: [
 		"53a2c6a0"

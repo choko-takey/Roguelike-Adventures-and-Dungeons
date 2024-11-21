@@ -1,12 +1,12 @@
 {
-	title: "A Baffling Mushroom",
+	title: "致幻菌子",
 	x: -9.0d,
 	y: -3.0d,
-	description: "MUSHROOM!",
+	description: "好吃！",
 	text: [
-		"The most baffling of mushrooms and that says alot since we got alot of mushrooms.",
+		"我们已经见过许多蘑菇了，而这是最奇怪的一种。",
 		"",
-		"The baffle cap is one of the primary plants used in creating spells and rituals"
+		"困惑蘑菇是咒术和仪式所需要的最基本的植物之一。"
 	],
 	dependencies: [
 		"53a2c6a0"

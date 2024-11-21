@@ -1,12 +1,12 @@
 {
-	title: "Flower Powder",
+	title: "花粉",
 	x: -2.0d,
 	y: 3.5d,
-	description: "Wake up & smell the roses",
+	description: "醒醒别做白日梦了",
 	text: [
-		"A large amout of spells & rituals require the usage of petals as one of the catalyst in their creation.",
+		"大量的咒术和仪式需要用到花瓣作为材料。",
 		"",
-		"To get those petals find some flowers, yank them out of the earth and shove them into a mortar and get mashing with your pestle."
+		"想要得到花瓣，摘一些花并把它们放入研钵，再用研杵捣碎即可合成。"
 	],
 	dependencies: [
 		"f342cc17"

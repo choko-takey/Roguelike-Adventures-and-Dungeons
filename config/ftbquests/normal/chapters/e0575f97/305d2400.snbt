@@ -1,11 +1,11 @@
 {
-	title: "The Sky Is Falling",
+	title: "天要塌了",
 	icon: "roots:ritual_fire_storm",
 	x: 1.0d,
 	y: -8.0d,
-	description: "Hope you packed your umbrella",
+	description: "希望你带了雨伞",
 	text: [
-		"[This quest will have a proper description and title in a future version]"
+		"【这个任务将在未来的版本更新标题和任务描述】"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

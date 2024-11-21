@@ -1,5 +1,5 @@
 {
-	title: "Under The Weather",
+	title: "天气不是很好",
 	icon: {
 		id: "roots:spell_icon",
 		tag: {
@@ -10,9 +10,9 @@
 	},
 	x: 1.0d,
 	y: 7.5d,
-	description: "Along came zeus",
+	description: "宙斯来了",
 	text: [
-		"Summon the power of zeus in the form of a small cloud above your head."
+		"召唤宙斯的力量，在你的头顶生成一片云团。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
@@ -48,7 +48,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any sugarcane"
+					Name: "任意甘蔗"
 				}
 			}
 		}]

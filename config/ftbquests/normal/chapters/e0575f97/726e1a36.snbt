@@ -1,5 +1,5 @@
 {
-	title: "You Calm Down",
+	title: "冷静",
 	icon: {
 		id: "roots:spell_icon",
 		tag: {
@@ -10,13 +10,13 @@
 	},
 	x: 2.0d,
 	y: 4.5d,
-	description: "No fighting",
+	description: "不许打架",
 	text: [
-		"Ever get that one monster who's to strong for it's own good and it's trapped you in a corner.",
+		"偶然遇到一只比你强太多的怪物并被逼到角落里了该怎么办？",
 		"",
-		"Introducing geas to solve your problems.",
+		"下面有请誓约咒术开始表演。",
 		"",
-		"A simple but strong spell when used on a mob that mob will be unable to attack the caster for a short duration."
+		"施加到怪物上后，怪物将在短时间内无法攻击施法者，简单又好用。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

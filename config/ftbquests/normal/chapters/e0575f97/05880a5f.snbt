@@ -1,10 +1,10 @@
 {
-	title: "Blessing Of The Feys",
+	title: "妖精的祝福",
 	icon: "roots:ritual_grove_supplication",
 	x: -2.5d,
 	y: -6.0d,
 	text: [
-		"[This quest will have a proper description and title in a future version]"
+		"【这个任务将在未来的版本更新标题和任务描述】"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
@@ -23,7 +23,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any doorWood"
+					Name: "任意木门"
 				}
 			}
 		}]
@@ -41,7 +41,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any treeSapling"
+					Name: "任意树苗"
 				}
 			}
 		}]

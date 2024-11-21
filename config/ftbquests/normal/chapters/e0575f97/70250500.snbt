@@ -1,5 +1,5 @@
 {
-	title: "Fus Ro Dah",
+	title: "伏斯洛达",
 	icon: {
 		id: "roots:spell_icon",
 		tag: {
@@ -10,9 +10,9 @@
 	},
 	x: 0.0d,
 	y: 7.5d,
-	description: "Blasting off again",
+	description: "再次起飞",
 	text: [
-		"Launch your enemies sky high with the power of dandelion winds!"
+		"使用蒲公英之风的威力将敌人吹向高空。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

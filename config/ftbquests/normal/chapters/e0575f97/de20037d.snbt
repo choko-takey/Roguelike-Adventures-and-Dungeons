@@ -1,13 +1,13 @@
 {
-	title: "Reforestation Protocol",
+	title: "再森林化协议",
 	icon: "roots:ritual_spreading_forest",
 	x: 1.0d,
 	y: -7.0d,
-	description: "Smokey's gonna give you a golden star",
+	description: "Smokey 想要给你一个金五角星",
 	text: [
-		"Roots requires turn into entire forest into plains so to have gaia forgive you of crime against nature.",
+		"根源魔法需要把整片森林夷为平地，希望盖亚能原谅你破坏自然的罪行。",
 		"",
-		"You can use the power of the fey to rebirth the land."
+		"但现在，你可以使用这股精灵的力量给大地带来新生。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
@@ -33,7 +33,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any rootsBark"
+					Name: "任意树皮"
 				}
 			}
 		}]
@@ -51,7 +51,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any treeSapling"
+					Name: "任意树苗"
 				}
 			}
 		}]
@@ -69,7 +69,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any treeSapling"
+					Name: "任意树苗"
 				}
 			}
 		}]

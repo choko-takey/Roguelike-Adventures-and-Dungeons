@@ -1,10 +1,10 @@
 {
-	title: "The Hottest Lollypop",
+	title: "最烫嘴的棒棒糖",
 	x: -11.0d,
 	y: 1.0d,
 	description: "Rero Rero Rero Rero Rero",
 	text: [
-		"Don't be decieved the Infernal bulb is not a sweet but instead a plant and one of the primary plants used in creating spells and rituals."
+		"别被骗了，地狱鳞茎并不是糖，而是咒术和仪式所需要的最基本的植物之一。"
 	],
 	dependencies: [
 		"53a2c6a0"

@@ -1,5 +1,5 @@
 {
-	title: "Budget Kamehameha",
+	title: "预算不足的龟派气功波",
 	icon: {
 		id: "roots:spell_icon",
 		tag: {
@@ -10,11 +10,11 @@
 	},
 	x: 1.0d,
 	y: 6.5d,
-	description: "i'm a firin mah lazer",
+	description: "吃我大激光",
 	text: [
-		"Create a small beam of light that has the ability to bounce off walls and seer through your enemies.",
+		"这个咒术能够让你创造一小束能够遇墙反射和穿透敌人的直线光波。",
 		"",
-		"What it lacks in power it makes up for in being able to pierce multiple oppenents!"
+		"虽然看上去没什么威力，但它能够穿透多个实体。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
@@ -34,7 +34,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any ingotSilver"
+					Name: "任意银锭"
 				}
 			}
 		}]
@@ -52,7 +52,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any dyeYellow"
+					Name: "任意黄色染料"
 				}
 			}
 		}]
@@ -70,7 +70,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any torch"
+					Name: "任意火把"
 				}
 			}
 		}]

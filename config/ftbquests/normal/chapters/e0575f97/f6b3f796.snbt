@@ -1,13 +1,13 @@
 {
-	title: "I Am Wildroot",
+	title: "我是野梗",
 	icon: "roots:ritual_wildroot_growth",
 	x: 2.0d,
 	y: -5.0d,
-	description: "I'm running out of refrences",
+	description: "我已经快没梗讲了",
 	text: [
-		"Wildwood bark is a requirement for wildwood armour.",
+		"打造野木盔甲需要进行野木树皮。",
 		"",
-		"The easiest way of getting that is with the wildroot growth ritual which can turn wildroot crops into trees."
+		"获取野木树皮的最简单方式是举行仪式：野性涌动，可以把野根作物变为野木。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
@@ -33,7 +33,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any rootsBark"
+					Name: "任意树皮"
 				}
 			}
 		}]
@@ -58,7 +58,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any rootsBark"
+					Name: "任意树皮"
 				}
 			}
 		}]

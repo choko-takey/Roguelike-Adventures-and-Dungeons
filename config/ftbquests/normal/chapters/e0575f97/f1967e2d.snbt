@@ -1,5 +1,5 @@
 {
-	title: "All You Eat BUFFet",
+	title: "buff 自助餐吃到饱",
 	icon: {
 		id: "roots:spell_icon",
 		tag: {
@@ -10,11 +10,11 @@
 	},
 	x: 2.0d,
 	y: 7.5d,
-	description: "You want buffs we have buffs",
+	description: "你想要 buff 我们就给你 buff",
 	text: [
-		"The sibling of extension augmentation requires an imposer to fully be utilizied.",
+		"作为 Extension 的兄弟，增强咒术同样需要特定的修饰物才能完全发挥效果。",
 		"",
-		"Augementation mainlly focuses on direct buffs that assit you in combat."
+		"增强咒术能够为你直接提供 buff 支援你战斗。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

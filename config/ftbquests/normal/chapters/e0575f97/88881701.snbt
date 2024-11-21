@@ -1,5 +1,5 @@
 {
-	title: "I Don't Want To Set The World On Fire",
+	title: "我本无意燃烧这个世界",
 	icon: {
 		id: "roots:spell_icon",
 		tag: {
@@ -10,9 +10,9 @@
 	},
 	x: -1.0d,
 	y: 5.5d,
-	description: "I cast fireball",
+	description: "只是扔了个小火球",
 	text: [
-		"Set your foes a blaze with this spell!"
+		"使用这个咒术点燃你的敌人。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
@@ -32,7 +32,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any dyeOrange"
+					Name: "任意橙色染料"
 				}
 			}
 		}]

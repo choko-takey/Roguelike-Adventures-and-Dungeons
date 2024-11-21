@@ -1,9 +1,9 @@
 {
-	title: "[Place Holder Title]",
+	title: "【施工中】",
 	x: 7.0d,
 	y: 2.0d,
 	text: [
-		"[This quest will have a proper description and title in a future version]"
+		"【这个任务将在未来的版本更新标题和任务描述】"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

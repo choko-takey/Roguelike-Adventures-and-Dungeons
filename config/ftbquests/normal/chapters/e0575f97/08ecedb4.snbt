@@ -1,5 +1,5 @@
 {
-	title: "En Garde",
+	title: "击剑预备",
 	icon: {
 		id: "roots:spell_icon",
 		tag: {
@@ -10,9 +10,9 @@
 	},
 	x: -1.0d,
 	y: 4.5d,
-	description: "MY ARMS!!!!!",
+	description: "我的手臂啊！！！！！",
 	text: [
-		"Sadly this spell won't remove arms, Instead it does is disarm whoever it lands on."
+		"很抱歉这个咒术并不会移除你的手臂，而是移除附近生物手上的物品。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

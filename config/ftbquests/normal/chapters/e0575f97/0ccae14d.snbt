@@ -1,11 +1,11 @@
 {
-	title: "A Flower Forest For The Lazy",
+	title: "懒人繁花森林",
 	icon: "roots:ritual_flower_growth",
 	x: -0.5d,
 	y: -4.0d,
-	description: "Florist love this one trick",
+	description: "花店老板可喜欢了",
 	text: [
-		"For those that don't want to go out searching for a flower forest this ritual allows you to create one right at your door step."
+		"这个仪式可以让你在家门口直接生成各种各样的花，专为那些不想出门找繁花森林的人准备。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
@@ -24,7 +24,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any allFlowers"
+					Name: "任意花朵"
 				}
 			}
 		}]
@@ -49,7 +49,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any allFlowers"
+					Name: "任意花朵"
 				}
 			}
 		}]

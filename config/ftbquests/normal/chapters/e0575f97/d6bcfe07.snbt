@@ -1,5 +1,5 @@
 {
-	title: "SANCUTARY SANCTUARY",
+	title: "领域展开",
 	icon: {
 		id: "roots:spell_icon",
 		tag: {
@@ -10,9 +10,9 @@
 	},
 	x: -2.0d,
 	y: 4.5d,
-	description: "No no circle",
+	description: "并非圆形",
 	text: [
-		"The ultimate personal space spell never worry about zombies trying to bite at your ankles again as long as you have this on standby."
+		"这个咒术能够为你创造终极私人空间，只要你准备好了这个就不用再担心又被僵尸咬到了。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

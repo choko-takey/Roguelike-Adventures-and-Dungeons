@@ -1,5 +1,5 @@
 {
-	title: "Budget Witch",
+	title: "拮据女巫",
 	icon: {
 		id: "roots:spell_icon",
 		tag: {
@@ -10,13 +10,13 @@
 	},
 	x: 1.0d,
 	y: 5.5d,
-	description: "Sadly cutbacks had to be mdae",
+	description: "很遗憾必须减少开销",
 	text: [
-		"Become almost like a real witch and fly into the sky on your broom.",
+		"像真正的女巫一样坐着扫帚在空中飞行。",
 		"",
-		"Well in this case your broom is a staff and the flying can be considered as a glorified dash.",
+		"现在你的木杖就是你的扫帚，而飞行方式可以理解为不间断的冲刺。",
 		"",
-		"But look on the upside it involves magic!"
+		"不过从好的角度看至少真的使用了魔法！"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

@@ -1,5 +1,5 @@
 {
-	title: "Flower Power",
+	title: "花之力",
 	icon: {
 		id: "roots:spell_icon",
 		tag: {
@@ -10,9 +10,9 @@
 	},
 	x: -2.0d,
 	y: 7.5d,
-	description: "Overprotective gardening",
+	description: "过分保护的园艺工作",
 	text: [
-		"Summon flower petals around yourself, as long as these flower petals exist they will abosrb a single attack before being destroyted. "
+		"在你的周围召唤花瓣，每一个花瓣存在时都能够为你吸收一次伤害。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
