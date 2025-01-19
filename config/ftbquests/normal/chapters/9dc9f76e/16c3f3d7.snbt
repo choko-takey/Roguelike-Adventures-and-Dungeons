@@ -25,7 +25,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any workbench"
+					Name: "任意工作台"
 				}
 			}
 		}]

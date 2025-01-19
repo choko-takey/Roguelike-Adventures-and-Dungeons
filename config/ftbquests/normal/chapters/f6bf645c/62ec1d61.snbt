@@ -24,7 +24,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any allFlowers"
+					Name: "任意花朵"
 				}
 			}
 		}],

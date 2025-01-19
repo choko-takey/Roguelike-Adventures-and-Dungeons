@@ -35,7 +35,7 @@
 						Operation: 0,
 						Name: "qualitytools"
 					}],
-					Name: "Broken Tip"
+					Name: "断裂巨剑"
 				},
 				display: {
 					Lore: [
@@ -154,7 +154,7 @@
 						Operation: 0,
 						Name: "qualitytools"
 					}],
-					Name: "Exposed"
+					Name: "战神之靴"
 				},
 				display: {
 					Name: "战神之靴"
