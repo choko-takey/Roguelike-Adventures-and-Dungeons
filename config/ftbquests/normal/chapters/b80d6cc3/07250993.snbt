@@ -3,7 +3,7 @@
 	icon: "chisel:gold 1 13",
 	x: 27.0d,
 	y: 8.0d,
-	description: "尼古拉斯.勒梅的传人出现了",
+	description: "尼古·拉斯勒梅的传人出现了",
 	text: [
 		"现在你才是真正炼金术师！看看！把低贱而残缺的铅转化为至高无上，完美无瑕的金！这就是你的杰作！",
 		"（啥？你不会？请看法典谢谢）"
@@ -15,7 +15,7 @@
 	tasks: [{
 		uid: "42650830",
 		type: "checkmark",
-		title: "Got It!"
+		title: "懂了！"
 	}],
 	rewards: [{
 		uid: "c4b21edd",

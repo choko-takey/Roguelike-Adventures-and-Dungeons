@@ -6,7 +6,7 @@
 	text: [
 		"获得重生之石。",
 		"",
-		"你的嘘声还好吗? 没事的，很快就好了。"
+		"你的嘘声还好吗？没事的，很快就好了。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

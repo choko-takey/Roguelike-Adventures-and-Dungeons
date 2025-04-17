@@ -3,9 +3,9 @@
 	x: 11.0d,
 	y: 1.0d,
 	text: [
-		"Only submit one type of Silver from one mod.",
+		"只能从一个模组中提交一种类型的银块。",
 		"",
-		"Collect your reward to reset the quest before submitting again, when submitting more than one stack."
+		"当提交多组物品时，记得在再次提交前领取你的奖励以重置任务。"
 	],
 	can_repeat: true,
 	tasks: [{

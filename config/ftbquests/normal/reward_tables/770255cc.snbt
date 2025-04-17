@@ -86,7 +86,7 @@
 				"Quark:ItemNameDye": 5,
 				display: {
 					Lore: [
-						"你拿了我的弩!"
+						"你拿了我的弩！"
 					],
 					Name: "加拉德瑞尔的弩"
 				}

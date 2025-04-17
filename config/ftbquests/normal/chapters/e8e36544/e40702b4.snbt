@@ -2,7 +2,7 @@
 	title: "一种古老的手工制品",
 	x: 9.5d,
 	y: -6.5d,
-	description: "想象一下...David自制的弹弓...",
+	description: "想象一下……David自制的弹弓……",
 	text: [
 		"你知道，偷偷做出弹弓的是上帝，而不是David。",
 		"",

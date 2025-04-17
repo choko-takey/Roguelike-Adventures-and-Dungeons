@@ -91,7 +91,7 @@ ___
 # 升级？对于厨房方块？Waaaaaaaaaaaaaaaaaaaaa
 ___
 
-要使用升级，请右键各方块。
+要使用升级，请右击各方块。
 
 ![升级](upgrade1.png)
 

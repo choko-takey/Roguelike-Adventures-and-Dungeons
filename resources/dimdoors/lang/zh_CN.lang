@@ -125,7 +125,7 @@ rifts.destinations.escape.did_not_use_rift=你没有用裂痕进入口袋次元�
 rifts.destinations.escape.rift_has_closed=你用来进入口袋次元的裂痕已经闭合，你现在来到了次元监牢！
 rifts.destinations.private_pocket_exit.did_not_use_rift=你没有用裂痕进入口袋次元，你现在在次元监牢！
 rifts.destinations.private_pocket_exit.rift_has_closed=你用来进入口袋次元的裂痕已经闭合，你现在来到了次元监牢！
-rifts.entrances.rift_too_close=把一扇门放在世界上如此接近撕裂的地方是很危险的。按住Shift+右键以放置，或将其放置在裂缝核心上以将其绑定到裂缝。
+rifts.entrances.rift_too_close=把一扇门放在世界上如此接近撕裂的地方是很危险的。按住Shift并右击以放置，或将其放置在裂缝核心上以将其绑定到裂缝。
 rifts.entrances.cannot_be_placed_on_rift=这种门不能放在裂痕上。
 
 tools.rift_miss=你只能在裂痕核心上使用这个物品

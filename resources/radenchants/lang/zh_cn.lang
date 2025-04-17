@@ -205,14 +205,13 @@ tooltip.radenchants.sockets.enhance_symbol=+
 tooltip.radenchants.sockets.hold=【包含%s】
 tooltip.radenchants.sockets.info= %sx “%s”+ %s 级
 tooltip.radenchants.sockets.info.how=使用带有镶嵌附魔的物品在铁砧中与其他材料结合
-tooltip.radenchants.sockets.info.stars= > 星级（%s）：1 = 90%+升星卷轴, 2 = 100%升星卷轴, 3 = 100%升星卷轴和100%升级卷轴
+tooltip.radenchants.sockets.info.stars= > 星级（%s）：1 = 90%+升星卷轴，2 = 100%升星卷轴，3 = 100%升星卷轴和100%升级卷轴
 tooltip.radenchants.sockets.info.upgrade= > 已升级（增加统计信息%s）：
 tooltip.radenchants.sockets.info.wipe= > 已祛除（重置镶嵌）：
 tooltip.radenchants.sockets.info.etch= > 已镶嵌（填充空镶嵌）：
 tooltip.radenchants.sockets.info.enhance= > 已擢升（提升等阶%s）：
 tooltip.radenchants.sockets.original_value=起源卷轴：%s, %s - %s, %s%"
-tooltip.radenchants.sockets.upgrade_value=升级消耗：%s, %s - %s, %s%"
-
+tooltip.radenchants.sockets.upgrade_value=升级消耗：%s, %s - %s, %s%
 enchantment.radenchants:lucky_strike=幸运一击
 enchantment.radenchants.lucky_strike.desc=原版暴击不再生效，现在你的每次攻击都有概率触发暴击
 

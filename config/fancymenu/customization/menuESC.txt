@@ -28,7 +28,7 @@ customization {
   actionid = 9aaf03c0-e839-4da1-8da0-91c0d4a50e551640431230553
   action = addbutton
   y = -53
-  label = 寻找帮助
+  label = 寻求帮助
   value = https://discord.gg/r8CP8wrYsH
   height = 20
 }
