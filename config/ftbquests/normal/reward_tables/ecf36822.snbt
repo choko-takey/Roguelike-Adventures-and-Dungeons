@@ -73,7 +73,7 @@
 				Quality: {},
 				display: {
 					Lore: [
-						"A traditional wand used by novice wizards"
+						"新手巫师使用的传统魔杖"
 					],
 					Name: "古魔法师的法杖"
 				},

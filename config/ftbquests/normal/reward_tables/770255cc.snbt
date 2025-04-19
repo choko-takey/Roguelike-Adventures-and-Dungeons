@@ -44,7 +44,7 @@
 				"Quark:ItemNameDye": 4,
 				display: {
 					Lore: [
-						"Throw it at an opponent and look at the shock on their face."
+						"把它扔向对手，看看他们脸上震惊的表情"
 					],
 					Name: "电光炸弹"
 				}
@@ -60,7 +60,7 @@
 				"Quark:ItemNameDye": 1,
 				display: {
 					Lore: [
-						"Hot and Spicy."
+						"热辣暴击"
 					],
 					Name: "火焰炸弹"
 				}
@@ -121,7 +121,7 @@
 				"Quark:ItemNameDye": 10,
 				display: {
 					Lore: [
-						"Do not breathe in the chemicals from this."
+						"不要吸入其中的化学物质"
 					],
 					Name: "剧毒炸弹"
 				}
