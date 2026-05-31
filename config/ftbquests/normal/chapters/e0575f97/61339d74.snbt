@@ -44,16 +44,16 @@
 		uid: "5a8e757d",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "rootsBark",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "任意树皮"
+					Name: "Any rootsBark"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "rootsBark"
 				}
 			}
 		}]

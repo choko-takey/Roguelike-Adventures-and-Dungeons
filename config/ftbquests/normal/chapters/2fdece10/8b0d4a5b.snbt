@@ -16,20 +16,20 @@
 					],
 					Color: "red",
 					AttributeModifiers: [{
+						Amount: -0.10000000149011612d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -3603882967714545299L,
 						UUIDLeast: -7726683199969584637L,
-						Amount: -0.10000000149011612d,
-						AttributeName: "potioncore.digSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "potioncore.digSpeed"
 					},
 					{
+						Amount: -0.10000000149011612d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -5072733229629160774L,
 						UUIDLeast: -8013792556825652269L,
-						Amount: -0.10000000149011612d,
-						AttributeName: "generic.attackDamage",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.attackDamage"
 					}],
 					Name: "quality.rusted.name"
 				}

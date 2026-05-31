@@ -16,28 +16,28 @@
 					],
 					Color: "yellow",
 					AttributeModifiers: [{
+						Amount: -0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -9130184633305707339L,
 						UUIDLeast: -6357344358799999316L,
-						Amount: -0.05000000074505806d,
-						AttributeName: "potioncore.digSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "potioncore.digSpeed"
 					},
 					{
+						Amount: -0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 7384770298656344085L,
 						UUIDLeast: -7151912866639302280L,
-						Amount: -0.05000000074505806d,
-						AttributeName: "generic.attackSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.attackSpeed"
 					},
 					{
+						Amount: 0.10000000149011612d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -8797501801572973890L,
 						UUIDLeast: -9082455455849898869L,
-						Amount: 0.10000000149011612d,
-						AttributeName: "generic.attackDamage",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.attackDamage"
 					}],
 					Name: "quality.broad.name"
 				}
@@ -58,20 +58,20 @@
 					],
 					Color: "red",
 					AttributeModifiers: [{
+						Amount: -0.10000000149011612d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -8848300130744775685L,
 						UUIDLeast: -7587729776900510951L,
-						Amount: -0.10000000149011612d,
-						AttributeName: "potioncore.digSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "potioncore.digSpeed"
 					},
 					{
+						Amount: -0.10000000149011612d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -2837087397075136570L,
 						UUIDLeast: -4755887353564307520L,
-						Amount: -0.10000000149011612d,
-						AttributeName: "generic.attackDamage",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.attackDamage"
 					}],
 					Name: "quality.rusted.name"
 				}
@@ -92,12 +92,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -8563905429208022467L,
 						UUIDLeast: -5598788839857211601L,
-						Amount: 0.5d,
-						AttributeName: "generic.reachDistance",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.reachDistance"
 					}],
 					Name: "quality.long.name"
 				}

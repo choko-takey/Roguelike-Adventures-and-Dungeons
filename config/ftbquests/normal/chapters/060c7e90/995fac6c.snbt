@@ -1,10 +1,10 @@
 {
 	title: "恭喜你成就了伟业，拿好这些打发你的奖励吧",
 	icon: {
+		id: "ebwizardry:grand_crystal",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "ebwizardry:grand_crystal"
+		}
 	},
 	x: 12.0d,
 	y: -14.5d,
@@ -29,10 +29,10 @@
 		uid: "94bfc3a0",
 		type: "item",
 		item: {
+			id: "ebwizardry:grand_crystal",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "ebwizardry:grand_crystal"
+			}
 		},
 		count: 3
 	},

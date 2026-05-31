@@ -12,13 +12,7 @@
 	tasks: [{
 		uid: "e6960cdd",
 		type: "dimension",
-		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "chisel:ice",
-			Damage: 11s
-		},
+		icon: "chisel:ice 1 11",
 		dim: -55
 	}],
 	rewards: [{

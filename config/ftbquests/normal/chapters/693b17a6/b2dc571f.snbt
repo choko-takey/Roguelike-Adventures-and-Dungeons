@@ -1,11 +1,11 @@
 {
 	title: "伯爵屠夫",
 	icon: {
+		id: "vampirism:pure_blood",
+		Damage: 4s,
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "vampirism:pure_blood",
-		Damage: 4s
+		}
 	},
 	x: 4.5d,
 	y: 5.5d,

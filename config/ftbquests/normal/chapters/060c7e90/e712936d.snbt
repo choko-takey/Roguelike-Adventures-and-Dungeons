@@ -38,12 +38,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -5011565195761399677L,
 						UUIDLeast: -4679879416483667133L,
-						Amount: 0.5d,
-						AttributeName: "generic.armor",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.armor"
 					}],
 					Name: "quality.protective.name"
 				}

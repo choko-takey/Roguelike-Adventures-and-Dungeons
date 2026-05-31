@@ -1,6 +1,6 @@
 {
 	title: "叫一声看看",
-	x: 3.0d,
+	x: 2.5d,
 	y: 2.5d,
 	text: [
 		"这些小不点们能够保护森林里的居民。",
@@ -14,9 +14,6 @@
 		type: "observation",
 		title: "观察一只叠枭",
 		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "minecraft:spawn_egg",
 			tag: {
 				EntityTag: {

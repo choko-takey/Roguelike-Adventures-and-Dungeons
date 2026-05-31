@@ -13,12 +13,7 @@
 	tasks: [{
 		uid: "6a8f91fc",
 		type: "dimension",
-		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "chisel:cobblestone"
-		},
+		icon: "chisel:cobblestone",
 		dim: -53
 	}],
 	rewards: [{

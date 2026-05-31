@@ -1,10 +1,10 @@
 {
 	title: "钟塔",
 	icon: {
+		id: "ebwizardry:blank_scroll",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "ebwizardry:blank_scroll"
+		}
 	},
 	x: 6.607142857142854d,
 	y: 0.5178571428571459d,
@@ -30,24 +30,24 @@
 		uid: "e4995f9a",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "capsule:capsule",
+			Damage: 5s,
 			tag: {
-				color: 7566195,
 				size: 53,
 				isReward: 1b,
 				oneUse: 1b,
-				structureName: "config/capsule/rewards/clock_tower",
 				author: "Samara__",
+				color: 7566195,
+				label: "Clock Tower",
+				structureName: "config/capsule/rewards/clock_tower",
 				display: {
 					color: 12881152
 				},
-				label: "Clock Tower",
 				canRotate: 1b
 			},
-			Damage: 5s
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			}
 		}
 	}]
 }

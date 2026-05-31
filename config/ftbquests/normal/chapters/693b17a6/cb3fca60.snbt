@@ -10,10 +10,10 @@
 		uid: "254e7fd4",
 		type: "kill",
 		icon: {
+			id: "ancientbeasts:ectoplasm",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "ancientbeasts:ectoplasm"
+			}
 		},
 		entity: "ancientbeasts:ghost",
 		value: 200L

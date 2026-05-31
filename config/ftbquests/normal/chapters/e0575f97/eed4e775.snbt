@@ -25,16 +25,16 @@
 		uid: "b802edb2",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "egg",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "任意蛋"
+					Name: "Any egg"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "egg"
 				}
 			}
 		}]

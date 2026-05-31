@@ -1,9 +1,10 @@
 {
-	title: "【施工中】",
+	title: "A WOODEN KNIFE",
 	x: 6.0d,
 	y: 0.0d,
+	description: "A 100% counter to magneto",
 	text: [
-		"【这个任务将在未来的版本更新标题和任务描述】"
+		"Knives can be used to carve bark from trees or making blood pacts but you didnt hear that from me."
 	],
 	dependencies: [
 		"8b36541a"

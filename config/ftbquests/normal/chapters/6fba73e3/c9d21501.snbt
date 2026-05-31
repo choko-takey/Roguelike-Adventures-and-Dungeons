@@ -12,16 +12,16 @@
 		uid: "adce55f3",
 		type: "item",
 		items: [{
+			id: "xreliquary:harvest_rod",
 			ForgeCaps: {
 				Parent: {
+					Items: [],
 					Size: 4,
 					TotalAmounts: [
 						0
-					],
-					Items: []
+					]
 				}
-			},
-			id: "xreliquary:harvest_rod"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

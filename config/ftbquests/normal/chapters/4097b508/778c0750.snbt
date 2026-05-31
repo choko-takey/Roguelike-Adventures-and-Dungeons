@@ -1,9 +1,6 @@
 {
 	title: "扭曲祭坛",
 	icon: {
-		ForgeCaps: {
-			"wizardryutils:summoneditemdata": {}
-		},
 		id: "ancientspellcraft:transmutation_scroll",
 		tag: {
 			"Quark:RuneColor": 15,
@@ -12,6 +9,9 @@
 				id: 34
 			}],
 			"Quark:RuneAttached": 1b
+		},
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
 		}
 	},
 	x: 4.140476190476193d,
@@ -38,24 +38,24 @@
 		uid: "18e97453",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "capsule:capsule",
+			Damage: 5s,
 			tag: {
-				color: 4013373,
 				size: 21,
 				isReward: 1b,
 				oneUse: 1b,
-				structureName: "config/capsule/rewards/warped_altar",
 				author: "Samara__",
+				color: 4013373,
+				label: "Warped Altar",
+				structureName: "config/capsule/rewards/warped_altar",
 				display: {
 					color: 0
 				},
-				label: "Warped Altar",
 				canRotate: 1b
 			},
-			Damage: 5s
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			}
 		}
 	}]
 }

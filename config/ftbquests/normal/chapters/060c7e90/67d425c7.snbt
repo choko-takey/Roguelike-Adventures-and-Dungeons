@@ -48,12 +48,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 1.0d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -2191785952338164614L,
 						UUIDLeast: -6788346312970168393L,
-						Amount: 1.0d,
-						AttributeName: "generic.armorToughness",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.armorToughness"
 					}],
 					Name: "quality.tough.name"
 				}

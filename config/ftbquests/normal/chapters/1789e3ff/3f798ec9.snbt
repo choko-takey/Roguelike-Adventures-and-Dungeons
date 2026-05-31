@@ -15,10 +15,10 @@
 		uid: "6a7c707e",
 		type: "item",
 		items: [{
+			id: "ancientspellcraft:devoritium_ingot",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "ancientspellcraft:devoritium_ingot"
+			}
 		}],
 		count: 64L
 	},
@@ -26,11 +26,11 @@
 		uid: "7c3ed9e2",
 		type: "item",
 		items: [{
+			id: "ebwizardry:magic_crystal",
+			Damage: 1s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "ebwizardry:magic_crystal",
-			Damage: 1s
+			}
 		}],
 		count: 64L
 	},
@@ -38,11 +38,11 @@
 		uid: "93752e83",
 		type: "item",
 		items: [{
+			id: "ebwizardry:magic_crystal",
+			Damage: 7s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "ebwizardry:magic_crystal",
-			Damage: 7s
+			}
 		}],
 		count: 64L
 	},
@@ -50,11 +50,11 @@
 		uid: "d98d485b",
 		type: "item",
 		items: [{
+			id: "ebwizardry:magic_crystal",
+			Damage: 5s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "ebwizardry:magic_crystal",
-			Damage: 5s
+			}
 		}],
 		count: 64L
 	},
@@ -62,11 +62,11 @@
 		uid: "40e05331",
 		type: "item",
 		items: [{
+			id: "ebwizardry:magic_crystal",
+			Damage: 3s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "ebwizardry:magic_crystal",
-			Damage: 3s
+			}
 		}],
 		count: 64L
 	},
@@ -74,11 +74,11 @@
 		uid: "f587feff",
 		type: "item",
 		items: [{
+			id: "ebwizardry:magic_crystal",
+			Damage: 2s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "ebwizardry:magic_crystal",
-			Damage: 2s
+			}
 		}],
 		count: 64L
 	},
@@ -86,11 +86,11 @@
 		uid: "b87ec2fb",
 		type: "item",
 		items: [{
+			id: "ebwizardry:magic_crystal",
+			Damage: 6s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "ebwizardry:magic_crystal",
-			Damage: 6s
+			}
 		}],
 		count: 64L
 	},
@@ -98,11 +98,11 @@
 		uid: "ff294347",
 		type: "item",
 		items: [{
+			id: "ebwizardry:magic_crystal",
+			Damage: 4s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "ebwizardry:magic_crystal",
-			Damage: 4s
+			}
 		}],
 		count: 64L
 	}],

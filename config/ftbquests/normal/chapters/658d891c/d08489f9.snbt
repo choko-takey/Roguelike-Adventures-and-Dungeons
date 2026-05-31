@@ -23,10 +23,10 @@
 		uid: "225febf9",
 		type: "checkmark",
 		icon: {
+			id: "iceandfire:dragonforge_ice_core",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:dragonforge_ice_core"
+			}
 		}
 	}]
 }

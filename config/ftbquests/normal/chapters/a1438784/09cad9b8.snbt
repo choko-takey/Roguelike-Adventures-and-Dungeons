@@ -15,7 +15,8 @@
 		items: [{
 			item: "minecraft:sandstone"
 		}],
-		count: 49L
+		count: 49L,
+		consume_items: true
 	},
 	{
 		uid: "00a395d1",
@@ -28,21 +29,21 @@
 		type: "item",
 		item: {
 			id: "capsule:capsule",
+			Damage: 5s,
 			tag: {
-				"Quark:ItemNameDye": 14,
-				color: 14533120,
 				size: 5,
 				isReward: 1b,
 				oneUse: 1b,
+				"Quark:ItemNameDye": 14,
+				color: 14533120,
+				label: "Atum_Portal",
 				structureName: "config/capsule/rewards/atum_portal",
 				display: {
 					color: 16769028,
-					Name: "阿图姆传送门"
+					Name: "Atum Portal"
 				},
-				label: "Atum_Portal",
 				canRotate: 1b
-			},
-			Damage: 5s
+			}
 		}
 	}]
 }

@@ -2,11 +2,11 @@
 	title: "龙与地下城",
 	icon: {
 		id: "iceandfire:dragon_skull",
+		Damage: 1s,
 		tag: {
 			Stage: 4,
 			DragonAge: 75
-		},
-		Damage: 1s
+		}
 	},
 	always_invisible: false,
 	group: 0,

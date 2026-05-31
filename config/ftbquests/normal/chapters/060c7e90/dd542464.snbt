@@ -1,11 +1,6 @@
 {
 	title: "贤者",
-	icon: {
-		ForgeCaps: {
-			"wizardryutils:summoneditemdata": {}
-		},
-		id: "ancientspellcraft:empty_mystic_spell_book"
-	},
+	icon: "ancientspellcraft:empty_mystic_spell_book",
 	x: -17.0d,
 	y: 12.5d,
 	description: "魔法的力量胜于文字！",
@@ -21,20 +16,14 @@
 		uid: "d0d2fe3e",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "ancientspellcraft:empty_mystic_spell_book"
+			item: "ancientspellcraft:empty_mystic_spell_book"
 		}]
 	},
 	{
 		uid: "2f159888",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "ebwizardry:magic_crystal"
+			item: "ebwizardry:magic_crystal"
 		}],
 		count: 10L
 	}],

@@ -9,13 +9,7 @@
 	tasks: [{
 		uid: "a1544f31",
 		type: "kill",
-		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:skull",
-			Damage: 2s
-		},
+		icon: "minecraft:skull 1 2",
 		entity: "ancientbeasts:giant_zombie",
 		value: 15L
 	}],

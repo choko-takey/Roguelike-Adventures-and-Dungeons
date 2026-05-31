@@ -14,12 +14,7 @@
 	tasks: [{
 		uid: "46992149",
 		type: "dimension",
-		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cavern:huge_cavern_portal"
-		},
+		icon: "cavern:huge_cavern_portal",
 		dim: -51
 	}],
 	rewards: [{
@@ -36,5 +31,10 @@
 		uid: "f1475eb4",
 		type: "ftbmoney:money",
 		ftb_money: 100L
+	},
+	{
+		uid: "15bec126",
+		type: "choice",
+		table: 66
 	}]
 }

@@ -1,9 +1,6 @@
 {
 	title: "直向T型结构",
 	icon: {
-		ForgeCaps: {
-			"wizardryutils:summoneditemdata": {}
-		},
 		id: "ancientspellcraft:amnesia_scroll",
 		tag: {
 			"Quark:RuneColor": 15,
@@ -12,6 +9,9 @@
 				id: 34
 			}],
 			"Quark:RuneAttached": 1b
+		},
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
 		}
 	},
 	x: 2.9523809523809774d,
@@ -58,72 +58,72 @@
 		uid: "a5137e35",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "capsule:capsule",
+			Damage: 5s,
 			tag: {
-				color: 6052956,
 				size: 35,
 				isReward: 1b,
 				oneUse: 1b,
-				structureName: "config/capsule/rewards/full_stone_wall_straight_t",
 				author: "Samara__",
+				color: 6052956,
+				label: "Full Stone Wall Straight T",
+				structureName: "config/capsule/rewards/full_stone_wall_straight_t",
 				display: {
 					color: 6052956
 				},
-				label: "Full Stone Wall Straight T",
 				canRotate: 1b
 			},
-			Damage: 5s
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			}
 		}
 	},
 	{
 		uid: "214cd650",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "capsule:capsule",
+			Damage: 5s,
 			tag: {
-				color: 6052956,
 				size: 35,
 				isReward: 1b,
 				oneUse: 1b,
-				structureName: "config/capsule/rewards/stone_wall_straight_t",
 				author: "Samara__",
+				color: 6052956,
+				label: "Stone Wall Straight T",
+				structureName: "config/capsule/rewards/stone_wall_straight_t",
 				display: {
 					color: 6052956
 				},
-				label: "Stone Wall Straight T",
 				canRotate: 1b
 			},
-			Damage: 5s
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			}
 		}
 	},
 	{
 		uid: "63508d67",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "capsule:capsule",
+			Damage: 5s,
 			tag: {
-				color: 6052956,
 				size: 33,
 				isReward: 1b,
 				oneUse: 1b,
-				structureName: "config/capsule/rewards/stone_wall_walkthru_straight_t",
 				author: "Samara__",
+				color: 6052956,
+				label: "Stone Wall Walkthru Straight T",
+				structureName: "config/capsule/rewards/stone_wall_walkthru_straight_t",
 				display: {
 					color: 6052956
 				},
-				label: "Stone Wall Walkthru Straight T",
 				canRotate: 1b
 			},
-			Damage: 5s
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			}
 		}
 	}]
 }

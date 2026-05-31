@@ -10,10 +10,10 @@
 		uid: "c3a9a0ab",
 		type: "kill",
 		icon: {
+			id: "ancientbeasts:ice_wand_red",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "ancientbeasts:ice_wand_red"
+			}
 		},
 		entity: "ancientbeasts:frost_walker",
 		value: 400L

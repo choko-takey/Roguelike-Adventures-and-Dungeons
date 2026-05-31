@@ -44,16 +44,16 @@
 		uid: "69cc4e65",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "bone",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "任意骨头"
+					Name: "Any bone"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "bone"
 				}
 			}
 		}]

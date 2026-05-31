@@ -15,10 +15,10 @@
 		type: "interaction",
 		title: "与村庄图腾顶部交互",
 		icon: {
+			id: "vampirism:totem_top",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "vampirism:totem_top"
+			}
 		},
 		match_type: "block_id",
 		match: "vampirism:totem_top"

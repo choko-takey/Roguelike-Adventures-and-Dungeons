@@ -10,9 +10,6 @@
 		uid: "e63897e0",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "uniquecrops:emblem.weight",
 			tag: {
 				Quality: {
@@ -22,12 +19,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 2.0d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -1140479277628176637L,
 						UUIDLeast: -8977731923645613737L,
-						Amount: 2.0d,
-						AttributeName: "generic.maxHealth",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.maxHealth"
 					}],
 					Name: "quality.healthy.name"
 				}

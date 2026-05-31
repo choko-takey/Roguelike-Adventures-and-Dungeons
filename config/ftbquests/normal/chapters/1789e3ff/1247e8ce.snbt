@@ -1,14 +1,14 @@
 {
 	title: "有什么东西在盯着我看",
 	icon: {
-		ForgeCaps: {
-			"wizardryutils:summoneditemdata": {}
-		},
 		id: "openblocks:trophy",
+		Damage: 26s,
 		tag: {
 			entity_id: "minecraft:guardian"
 		},
-		Damage: 26s
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		}
 	},
 	x: -3.5d,
 	y: -0.5d,
@@ -33,14 +33,14 @@
 		type: "observation",
 		title: "Lock Eyes With A Guardian",
 		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "openblocks:trophy",
+			Damage: 26s,
 			tag: {
 				entity_id: "minecraft:guardian"
 			},
-			Damage: 26s
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			}
 		},
 		match_type: "entity_id",
 		match: "minecraft:guardian",

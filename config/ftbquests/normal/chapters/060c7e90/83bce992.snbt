@@ -15,10 +15,10 @@
 		uid: "3dc0fcea",
 		type: "item",
 		items: [{
+			id: "ancientspellcraft:sage_lectern",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "ancientspellcraft:sage_lectern"
+			}
 		}]
 	}],
 	rewards: [{

@@ -23,12 +23,12 @@
 					],
 					Color: "aqua",
 					AttributeModifiers: [{
+						Amount: 0.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -2449911257040075954L,
 						UUIDLeast: -5630309475025218728L,
-						Amount: 0.5d,
-						AttributeName: "generic.luck",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.luck"
 					}],
 					Name: "quality.lucky.name"
 				}

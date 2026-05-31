@@ -29,16 +29,16 @@
 		uid: "25e9439d",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "treeSapling",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "任意树苗"
+					Name: "Any treeSapling"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "treeSapling"
 				}
 			}
 		}]

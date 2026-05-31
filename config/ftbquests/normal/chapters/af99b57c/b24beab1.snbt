@@ -18,11 +18,7 @@
 		type: "item",
 		title: "猎人情报14",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "vampirism:hunter_intel",
-			Damage: 9s
+			item: "vampirism:hunter_intel 1 9"
 		}]
 	}],
 	rewards: [{

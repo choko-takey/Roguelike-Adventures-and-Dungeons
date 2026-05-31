@@ -1,10 +1,10 @@
 {
 	title: "一号房",
 	icon: {
+		id: "ebwizardry:blank_scroll",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "ebwizardry:blank_scroll"
+		}
 	},
 	x: 8.071428571428577d,
 	y: -0.9821428571428577d,
@@ -30,24 +30,24 @@
 		uid: "0bd6e024",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "capsule:capsule",
+			Damage: 5s,
 			tag: {
-				color: 7566195,
 				size: 25,
 				isReward: 1b,
 				oneUse: 1b,
-				structureName: "config/capsule/rewards/house_1",
 				author: "Samara__",
+				color: 7566195,
+				label: "House 1",
+				structureName: "config/capsule/rewards/house_1",
 				display: {
 					color: 12881152
 				},
-				label: "House 1",
 				canRotate: 1b
 			},
-			Damage: 5s
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			}
 		}
 	}]
 }

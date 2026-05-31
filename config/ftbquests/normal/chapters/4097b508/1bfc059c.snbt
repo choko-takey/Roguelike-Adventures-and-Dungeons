@@ -1,10 +1,10 @@
 {
 	title: "灌木丛迷宫",
 	icon: {
+		id: "ebwizardry:blank_scroll",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "ebwizardry:blank_scroll"
+		}
 	},
 	x: 11.67857142857143d,
 	y: 2.017857142857146d,
@@ -30,24 +30,24 @@
 		uid: "2cecd752",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "capsule:capsule",
+			Damage: 5s,
 			tag: {
-				color: 7566195,
 				size: 41,
 				isReward: 1b,
 				oneUse: 1b,
-				structureName: "config/capsule/rewards/hedge_maze",
 				author: "Samara__",
+				color: 7566195,
+				label: "Hedge Maze",
+				structureName: "config/capsule/rewards/hedge_maze",
 				display: {
 					color: 12881152
 				},
-				label: "Hedge Maze",
 				canRotate: 1b
 			},
-			Damage: 5s
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			}
 		}
 	}]
 }

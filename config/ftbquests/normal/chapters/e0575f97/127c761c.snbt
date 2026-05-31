@@ -22,16 +22,16 @@
 		uid: "40a60c07",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "rootsBark",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "任意树皮"
+					Name: "Any rootsBark"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "rootsBark"
 				}
 			}
 		}]
@@ -40,16 +40,16 @@
 		uid: "89cb19ee",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "allFlowers",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "任意花朵"
+					Name: "Any allFlowers"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "allFlowers"
 				}
 			}
 		}]
@@ -58,16 +58,16 @@
 		uid: "5943c491",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "rootsBark",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "任意树皮"
+					Name: "Any rootsBark"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "rootsBark"
 				}
 			}
 		}]
@@ -76,16 +76,16 @@
 		uid: "3fb05780",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "stonebrick",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "任意石砖"
+					Name: "Any stonebrick"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "stonebrick"
 				}
 			}
 		}]

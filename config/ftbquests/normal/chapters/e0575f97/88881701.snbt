@@ -23,16 +23,16 @@
 		uid: "f36622f4",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "dyeOrange",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "任意橙色染料"
+					Name: "Any dyeOrange"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "dyeOrange"
 				}
 			}
 		}]

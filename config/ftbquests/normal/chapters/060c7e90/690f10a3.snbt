@@ -22,12 +22,12 @@
 					],
 					Color: "aqua",
 					AttributeModifiers: [{
+						Amount: 0.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 4739055498864708549L,
 						UUIDLeast: -6640003895348040322L,
-						Amount: 0.5d,
-						AttributeName: "generic.luck",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.luck"
 					}],
 					Name: "quality.lucky.name"
 				}
@@ -72,12 +72,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -2341252607641564109L,
 						UUIDLeast: -8652776378197567978L,
-						Amount: 0.5d,
-						AttributeName: "generic.armor",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.armor"
 					}],
 					Name: "quality.protective.name"
 				}

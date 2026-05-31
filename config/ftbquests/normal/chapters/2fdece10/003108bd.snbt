@@ -16,28 +16,28 @@
 					],
 					Color: "yellow",
 					AttributeModifiers: [{
+						Amount: -0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -1942790488639714880L,
 						UUIDLeast: -6777102909112902903L,
-						Amount: -0.05000000074505806d,
-						AttributeName: "potioncore.digSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "potioncore.digSpeed"
 					},
 					{
+						Amount: -0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -6985822999701927499L,
 						UUIDLeast: -6516581378518547825L,
-						Amount: -0.05000000074505806d,
-						AttributeName: "generic.attackSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.attackSpeed"
 					},
 					{
+						Amount: 0.10000000149011612d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 7278734298637225454L,
 						UUIDLeast: -6519067033947532267L,
-						Amount: 0.10000000149011612d,
-						AttributeName: "generic.attackDamage",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.attackDamage"
 					}],
 					Name: "quality.broad.name"
 				}
@@ -82,20 +82,20 @@
 					],
 					Color: "yellow",
 					AttributeModifiers: [{
+						Amount: 0.10000000149011612d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 6196557566184998197L,
 						UUIDLeast: -6335998294371418864L,
-						Amount: 0.10000000149011612d,
-						AttributeName: "generic.attackSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.attackSpeed"
 					},
 					{
+						Amount: -0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 2411583872344147110L,
 						UUIDLeast: -7634385460814572998L,
-						Amount: -0.05000000074505806d,
-						AttributeName: "generic.attackDamage",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.attackDamage"
 					}],
 					Name: "quality.thin.name"
 				}

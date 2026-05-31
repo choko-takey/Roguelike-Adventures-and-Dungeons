@@ -12,9 +12,6 @@
 		uid: "87ae00dc",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "uniquecrops:emblem.food",
 			tag: {
 				Quality: {
@@ -24,12 +21,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.029999999329447746d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 3895517772079186870L,
 						UUIDLeast: -6826223058949130002L,
-						Amount: 0.029999999329447746d,
-						AttributeName: "potioncore.digSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "potioncore.digSpeed"
 					}],
 					Name: "quality.prospecting.name"
 				}

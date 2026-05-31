@@ -1,9 +1,6 @@
 {
 	title: "&b&l寒霜大师雕像",
 	icon: {
-		ForgeCaps: {
-			"wizardryutils:summoneditemdata": {}
-		},
 		id: "ebwizardry:blank_scroll",
 		tag: {
 			"Quark:RuneColor": 3,
@@ -12,6 +9,9 @@
 				id: 34
 			}],
 			"Quark:RuneAttached": 1b
+		},
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
 		}
 	},
 	x: -9.440476190476176d,
@@ -42,24 +42,24 @@
 		uid: "cfaf2713",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "capsule:capsule",
+			Damage: 5s,
 			tag: {
-				color: 48368,
 				size: 57,
 				isReward: 1b,
 				oneUse: 1b,
-				structureName: "config/capsule/rewards/icy_master_statue",
 				author: "Samara__",
+				color: 48368,
+				label: "Icy Master Statue",
+				structureName: "config/capsule/rewards/icy_master_statue",
 				display: {
 					color: 48368
 				},
-				label: "Icy Master Statue",
 				canRotate: 1b
 			},
-			Damage: 5s
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			}
 		}
 	}]
 }

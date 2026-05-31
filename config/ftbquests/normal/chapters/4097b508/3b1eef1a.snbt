@@ -1,10 +1,10 @@
 {
 	title: "直线型组合房",
 	icon: {
+		id: "ebwizardry:blank_scroll",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "ebwizardry:blank_scroll"
+		}
 	},
 	x: 10.94897959183674d,
 	y: 0.5034013605442169d,
@@ -30,24 +30,24 @@
 		uid: "679f9a90",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "capsule:capsule",
+			Damage: 5s,
 			tag: {
-				color: 7566195,
 				size: 49,
 				isReward: 1b,
 				oneUse: 1b,
-				structureName: "config/capsule/rewards/duplex",
 				author: "Samara__",
+				color: 7566195,
+				label: "Duplex",
+				structureName: "config/capsule/rewards/duplex",
 				display: {
 					color: 12881152
 				},
-				label: "Duplex",
 				canRotate: 1b
 			},
-			Damage: 5s
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			}
 		}
 	}]
 }

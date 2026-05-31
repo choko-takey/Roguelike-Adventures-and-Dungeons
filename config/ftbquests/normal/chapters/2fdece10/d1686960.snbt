@@ -16,20 +16,20 @@
 					],
 					Color: "yellow",
 					AttributeModifiers: [{
+						Amount: -0.10000000149011612d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -3696782281859972501L,
 						UUIDLeast: -8090323450689217643L,
-						Amount: -0.10000000149011612d,
-						AttributeName: "potioncore.digSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "potioncore.digSpeed"
 					},
 					{
+						Amount: 0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -4062001088731199297L,
 						UUIDLeast: -6997658910758356380L,
-						Amount: 0.05000000074505806d,
-						AttributeName: "generic.attackDamage",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.attackDamage"
 					}],
 					Name: "quality.pokey.name"
 				}
@@ -50,12 +50,12 @@
 					],
 					Color: "red",
 					AttributeModifiers: [{
+						Amount: -1.0d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 440910402555365047L,
 						UUIDLeast: -6860590746771031400L,
-						Amount: -1.0d,
-						AttributeName: "generic.reachDistance",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.reachDistance"
 					}],
 					Name: "quality.short.name"
 				}
@@ -88,28 +88,28 @@
 					],
 					Color: "yellow",
 					AttributeModifiers: [{
+						Amount: -0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -7053639454573311855L,
 						UUIDLeast: -7588772566687526771L,
-						Amount: -0.05000000074505806d,
-						AttributeName: "potioncore.digSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "potioncore.digSpeed"
 					},
 					{
+						Amount: -0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -5567722065041668190L,
 						UUIDLeast: -9153385355020460474L,
-						Amount: -0.05000000074505806d,
-						AttributeName: "generic.attackSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.attackSpeed"
 					},
 					{
+						Amount: 0.10000000149011612d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -6496943708877207789L,
 						UUIDLeast: -4616151541368874900L,
-						Amount: 0.10000000149011612d,
-						AttributeName: "generic.attackDamage",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.attackDamage"
 					}],
 					Name: "quality.broad.name"
 				}

@@ -1,6 +1,6 @@
 {
 	title: "小人偶",
-	x: -2.0d,
+	x: -2.5d,
 	y: 1.5d,
 	description: "你现在有了个迷你版的我",
 	text: [
@@ -16,10 +16,10 @@
 		uid: "8e99f48b",
 		type: "item",
 		items: [{
+			id: "ancientbeasts:vessel",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "ancientbeasts:vessel"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

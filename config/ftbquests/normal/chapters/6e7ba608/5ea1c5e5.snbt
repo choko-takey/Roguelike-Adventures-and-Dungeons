@@ -9,20 +9,20 @@
 				],
 				Color: "yellow",
 				AttributeModifiers: [{
+					Amount: -0.05000000074505806d,
+					Name: "qualitytools",
+					Operation: 2,
 					UUIDMost: 5059304256954385586L,
 					UUIDLeast: -9191993562815091450L,
-					Amount: -0.05000000074505806d,
-					AttributeName: "generic.movementSpeed",
-					Operation: 2,
-					Name: "qualitytools"
+					AttributeName: "generic.movementSpeed"
 				},
 				{
+					Amount: 0.5d,
+					Name: "qualitytools",
+					Operation: 0,
 					UUIDMost: 1616573970950604331L,
 					UUIDLeast: -7234019771815205890L,
-					Amount: 0.5d,
-					AttributeName: "generic.armor",
-					Operation: 0,
-					Name: "qualitytools"
+					AttributeName: "generic.armor"
 				}],
 				Name: "quality.thick.name"
 			}
@@ -51,20 +51,20 @@
 					],
 					Color: "yellow",
 					AttributeModifiers: [{
+						Amount: -0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 5059304256954385586L,
 						UUIDLeast: -9191993562815091450L,
-						Amount: -0.05000000074505806d,
-						AttributeName: "generic.movementSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.movementSpeed"
 					},
 					{
+						Amount: 0.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 1616573970950604331L,
 						UUIDLeast: -7234019771815205890L,
-						Amount: 0.5d,
-						AttributeName: "generic.armor",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.armor"
 					}],
 					Name: "quality.thick.name"
 				}
@@ -85,12 +85,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 1.0d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -5916921429924624879L,
 						UUIDLeast: -7320548205571568329L,
-						Amount: 1.0d,
-						AttributeName: "potioncore.magicShielding",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "potioncore.magicShielding"
 					}],
 					Name: "quality.arcane.name"
 				}
@@ -122,12 +122,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.10000000149011612d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -1440621649569627275L,
 						UUIDLeast: -6604884666508058764L,
-						Amount: 0.10000000149011612d,
-						AttributeName: "generic.movementSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.movementSpeed"
 					}],
 					Name: "quality.speedy.name"
 				}

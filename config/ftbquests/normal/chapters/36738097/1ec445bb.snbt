@@ -12,13 +12,13 @@
 		type: "item",
 		items: [{
 			id: "extrautils2:drum",
+			Damage: 3s,
 			tag: {
 				Fluid: {
 					FluidName: "xpjuice",
 					Amount: 65536000
 				}
-			},
-			Damage: 3s
+			}
 		}],
 		consume_items: true
 	}],

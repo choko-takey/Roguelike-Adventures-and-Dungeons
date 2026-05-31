@@ -61,12 +61,12 @@
 					],
 					Color: "red",
 					AttributeModifiers: [{
+						Amount: -0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 6966429295227588044L,
 						UUIDLeast: -9147430591088892620L,
-						Amount: -0.05000000074505806d,
-						AttributeName: "potioncore.projectileDamage",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "potioncore.projectileDamage"
 					}],
 					Name: "quality.clumsy.name"
 				}

@@ -39,16 +39,16 @@
 		uid: "d2f3905c",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "stickWood",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "任意木棍"
+					Name: "Any stickWood"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "stickWood"
 				}
 			}
 		}]
@@ -57,16 +57,16 @@
 		uid: "535e824e",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "dyeRed",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "任意红色染料"
+					Name: "Any dyeRed"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "dyeRed"
 				}
 			}
 		}]

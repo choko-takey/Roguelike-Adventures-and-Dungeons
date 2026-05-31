@@ -38,16 +38,16 @@
 		uid: "e727ca86",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "slimeball",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "任意粘液球"
+					Name: "Any slimeball"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "slimeball"
 				}
 			}
 		}]
@@ -56,16 +56,16 @@
 		uid: "657b5a1a",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "wool",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "任意羊毛"
+					Name: "Any wool"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "wool"
 				}
 			}
 		}]

@@ -19,28 +19,28 @@
 					],
 					Color: "light_purple",
 					AttributeModifiers: [{
+						Amount: 0.029999999329447746d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 821097721124179444L,
 						UUIDLeast: -6329076685620342227L,
-						Amount: 0.029999999329447746d,
-						AttributeName: "potioncore.projectileDamage",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "potioncore.projectileDamage"
 					},
 					{
+						Amount: 0.029999999329447746d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 7851112821071954270L,
 						UUIDLeast: -9196274271716649062L,
-						Amount: 0.029999999329447746d,
-						AttributeName: "generic.attackDamage",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.attackDamage"
 					},
 					{
+						Amount: 0.029999999329447746d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -2057625551052387332L,
 						UUIDLeast: -7400110313197015975L,
-						Amount: 0.029999999329447746d,
-						AttributeName: "potioncore.magicDamage",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "potioncore.magicDamage"
 					}],
 					Name: "quality.punishing.name"
 				}

@@ -15,10 +15,7 @@
 		uid: "dba606dc",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "embers:ingot_copper"
+			item: "embers:ingot_copper"
 		}],
 		count: 64L
 	},
@@ -26,10 +23,7 @@
 		uid: "6e0edfc8",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "embers:ingot_tin"
+			item: "embers:ingot_tin"
 		}],
 		count: 64L
 	},
@@ -37,10 +31,7 @@
 		uid: "f2d8e8e9",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "embers:ingot_lead"
+			item: "embers:ingot_lead"
 		}],
 		count: 64L
 	},
@@ -48,10 +39,7 @@
 		uid: "0511615c",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "embers:ingot_nickel"
+			item: "embers:ingot_nickel"
 		}],
 		count: 64L
 	},
@@ -59,10 +47,7 @@
 		uid: "effba0b4",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "embers:ingot_silver"
+			item: "embers:ingot_silver"
 		}],
 		count: 64L
 	}],

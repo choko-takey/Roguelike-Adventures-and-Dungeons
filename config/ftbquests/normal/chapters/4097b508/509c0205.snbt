@@ -1,8 +1,5 @@
 {
 	icon: {
-		ForgeCaps: {
-			"wizardryutils:summoneditemdata": {}
-		},
 		id: "ancientspellcraft:duplication_scroll",
 		tag: {
 			"Quark:RuneColor": 6,
@@ -11,6 +8,9 @@
 				id: 81
 			}],
 			"Quark:RuneAttached": 1b
+		},
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
 		}
 	},
 	x: -3.4285714285714306d,
@@ -37,10 +37,10 @@
 		uid: "b62ee903",
 		type: "item",
 		items: [{
+			id: "capsule:capsulemarker",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "capsule:capsulemarker"
+			}
 		}]
 	}],
 	rewards: [{

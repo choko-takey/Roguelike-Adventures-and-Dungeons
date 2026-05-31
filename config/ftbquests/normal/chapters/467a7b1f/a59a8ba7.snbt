@@ -1,6 +1,6 @@
 {
 	title: "木棍成块",
-	x: 3.0d,
+	x: 2.5d,
 	y: 1.5d,
 	description: "高度易燃",
 	text: [
@@ -10,10 +10,10 @@
 		uid: "a6f77190",
 		type: "item",
 		items: [{
+			id: "ancientbeasts:stick_wall",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "ancientbeasts:stick_wall"
+			}
 		}],
 		count: 64L
 	}],

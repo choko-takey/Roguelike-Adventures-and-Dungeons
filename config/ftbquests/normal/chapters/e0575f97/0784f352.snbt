@@ -1,9 +1,10 @@
 {
-	title: "【施工中】",
+	title: "Herb Baggie",
 	x: 1.5d,
 	y: 1.0d,
+	description: "I promise officer I'm holding it for a friend",
 	text: [
-		"【这个任务将在未来的版本更新标题和任务描述】"
+		"The most cheapest way to store herbs for spell crafting."
 	],
 	dependencies: [
 		"90edb6b4"

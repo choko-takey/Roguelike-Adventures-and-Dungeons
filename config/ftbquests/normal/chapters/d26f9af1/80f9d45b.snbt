@@ -12,10 +12,10 @@
 		uid: "ad4e5760",
 		type: "item",
 		items: [{
+			id: "extrautils2:book",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "extrautils2:book"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

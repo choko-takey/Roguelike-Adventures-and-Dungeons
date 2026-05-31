@@ -1,9 +1,10 @@
 {
-	title: "【施工中】",
+	title: "Guess What?",
 	x: -1.5d,
 	y: -1.5d,
+	description: "Chicken butt!",
 	text: [
-		"【这个任务将在未来的版本更新标题和任务描述】"
+		"The birds of the overworld were one of the few creatures touched by the fey realms magic, harvest their feathers to further understand it."
 	],
 	dependencies: [
 		"9b0d518f"

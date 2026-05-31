@@ -1,6 +1,6 @@
 {
 	title: "上古凶灵大全",
-	x: 0.0d,
+	x: -0.5d,
 	y: 0.0d,
 	description: "还好它有配图",
 	text: [
@@ -10,10 +10,10 @@
 		uid: "cb374a2e",
 		type: "item",
 		items: [{
+			id: "ancientbeasts:bestiary",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "ancientbeasts:bestiary"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

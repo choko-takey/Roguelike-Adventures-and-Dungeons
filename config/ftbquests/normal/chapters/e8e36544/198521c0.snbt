@@ -33,13 +33,18 @@
 			id: "buildinggadgets:template",
 			tag: {
 				copycounter: 2,
-				TemplateName: "Artificial End Portal",
-				UUID: "36540101-26e3-41f3-a2f2-214f00c25cd4",
 				startPos: {
 					X: -580,
 					Y: 63,
 					Z: -1520
 				},
+				TemplateName: "Artificial End Portal",
+				endPos: {
+					X: -584,
+					Y: 68,
+					Z: -1524
+				},
+				UUID: "36540101-26e3-41f3-a2f2-214f00c25cd4",
 				itemcountmap: [{
 					item: 49,
 					meta: 0,
@@ -54,12 +59,7 @@
 					item: 198,
 					meta: 0,
 					count: 1
-				}],
-				endPos: {
-					X: -584,
-					Y: 68,
-					Z: -1524
-				}
+				}]
 			}
 		}
 	},

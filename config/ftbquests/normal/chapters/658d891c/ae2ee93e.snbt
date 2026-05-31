@@ -11,10 +11,10 @@
 		uid: "dfa528a6",
 		type: "item",
 		items: [{
+			id: "iceandfire:silver_ingot",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:silver_ingot"
+			}
 		}]
 	}],
 	rewards: [{
@@ -31,10 +31,10 @@
 		uid: "2f6de8c7",
 		type: "item",
 		item: {
+			id: "iceandfire:manuscript",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:manuscript"
+			}
 		}
 	}]
 }

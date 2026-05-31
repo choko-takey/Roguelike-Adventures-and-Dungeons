@@ -39,12 +39,12 @@
 					],
 					Color: "red",
 					AttributeModifiers: [{
+						Amount: -0.10000000149011612d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 1718617093408378312L,
 						UUIDLeast: -7198325265715062215L,
-						Amount: -0.10000000149011612d,
-						AttributeName: "generic.movementSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.movementSpeed"
 					}],
 					Name: "quality.heavy.name"
 				}

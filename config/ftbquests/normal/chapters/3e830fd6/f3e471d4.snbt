@@ -12,16 +12,15 @@
 		uid: "bae25f8e",
 		type: "item",
 		items: [{
+			id: "uniquecrops:impregnated_leather",
 			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
 				Parent: {
+					"UC:cropPowerCapacity": 10,
 					"UC:cropPowerCurrent": 0,
-					"UC:ignoresCooldown": 1b,
 					"UC:cropPowerCooldown": 0,
-					"UC:cropPowerCapacity": 10
+					"UC:ignoresCooldown": 1b
 				}
-			},
-			id: "uniquecrops:impregnated_leather"
+			}
 		}],
 		count: 3L,
 		consume_items: false,
@@ -31,11 +30,7 @@
 		uid: "1e88de09",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "uniquecrops:impregnated_leather",
-			Damage: 1s
+			item: "uniquecrops:impregnated_leather 1 1"
 		}],
 		count: 3L,
 		ignore_nbt: 1b

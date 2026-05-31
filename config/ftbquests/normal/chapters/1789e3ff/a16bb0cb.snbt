@@ -12,11 +12,11 @@
 		uid: "52a3ed41",
 		type: "item",
 		items: [{
+			id: "cavern:cave_item",
+			Damage: 2s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cavern:cave_item",
-			Damage: 2s
+			}
 		}]
 	}],
 	rewards: [{

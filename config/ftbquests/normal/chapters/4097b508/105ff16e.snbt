@@ -1,9 +1,6 @@
 {
 	title: "斜向L型结构",
 	icon: {
-		ForgeCaps: {
-			"wizardryutils:summoneditemdata": {}
-		},
 		id: "ancientspellcraft:amnesia_scroll",
 		tag: {
 			"Quark:RuneColor": 15,
@@ -12,6 +9,9 @@
 				id: 34
 			}],
 			"Quark:RuneAttached": 1b
+		},
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
 		}
 	},
 	x: 0.0428571428571658d,
@@ -58,72 +58,72 @@
 		uid: "3644a7d6",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "capsule:capsule",
+			Damage: 5s,
 			tag: {
-				color: 6052956,
 				size: 29,
 				isReward: 1b,
 				oneUse: 1b,
-				structureName: "config/capsule/rewards/full_stone_wall_diagonal",
 				author: "Samara__",
+				color: 6052956,
+				label: "Full Stone Wall Diagonal",
+				structureName: "config/capsule/rewards/full_stone_wall_diagonal",
 				display: {
 					color: 6052956
 				},
-				label: "Full Stone Wall Diagonal",
 				canRotate: 1b
 			},
-			Damage: 5s
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			}
 		}
 	},
 	{
 		uid: "a979c0d6",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "capsule:capsule",
+			Damage: 5s,
 			tag: {
-				color: 6052956,
 				size: 23,
 				isReward: 1b,
 				oneUse: 1b,
-				structureName: "config/capsule/rewards/full_stone_wall_straight_l",
 				author: "Samara__",
+				color: 6052956,
+				label: "Full Stone Wall Straight L",
+				structureName: "config/capsule/rewards/full_stone_wall_straight_l",
 				display: {
 					color: 6052956
 				},
-				label: "Full Stone Wall Straight L",
 				canRotate: 1b
 			},
-			Damage: 5s
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			}
 		}
 	},
 	{
 		uid: "1fb58602",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "capsule:capsule",
+			Damage: 5s,
 			tag: {
-				color: 6052956,
 				size: 33,
 				isReward: 1b,
 				oneUse: 1b,
-				structureName: "config/capsule/rewards/stone_wall_walkthru_diagonal_l",
 				author: "Samara__",
+				color: 6052956,
+				label: "Stone Wall Walkthru Diagonal L",
+				structureName: "config/capsule/rewards/stone_wall_walkthru_diagonal_l",
 				display: {
 					color: 6052956
 				},
-				label: "Stone Wall Walkthru Diagonal L",
 				canRotate: 1b
 			},
-			Damage: 5s
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			}
 		}
 	}]
 }

@@ -1,10 +1,10 @@
 {
 	title: "哀嚎木！",
 	icon: {
+		id: "thebetweenlands:sapling_spirit_tree",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "thebetweenlands:sapling_spirit_tree"
+		}
 	},
 	x: 3.0d,
 	y: 8.5d,
@@ -17,10 +17,10 @@
 		uid: "a45df6c8",
 		type: "kill",
 		icon: {
+			id: "thebetweenlands:sapling_spirit_tree",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:sapling_spirit_tree"
+			}
 		},
 		entity: "thebetweenlands:spirit_tree_face_large",
 		value: 10L
@@ -39,12 +39,12 @@
 		uid: "818cd894",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "ftbquests:lootcrate",
 			tag: {
 				type: "epic_tier_rewards"
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}
 	}]

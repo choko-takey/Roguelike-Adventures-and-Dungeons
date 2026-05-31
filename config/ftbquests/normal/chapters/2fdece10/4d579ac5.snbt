@@ -16,12 +16,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -6892132060280107432L,
 						UUIDLeast: -6728684131825016491L,
-						Amount: 0.5d,
-						AttributeName: "generic.reachDistance",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.reachDistance"
 					}],
 					Name: "quality.long.name"
 				},
@@ -43,20 +43,20 @@
 					],
 					Color: "aqua",
 					AttributeModifiers: [{
+						Amount: 0.20000000298023224d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 6686672805702291180L,
 						UUIDLeast: -8753453626739572442L,
-						Amount: 0.20000000298023224d,
-						AttributeName: "generic.attackSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.attackSpeed"
 					},
 					{
+						Amount: 0.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -6248753862137264096L,
 						UUIDLeast: -7421967890890296206L,
-						Amount: 0.5d,
-						AttributeName: "generic.reachDistance",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.reachDistance"
 					}],
 					Name: "quality.sweeping.name"
 				},
@@ -91,20 +91,20 @@
 					],
 					Color: "yellow",
 					AttributeModifiers: [{
+						Amount: -0.10000000149011612d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 6342358837540635285L,
 						UUIDLeast: -7289808082557826038L,
-						Amount: -0.10000000149011612d,
-						AttributeName: "potioncore.digSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "potioncore.digSpeed"
 					},
 					{
+						Amount: 0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -1245476043197955109L,
 						UUIDLeast: -7727484035933300477L,
-						Amount: 0.05000000074505806d,
-						AttributeName: "generic.attackDamage",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.attackDamage"
 					}],
 					Name: "quality.pokey.name"
 				},
@@ -139,12 +139,12 @@
 					],
 					Color: "red",
 					AttributeModifiers: [{
+						Amount: -1.0d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 3041178475484761819L,
 						UUIDLeast: -8198793386834428812L,
-						Amount: -1.0d,
-						AttributeName: "generic.reachDistance",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.reachDistance"
 					}],
 					Name: "quality.short.name"
 				},

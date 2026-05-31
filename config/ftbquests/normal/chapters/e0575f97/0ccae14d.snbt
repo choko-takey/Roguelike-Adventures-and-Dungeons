@@ -15,16 +15,16 @@
 		uid: "210a7ccf",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "allFlowers",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "任意花朵"
+					Name: "Any allFlowers"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "allFlowers"
 				}
 			}
 		}]
@@ -40,16 +40,16 @@
 		uid: "55fc9548",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "allFlowers",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "任意花朵"
+					Name: "Any allFlowers"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "allFlowers"
 				}
 			}
 		}]

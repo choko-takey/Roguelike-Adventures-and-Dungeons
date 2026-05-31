@@ -21,14 +21,14 @@
 		items: [{
 			id: "cyclicmagic:card_location",
 			tag: {
-				side: 1,
 				ypos: 64,
-				zpos: -1532,
-				xpos: -570,
-				hitx: 0.8775299f,
-				hity: 0.875f,
-				hitz: 0.36473146f,
 				dim: 0,
+				hity: 0.875f,
+				hitx: 0.8775299f,
+				hitz: 0.36473146f,
+				side: 1,
+				xpos: -570,
+				zpos: -1532,
 				sidefacing: 4
 			}
 		}]

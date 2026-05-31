@@ -1,9 +1,10 @@
 {
-	title: "【施工中】",
+	title: "The Druid's Attire",
 	x: -3.0d,
 	y: -4.0d,
+	description: "I thought they couldn't wear metal?",
 	text: [
-		"【这个任务将在未来的版本更新标题和任务描述】"
+		"The ideal armour for spell casters sylvan armour who knew druids had style."
 	],
 	dependencies: [
 		"a80da1d6"
@@ -20,12 +21,12 @@
 					],
 					Color: "aqua",
 					AttributeModifiers: [{
+						Amount: 0.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 2813469170177559923L,
 						UUIDLeast: -5865932975799476712L,
-						Amount: 0.5d,
-						AttributeName: "generic.luck",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.luck"
 					}],
 					Name: "quality.lucky.name"
 				}
@@ -58,12 +59,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 1.0d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -3295694357720054951L,
 						UUIDLeast: -6331149787943042006L,
-						Amount: 1.0d,
-						AttributeName: "potioncore.magicShielding",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "potioncore.magicShielding"
 					}],
 					Name: "quality.arcane.name"
 				}

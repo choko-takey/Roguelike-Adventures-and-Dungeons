@@ -10,10 +10,10 @@
 		uid: "b3e47bbb",
 		type: "kill",
 		icon: {
+			id: "ancientbeasts:vessel",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "ancientbeasts:vessel"
+			}
 		},
 		entity: "ancientbeasts:vessel",
 		value: 15L

@@ -58,12 +58,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 1.0d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 525977183373050934L,
 						UUIDLeast: -5710797817826309910L,
-						Amount: 1.0d,
-						AttributeName: "potioncore.magicShielding",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "potioncore.magicShielding"
 					}],
 					Name: "quality.arcane.name"
 				}

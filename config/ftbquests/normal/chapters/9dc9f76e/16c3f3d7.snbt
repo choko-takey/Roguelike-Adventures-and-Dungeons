@@ -16,16 +16,16 @@
 		uid: "322efd57",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "workbench",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "任意工作台"
+					Name: "Any workbench"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "workbench"
 				}
 			}
 		}]

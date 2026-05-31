@@ -72,20 +72,20 @@
 		type: "item",
 		item: {
 			id: "capsule:capsule",
+			Damage: 5s,
 			tag: {
-				color: 16777215,
 				size: 7,
 				isReward: 1b,
 				oneUse: 1b,
+				color: 16777215,
+				label: "Icaria_Portal",
 				structureName: "config/capsule/rewards/icaria_portal",
 				display: {
 					color: 16777215,
-					Name: "伊卡利亚传送门"
+					Name: "Icaria Portal"
 				},
-				label: "Icaria_Portal",
 				canRotate: 1b
-			},
-			Damage: 5s
+			}
 		}
 	}]
 }

@@ -29,16 +29,16 @@
 		uid: "325f6c43",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "rootsBark",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "任意树皮"
+					Name: "Any rootsBark"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "rootsBark"
 				}
 			}
 		}]
@@ -47,16 +47,16 @@
 		uid: "8bab8126",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "dyeWhite",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "任意白色染料"
+					Name: "Any dyeWhite"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "dyeWhite"
 				}
 			}
 		}]

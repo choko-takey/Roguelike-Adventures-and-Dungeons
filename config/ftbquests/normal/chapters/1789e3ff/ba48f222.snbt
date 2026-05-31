@@ -14,13 +14,12 @@
 		uid: "cdf8ec2b",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				"cavern:magic_book": {}
-			},
 			id: "cavern:magic_book",
 			tag: {
 				Mana: 50
+			},
+			ForgeCaps: {
+				"cavern:magic_book": {}
 			}
 		}],
 		ignore_nbt: 1b
@@ -29,14 +28,11 @@
 		uid: "d3106f91",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "cavern:magic_book",
+			Damage: 4s,
 			tag: {
 				Mana: 30
-			},
-			Damage: 4s
+			}
 		}],
 		ignore_nbt: 1b
 	},
@@ -44,14 +40,11 @@
 		uid: "cabf4bc9",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "cavern:magic_book",
+			Damage: 1s,
 			tag: {
 				Mana: 10
-			},
-			Damage: 1s
+			}
 		}],
 		ignore_nbt: 1b
 	},
@@ -59,14 +52,11 @@
 		uid: "61cee1f3",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "cavern:magic_book",
+			Damage: 3s,
 			tag: {
 				Mana: 50
-			},
-			Damage: 3s
+			}
 		}],
 		ignore_nbt: 1b
 	},
@@ -74,14 +64,11 @@
 		uid: "2c2ac89f",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "cavern:magic_book",
+			Damage: 2s,
 			tag: {
 				Mana: 10
-			},
-			Damage: 2s
+			}
 		}],
 		ignore_nbt: 1b
 	},
@@ -89,14 +76,11 @@
 		uid: "eb2e1dca",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "cavern:magic_book",
+			Damage: 5s,
 			tag: {
 				Mana: 10
-			},
-			Damage: 5s
+			}
 		}],
 		ignore_nbt: 1b
 	},
@@ -104,14 +88,11 @@
 		uid: "c6868710",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "cavern:magic_book",
+			Damage: 10s,
 			tag: {
 				Mana: 3
-			},
-			Damage: 10s
+			}
 		}],
 		ignore_nbt: 1b
 	},
@@ -119,14 +100,11 @@
 		uid: "0b764b4c",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "cavern:magic_book",
+			Damage: 7s,
 			tag: {
 				Mana: 20
-			},
-			Damage: 7s
+			}
 		}],
 		ignore_nbt: 1b
 	},
@@ -134,14 +112,11 @@
 		uid: "d3008796",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "cavern:magic_book",
+			Damage: 6s,
 			tag: {
 				Mana: 30
-			},
-			Damage: 6s
+			}
 		}],
 		ignore_nbt: 1b
 	},
@@ -149,14 +124,11 @@
 		uid: "1d368481",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "cavern:magic_book",
+			Damage: 11s,
 			tag: {
 				Mana: 3
-			},
-			Damage: 11s
+			}
 		}],
 		ignore_nbt: 1b
 	},
@@ -164,14 +136,11 @@
 		uid: "7bdf7d6f",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "cavern:magic_book",
+			Damage: 8s,
 			tag: {
 				Mana: 20
-			},
-			Damage: 8s
+			}
 		}],
 		ignore_nbt: 1b
 	},
@@ -179,14 +148,11 @@
 		uid: "78b6ae03",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "cavern:magic_book",
+			Damage: 9s,
 			tag: {
 				Mana: 3
-			},
-			Damage: 9s
+			}
 		}],
 		ignore_nbt: 1b
 	}],

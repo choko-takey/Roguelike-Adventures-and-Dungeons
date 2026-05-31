@@ -1,10 +1,10 @@
 {
 	title: "水井",
 	icon: {
+		id: "ebwizardry:blank_scroll",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "ebwizardry:blank_scroll"
+		}
 	},
 	x: 7.3214285714285765d,
 	y: 2.017857142857139d,
@@ -30,24 +30,24 @@
 		uid: "6ffeb7ba",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "capsule:capsule",
+			Damage: 5s,
 			tag: {
-				color: 7566195,
 				size: 15,
 				isReward: 1b,
 				oneUse: 1b,
-				structureName: "config/capsule/rewards/well",
 				author: "Samara__",
+				color: 7566195,
+				label: "Well",
+				structureName: "config/capsule/rewards/well",
 				display: {
 					color: 12881152
 				},
-				label: "Well",
 				canRotate: 1b
 			},
-			Damage: 5s
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			}
 		}
 	}]
 }

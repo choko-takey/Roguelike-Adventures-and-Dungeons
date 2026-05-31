@@ -1,10 +1,8 @@
 {
 	title: "丛林木图书馆",
 	icon: {
-		ForgeCaps: {
-			"wizardryutils:summoneditemdata": {}
-		},
 		id: "tfspellpack:twilight_scroll",
+		Damage: 207s,
 		tag: {
 			"Quark:RuneColor": 15,
 			ench: [{
@@ -13,7 +11,9 @@
 			}],
 			"Quark:RuneAttached": 1b
 		},
-		Damage: 207s
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		}
 	},
 	x: -3.657142857142844d,
 	y: 1.9809523809523597d,
@@ -39,24 +39,24 @@
 		uid: "05ff8892",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "capsule:capsule",
+			Damage: 5s,
 			tag: {
-				color: 2225418,
 				size: 15,
 				isReward: 1b,
 				oneUse: 1b,
-				structureName: "config/capsule/rewards/jungle_library",
 				author: "Samara__",
+				color: 2225418,
+				label: "Jungle Library",
+				structureName: "config/capsule/rewards/jungle_library",
 				display: {
 					color: 2225418
 				},
-				label: "Jungle Library",
 				canRotate: 1b
 			},
-			Damage: 5s
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			}
 		}
 	}]
 }

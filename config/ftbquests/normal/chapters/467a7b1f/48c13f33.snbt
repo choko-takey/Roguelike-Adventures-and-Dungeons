@@ -1,6 +1,6 @@
 {
 	title: "蛇形杀手",
-	x: -3.0d,
+	x: -3.5d,
 	y: 2.5d,
 	description: "别被咬到了",
 	text: [

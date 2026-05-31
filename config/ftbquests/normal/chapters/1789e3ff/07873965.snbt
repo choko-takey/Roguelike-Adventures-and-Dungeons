@@ -13,10 +13,10 @@
 		uid: "e7dd60e4",
 		type: "dimension",
 		icon: {
+			id: "rustic:stone_pillar",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "rustic:stone_pillar"
+			}
 		},
 		dim: -59
 	}],

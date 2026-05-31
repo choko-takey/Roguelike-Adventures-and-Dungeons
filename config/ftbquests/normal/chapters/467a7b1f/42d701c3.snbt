@@ -1,7 +1,7 @@
 {
 	title: "仙人掌浓汤",
-	x: 0.0d,
-	y: 2.0d,
+	x: -0.5d,
+	y: 1.0d,
 	description: "可以再加一点盐",
 	text: [
 		"已经吃腻各种肉串和吐司之星了？",
@@ -12,10 +12,10 @@
 		uid: "7beae697",
 		type: "item",
 		items: [{
+			id: "ancientbeasts:cactus_broth",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "ancientbeasts:cactus_broth"
+			}
 		}],
 		count: 16L
 	}],

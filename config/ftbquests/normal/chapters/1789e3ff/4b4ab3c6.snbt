@@ -1,11 +1,6 @@
 {
 	title: "深海恐惧症",
-	icon: {
-		ForgeCaps: {
-			"wizardryutils:summoneditemdata": {}
-		},
-		id: "cavern:cave_item"
-	},
+	icon: "cavern:cave_item",
 	x: -5.5d,
 	y: -0.5d,
 	description: "希望你会游泳",
@@ -23,26 +18,15 @@
 		uid: "7c7cca81",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cavern:cave_item"
+			item: "cavern:cave_item"
 		}]
 	},
 	{
 		uid: "18c0fc9f",
 		type: "item",
-		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:mossy_cobblestone"
-		},
+		icon: "minecraft:mossy_cobblestone",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:mossy_cobblestone"
+			item: "minecraft:mossy_cobblestone"
 		}],
 		count: 8L
 	}],

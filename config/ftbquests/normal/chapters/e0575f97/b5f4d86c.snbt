@@ -17,16 +17,16 @@
 		uid: "51c291c9",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "sugarcane",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "任意甘蔗"
+					Name: "Any sugarcane"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "sugarcane"
 				}
 			}
 		}]
@@ -35,16 +35,16 @@
 		uid: "5173784e",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "tallgrass",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "任意高草丛"
+					Name: "Any tallgrass"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "tallgrass"
 				}
 			}
 		}]
@@ -53,16 +53,16 @@
 		uid: "1bd12a55",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "rootsBark",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "任意树皮"
+					Name: "Any rootsBark"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "rootsBark"
 				}
 			}
 		}]
@@ -71,16 +71,16 @@
 		uid: "5350f371",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "rootsBark",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "任意树皮"
+					Name: "Any rootsBark"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "rootsBark"
 				}
 			}
 		}]

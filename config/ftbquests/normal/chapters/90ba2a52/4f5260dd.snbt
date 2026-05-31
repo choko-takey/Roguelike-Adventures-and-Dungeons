@@ -11,11 +11,11 @@
 		uid: "8be31885",
 		type: "kill",
 		icon: {
+			id: "thebetweenlands:items_misc",
+			Damage: 21s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "thebetweenlands:items_misc",
-			Damage: 21s
+			}
 		},
 		entity: "thebetweenlands:angler",
 		value: 50L

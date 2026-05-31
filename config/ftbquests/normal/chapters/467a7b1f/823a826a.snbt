@@ -1,6 +1,6 @@
 {
 	title: "冰霜霍斯",
-	x: 1.0d,
+	x: 0.5d,
 	y: 2.5d,
 	description: "可爱又冷酷",
 	text: [
@@ -15,14 +15,14 @@
 		type: "observation",
 		title: "观察一只极地灵狐",
 		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "minecraft:spawn_egg",
 			tag: {
 				EntityTag: {
 					id: "ancientbeasts:frostash_fox"
 				}
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		},
 		match_type: "entity_id",

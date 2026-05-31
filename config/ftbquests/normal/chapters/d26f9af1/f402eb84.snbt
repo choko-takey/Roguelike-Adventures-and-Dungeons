@@ -1,14 +1,14 @@
 {
-	title: "红石革命",
+	title: "The Redstone Revolution",
 	x: 2.0d,
 	y: -12.5d,
-	description: "是时候让空气变糟了！",
+	description: "Time to make the air bad!",
 	text: [
-		"此煤将随着你的玩家GP的增加而增加效率。",
+		"This coal will gain efficacy with increased GP in your player grid.",
 		"",
-		"在你的网络中大约需要600GP才能达到700%",
+		"Approx 600 GP in your player grid is required to hit 700%",
 		"",
-		"GP不会消耗。"
+		"GP is not consumed."
 	],
 	dependencies: [
 		"d27134fe"
@@ -16,8 +16,20 @@
 	tasks: [{
 		uid: "f5bcef93",
 		type: "item",
+		title: "Red Coal",
 		items: [{
-			item: "extrautils2:ingredients 1 4"
+			id: "itemfilters:filter",
+			tag: {
+				display: {
+					Name: "Any coalPowered"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "coalPowered"
+				}
+			}
 		}]
 	}],
 	rewards: [{

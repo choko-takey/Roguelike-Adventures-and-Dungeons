@@ -1,9 +1,12 @@
 {
-	title: "【施工中】",
+	title: "Lets Get Wild",
 	x: 4.0d,
 	y: 0.0d,
+	description: "No grass block will be safe",
 	text: [
-		"【这个任务将在未来的版本更新标题和任务描述】"
+		"Wildroot is one of the core herbs used in multiple aspects of Roots.",
+		"",
+		"The easiest way of aquiring it is just breaking grass."
 	],
 	dependencies: [
 		"90edb6b4"

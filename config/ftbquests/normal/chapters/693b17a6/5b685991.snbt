@@ -1,10 +1,10 @@
 {
 	title: "职业安全与健康管理局不会拯救他们",
 	icon: {
+		id: "harvestcraft:bananaitem",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "harvestcraft:bananaitem"
+		}
 	},
 	x: 4.5d,
 	y: 7.5d,
@@ -16,10 +16,10 @@
 		uid: "42d86522",
 		type: "kill",
 		icon: {
+			id: "harvestcraft:bananaitem",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "harvestcraft:bananaitem"
+			}
 		},
 		entity: "vampirism:vampire_minion_s",
 		value: 500L

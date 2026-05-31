@@ -1,9 +1,10 @@
 {
-	title: "【施工中】",
+	title: "A Fanny Pack?",
 	x: 2.5d,
 	y: 1.0d,
+	description: "I've heard they're very stylish",
 	text: [
-		"【这个任务将在未来的版本更新标题和任务描述】"
+		"An upgraded version to the herb bag it can store regular items as well as herbs."
 	],
 	dependencies: [
 		"0784f352"

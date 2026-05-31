@@ -15,32 +15,21 @@
 		uid: "020ab970",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:emerald"
+			item: "minecraft:emerald"
 		}]
 	},
 	{
 		uid: "c0b07bf5",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:mossy_cobblestone"
+			item: "minecraft:mossy_cobblestone"
 		}],
 		count: 8L
 	}],
 	rewards: [{
 		uid: "11a2b2c2",
 		type: "item",
-		item: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:diamond_pickaxe"
-		}
+		item: "minecraft:diamond_pickaxe"
 	},
 	{
 		uid: "f62a1850",

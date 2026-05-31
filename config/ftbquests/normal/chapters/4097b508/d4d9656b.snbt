@@ -1,10 +1,10 @@
 {
 	title: "&b云杉木巫师塔",
 	icon: {
+		id: "ebwizardry:blank_scroll",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "ebwizardry:blank_scroll"
+		}
 	},
 	x: -9.454761904761881d,
 	y: 0.43333333333333d,
@@ -30,24 +30,24 @@
 		uid: "ff407531",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "capsule:capsule",
+			Damage: 5s,
 			tag: {
-				color: 48368,
 				size: 45,
 				isReward: 1b,
 				oneUse: 1b,
-				structureName: "config/capsule/rewards/spruce_wizard_tower",
 				author: "Samara__",
+				color: 48368,
+				label: "Spruce Wizard Tower",
+				structureName: "config/capsule/rewards/spruce_wizard_tower",
 				display: {
 					color: 48368
 				},
-				label: "Spruce Wizard Tower",
 				canRotate: 1b
 			},
-			Damage: 5s
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			}
 		}
 	}]
 }

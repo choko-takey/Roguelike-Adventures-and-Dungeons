@@ -1,10 +1,8 @@
 {
 	title: "&a&l苍翠大师雕像",
 	icon: {
-		ForgeCaps: {
-			"wizardryutils:summoneditemdata": {}
-		},
 		id: "tfspellpack:twilight_scroll",
+		Damage: 207s,
 		tag: {
 			"Quark:RuneColor": 5,
 			ench: [{
@@ -13,7 +11,9 @@
 			}],
 			"Quark:RuneAttached": 1b
 		},
-		Damage: 207s
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		}
 	},
 	x: -3.654761904761891d,
 	y: -1.0714285714285694d,
@@ -43,24 +43,24 @@
 		uid: "290eea00",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "capsule:capsule",
+			Damage: 5s,
 			tag: {
-				color: 2225418,
 				size: 49,
 				isReward: 1b,
 				oneUse: 1b,
-				structureName: "config/capsule/rewards/verdant_master_statue",
 				author: "Samara__",
+				color: 2225418,
+				label: "Verdant Master Statue",
+				structureName: "config/capsule/rewards/verdant_master_statue",
 				display: {
 					color: 2225418
 				},
-				label: "Verdant Master Statue",
 				canRotate: 1b
 			},
-			Damage: 5s
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			}
 		}
 	}]
 }

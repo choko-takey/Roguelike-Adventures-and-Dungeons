@@ -16,12 +16,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.10000000149011612d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -394149228335315075L,
 						UUIDLeast: -7722237945378773862L,
-						Amount: 0.10000000149011612d,
-						AttributeName: "generic.attackDamage",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.attackDamage"
 					}],
 					Name: "quality.sharp.name"
 				}
@@ -61,12 +61,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 555838939626030650L,
 						UUIDLeast: -8887545520898436737L,
-						Amount: 0.05000000074505806d,
-						AttributeName: "potioncore.projectileDamage",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "potioncore.projectileDamage"
 					}],
 					Name: "quality.light.name"
 				}

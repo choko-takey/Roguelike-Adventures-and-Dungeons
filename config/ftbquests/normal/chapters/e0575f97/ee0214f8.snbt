@@ -1,9 +1,10 @@
 {
-	title: "【施工中】",
+	title: "More Bark than Bite?",
 	x: 7.0d,
 	y: -1.5d,
+	description: "I wonder what wood sounds like?",
 	text: [
-		"【这个任务将在未来的版本更新标题和任务描述】"
+		"Bark is a key ingrident if you want to be a druid so start stabbing them trees!"
 	],
 	dependencies: [
 		"21229234"

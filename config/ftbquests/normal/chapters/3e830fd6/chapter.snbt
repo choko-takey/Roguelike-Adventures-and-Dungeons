@@ -1,12 +1,6 @@
 {
 	title: "最独特的作物",
-	icon: {
-		ForgeCaps: {
-			"wizardryutils:summoneditemdata": {}
-		},
-		id: "uniquecrops:generic",
-		Damage: 11s
-	},
+	icon: "uniquecrops:generic 1 11",
 	always_invisible: false,
 	group: 0,
 	default_quest_shape: ""

@@ -25,16 +25,16 @@
 		uid: "161465f8",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "ingotSilver",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "任意银锭"
+					Name: "Any ingotSilver"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "ingotSilver"
 				}
 			}
 		}]
@@ -43,16 +43,16 @@
 		uid: "5876963f",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "dyeYellow",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "任意黄色染料"
+					Name: "Any dyeYellow"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "dyeYellow"
 				}
 			}
 		}]
@@ -61,16 +61,16 @@
 		uid: "adc3ce6a",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "torch",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "任意火把"
+					Name: "Any torch"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "torch"
 				}
 			}
 		}]

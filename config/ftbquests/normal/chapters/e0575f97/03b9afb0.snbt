@@ -52,12 +52,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -406337016774832627L,
 						UUIDLeast: -8224978527864053100L,
-						Amount: 0.5d,
-						AttributeName: "generic.reachDistance",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.reachDistance"
 					}],
 					Name: "quality.long.name"
 				}
@@ -70,16 +70,16 @@
 		uid: "9462c19f",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "tallgrass",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "任意高草丛"
+					Name: "Any tallgrass"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "tallgrass"
 				}
 			}
 		}]

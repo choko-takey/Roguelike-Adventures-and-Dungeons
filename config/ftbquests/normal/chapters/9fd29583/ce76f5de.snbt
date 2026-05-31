@@ -10,18 +10,6 @@
 		"d01b8d01"
 	],
 	tasks: [{
-		uid: "b040c9eb",
-		type: "item",
-		items: [{
-			id: "erebus:rhino_exoskeleton_helmet",
-			tag: {
-				Quality: {}
-			}
-		}],
-		ignore_damage: true,
-		ignore_nbt: 1b
-	},
-	{
 		uid: "eed92763",
 		type: "item",
 		items: [{
@@ -57,12 +45,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 1.0d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 7181057705890039957L,
 						UUIDLeast: -9109649854854141616L,
-						Amount: 1.0d,
-						AttributeName: "generic.armorToughness",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.armorToughness"
 					}],
 					Name: "quality.tough.name"
 				}
@@ -83,20 +71,20 @@
 					],
 					Color: "yellow",
 					AttributeModifiers: [{
+						Amount: -0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -6746029507613865103L,
 						UUIDLeast: -4778672461433858180L,
-						Amount: -0.05000000074505806d,
-						AttributeName: "generic.movementSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.movementSpeed"
 					},
 					{
+						Amount: 0.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 59239629895191744L,
 						UUIDLeast: -7112784611248405561L,
-						Amount: 0.5d,
-						AttributeName: "generic.armor",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.armor"
 					}],
 					Name: "quality.thick.name"
 				}

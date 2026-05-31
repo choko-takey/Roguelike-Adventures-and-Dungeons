@@ -12,10 +12,10 @@
 		uid: "d0d76d69",
 		type: "kill",
 		icon: {
+			id: "ancientbeasts:kunai",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "ancientbeasts:kunai"
+			}
 		},
 		entity: "ancientbeasts:bonepile",
 		value: 200L

@@ -1,11 +1,11 @@
 {
 	title: "入门级吸血鬼猎人",
 	icon: {
+		id: "vampirism:hunter_intel",
+		Damage: 2s,
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "vampirism:hunter_intel",
-		Damage: 2s
+		}
 	},
 	x: -3.0d,
 	y: 2.0d,
@@ -23,10 +23,10 @@
 		type: "item",
 		title: "猎人情报5",
 		items: [{
+			id: "vampirism:hunter_intel",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "vampirism:hunter_intel"
+			}
 		}]
 	},
 	{
@@ -34,11 +34,11 @@
 		type: "item",
 		title: "猎人情报6",
 		items: [{
+			id: "vampirism:hunter_intel",
+			Damage: 1s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "vampirism:hunter_intel",
-			Damage: 1s
+			}
 		}]
 	},
 	{
@@ -46,11 +46,11 @@
 		type: "item",
 		title: "猎人情报7",
 		items: [{
+			id: "vampirism:hunter_intel",
+			Damage: 2s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "vampirism:hunter_intel",
-			Damage: 2s
+			}
 		}]
 	}],
 	rewards: [{

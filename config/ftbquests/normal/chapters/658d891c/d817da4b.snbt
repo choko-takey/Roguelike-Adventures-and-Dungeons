@@ -16,10 +16,10 @@
 		uid: "07e2cdd4",
 		type: "kill",
 		icon: {
+			id: "iceandfire:dragon_skull",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:dragon_skull"
+			}
 		},
 		entity: "iceandfire:firedragon",
 		value: 1L
@@ -28,11 +28,11 @@
 		uid: "17772add",
 		type: "kill",
 		icon: {
+			id: "iceandfire:dragon_skull",
+			Damage: 1s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:dragon_skull",
-			Damage: 1s
+			}
 		},
 		entity: "iceandfire:icedragon",
 		value: 1L

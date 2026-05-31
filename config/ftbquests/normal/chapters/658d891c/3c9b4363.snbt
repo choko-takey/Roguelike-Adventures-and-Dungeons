@@ -1,10 +1,10 @@
 {
 	title: "闪银骑士",
 	icon: {
+		id: "iceandfire:armor_silver_metal_helmet",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "iceandfire:armor_silver_metal_helmet"
+		}
 	},
 	x: -5.5d,
 	y: -4.0d,
@@ -19,10 +19,10 @@
 		uid: "90894aef",
 		type: "item",
 		items: [{
+			id: "iceandfire:armor_silver_metal_helmet",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:armor_silver_metal_helmet"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -31,10 +31,10 @@
 		uid: "95cd0f9a",
 		type: "item",
 		items: [{
+			id: "iceandfire:armor_silver_metal_chestplate",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:armor_silver_metal_chestplate"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -43,10 +43,10 @@
 		uid: "c3ac6d63",
 		type: "item",
 		items: [{
+			id: "iceandfire:armor_silver_metal_leggings",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:armor_silver_metal_leggings"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -55,10 +55,10 @@
 		uid: "5218e78b",
 		type: "item",
 		items: [{
+			id: "iceandfire:armor_silver_metal_boots",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "iceandfire:armor_silver_metal_boots"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
