@@ -1,10 +1,8 @@
 {
 	title: "&a丛林木巫师塔",
 	icon: {
-		ForgeCaps: {
-			"wizardryutils:summoneditemdata": {}
-		},
 		id: "tfspellpack:twilight_scroll",
+		Damage: 207s,
 		tag: {
 			"Quark:RuneColor": 15,
 			ench: [{
@@ -13,7 +11,9 @@
 			}],
 			"Quark:RuneAttached": 1b
 		},
-		Damage: 207s
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
+		}
 	},
 	x: -3.645238095238085d,
 	y: 0.43333333333333d,
@@ -39,24 +39,24 @@
 		uid: "a09929ba",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "capsule:capsule",
+			Damage: 5s,
 			tag: {
-				color: 2225418,
 				size: 51,
 				isReward: 1b,
 				oneUse: 1b,
-				structureName: "config/capsule/rewards/jungle_wizard_tower",
 				author: "Samara__",
+				color: 2225418,
+				label: "Jungle Wizard Tower",
+				structureName: "config/capsule/rewards/jungle_wizard_tower",
 				display: {
 					color: 2225418
 				},
-				label: "Jungle Wizard Tower",
 				canRotate: 1b
 			},
-			Damage: 5s
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			}
 		}
 	}]
 }

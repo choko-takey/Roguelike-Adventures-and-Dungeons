@@ -16,14 +16,14 @@
 		type: "observation",
 		title: "观察一只天跃兔",
 		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "minecraft:spawn_egg",
 			tag: {
 				EntityTag: {
 					id: "aether_legacy:aerbunny"
 				}
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		},
 		match_type: "entity_id",
@@ -34,10 +34,10 @@
 		uid: "7fefe3cd",
 		type: "item",
 		item: {
+			id: "extrautils2:goldenlasso",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "extrautils2:goldenlasso"
+			}
 		}
 	}]
 }

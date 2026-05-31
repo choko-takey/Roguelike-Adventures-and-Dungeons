@@ -24,28 +24,28 @@
 					],
 					Color: "dark_red",
 					AttributeModifiers: [{
+						Amount: -1.0d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -4564235555476781065L,
 						UUIDLeast: -7059342568700877174L,
-						Amount: -1.0d,
-						AttributeName: "generic.armorToughness",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.armorToughness"
 					},
 					{
+						Amount: -1.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 8396696667979664945L,
 						UUIDLeast: -5861553791314805196L,
-						Amount: -1.5d,
-						AttributeName: "generic.armor",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.armor"
 					},
 					{
+						Amount: -1.0d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -4901564107306221445L,
 						UUIDLeast: -6143506322211104955L,
-						Amount: -1.0d,
-						AttributeName: "potioncore.magicShielding",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "potioncore.magicShielding"
 					}],
 					Name: "quality.crumbling.name"
 				}

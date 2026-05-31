@@ -1,9 +1,6 @@
 {
 	title: "血腥农场",
 	icon: {
-		ForgeCaps: {
-			"wizardryutils:summoneditemdata": {}
-		},
 		id: "ancientspellcraft:duplication_scroll",
 		tag: {
 			"Quark:RuneColor": 15,
@@ -12,6 +9,9 @@
 				id: 34
 			}],
 			"Quark:RuneAttached": 1b
+		},
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
 		}
 	},
 	x: -1.2857142857142918d,
@@ -38,24 +38,24 @@
 		uid: "fc0c706a",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "capsule:capsule",
+			Damage: 5s,
 			tag: {
-				color: 9717760,
 				size: 21,
 				isReward: 1b,
 				oneUse: 1b,
-				structureName: "config/capsule/rewards/crimson_farmland",
 				author: "Samara__",
+				color: 9717760,
+				label: "Crimson Farmland",
+				structureName: "config/capsule/rewards/crimson_farmland",
 				display: {
 					color: 9699328
 				},
-				label: "Crimson Farmland",
 				canRotate: 1b
 			},
-			Damage: 5s
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			}
 		}
 	}]
 }

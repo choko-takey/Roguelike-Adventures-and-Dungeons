@@ -15,16 +15,16 @@
 		uid: "04bfaa35",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "sugarcane",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "任意甘蔗"
+					Name: "Any sugarcane"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "sugarcane"
 				}
 			}
 		}]
@@ -33,16 +33,16 @@
 		uid: "22122e37",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "vine",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "任意藤蔓"
+					Name: "Any vine"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "vine"
 				}
 			}
 		}]

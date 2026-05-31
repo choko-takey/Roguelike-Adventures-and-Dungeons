@@ -24,12 +24,12 @@
 					],
 					Color: "dark_gray",
 					AttributeModifiers: [{
+						Amount: -1.0d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 7806565410706769249L,
 						UUIDLeast: -5543676842991928885L,
-						Amount: -1.0d,
-						AttributeName: "generic.armor",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.armor"
 					}],
 					Name: "quality.dented.name"
 				}
@@ -77,12 +77,12 @@
 					],
 					Color: "dark_gray",
 					AttributeModifiers: [{
+						Amount: -1.0d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 4058505488978822328L,
 						UUIDLeast: -6754111632065248177L,
-						Amount: -1.0d,
-						AttributeName: "generic.armor",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.armor"
 					}],
 					Name: "quality.dented.name"
 				}

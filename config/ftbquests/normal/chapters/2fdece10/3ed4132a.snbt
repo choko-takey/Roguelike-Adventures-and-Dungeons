@@ -24,13 +24,13 @@
 		items: [{
 			id: "spartanweaponryarcana:throwing_axe_dawnstone",
 			tag: {
+				enchChecked: 1b,
+				Original: 1b,
 				didUse: 0b,
-				AmmoUsed: 0,
-				poweredOn: 0b,
 				UUIDMost: -9164053473968830854L,
 				UUIDLeast: -6296780430375567169L,
-				enchChecked: 1b,
-				Original: 1b
+				poweredOn: 0b,
+				AmmoUsed: 0
 			}
 		}],
 		ignore_damage: true,
@@ -42,13 +42,13 @@
 		items: [{
 			id: "spartanweaponryarcana:throwing_knife_dawnstone",
 			tag: {
+				enchChecked: 1b,
+				Original: 1b,
 				didUse: 0b,
-				AmmoUsed: 0,
-				poweredOn: 0b,
 				UUIDMost: 4046879882080963486L,
 				UUIDLeast: -9112537978959435161L,
-				enchChecked: 1b,
-				Original: 1b
+				poweredOn: 0b,
+				AmmoUsed: 0
 			}
 		}],
 		ignore_damage: true,
@@ -85,13 +85,13 @@
 		items: [{
 			id: "spartanweaponryarcana:javelin_dawnstone",
 			tag: {
+				enchChecked: 1b,
+				Original: 1b,
 				didUse: 0b,
-				AmmoUsed: 0,
-				poweredOn: 0b,
 				UUIDMost: -6101896205999062135L,
 				UUIDLeast: -6192930099841750689L,
-				enchChecked: 1b,
-				Original: 1b
+				poweredOn: 0b,
+				AmmoUsed: 0
 			}
 		}],
 		ignore_damage: true,
@@ -103,13 +103,13 @@
 		items: [{
 			id: "spartanweaponryarcana:boomerang_dawnstone",
 			tag: {
+				enchChecked: 1b,
+				Original: 1b,
 				didUse: 0b,
-				AmmoUsed: 0,
-				poweredOn: 0b,
 				UUIDMost: -5887046101490645775L,
 				UUIDLeast: -5218722457597022647L,
-				enchChecked: 1b,
-				Original: 1b
+				poweredOn: 0b,
+				AmmoUsed: 0
 			}
 		}],
 		ignore_damage: true,

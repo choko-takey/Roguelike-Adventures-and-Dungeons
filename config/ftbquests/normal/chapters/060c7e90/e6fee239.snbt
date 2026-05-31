@@ -2,7 +2,7 @@
 	title: "尘封的宝藏",
 	x: -5.5d,
 	y: 9.5d,
-description: "让我进去让我进去让我进去！！！",
+	description: "让我进去让我进去让我进去！！！",
 	text: [
 		"你在探索时偶尔能发现一些神秘的宝库。",
 		"",
@@ -16,10 +16,10 @@ description: "让我进去让我进去让我进去！！！",
 		type: "observation",
 		title: "分析被封印的宝库",
 		icon: {
+			id: "ancientspellcraft:sealed_stone",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "ancientspellcraft:sealed_stone"
+			}
 		},
 		match_type: "block_id",
 		match: "ancientspellcraft:sealed_stone",
@@ -29,10 +29,10 @@ description: "让我进去让我进去让我进去！！！",
 		uid: "b4221322",
 		type: "item",
 		item: {
+			id: "ancientspellcraft:unsealing_scroll",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "ancientspellcraft:unsealing_scroll"
+			}
 		}
 	}]
 }

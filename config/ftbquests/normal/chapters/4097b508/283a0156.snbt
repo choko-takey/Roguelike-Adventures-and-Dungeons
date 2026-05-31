@@ -1,10 +1,10 @@
 {
 	title: "白桦木图书馆",
 	icon: {
+		id: "ancientspellcraft:empty_theory_scroll",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "ancientspellcraft:empty_theory_scroll"
+		}
 	},
 	x: -6.538095238095224d,
 	y: 1.974999999999973d,
@@ -30,24 +30,24 @@
 		uid: "b6a9d9ce",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "capsule:capsule",
+			Damage: 5s,
 			tag: {
-				color: 16777215,
 				size: 15,
 				isReward: 1b,
 				oneUse: 1b,
-				structureName: "config/capsule/rewards/birch_library",
 				author: "Samara__",
+				color: 16777215,
+				label: "Birch Library",
+				structureName: "config/capsule/rewards/birch_library",
 				display: {
 					color: 16777215
 				},
-				label: "Birch Library",
 				canRotate: 1b
 			},
-			Damage: 5s
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			}
 		}
 	}]
 }

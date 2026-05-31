@@ -13,14 +13,11 @@
 		uid: "111b0c3f",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "cavern:mirage_book",
+			Damage: 6s,
 			tag: {
 				Ticket: 10
-			},
-			Damage: 6s
+			}
 		}],
 		ignore_nbt: 1b
 	}]

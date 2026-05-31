@@ -14,11 +14,7 @@
 		uid: "0ccd6407",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "uniquecrops:generic",
-			Damage: 7s
+			item: "uniquecrops:generic 1 7"
 		}],
 		count: 16L
 	},
@@ -26,11 +22,7 @@
 		uid: "3aafdf39",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "uniquecrops:generic",
-			Damage: 8s
+			item: "uniquecrops:generic 1 8"
 		}],
 		count: 4L
 	}],

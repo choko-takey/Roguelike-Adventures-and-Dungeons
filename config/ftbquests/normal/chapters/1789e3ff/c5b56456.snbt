@@ -15,10 +15,10 @@
 		type: "observation",
 		title: "观察幻象书架",
 		icon: {
+			id: "cavern:mirage_bookshelf",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cavern:mirage_bookshelf"
+			}
 		},
 		match_type: "block_id",
 		match: "cavern:mirage_bookshelf",

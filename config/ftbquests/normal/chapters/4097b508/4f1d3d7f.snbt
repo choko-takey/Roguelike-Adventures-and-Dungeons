@@ -1,9 +1,6 @@
 {
 	title: "直线转斜线结构",
 	icon: {
-		ForgeCaps: {
-			"wizardryutils:summoneditemdata": {}
-		},
 		id: "ancientspellcraft:amnesia_scroll",
 		tag: {
 			"Quark:RuneColor": 15,
@@ -12,6 +9,9 @@
 				id: 34
 			}],
 			"Quark:RuneAttached": 1b
+		},
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
 		}
 	},
 	x: 4.401360544217681d,
@@ -58,72 +58,72 @@
 		uid: "4b4ef397",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "capsule:capsule",
+			Damage: 5s,
 			tag: {
-				color: 6052956,
 				size: 57,
 				isReward: 1b,
 				oneUse: 1b,
-				structureName: "config/capsule/rewards/full_stone_wall_obtuse_angle",
 				author: "Samara__",
+				color: 6052956,
+				label: "Full Stone Wall Obtuse Angle",
+				structureName: "config/capsule/rewards/full_stone_wall_obtuse_angle",
 				display: {
 					color: 6052956
 				},
-				label: "Full Stone Wall Obtuse Angle",
 				canRotate: 1b
 			},
-			Damage: 5s
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			}
 		}
 	},
 	{
 		uid: "96621832",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "capsule:capsule",
+			Damage: 5s,
 			tag: {
-				color: 6052956,
 				size: 57,
 				isReward: 1b,
 				oneUse: 1b,
-				structureName: "config/capsule/rewards/stone_wall_obtuse_angle",
 				author: "Samara__",
+				color: 6052956,
+				label: "Stone Wall Obtuse Angle",
+				structureName: "config/capsule/rewards/stone_wall_obtuse_angle",
 				display: {
 					color: 6052956
 				},
-				label: "Stone Wall Obtuse Angle",
 				canRotate: 1b
 			},
-			Damage: 5s
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			}
 		}
 	},
 	{
 		uid: "e42701fb",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "capsule:capsule",
+			Damage: 5s,
 			tag: {
-				color: 6052956,
 				size: 61,
 				isReward: 1b,
 				oneUse: 1b,
-				structureName: "config/capsule/rewards/stone_wall_walkthru_obtuse_angle",
 				author: "Samara__",
+				color: 6052956,
+				label: "Stone Wall Walkthru Obtuse Angle",
+				structureName: "config/capsule/rewards/stone_wall_walkthru_obtuse_angle",
 				display: {
 					color: 6052956
 				},
-				label: "Stone Wall Walkthru Obtuse Angle",
 				canRotate: 1b
 			},
-			Damage: 5s
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			}
 		}
 	}]
 }

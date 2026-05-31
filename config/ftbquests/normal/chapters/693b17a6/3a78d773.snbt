@@ -12,10 +12,10 @@
 		uid: "c2b743ba",
 		type: "kill",
 		icon: {
+			id: "ancientbeasts:dark_goop",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "ancientbeasts:dark_goop"
+			}
 		},
 		entity: "ancientbeasts:nekros",
 		value: 200L

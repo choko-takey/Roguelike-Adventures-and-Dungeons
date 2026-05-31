@@ -19,12 +19,12 @@
 		type: "item",
 		items: [{
 			id: "openblocks:imaginary",
+			Damage: 1s,
 			tag: {
 				Uses: 10.0f,
 				Color: 1973019,
 				Mode: 0
-			},
-			Damage: 1s
+			}
 		}],
 		ignore_nbt: 1b
 	},

@@ -16,10 +16,10 @@
 		uid: "2bf75a51",
 		type: "item",
 		items: [{
+			id: "thebetweenlands:living_weedwood_shield",
 			ForgeCaps: {
 				"thebetweenlands:living_weedwood_shield": {}
-			},
-			id: "thebetweenlands:living_weedwood_shield"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -16,11 +16,11 @@
 		type: "advancement",
 		title: "挖掘一些奇异矿",
 		icon: {
+			id: "cavern:cave_block",
+			Damage: 4s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cavern:cave_block",
-			Damage: 4s
+			}
 		},
 		advancement: "cavern:mine_randomite",
 		criterion: ""

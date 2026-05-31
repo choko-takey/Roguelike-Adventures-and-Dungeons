@@ -12,12 +12,7 @@
 		uid: "9ef24124",
 		type: "interaction",
 		title: "与猎人研究台交互",
-		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "vampirism:hunter_table"
-		},
+		icon: "vampirism:hunter_table",
 		match_type: "block_id",
 		match: "vampirism:hunter_table"
 	}],

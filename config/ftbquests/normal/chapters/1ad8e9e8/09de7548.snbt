@@ -70,10 +70,10 @@
 		type: "item",
 		items: [{
 			id: "thebetweenlands:bl_bucket",
+			Damage: 1s,
 			tag: {
 				Fluid: {}
-			},
-			Damage: 1s
+			}
 		}]
 	}],
 	rewards: [{

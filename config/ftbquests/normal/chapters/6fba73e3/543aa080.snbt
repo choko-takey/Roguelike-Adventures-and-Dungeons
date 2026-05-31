@@ -10,16 +10,16 @@
 		uid: "f84493c5",
 		type: "item",
 		items: [{
+			id: "xreliquary:ender_staff",
 			ForgeCaps: {
 				Parent: {
+					Items: [],
 					Size: 2,
 					TotalAmounts: [
 						0
-					],
-					Items: []
+					]
 				}
-			},
-			id: "xreliquary:ender_staff"
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b

@@ -1,9 +1,10 @@
 {
-	title: "【施工中】",
+	title: "I'm Gonna Tan Your Hide!",
 	x: -3.0d,
 	y: -3.0d,
+	description: "Better start behaving",
 	text: [
-		"【这个任务将在未来的版本更新标题和任务描述】"
+		"Who knew cows were magicial, now you don't have to trade it for beans."
 	],
 	dependencies: [
 		"9b0d518f"

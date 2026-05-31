@@ -24,16 +24,16 @@
 		uid: "8ba0f42f",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "rootsBark",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "任意树皮"
+					Name: "Any rootsBark"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "rootsBark"
 				}
 			}
 		}]
@@ -42,16 +42,16 @@
 		uid: "7350491f",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "treeSapling",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "任意树苗"
+					Name: "Any treeSapling"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "treeSapling"
 				}
 			}
 		}]
@@ -60,16 +60,16 @@
 		uid: "bf49fabc",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "treeSapling",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "任意树苗"
+					Name: "Any treeSapling"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "treeSapling"
 				}
 			}
 		}]

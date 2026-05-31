@@ -45,12 +45,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 1122948347996291374L,
 						UUIDLeast: -4964031756561064760L,
-						Amount: 0.5d,
-						AttributeName: "potioncore.jumpHeight",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "potioncore.jumpHeight"
 					}],
 					Name: "quality.springy.name"
 				}

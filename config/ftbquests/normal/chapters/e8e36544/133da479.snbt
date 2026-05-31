@@ -24,12 +24,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.029999999329447746d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 4396233805166757809L,
 						UUIDLeast: -6816561267852534053L,
-						Amount: 0.029999999329447746d,
-						AttributeName: "generic.attackSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.attackSpeed"
 					}],
 					Name: "quality.flailing.name"
 				},

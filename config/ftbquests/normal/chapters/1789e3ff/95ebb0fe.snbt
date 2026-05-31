@@ -15,10 +15,7 @@
 		uid: "d939c96e",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cavern:cave_item"
+			item: "cavern:cave_item"
 		}],
 		count: 64L
 	},
@@ -26,11 +23,7 @@
 		uid: "fa2fdbc0",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cavern:cave_item",
-			Damage: 1s
+			item: "cavern:cave_item 1 1"
 		}],
 		count: 64L
 	}],

@@ -22,10 +22,7 @@
 		uid: "537c2fd3",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "uniquecrops:seedartisia"
+			item: "uniquecrops:seedartisia"
 		}],
 		count: 16L
 	}],

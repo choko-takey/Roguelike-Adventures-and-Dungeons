@@ -22,12 +22,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 8163499026118561063L,
 						UUIDLeast: -6384683102575502854L,
-						Amount: 0.5d,
-						AttributeName: "generic.armor",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.armor"
 					}],
 					Name: "quality.protective.name"
 				}
@@ -60,12 +60,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -4678884786536165692L,
 						UUIDLeast: -4668900722346501622L,
-						Amount: 0.5d,
-						AttributeName: "potioncore.jumpHeight",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "potioncore.jumpHeight"
 					}],
 					Name: "quality.springy.name"
 				}

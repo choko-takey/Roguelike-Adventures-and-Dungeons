@@ -14,16 +14,16 @@
 		uid: "d0c1d501",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "doorWood",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "任意木门"
+					Name: "Any doorWood"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "doorWood"
 				}
 			}
 		}]
@@ -32,16 +32,16 @@
 		uid: "6a96900d",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "treeSapling",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "任意树苗"
+					Name: "Any treeSapling"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "treeSapling"
 				}
 			}
 		}]

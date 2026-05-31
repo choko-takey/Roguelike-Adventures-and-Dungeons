@@ -39,16 +39,16 @@
 		uid: "47d29af4",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "sugarcane",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "任意甘蔗"
+					Name: "Any sugarcane"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "sugarcane"
 				}
 			}
 		}]

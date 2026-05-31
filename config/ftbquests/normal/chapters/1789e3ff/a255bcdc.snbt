@@ -14,13 +14,7 @@
 	tasks: [{
 		uid: "051df7d7",
 		type: "dimension",
-		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "extrautils2:decorativesolid",
-			Damage: 1s
-		},
+		icon: "extrautils2:decorativesolid 1 1",
 		dim: -54
 	}],
 	rewards: [{

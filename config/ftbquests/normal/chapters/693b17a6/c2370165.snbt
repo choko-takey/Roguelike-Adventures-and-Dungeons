@@ -1,10 +1,10 @@
 {
 	title: "错误的路线",
 	icon: {
+		id: "vampirism:human_heart",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "vampirism:human_heart"
+		}
 	},
 	x: 3.5d,
 	y: 5.5d,

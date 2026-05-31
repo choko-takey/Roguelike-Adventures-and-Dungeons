@@ -23,16 +23,16 @@
 		uid: "cb302a46",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "eye",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "任意眼睛"
+					Name: "Any eye"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "eye"
 				}
 			}
 		}]

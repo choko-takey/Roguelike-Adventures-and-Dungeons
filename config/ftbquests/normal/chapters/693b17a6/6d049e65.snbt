@@ -10,10 +10,10 @@
 		uid: "5ccabeec",
 		type: "kill",
 		icon: {
+			id: "ancientbeasts:sandmonster_scale",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "ancientbeasts:sandmonster_scale"
+			}
 		},
 		entity: "ancientbeasts:sandy",
 		value: 15L

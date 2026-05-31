@@ -1,10 +1,10 @@
 {
 	title: "三号房",
 	icon: {
+		id: "ebwizardry:blank_scroll",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "ebwizardry:blank_scroll"
+		}
 	},
 	x: 9.5d,
 	y: -1.0d,
@@ -30,24 +30,24 @@
 		uid: "80ef313b",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "capsule:capsule",
+			Damage: 5s,
 			tag: {
-				color: 7566195,
 				size: 25,
 				isReward: 1b,
 				oneUse: 1b,
-				structureName: "config/capsule/rewards/house_3",
 				author: "Samara__",
+				color: 7566195,
+				label: "House 3",
+				structureName: "config/capsule/rewards/house_3",
 				display: {
 					color: 12881152
 				},
-				label: "House 3",
 				canRotate: 1b
 			},
-			Damage: 5s
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			}
 		}
 	}]
 }

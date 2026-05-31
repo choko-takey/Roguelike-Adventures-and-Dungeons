@@ -1,6 +1,6 @@
 {
 	title: "“大”卫",
-	x: -1.0d,
+	x: -1.5d,
 	y: 2.5d,
 	description: "体型越大，摔得越重",
 	text: [

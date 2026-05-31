@@ -16,36 +16,36 @@
 					],
 					Color: "dark_red",
 					AttributeModifiers: [{
+						Amount: -0.10000000149011612d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 912358053323882979L,
 						UUIDLeast: -4858153686686253789L,
-						Amount: -0.10000000149011612d,
-						AttributeName: "potioncore.digSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "potioncore.digSpeed"
 					},
 					{
+						Amount: -0.10000000149011612d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 6659698691275309448L,
 						UUIDLeast: -6359660829461457669L,
-						Amount: -0.10000000149011612d,
-						AttributeName: "generic.attackSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.attackSpeed"
 					},
 					{
+						Amount: -0.10000000149011612d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -763996397430420961L,
 						UUIDLeast: -4805770432251059537L,
-						Amount: -0.10000000149011612d,
-						AttributeName: "generic.attackDamage",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.attackDamage"
 					},
 					{
+						Amount: -1.0d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 3191217873170943605L,
 						UUIDLeast: -8483878949720313823L,
-						Amount: -1.0d,
-						AttributeName: "generic.reachDistance",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.reachDistance"
 					}],
 					Name: "quality.worthless.name"
 				},
@@ -62,11 +62,11 @@
 			id: "spartanweaponryarcana:throwing_axe_voidmetal",
 			tag: {
 				AmmoUsed: 0,
-				UUIDMost: 6577047235243296741L,
-				UUIDLeast: -6220274857274726784L,
-				TC.WARP: 1b,
+				Original: 1b,
 				enchChecked: 1b,
-				Original: 1b
+				TC.WARP: 1b,
+				UUIDMost: 6577047235243296741L,
+				UUIDLeast: -6220274857274726784L
 			}
 		}],
 		ignore_damage: true,
@@ -79,11 +79,11 @@
 			id: "spartanweaponryarcana:throwing_knife_voidmetal",
 			tag: {
 				AmmoUsed: 0,
-				UUIDMost: 609545476710681565L,
-				UUIDLeast: -7483228597593830159L,
-				TC.WARP: 1b,
+				Original: 1b,
 				enchChecked: 1b,
-				Original: 1b
+				TC.WARP: 1b,
+				UUIDMost: 609545476710681565L,
+				UUIDLeast: -7483228597593830159L
 			}
 		}],
 		ignore_damage: true,
@@ -121,11 +121,11 @@
 			id: "spartanweaponryarcana:javelin_voidmetal",
 			tag: {
 				AmmoUsed: 0,
-				UUIDMost: -3100622633307519010L,
-				UUIDLeast: -6791437248796231119L,
-				TC.WARP: 1b,
+				Original: 1b,
 				enchChecked: 1b,
-				Original: 1b
+				TC.WARP: 1b,
+				UUIDMost: -3100622633307519010L,
+				UUIDLeast: -6791437248796231119L
 			}
 		}],
 		ignore_damage: true,
@@ -138,11 +138,11 @@
 			id: "spartanweaponryarcana:boomerang_voidmetal",
 			tag: {
 				AmmoUsed: 0,
-				UUIDMost: 6478435818240098886L,
-				UUIDLeast: -9095910466554342206L,
-				TC.WARP: 1b,
+				Original: 1b,
 				enchChecked: 1b,
-				Original: 1b
+				TC.WARP: 1b,
+				UUIDMost: 6478435818240098886L,
+				UUIDLeast: -9095910466554342206L
 			}
 		}],
 		ignore_damage: true,

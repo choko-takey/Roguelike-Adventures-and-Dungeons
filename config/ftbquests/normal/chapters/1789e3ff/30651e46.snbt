@@ -15,10 +15,10 @@
 		type: "advancement",
 		title: "成为金级矿工",
 		icon: {
+			id: "minecraft:golden_pickaxe",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:golden_pickaxe"
+			}
 		},
 		advancement: "cavern:gold_miner",
 		criterion: ""

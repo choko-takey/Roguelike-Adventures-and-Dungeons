@@ -14,32 +14,10 @@
 	tasks: [{
 		uid: "8155bf25",
 		type: "dimension",
-		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cavern:aqua_cavern_portal"
-		},
+		icon: "cavern:aqua_cavern_portal",
 		dim: -52
 	}],
 	rewards: [{
-		uid: "9247debd",
-		type: "item",
-		item: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:diamond_pickaxe",
-			tag: {
-				ench: [{
-					lvl: 3s,
-					id: 35
-				}],
-				Quality: {}
-			}
-		}
-	},
-	{
 		uid: "c0756d89",
 		type: "random",
 		table: 19
@@ -53,5 +31,10 @@
 		uid: "df273361",
 		type: "ftbmoney:money",
 		ftb_money: 200L
+	},
+	{
+		uid: "d7312cf5",
+		type: "choice",
+		table: 67
 	}]
 }

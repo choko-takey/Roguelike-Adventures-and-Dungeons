@@ -26,12 +26,12 @@
 					],
 					Color: "dark_gray",
 					AttributeModifiers: [{
+						Amount: -1.0d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 8228475867536510043L,
 						UUIDLeast: -6771821387088819250L,
-						Amount: -1.0d,
-						AttributeName: "generic.armor",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.armor"
 					}],
 					Name: "quality.dented.name"
 				}
@@ -52,28 +52,28 @@
 					],
 					Color: "dark_red",
 					AttributeModifiers: [{
+						Amount: -1.0d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -5342436451492739071L,
 						UUIDLeast: -6304573217328935990L,
-						Amount: -1.0d,
-						AttributeName: "generic.armorToughness",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.armorToughness"
 					},
 					{
+						Amount: -1.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 1818485371340474166L,
 						UUIDLeast: -6043349462339211180L,
-						Amount: -1.5d,
-						AttributeName: "generic.armor",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.armor"
 					},
 					{
+						Amount: -1.0d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -2958605036703692925L,
 						UUIDLeast: -6616893605128967662L,
-						Amount: -1.0d,
-						AttributeName: "potioncore.magicShielding",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "potioncore.magicShielding"
 					}],
 					Name: "quality.crumbling.name"
 				}
@@ -106,36 +106,36 @@
 					],
 					Color: "light_purple",
 					AttributeModifiers: [{
+						Amount: 0.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -1195828307093141298L,
 						UUIDLeast: -8475474959151255332L,
-						Amount: 0.5d,
-						AttributeName: "potioncore.stepHeight",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "potioncore.stepHeight"
 					},
 					{
+						Amount: 0.10000000149011612d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 4711391505313384498L,
 						UUIDLeast: -6117968922867885216L,
-						Amount: 0.10000000149011612d,
-						AttributeName: "generic.movementSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.movementSpeed"
 					},
 					{
+						Amount: 1.0d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 5903137812628586734L,
 						UUIDLeast: -8973380992060198306L,
-						Amount: 1.0d,
-						AttributeName: "generic.armorToughness",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.armorToughness"
 					},
 					{
+						Amount: 0.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -6965427357951963736L,
 						UUIDLeast: -6192194096452146211L,
-						Amount: 0.5d,
-						AttributeName: "generic.armor",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.armor"
 					}],
 					Name: "quality.masterful.name"
 				}

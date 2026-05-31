@@ -15,12 +15,7 @@
 	tasks: [{
 		uid: "9a84152e",
 		type: "dimension",
-		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "chisel:cloud"
-		},
+		icon: "chisel:cloud",
 		dim: -60
 	}],
 	rewards: [{

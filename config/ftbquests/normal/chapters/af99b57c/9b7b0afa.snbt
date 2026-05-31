@@ -18,10 +18,10 @@
 		uid: "c60fa8c9",
 		type: "item",
 		items: [{
+			id: "vampirism:blood_potion_table",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "vampirism:blood_potion_table"
+			}
 		}]
 	}],
 	rewards: [{

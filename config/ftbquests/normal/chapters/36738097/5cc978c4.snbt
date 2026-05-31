@@ -7,13 +7,10 @@
 		"提示：除非你真的很讨厌黑曜石，否则别这么做！"
 	],
 	tasks: [{
-		uid: "0125e666",
+		uid: "205b5f2a",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "minecraft:obsidian"
+			item: "minecraft:obsidian"
 		}],
 		count: 1000000L,
 		consume_items: true

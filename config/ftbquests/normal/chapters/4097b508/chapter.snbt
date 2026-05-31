@@ -1,23 +1,23 @@
 {
 	title: "&l建筑&6&l小帮手",
 	icon: {
-		ForgeCaps: {
-			"wizardryutils:summoneditemdata": {}
-		},
 		id: "capsule:capsule",
 		tag: {
-			"Quark:RuneColor": 13,
+			overpowered: 1,
+			"Quark:RuneAttached": 1b,
 			ench: [{
 				lvl: 1s,
 				id: 34
 			}],
 			color: 3159364,
-			size: 1,
+			"Quark:RuneColor": 13,
 			display: {
 				color: 10141105
 			},
-			"Quark:RuneAttached": 1b,
-			overpowered: 1
+			size: 1
+		},
+		ForgeCaps: {
+			"wizardryutils:summoneditemdata": {}
 		}
 	},
 	always_invisible: false,

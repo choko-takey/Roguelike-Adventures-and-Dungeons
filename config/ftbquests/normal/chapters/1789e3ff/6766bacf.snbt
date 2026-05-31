@@ -14,13 +14,7 @@
 	tasks: [{
 		uid: "231db121",
 		type: "dimension",
-		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "chisel:energizedvoidstone",
-			Damage: 2s
-		},
+		icon: "chisel:energizedvoidstone 1 2",
 		dim: -57
 	}],
 	rewards: [{

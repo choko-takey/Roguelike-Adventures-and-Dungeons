@@ -1,10 +1,10 @@
 {
 	title: "人工喷泉",
 	icon: {
+		id: "ebwizardry:blank_scroll",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "ebwizardry:blank_scroll"
+		}
 	},
 	x: 9.5d,
 	y: 2.0d,
@@ -30,24 +30,24 @@
 		uid: "e252f128",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "capsule:capsule",
+			Damage: 5s,
 			tag: {
-				color: 7566195,
 				size: 33,
 				isReward: 1b,
 				oneUse: 1b,
-				structureName: "config/capsule/rewards/fountain",
 				author: "Samara__",
+				color: 7566195,
+				label: "Fountain",
+				structureName: "config/capsule/rewards/fountain",
 				display: {
 					color: 12881152
 				},
-				label: "Fountain",
 				canRotate: 1b
 			},
-			Damage: 5s
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			}
 		}
 	}]
 }

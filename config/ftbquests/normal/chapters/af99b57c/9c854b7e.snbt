@@ -16,11 +16,11 @@
 		type: "item",
 		title: "猎人情报11",
 		items: [{
+			id: "vampirism:hunter_intel",
+			Damage: 6s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "vampirism:hunter_intel",
-			Damage: 6s
+			}
 		}]
 	},
 	{
@@ -28,11 +28,11 @@
 		type: "item",
 		title: "猎人情报12",
 		items: [{
+			id: "vampirism:hunter_intel",
+			Damage: 7s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "vampirism:hunter_intel",
-			Damage: 7s
+			}
 		}]
 	},
 	{
@@ -40,11 +40,11 @@
 		type: "item",
 		title: "猎人情报13",
 		items: [{
+			id: "vampirism:hunter_intel",
+			Damage: 8s,
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "vampirism:hunter_intel",
-			Damage: 8s
+			}
 		}]
 	}],
 	rewards: [{

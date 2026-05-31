@@ -1,17 +1,16 @@
 {
 	title: "德鲁伊",
 	icon: {
-		ForgeCaps: {
-			"wizardryutils:summoneditemdata": {},
-			Parent: {
-				"UC:cropPowerCurrent": 0,
-				"UC:ignoresCooldown": 0b,
-				"UC:cropPowerCooldown": 0,
-				"UC:cropPowerCapacity": 100
-			}
-		},
 		id: "uniquecrops:wildwood_staff",
-		tag: {}
+		tag: {},
+		ForgeCaps: {
+			Parent: {
+				"UC:cropPowerCapacity": 100,
+				"UC:cropPowerCurrent": 0,
+				"UC:cropPowerCooldown": 0,
+				"UC:ignoresCooldown": 0b
+			}
+		}
 	},
 	x: -18.5d,
 	y: 3.0d,
@@ -29,17 +28,16 @@
 		uid: "068fabae",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {},
-				Parent: {
-					"UC:cropPowerCurrent": 0,
-					"UC:ignoresCooldown": 0b,
-					"UC:cropPowerCooldown": 0,
-					"UC:cropPowerCapacity": 100
-				}
-			},
 			id: "uniquecrops:wildwood_staff",
-			tag: {}
+			tag: {},
+			ForgeCaps: {
+				Parent: {
+					"UC:cropPowerCapacity": 100,
+					"UC:cropPowerCurrent": 0,
+					"UC:cropPowerCooldown": 0,
+					"UC:ignoresCooldown": 0b
+				}
+			}
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b,
@@ -49,10 +47,7 @@
 		uid: "b4a411a0",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "uniquecrops:emeradic_diamond"
+			item: "uniquecrops:emeradic_diamond"
 		}]
 	}],
 	rewards: [{

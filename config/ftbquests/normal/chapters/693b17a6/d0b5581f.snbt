@@ -10,10 +10,10 @@
 		uid: "3c57ac7b",
 		type: "kill",
 		icon: {
+			id: "ancientbeasts:mysterious_dust",
 			ForgeCaps: {
 				"wizardryutils:summoneditemdata": {}
-			},
-			id: "ancientbeasts:mysterious_dust"
+			}
 		},
 		entity: "ancientbeasts:zealot",
 		value: 200L

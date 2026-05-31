@@ -34,28 +34,28 @@
 					],
 					Color: "light_purple",
 					AttributeModifiers: [{
+						Amount: 1.0d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 5717488794894877400L,
 						UUIDLeast: -6803641535825610886L,
-						Amount: 1.0d,
-						AttributeName: "generic.armorToughness",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.armorToughness"
 					},
 					{
+						Amount: 0.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -8256462785678588275L,
 						UUIDLeast: -7543713414138077690L,
-						Amount: 0.5d,
-						AttributeName: "generic.armor",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.armor"
 					},
 					{
+						Amount: 0.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -3030341587739587989L,
 						UUIDLeast: -6064937079399323528L,
-						Amount: 0.5d,
-						AttributeName: "generic.knockbackResistance",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.knockbackResistance"
 					}],
 					Name: "quality.masterful.name"
 				}
@@ -76,12 +76,12 @@
 					],
 					Color: "dark_gray",
 					AttributeModifiers: [{
+						Amount: -1.0d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 4242296591066089935L,
 						UUIDLeast: -8759817040140668711L,
-						Amount: -1.0d,
-						AttributeName: "generic.armor",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.armor"
 					}],
 					Name: "quality.dented.name"
 				}

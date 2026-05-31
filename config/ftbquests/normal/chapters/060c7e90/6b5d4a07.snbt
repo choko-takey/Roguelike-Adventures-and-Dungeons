@@ -15,9 +15,6 @@
 		uid: "1e618e85",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "ebwizardry:wizard_hat",
 			tag: {
 				Quality: {
@@ -26,15 +23,18 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 1.0d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -6818761644891619014L,
 						UUIDLeast: -8514406477765336550L,
-						Amount: 1.0d,
-						AttributeName: "potioncore.magicShielding",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "potioncore.magicShielding"
 					}],
 					Name: "quality.arcane.name"
 				}
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}],
 		ignore_damage: true,
@@ -44,9 +44,6 @@
 		uid: "1c49d742",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "ebwizardry:wizard_robe",
 			tag: {
 				Quality: {
@@ -55,31 +52,34 @@
 					],
 					Color: "dark_red",
 					AttributeModifiers: [{
+						Amount: -1.0d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 7101142523170802398L,
 						UUIDLeast: -7604338847003659529L,
-						Amount: -1.0d,
-						AttributeName: "generic.armorToughness",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.armorToughness"
 					},
 					{
+						Amount: -1.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 4539991074626879695L,
 						UUIDLeast: -6144143078324712541L,
-						Amount: -1.5d,
-						AttributeName: "generic.armor",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.armor"
 					},
 					{
+						Amount: -1.0d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -4771474664698720282L,
 						UUIDLeast: -8795999386456786699L,
-						Amount: -1.0d,
-						AttributeName: "potioncore.magicShielding",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "potioncore.magicShielding"
 					}],
 					Name: "quality.crumbling.name"
 				}
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}],
 		ignore_damage: true,
@@ -89,12 +89,12 @@
 		uid: "3beaba2e",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "ebwizardry:wizard_leggings",
 			tag: {
 				Quality: {}
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}],
 		ignore_damage: true,
@@ -104,9 +104,6 @@
 		uid: "a72199ee",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "ebwizardry:wizard_boots",
 			tag: {
 				Quality: {
@@ -115,15 +112,18 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 1.0d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 4748308064919176749L,
 						UUIDLeast: -7941838264157331698L,
-						Amount: 1.0d,
-						AttributeName: "potioncore.magicShielding",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "potioncore.magicShielding"
 					}],
 					Name: "quality.arcane.name"
 				}
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}],
 		ignore_damage: true,

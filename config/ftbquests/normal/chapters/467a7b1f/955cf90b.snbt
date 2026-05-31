@@ -1,6 +1,6 @@
 {
 	title: "热狗",
-	x: 2.0d,
+	x: 1.5d,
 	y: 2.5d,
 	description: "刀子心豆腐嘴",
 	text: [
@@ -14,14 +14,14 @@
 		type: "observation",
 		title: "观察一只地狱猎犬",
 		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "minecraft:spawn_egg",
 			tag: {
 				EntityTag: {
 					id: "ancientbeasts:netherhound"
 				}
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		},
 		match_type: "entity_id",

@@ -1,9 +1,10 @@
 {
-	title: "【施工中】",
+	title: "A Gucci Bag For Druids",
 	x: 3.5d,
 	y: 1.0d,
+	description: "Even druids gotta have style",
 	text: [
-		"【这个任务将在未来的版本更新标题和任务描述】"
+		"The final version of the herb bag and the most stylish."
 	],
 	dependencies: [
 		"173f01bb"

@@ -19,12 +19,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.20000000298023224d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -752966916911575176L,
 						UUIDLeast: -8779526139948159690L,
-						Amount: 0.20000000298023224d,
-						AttributeName: "generic.luck",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.luck"
 					}],
 					Name: "quality.lucky.name"
 				}
@@ -46,12 +46,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -893906750399688738L,
 						UUIDLeast: -6247280024960875236L,
-						Amount: 0.5d,
-						AttributeName: "potioncore.jumpHeight",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "potioncore.jumpHeight"
 					}],
 					Name: "quality.springy.name"
 				}

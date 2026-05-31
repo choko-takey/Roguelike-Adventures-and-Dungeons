@@ -10,9 +10,6 @@
 		uid: "0e9aac41",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "cavern:cavenic_sword",
 			tag: {
 				Quality: {
@@ -21,20 +18,20 @@
 					],
 					Color: "aqua",
 					AttributeModifiers: [{
+						Amount: 0.20000000298023224d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -7480676770556391498L,
 						UUIDLeast: -5298948059274606635L,
-						Amount: 0.20000000298023224d,
-						AttributeName: "generic.attackSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.attackSpeed"
 					},
 					{
+						Amount: 0.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -3042981074681707809L,
 						UUIDLeast: -9140639846958749735L,
-						Amount: 0.5d,
-						AttributeName: "generic.reachDistance",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.reachDistance"
 					}],
 					Name: "quality.sweeping.name"
 				}
@@ -47,9 +44,6 @@
 		uid: "6423aa57",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "cavern:cavenic_axe",
 			tag: {
 				Quality: {
@@ -58,20 +52,20 @@
 					],
 					Color: "yellow",
 					AttributeModifiers: [{
+						Amount: 0.15000000596046448d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -6885005689100611610L,
 						UUIDLeast: -8025568663510198478L,
-						Amount: 0.15000000596046448d,
-						AttributeName: "generic.attackDamage",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.attackDamage"
 					},
 					{
+						Amount: -0.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 8225410977394082818L,
 						UUIDLeast: -7877473442727698490L,
-						Amount: -0.5d,
-						AttributeName: "generic.reachDistance",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.reachDistance"
 					}],
 					Name: "quality.vicious.name"
 				}
@@ -84,9 +78,6 @@
 		uid: "94bc525d",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "cavern:cavenic_bow",
 			tag: {
 				Quality: {
@@ -96,12 +87,12 @@
 					],
 					Color: "aqua",
 					AttributeModifiers: [{
+						Amount: 0.10000000149011612d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -1895369170157417109L,
 						UUIDLeast: -5703094219691503850L,
-						Amount: 0.10000000149011612d,
-						AttributeName: "potioncore.projectileDamage",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "potioncore.projectileDamage"
 					}],
 					Name: "quality.powerful.name"
 				}
@@ -114,11 +105,7 @@
 		uid: "d807573a",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cavern:cave_item",
-			Damage: 5s
+			item: "cavern:cave_item 1 5"
 		}],
 		count: 9L
 	}],

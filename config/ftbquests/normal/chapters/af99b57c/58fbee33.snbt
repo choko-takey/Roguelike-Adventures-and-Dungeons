@@ -14,9 +14,6 @@
 		uid: "8384131a",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "vampirism:hunter_axe",
 			tag: {
 				ench: [{
@@ -24,6 +21,9 @@
 					id: 19
 				}],
 				tier: "NORMAL"
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		}],
 		ignore_damage: true,

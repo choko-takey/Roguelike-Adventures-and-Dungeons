@@ -1,0 +1,53 @@
+{
+	title: "With This Sacred Amulet I Summon",
+	x: -0.5d,
+	y: -9.5d,
+	description: "The Divine Hound Barghest",
+	text: [
+		"When this amulet is triggered it summons a legendary beast.",
+		"",
+		"Wether it will assist you or not? ",
+		"",
+		"Why don't you test and see!"
+	],
+	dependencies: [
+		"03e97281"
+	],
+	tasks: [{
+		uid: "1d44cfba",
+		type: "item",
+		items: [{
+			id: "ancientbeasts:wolf_amulet",
+			tag: {
+				Quality: {
+					Name: "quality.strengthening.name",
+					Color: "blue",
+					Slots: [
+						"baubles_trinket",
+						"offhand"
+					],
+					AttributeModifiers: [{
+						Name: "qualitytools",
+						AttributeName: "generic.attackDamage",
+						Operation: 2,
+						UUIDMost: 4675428097329350261L,
+						UUIDLeast: -9163413134572287103L,
+						Amount: 0.029999999329447746d
+					}]
+				}
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "fc23a402",
+		type: "ftbmoney:money",
+		ftb_money: 50L
+	},
+	{
+		uid: "0c5dfddb",
+		type: "xp_levels",
+		xp_levels: 5
+	}]
+}

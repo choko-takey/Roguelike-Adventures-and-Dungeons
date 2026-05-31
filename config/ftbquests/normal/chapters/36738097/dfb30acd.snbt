@@ -37,16 +37,16 @@
 		uid: "1ae8591b",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "foodKetchup",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "任意食品番茄酱"
+					Name: "Any foodKetchup"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "foodKetchup"
 				}
 			}
 		}],

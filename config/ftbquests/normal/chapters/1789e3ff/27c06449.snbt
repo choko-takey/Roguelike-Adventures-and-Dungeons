@@ -13,10 +13,7 @@
 		uid: "1dd4bf54",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cavern:ore_compass"
+			item: "cavern:ore_compass"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
@@ -25,11 +22,7 @@
 		uid: "79fef364",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
-			id: "cavern:cave_item",
-			Damage: 4s
+			item: "cavern:cave_item 1 4"
 		}],
 		count: 4L
 	}],

@@ -12,7 +12,7 @@
 	y: 5.5d,
 	description: "矮人们讨厌这种把戏",
 	text: [
-		"有了咒术之后稿子已经没用了。"
+		"有了咒术之后镐子已经没用了。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
@@ -38,20 +38,20 @@
 					],
 					Color: "dark_gray",
 					AttributeModifiers: [{
+						Amount: -0.15000000596046448d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -169230850638462669L,
 						UUIDLeast: -7851203083664807932L,
-						Amount: -0.15000000596046448d,
-						AttributeName: "potioncore.digSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "potioncore.digSpeed"
 					},
 					{
+						Amount: -0.15000000596046448d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 6972979566585856009L,
 						UUIDLeast: -9102383780647411028L,
-						Amount: -0.15000000596046448d,
-						AttributeName: "generic.attackSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.attackSpeed"
 					}],
 					Name: "quality.bulky.name"
 				}
@@ -78,16 +78,16 @@
 		uid: "79a607cc",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "cobblestone",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "任意圆石"
+					Name: "Any cobblestone"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "cobblestone"
 				}
 			}
 		}]

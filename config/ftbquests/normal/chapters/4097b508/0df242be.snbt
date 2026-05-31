@@ -1,10 +1,10 @@
 {
 	title: "&6白桦木巫师塔",
 	icon: {
+		id: "ancientspellcraft:empty_theory_scroll",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "ancientspellcraft:empty_theory_scroll"
+		}
 	},
 	x: -6.549999999999969d,
 	y: 0.43333333333333d,
@@ -30,24 +30,24 @@
 		uid: "3a3d349f",
 		type: "item",
 		item: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "capsule:capsule",
+			Damage: 5s,
 			tag: {
-				color: 16777215,
 				size: 63,
 				isReward: 1b,
 				oneUse: 1b,
-				structureName: "config/capsule/rewards/birch_wizard_tower",
 				author: "Samara__",
+				color: 16777215,
+				label: "Birch Wizard Tower",
+				structureName: "config/capsule/rewards/birch_wizard_tower",
 				display: {
 					color: 16777215
 				},
-				label: "Birch Wizard Tower",
 				canRotate: 1b
 			},
-			Damage: 5s
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
+			}
 		}
 	}]
 }

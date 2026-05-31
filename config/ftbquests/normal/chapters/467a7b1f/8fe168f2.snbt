@@ -15,14 +15,14 @@
 		type: "kill",
 		title: "击杀一些裂隙末影人",
 		icon: {
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "minecraft:spawn_egg",
 			tag: {
 				EntityTag: {
 					id: "ancientbeasts:rifted_enderman"
 				}
+			},
+			ForgeCaps: {
+				"wizardryutils:summoneditemdata": {}
 			}
 		},
 		entity: "ancientbeasts:rifted_enderman",

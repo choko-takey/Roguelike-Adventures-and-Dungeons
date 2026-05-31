@@ -32,8 +32,19 @@
 		ftb_money: 100L
 	},
 	{
-		uid: "cf9a6534",
+		uid: "e8d84dab",
 		type: "item",
-		item: "minecraft:anvil 1 1"
+		item: {
+			id: "minecraft:anvil",
+			tag: {
+				ench: [{
+					lvl: 3s,
+					id: 34
+				}],
+				display: {
+					Name: "Reinforced Anvil"
+				}
+			}
+		}
 	}]
 }

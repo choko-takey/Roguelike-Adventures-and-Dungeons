@@ -23,12 +23,12 @@
 					],
 					Color: "aqua",
 					AttributeModifiers: [{
+						Amount: 0.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 8778673113540218054L,
 						UUIDLeast: -4816266146619872847L,
-						Amount: 0.5d,
-						AttributeName: "generic.luck",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.luck"
 					}],
 					Name: "quality.lucky.name"
 				}
@@ -49,28 +49,28 @@
 					],
 					Color: "light_purple",
 					AttributeModifiers: [{
+						Amount: 1.0d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -5459401310934709067L,
 						UUIDLeast: -8677612138792752357L,
-						Amount: 1.0d,
-						AttributeName: "generic.armorToughness",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.armorToughness"
 					},
 					{
+						Amount: 0.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -8769183755901121534L,
 						UUIDLeast: -5437141006483440919L,
-						Amount: 0.5d,
-						AttributeName: "generic.armor",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.armor"
 					},
 					{
+						Amount: 0.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 671494209606339224L,
 						UUIDLeast: -5933850324092801012L,
-						Amount: 0.5d,
-						AttributeName: "generic.knockbackResistance",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.knockbackResistance"
 					}],
 					Name: "quality.masterful.name"
 				}
@@ -103,28 +103,28 @@
 					],
 					Color: "dark_red",
 					AttributeModifiers: [{
+						Amount: -1.0d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -5109911613111843257L,
 						UUIDLeast: -8117985994686197376L,
-						Amount: -1.0d,
-						AttributeName: "generic.armorToughness",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.armorToughness"
 					},
 					{
+						Amount: -1.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 5685125145965252243L,
 						UUIDLeast: -5180198436884601039L,
-						Amount: -1.5d,
-						AttributeName: "generic.armor",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.armor"
 					},
 					{
+						Amount: -1.0d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -8787557643190187979L,
 						UUIDLeast: -7357038167424701142L,
-						Amount: -1.0d,
-						AttributeName: "potioncore.magicShielding",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "potioncore.magicShielding"
 					}],
 					Name: "quality.crumbling.name"
 				}

@@ -22,12 +22,12 @@
 					],
 					Color: "red",
 					AttributeModifiers: [{
+						Amount: -0.10000000149011612d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 3276225106394564358L,
 						UUIDLeast: -7876810999246076064L,
-						Amount: -0.10000000149011612d,
-						AttributeName: "generic.movementSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.movementSpeed"
 					}],
 					Name: "quality.heavy.name"
 				}
@@ -48,12 +48,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 7809750962607967005L,
 						UUIDLeast: -7897028037678594565L,
-						Amount: 0.5d,
-						AttributeName: "generic.knockbackResistance",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.knockbackResistance"
 					}],
 					Name: "quality.solid.name"
 				}
@@ -86,20 +86,20 @@
 					],
 					Color: "yellow",
 					AttributeModifiers: [{
+						Amount: -0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 8375656210910563814L,
 						UUIDLeast: -5801554327569389952L,
-						Amount: -0.05000000074505806d,
-						AttributeName: "generic.movementSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.movementSpeed"
 					},
 					{
+						Amount: 0.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -4358948908609026232L,
 						UUIDLeast: -6973808220766320833L,
-						Amount: 0.5d,
-						AttributeName: "generic.armor",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.armor"
 					}],
 					Name: "quality.thick.name"
 				}

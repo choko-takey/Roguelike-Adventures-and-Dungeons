@@ -24,12 +24,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -2927320351576798634L,
 						UUIDLeast: -8559612319618487482L,
-						Amount: 0.05000000074505806d,
-						AttributeName: "potioncore.projectileDamage",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "potioncore.projectileDamage"
 					}],
 					Name: "quality.light.name"
 				}
@@ -37,5 +37,20 @@
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "8570bb6c",
+		type: "random",
+		table: 63
+	},
+	{
+		uid: "6dc0e657",
+		type: "ftbmoney:money",
+		ftb_money: 30L
+	},
+	{
+		uid: "9d0dd7a3",
+		type: "xp_levels",
+		xp_levels: 5
 	}]
 }

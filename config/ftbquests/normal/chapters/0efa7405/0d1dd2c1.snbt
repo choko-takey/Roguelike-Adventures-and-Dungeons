@@ -41,63 +41,63 @@
 		title: "任意罐子标签",
 		items: [{
 			id: "thaumcraft:label",
+			Damage: 1s,
 			tag: {
 				Aspects: [{
 					amount: 1,
 					key: "aer"
 				}]
-			},
-			Damage: 1s
+			}
 		},
 		{
 			id: "thaumcraft:label",
+			Damage: 1s,
 			tag: {
 				Aspects: [{
 					amount: 1,
 					key: "terra"
 				}]
-			},
-			Damage: 1s
+			}
 		},
 		{
 			id: "thaumcraft:label",
+			Damage: 1s,
 			tag: {
 				Aspects: [{
 					amount: 1,
 					key: "ignis"
 				}]
-			},
-			Damage: 1s
+			}
 		},
 		{
 			id: "thaumcraft:label",
+			Damage: 1s,
 			tag: {
 				Aspects: [{
 					amount: 1,
 					key: "aqua"
 				}]
-			},
-			Damage: 1s
+			}
 		},
 		{
 			id: "thaumcraft:label",
+			Damage: 1s,
 			tag: {
 				Aspects: [{
 					amount: 1,
 					key: "ordo"
 				}]
-			},
-			Damage: 1s
+			}
 		},
 		{
 			id: "thaumcraft:label",
+			Damage: 1s,
 			tag: {
 				Aspects: [{
 					amount: 1,
 					key: "perditio"
 				}]
-			},
-			Damage: 1s
+			}
 		}]
 	}],
 	rewards: [{

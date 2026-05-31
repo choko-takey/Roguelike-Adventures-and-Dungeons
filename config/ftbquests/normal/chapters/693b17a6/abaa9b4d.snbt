@@ -1,10 +1,10 @@
 {
 	title: "猎杀猎人",
 	icon: {
+		id: "vampirism:hunter_hat0_head",
 		ForgeCaps: {
 			"wizardryutils:summoneditemdata": {}
-		},
-		id: "vampirism:hunter_hat0_head"
+		}
 	},
 	x: 4.5d,
 	y: 4.5d,

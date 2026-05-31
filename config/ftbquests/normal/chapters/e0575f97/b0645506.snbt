@@ -25,16 +25,16 @@
 		uid: "205089c3",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "allFlowers",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "任意花朵"
+					Name: "Any allFlowers"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "allFlowers"
 				}
 			}
 		}]
@@ -43,16 +43,16 @@
 		uid: "f1dadd5b",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				Parent: {
-					data: "treeSapling",
-					id: "ore"
-				}
-			},
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "任意树苗"
+					Name: "Any treeSapling"
+				}
+			},
+			ForgeCaps: {
+				Parent: {
+					id: "ore",
+					data: "treeSapling"
 				}
 			}
 		}]

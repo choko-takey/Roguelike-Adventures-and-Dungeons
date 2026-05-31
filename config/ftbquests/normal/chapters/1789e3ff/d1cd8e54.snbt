@@ -13,9 +13,6 @@
 		uid: "43743ed2",
 		type: "item",
 		items: [{
-			ForgeCaps: {
-				"wizardryutils:summoneditemdata": {}
-			},
 			id: "cavern:mirage_book",
 			tag: {
 				Ticket: 10
