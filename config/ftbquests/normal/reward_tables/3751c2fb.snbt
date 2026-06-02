@@ -1,5 +1,5 @@
 {
-	title: "Epic Enchanted Tools",
+	title: "史诗附魔工具",
 	icon: "minecraft:diamond_pickaxe",
 	loot_size: 1,
 	rewards: [{
@@ -10,7 +10,7 @@
 				Quality: {},
 				"Quark:RuneColor": 2,
 				display: {
-					Name: "Dwarf's Gentle Touch Pick"
+					Name: "矮人轻触镐"
 				},
 				"Quark:RuneAttached": 1b,
 				ench: [{
@@ -39,7 +39,7 @@
 				Quality: {},
 				"Quark:RuneColor": 5,
 				display: {
-					Name: "Dwarf's Lucky Pick"
+					Name: "矮人幸运镐"
 				},
 				"Quark:RuneAttached": 1b,
 				"Quark:ItemNameDye": 10
@@ -61,7 +61,7 @@
 				Quality: {},
 				"Quark:RuneColor": 9,
 				display: {
-					Name: "Dwarf's Reinforced Pick"
+					Name: "矮人强化镐"
 				},
 				"Quark:RuneAttached": 1b,
 				"Quark:ItemNameDye": 6

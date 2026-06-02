@@ -1,5 +1,5 @@
 {
-	title: "Basic Enchanted Tools",
+	title: "基础附魔工具",
 	icon: "minecraft:diamond_pickaxe",
 	loot_size: 1,
 	rewards: [{
@@ -12,7 +12,7 @@
 					lvl: 1s
 				}],
 				display: {
-					Name: "Delicate Toch Pickaxe"
+					Name: "轻触镐"
 				}
 			}
 		}
@@ -23,7 +23,7 @@
 			tag: {
 				Quality: {},
 				display: {
-					Name: "Durable Pickaxe"
+					Name: "耐用镐"
 				},
 				ench: [{
 					id: 34,
@@ -38,7 +38,7 @@
 			tag: {
 				Quality: {},
 				display: {
-					Name: "Pickaxe Of Prosperity"
+					Name: "富裕镐"
 				},
 				ench: [{
 					id: 35,
