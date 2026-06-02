@@ -1,0 +1,29 @@
+RAD 1.56 reward_tables update report
+Compare report reward_tables entries: 61
+Updated existing files: 64
+Added files: 3
+Deleted files: 0
+Manual review entries: 3
+Structural verification failures: 0
+
+Added files
+- 3751c2fb.snbt
+- 58f5d142.snbt
+- d5ada45c.snbt
+
+Manual translation review required
+
+- 3751c2fb.snbt
+  reason: new file
+  field[0] title: Epic Gear
+  field[1] item_name: Epic Gear
+
+- 58f5d142.snbt
+  reason: new file
+  field[0] title: Rare Gear
+  field[1] item_name: Rare Gear
+
+- d5ada45c.snbt
+  reason: new file
+  field[0] title: Uncommon Gear
+  field[1] item_name: Uncommon Gear

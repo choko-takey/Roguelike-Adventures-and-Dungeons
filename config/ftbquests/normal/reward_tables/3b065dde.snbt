@@ -28,9 +28,9 @@
 		item_name: "水晶宝箱",
 		color: 14923745,
 		drops: {
-			boss: 0,
 			passive: 0,
-			monster: 0
+			monster: 0,
+			boss: 0
 		}
 	}
 }

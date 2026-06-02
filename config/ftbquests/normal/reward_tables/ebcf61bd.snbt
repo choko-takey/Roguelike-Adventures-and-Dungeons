@@ -12,7 +12,7 @@
 			tag: {
 				Quality: {},
 				display: {
-					Name: "幕府将军胸甲"
+					Name: "Shogun Chestplate"
 				}
 			}
 		},
@@ -24,7 +24,7 @@
 			tag: {
 				Quality: {},
 				display: {
-					Name: "幕府将军护胫"
+					Name: "Shogun Greaves"
 				}
 			}
 		},
@@ -36,7 +36,7 @@
 			tag: {
 				Quality: {},
 				display: {
-					Name: "幕府将军靴子"
+					Name: "Shogun Boots"
 				}
 			}
 		},
@@ -58,17 +58,17 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 1.0d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 391399746275459219L,
 						UUIDLeast: -7403910016459502634L,
-						Amount: 1.0d,
-						AttributeName: "generic.armorToughness",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.armorToughness"
 					}],
 					Name: "quality.tough.name"
 				},
 				display: {
-					Name: "武士面罩"
+					Name: "Samurai's Mask"
 				}
 			}
 		},
@@ -82,9 +82,9 @@
 				Quality: {},
 				display: {
 					Lore: [
-						"一把世代相传的家族之刃——荣耀执剑，使命在肩"
+						"A blade passed through your family for generations wield it with honour"
 					],
-					Name: "秋水"
+					Name: "Shusui"
 				}
 			}
 		},
@@ -97,7 +97,7 @@
 				"Quark:ItemNameDye": 8,
 				Quality: {},
 				display: {
-					Name: "破魔之弓"
+					Name: "Hamayumi"
 				}
 			}
 		},
@@ -108,9 +108,9 @@
 		item_name: "武士装备板条箱",
 		color: 16777215,
 		drops: {
-			boss: 0,
 			passive: 0,
-			monster: 0
+			monster: 0,
+			boss: 0
 		}
 	}
 }

@@ -73,9 +73,9 @@
 				Quality: {},
 				display: {
 					Lore: [
-						"新手巫师使用的传统魔杖"
+						"A traditional wand used by novice wizards"
 					],
-					Name: "古魔法师的法杖"
+					Name: "Mage's Wand"
 				},
 				progression: 20,
 				spells: [I;
@@ -94,9 +94,9 @@
 		item_name: "巫师装备板条箱",
 		color: 16777215,
 		drops: {
-			boss: 0,
 			passive: 0,
-			monster: 0
+			monster: 0,
+			boss: 0
 		}
 	}
 }

@@ -189,9 +189,9 @@
 		item_name: "罕见奖励板条箱",
 		color: 5208386,
 		drops: {
-			boss: 0,
 			passive: 0,
-			monster: 0
+			monster: 0,
+			boss: 0
 		}
 	}
 }

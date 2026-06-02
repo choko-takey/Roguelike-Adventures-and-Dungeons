@@ -12,12 +12,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.029999999329447746d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 4040535199082565477L,
 						UUIDLeast: -6714544077096087453L,
-						Amount: 0.029999999329447746d,
-						AttributeName: "generic.attackDamage",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.attackDamage"
 					}],
 					Name: "quality.strengthening.name"
 				}
@@ -35,20 +35,20 @@
 					],
 					Color: "aqua",
 					AttributeModifiers: [{
+						Amount: 0.029999999329447746d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -4853702830960849758L,
 						UUIDLeast: -4824979493382276672L,
-						Amount: 0.029999999329447746d,
-						AttributeName: "potioncore.digSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "potioncore.digSpeed"
 					},
 					{
+						Amount: 0.029999999329447746d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -783864120012683583L,
 						UUIDLeast: -6826916316635621481L,
-						Amount: 0.029999999329447746d,
-						AttributeName: "generic.attackSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.attackSpeed"
 					}],
 					Name: "quality.graceful.name"
 				}
@@ -66,12 +66,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.20000000298023224d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -330373869992131575L,
 						UUIDLeast: -5222927363616411106L,
-						Amount: 0.20000000298023224d,
-						AttributeName: "generic.luck",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.luck"
 					}],
 					Name: "quality.lucky.name"
 				}
@@ -105,28 +105,28 @@
 					],
 					Color: "dark_gray",
 					AttributeModifiers: [{
+						Amount: -0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -962757378674439570L,
 						UUIDLeast: -7048310129829650751L,
-						Amount: -0.05000000074505806d,
-						AttributeName: "potioncore.digSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "potioncore.digSpeed"
 					},
 					{
+						Amount: -0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 2199510100674822571L,
 						UUIDLeast: -7011068032083157746L,
-						Amount: -0.05000000074505806d,
-						AttributeName: "generic.movementSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.movementSpeed"
 					},
 					{
+						Amount: -0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -7669120197788351374L,
 						UUIDLeast: -7277902758339304538L,
-						Amount: -0.05000000074505806d,
-						AttributeName: "generic.attackSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.attackSpeed"
 					}],
 					Name: "quality.clunky.name"
 				}
@@ -160,12 +160,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 9163995246623542898L,
 						UUIDLeast: -4856138137655347921L,
-						Amount: 0.05000000074505806d,
-						AttributeName: "generic.movementSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.movementSpeed"
 					}],
 					Name: "quality.speedy.name"
 				}
@@ -183,12 +183,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 6127033395257887972L,
 						UUIDLeast: -7811135554434828714L,
-						Amount: 0.05000000074505806d,
-						AttributeName: "generic.movementSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.movementSpeed"
 					}],
 					Name: "quality.speedy.name"
 				}
@@ -206,28 +206,28 @@
 					],
 					Color: "dark_gray",
 					AttributeModifiers: [{
+						Amount: -0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -612772479071860837L,
 						UUIDLeast: -7548102844549605066L,
-						Amount: -0.05000000074505806d,
-						AttributeName: "potioncore.digSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "potioncore.digSpeed"
 					},
 					{
+						Amount: -0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 8411603046256758375L,
 						UUIDLeast: -5479810791141106335L,
-						Amount: -0.05000000074505806d,
-						AttributeName: "generic.movementSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.movementSpeed"
 					},
 					{
+						Amount: -0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -7342840774199981870L,
 						UUIDLeast: -4685747217561325578L,
-						Amount: -0.05000000074505806d,
-						AttributeName: "generic.attackSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.attackSpeed"
 					}],
 					Name: "quality.clunky.name"
 				}
@@ -245,12 +245,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.029999999329447746d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -2906179193550060447L,
 						UUIDLeast: -6117577555915487353L,
-						Amount: 0.029999999329447746d,
-						AttributeName: "generic.attackSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.attackSpeed"
 					}],
 					Name: "quality.flailing.name"
 				}
@@ -268,12 +268,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.20000000298023224d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 3779573546889858501L,
 						UUIDLeast: -5777723505994354844L,
-						Amount: 0.20000000298023224d,
-						AttributeName: "generic.luck",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.luck"
 					}],
 					Name: "quality.lucky.name"
 				}
@@ -299,28 +299,28 @@
 					],
 					Color: "light_purple",
 					AttributeModifiers: [{
+						Amount: 0.029999999329447746d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 8101184457162310118L,
 						UUIDLeast: -6712214254427908848L,
-						Amount: 0.029999999329447746d,
-						AttributeName: "potioncore.damageResistance",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "potioncore.damageResistance"
 					},
 					{
+						Amount: 2.0d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 4457615389257715096L,
 						UUIDLeast: -4942176266919002616L,
-						Amount: 2.0d,
-						AttributeName: "generic.maxHealth",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.maxHealth"
 					},
 					{
+						Amount: 1.0d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -3895353730312615482L,
 						UUIDLeast: -6289164715366320935L,
-						Amount: 1.0d,
-						AttributeName: "potioncore.magicShielding",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "potioncore.magicShielding"
 					}],
 					Name: "quality.undying.name"
 				}
@@ -346,12 +346,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.029999999329447746d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -6815988715561464325L,
 						UUIDLeast: -7604569570739717008L,
-						Amount: 0.029999999329447746d,
-						AttributeName: "generic.attackDamage",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.attackDamage"
 					}],
 					Name: "quality.strengthening.name"
 				}
@@ -377,12 +377,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 2.0d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -2662235137441184509L,
 						UUIDLeast: -5534024996774327095L,
-						Amount: 2.0d,
-						AttributeName: "generic.maxHealth",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.maxHealth"
 					}],
 					Name: "quality.healthy.name"
 				}
@@ -415,12 +415,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.029999999329447746d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -3494197013822946064L,
 						UUIDLeast: -6276116939972228172L,
-						Amount: 0.029999999329447746d,
-						AttributeName: "potioncore.magicDamage",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "potioncore.magicDamage"
 					}],
 					Name: "quality.focusing.name"
 				}
@@ -455,12 +455,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 1.0d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 6334494166382036081L,
 						UUIDLeast: -9104092475825078070L,
-						Amount: 1.0d,
-						AttributeName: "potioncore.magicShielding",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "potioncore.magicShielding"
 					}],
 					Name: "quality.shielding.name"
 				}
@@ -478,12 +478,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -468485121077525515L,
 						UUIDLeast: -5029196504433563313L,
-						Amount: 0.05000000074505806d,
-						AttributeName: "generic.movementSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.movementSpeed"
 					}],
 					Name: "quality.speedy.name"
 				}
@@ -501,12 +501,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.029999999329447746d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 3161615575538880438L,
 						UUIDLeast: -5386316302800122948L,
-						Amount: 0.029999999329447746d,
-						AttributeName: "potioncore.projectileDamage",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "potioncore.projectileDamage"
 					}],
 					Name: "quality.aiming.name"
 				}
@@ -524,20 +524,20 @@
 					],
 					Color: "aqua",
 					AttributeModifiers: [{
+						Amount: 0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -2581884450029483484L,
 						UUIDLeast: -5443076378432362560L,
-						Amount: 0.05000000074505806d,
-						AttributeName: "generic.movementSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.movementSpeed"
 					},
 					{
+						Amount: 0.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -182153357331641724L,
 						UUIDLeast: -9090154345184451754L,
-						Amount: 0.5d,
-						AttributeName: "potioncore.jumpHeight",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "potioncore.jumpHeight"
 					}],
 					Name: "quality.athletic.name"
 				}
@@ -555,12 +555,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 2.0d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 8868410996502055317L,
 						UUIDLeast: -6418629999514804602L,
-						Amount: 2.0d,
-						AttributeName: "generic.maxHealth",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.maxHealth"
 					}],
 					Name: "quality.healthy.name"
 				}
@@ -586,12 +586,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.029999999329447746d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 7441585775167160799L,
 						UUIDLeast: -4648250968998118422L,
-						Amount: 0.029999999329447746d,
-						AttributeName: "potioncore.magicDamage",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "potioncore.magicDamage"
 					}],
 					Name: "quality.focusing.name"
 				}
@@ -633,12 +633,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.029999999329447746d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 8189188271063648611L,
 						UUIDLeast: -7422095694758731683L,
-						Amount: 0.029999999329447746d,
-						AttributeName: "potioncore.magicDamage",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "potioncore.magicDamage"
 					}],
 					Name: "quality.focusing.name"
 				}
@@ -664,12 +664,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 1.0d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 6174319854342259072L,
 						UUIDLeast: -7734289181597296983L,
-						Amount: 1.0d,
-						AttributeName: "potioncore.magicShielding",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "potioncore.magicShielding"
 					}],
 					Name: "quality.shielding.name"
 				}
@@ -687,12 +687,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.029999999329447746d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 4222587148628215092L,
 						UUIDLeast: -6973626725590206401L,
-						Amount: 0.029999999329447746d,
-						AttributeName: "potioncore.digSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "potioncore.digSpeed"
 					}],
 					Name: "quality.prospecting.name"
 				}
@@ -726,12 +726,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 1.0d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -5228806860449560316L,
 						UUIDLeast: -8433074628794523298L,
-						Amount: 1.0d,
-						AttributeName: "potioncore.magicShielding",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "potioncore.magicShielding"
 					}],
 					Name: "quality.shielding.name"
 				}
@@ -749,12 +749,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -4768402915452762706L,
 						UUIDLeast: -6594844070542418829L,
-						Amount: 0.05000000074505806d,
-						AttributeName: "generic.movementSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.movementSpeed"
 					}],
 					Name: "quality.speedy.name"
 				}
@@ -780,20 +780,20 @@
 					],
 					Color: "aqua",
 					AttributeModifiers: [{
+						Amount: 0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 7249795972711599095L,
 						UUIDLeast: -9198768457791496071L,
-						Amount: 0.05000000074505806d,
-						AttributeName: "generic.movementSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.movementSpeed"
 					},
 					{
+						Amount: 0.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -445853541005441805L,
 						UUIDLeast: -6307020543284591279L,
-						Amount: 0.5d,
-						AttributeName: "potioncore.jumpHeight",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "potioncore.jumpHeight"
 					}],
 					Name: "quality.athletic.name"
 				}
@@ -811,20 +811,20 @@
 					],
 					Color: "aqua",
 					AttributeModifiers: [{
+						Amount: 0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -6579711706421900173L,
 						UUIDLeast: -7853157453605246158L,
-						Amount: 0.05000000074505806d,
-						AttributeName: "generic.movementSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.movementSpeed"
 					},
 					{
+						Amount: 0.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -5735133916858267951L,
 						UUIDLeast: -7167574013999527218L,
-						Amount: 0.5d,
-						AttributeName: "potioncore.jumpHeight",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "potioncore.jumpHeight"
 					}],
 					Name: "quality.athletic.name"
 				}
@@ -842,12 +842,12 @@
 					],
 					Color: "red",
 					AttributeModifiers: [{
+						Amount: -0.20000000298023224d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 8184014902185577767L,
 						UUIDLeast: -6107731191865029078L,
-						Amount: -0.20000000298023224d,
-						AttributeName: "generic.luck",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.luck"
 					}],
 					Name: "quality.unlucky.name"
 				}
@@ -865,28 +865,28 @@
 					],
 					Color: "dark_gray",
 					AttributeModifiers: [{
+						Amount: -0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -5432214826861967043L,
 						UUIDLeast: -5999449779007121982L,
-						Amount: -0.05000000074505806d,
-						AttributeName: "potioncore.projectileDamage",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "potioncore.projectileDamage"
 					},
 					{
+						Amount: -0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -6162421493259745132L,
 						UUIDLeast: -6641387396739128760L,
-						Amount: -0.05000000074505806d,
-						AttributeName: "generic.attackDamage",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.attackDamage"
 					},
 					{
+						Amount: -0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 8288173453140771964L,
 						UUIDLeast: -7974214726599880837L,
-						Amount: -0.05000000074505806d,
-						AttributeName: "potioncore.magicDamage",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "potioncore.magicDamage"
 					}],
 					Name: "quality.horrible.name"
 				}
@@ -904,12 +904,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.029999999329447746d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -998910088200172186L,
 						UUIDLeast: -5955773696558934990L,
-						Amount: 0.029999999329447746d,
-						AttributeName: "potioncore.magicDamage",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "potioncore.magicDamage"
 					}],
 					Name: "quality.focusing.name"
 				}
@@ -927,12 +927,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.029999999329447746d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -2050197252610439654L,
 						UUIDLeast: -8844018430842026139L,
-						Amount: 0.029999999329447746d,
-						AttributeName: "potioncore.damageResistance",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "potioncore.damageResistance"
 					}],
 					Name: "quality.armored.name"
 				}
@@ -990,12 +990,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 6812979460729357895L,
 						UUIDLeast: -5634338077676876634L,
-						Amount: 0.5d,
-						AttributeName: "potioncore.jumpHeight",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "potioncore.jumpHeight"
 					}],
 					Name: "quality.springy.name"
 				}
@@ -1013,12 +1013,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.20000000298023224d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 1202988946201595879L,
 						UUIDLeast: -4620996566980396663L,
-						Amount: 0.20000000298023224d,
-						AttributeName: "generic.luck",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.luck"
 					}],
 					Name: "quality.lucky.name"
 				}
@@ -1036,12 +1036,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -5489143336845423107L,
 						UUIDLeast: -8947130943309688395L,
-						Amount: 0.5d,
-						AttributeName: "potioncore.jumpHeight",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "potioncore.jumpHeight"
 					}],
 					Name: "quality.springy.name"
 				}
@@ -1059,20 +1059,20 @@
 					],
 					Color: "aqua",
 					AttributeModifiers: [{
+						Amount: 0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -7516095996817224474L,
 						UUIDLeast: -8498946830995991323L,
-						Amount: 0.05000000074505806d,
-						AttributeName: "generic.movementSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.movementSpeed"
 					},
 					{
+						Amount: 0.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -7654066965131672542L,
 						UUIDLeast: -7042112955558110755L,
-						Amount: 0.5d,
-						AttributeName: "potioncore.jumpHeight",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "potioncore.jumpHeight"
 					}],
 					Name: "quality.athletic.name"
 				}
@@ -1090,28 +1090,28 @@
 					],
 					Color: "dark_gray",
 					AttributeModifiers: [{
+						Amount: -0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 7002296873414574165L,
 						UUIDLeast: -6099400821122352602L,
-						Amount: -0.05000000074505806d,
-						AttributeName: "potioncore.digSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "potioncore.digSpeed"
 					},
 					{
+						Amount: -0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -2917081231026533146L,
 						UUIDLeast: -5575621058160073561L,
-						Amount: -0.05000000074505806d,
-						AttributeName: "generic.movementSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.movementSpeed"
 					},
 					{
+						Amount: -0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -7585478448445633286L,
 						UUIDLeast: -6936446306508302356L,
-						Amount: -0.05000000074505806d,
-						AttributeName: "generic.attackSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.attackSpeed"
 					}],
 					Name: "quality.clunky.name"
 				}
@@ -1137,12 +1137,12 @@
 					],
 					Color: "red",
 					AttributeModifiers: [{
+						Amount: -0.20000000298023224d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -6477214528761411930L,
 						UUIDLeast: -5573177818261282611L,
-						Amount: -0.20000000298023224d,
-						AttributeName: "generic.luck",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.luck"
 					}],
 					Name: "quality.unlucky.name"
 				}
@@ -1160,12 +1160,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.029999999329447746d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 6723749260829082111L,
 						UUIDLeast: -7667241733788810351L,
-						Amount: 0.029999999329447746d,
-						AttributeName: "generic.attackDamage",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.attackDamage"
 					}],
 					Name: "quality.strengthening.name"
 				}
@@ -1183,12 +1183,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.029999999329447746d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 511768624493905919L,
 						UUIDLeast: -6260374578965853355L,
-						Amount: 0.029999999329447746d,
-						AttributeName: "potioncore.digSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "potioncore.digSpeed"
 					}],
 					Name: "quality.prospecting.name"
 				}
@@ -1206,20 +1206,20 @@
 					],
 					Color: "aqua",
 					AttributeModifiers: [{
+						Amount: 0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 8927624127139106612L,
 						UUIDLeast: -6209766237597780335L,
-						Amount: 0.05000000074505806d,
-						AttributeName: "generic.movementSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.movementSpeed"
 					},
 					{
+						Amount: 0.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -8086812834339009353L,
 						UUIDLeast: -8693385217846328006L,
-						Amount: 0.5d,
-						AttributeName: "potioncore.jumpHeight",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "potioncore.jumpHeight"
 					}],
 					Name: "quality.athletic.name"
 				}
@@ -1237,12 +1237,12 @@
 					],
 					Color: "red",
 					AttributeModifiers: [{
+						Amount: -0.20000000298023224d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -49178858915803468L,
 						UUIDLeast: -6598371746972752260L,
-						Amount: -0.20000000298023224d,
-						AttributeName: "generic.luck",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.luck"
 					}],
 					Name: "quality.unlucky.name"
 				}
@@ -1260,12 +1260,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 2688882065520740630L,
 						UUIDLeast: -7665649451118626898L,
-						Amount: 0.5d,
-						AttributeName: "potioncore.jumpHeight",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "potioncore.jumpHeight"
 					}],
 					Name: "quality.springy.name"
 				}
@@ -1283,12 +1283,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.05000000074505806d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -6904520968175989928L,
 						UUIDLeast: -4802306605249891050L,
-						Amount: 0.05000000074505806d,
-						AttributeName: "generic.movementSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.movementSpeed"
 					}],
 					Name: "quality.speedy.name"
 				}
@@ -1314,12 +1314,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.029999999329447746d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 8227283308619843582L,
 						UUIDLeast: -7160029051131610647L,
-						Amount: 0.029999999329447746d,
-						AttributeName: "potioncore.magicDamage",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "potioncore.magicDamage"
 					}],
 					Name: "quality.focusing.name"
 				}
@@ -1345,28 +1345,28 @@
 					],
 					Color: "light_purple",
 					AttributeModifiers: [{
+						Amount: 0.029999999329447746d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -3368061296040262599L,
 						UUIDLeast: -5800857608345984066L,
-						Amount: 0.029999999329447746d,
-						AttributeName: "potioncore.projectileDamage",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "potioncore.projectileDamage"
 					},
 					{
+						Amount: 0.029999999329447746d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 7318508373502085122L,
 						UUIDLeast: -7392761068166280139L,
-						Amount: 0.029999999329447746d,
-						AttributeName: "generic.attackDamage",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.attackDamage"
 					},
 					{
+						Amount: 0.029999999329447746d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 5717084935573751517L,
 						UUIDLeast: -5015692134252352415L,
-						Amount: 0.029999999329447746d,
-						AttributeName: "potioncore.magicDamage",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "potioncore.magicDamage"
 					}],
 					Name: "quality.punishing.name"
 				}
@@ -1384,12 +1384,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 1.0d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -2298839962719861941L,
 						UUIDLeast: -4839592005963234350L,
-						Amount: 1.0d,
-						AttributeName: "potioncore.magicShielding",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "potioncore.magicShielding"
 					}],
 					Name: "quality.shielding.name"
 				}
@@ -1415,12 +1415,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.20000000298023224d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 6480464259993193014L,
 						UUIDLeast: -5125373268834844138L,
-						Amount: 0.20000000298023224d,
-						AttributeName: "generic.luck",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.luck"
 					}],
 					Name: "quality.lucky.name"
 				}
@@ -1431,9 +1431,9 @@
 		string_id: "uncommon_wizardry_artefacts",
 		color: 16777215,
 		drops: {
-			boss: 0,
 			passive: 0,
-			monster: 0
+			monster: 0,
+			boss: 0
 		}
 	}
 }

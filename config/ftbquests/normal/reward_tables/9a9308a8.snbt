@@ -28,9 +28,9 @@
 		item_name: "骏鹰蛋箱",
 		color: 12433817,
 		drops: {
-			boss: 0,
 			passive: 0,
-			monster: 0
+			monster: 0,
+			boss: 0
 		}
 	}
 }

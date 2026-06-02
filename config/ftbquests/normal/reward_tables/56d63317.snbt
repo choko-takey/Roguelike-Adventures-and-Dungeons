@@ -149,9 +149,9 @@
 		item_name: "农场动物刷怪蛋板条箱",
 		color: 10924571,
 		drops: {
-			boss: 0,
 			passive: 0,
-			monster: 0
+			monster: 0,
+			boss: 0
 		}
 	}
 }

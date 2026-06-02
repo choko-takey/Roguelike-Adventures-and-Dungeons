@@ -46,9 +46,9 @@
 		item_name: "饮料和椅子的低需求组合板条箱",
 		color: 16762112,
 		drops: {
-			boss: 0,
 			passive: 0,
-			monster: 0
+			monster: 0,
+			boss: 0
 		}
 	}
 }

@@ -49,9 +49,9 @@
 		item_name: "余烬工程师的补给板条箱",
 		color: 13391104,
 		drops: {
-			boss: 0,
 			passive: 0,
-			monster: 0
+			monster: 0,
+			boss: 0
 		}
 	}
 }

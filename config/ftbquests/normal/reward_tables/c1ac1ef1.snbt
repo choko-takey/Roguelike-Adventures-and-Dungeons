@@ -196,12 +196,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.20000000298023224d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 3911346372190093333L,
 						UUIDLeast: -6584852676101768098L,
-						Amount: 0.20000000298023224d,
-						AttributeName: "generic.luck",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.luck"
 					}],
 					Name: "quality.lucky.name"
 				}
@@ -307,12 +307,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.029999999329447746d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 5268507907546365981L,
 						UUIDLeast: -4620313944621102758L,
-						Amount: 0.029999999329447746d,
-						AttributeName: "generic.attackDamage",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.attackDamage"
 					}],
 					Name: "quality.strengthening.name"
 				}
@@ -531,12 +531,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.029999999329447746d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -745627453834640838L,
 						UUIDLeast: -8984693532482368808L,
-						Amount: 0.029999999329447746d,
-						AttributeName: "generic.attackDamage",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.attackDamage"
 					}],
 					Name: "quality.strengthening.name"
 				}
@@ -621,20 +621,20 @@
 					],
 					Color: "aqua",
 					AttributeModifiers: [{
+						Amount: 0.029999999329447746d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: -4618430043125758013L,
 						UUIDLeast: -7657847811120667802L,
-						Amount: 0.029999999329447746d,
-						AttributeName: "potioncore.digSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "potioncore.digSpeed"
 					},
 					{
+						Amount: 0.029999999329447746d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 4005506861945539156L,
 						UUIDLeast: -5908791259439257555L,
-						Amount: 0.029999999329447746d,
-						AttributeName: "generic.attackSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.attackSpeed"
 					}],
 					Name: "quality.graceful.name"
 				}
@@ -646,9 +646,9 @@
 		item_name: "稀有级巫师饰品板条箱",
 		color: 6060725,
 		drops: {
-			boss: 0,
 			passive: 0,
-			monster: 0
+			monster: 0,
+			boss: 0
 		}
 	}
 }

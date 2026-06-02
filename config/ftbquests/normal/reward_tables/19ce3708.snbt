@@ -37,9 +37,9 @@
 		item_name: "法杖升级板条箱",
 		color: 13746053,
 		drops: {
-			boss: 0,
 			passive: 0,
-			monster: 0
+			monster: 0,
+			boss: 0
 		}
 	}
 }

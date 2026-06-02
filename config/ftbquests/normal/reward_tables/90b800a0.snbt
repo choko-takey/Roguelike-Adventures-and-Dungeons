@@ -26,7 +26,7 @@
 					Name: "quality.dented.name"
 				},
 				display: {
-					Name: "破烂巫师之帽"
+					Name: "Tattered Wizard Hat"
 				}
 			}
 		},
@@ -68,7 +68,7 @@
 					Name: "quality.crumbling.name"
 				},
 				display: {
-					Name: "破烂巫师长袍"
+					Name: "Tattered Wizard Robes"
 				}
 			}
 		},
@@ -94,7 +94,7 @@
 					Name: "quality.dented.name"
 				},
 				display: {
-					Name: "破烂巫师护腿"
+					Name: "Tattered Wizard Leggings"
 				}
 			}
 		},
@@ -120,7 +120,7 @@
 					Name: "quality.dented.name"
 				},
 				display: {
-					Name: "破烂巫师靴子"
+					Name: "Tattered Wizard Boots"
 				}
 			}
 		},

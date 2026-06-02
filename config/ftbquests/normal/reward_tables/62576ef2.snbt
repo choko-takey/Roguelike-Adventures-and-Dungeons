@@ -42,9 +42,9 @@
 		item_name: "海蟒鳞片供应补给箱",
 		color: 639963,
 		drops: {
-			boss: 0,
 			passive: 0,
-			monster: 0
+			monster: 0,
+			boss: 0
 		}
 	}
 }

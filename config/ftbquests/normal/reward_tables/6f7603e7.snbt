@@ -8,7 +8,7 @@
 				"Quark:ItemNameDye": 4,
 				Quality: {},
 				display: {
-					Name: "守护战锤"
+					Name: "Warden's Warhammer"
 				}
 			}
 		},
@@ -26,7 +26,7 @@
 				"Quark:ItemNameDye": 4,
 				Quality: {},
 				display: {
-					Name: "守卫者头盔"
+					Name: "Warden Helmet"
 				}
 			}
 		},
@@ -36,17 +36,17 @@
 		item: {
 			id: "minecraft:iron_chestplate",
 			tag: {
+				"Quark:ItemNameDye": 4,
+				Quality: {},
 				"Quark:RuneColor": 0,
+				display: {
+					Name: "Warden's Heavy Chestplate"
+				},
+				"Quark:RuneAttached": 1b,
 				ench: [{
 					lvl: 2s,
 					id: 87
-				}],
-				"Quark:ItemNameDye": 4,
-				Quality: {},
-				display: {
-					Name: "守卫者重甲"
-				},
-				"Quark:RuneAttached": 1b
+				}]
 			}
 		},
 		only_one: true
@@ -58,7 +58,7 @@
 				"Quark:ItemNameDye": 4,
 				Quality: {},
 				display: {
-					Name: "守卫者护腿"
+					Name: "Warden Leggings"
 				}
 			}
 		},
@@ -68,17 +68,17 @@
 		item: {
 			id: "minecraft:iron_boots",
 			tag: {
+				"Quark:ItemNameDye": 4,
+				Quality: {},
 				"Quark:RuneColor": 0,
+				display: {
+					Name: "Warden's Reinforced Boots"
+				},
+				"Quark:RuneAttached": 1b,
 				ench: [{
 					lvl: 1s,
 					id: 0
-				}],
-				"Quark:ItemNameDye": 4,
-				Quality: {},
-				display: {
-					Name: "守卫者护靴"
-				},
-				"Quark:RuneAttached": 1b
+				}]
 			}
 		},
 		only_one: true
@@ -106,9 +106,9 @@
 				"Quark:ItemNameDye": 8,
 				display: {
 					Lore: [
-						"铁皮药水之子！"
+						"Steel Skin Potion Son!"
 					],
-					Name: "铁皮药水"
+					Name: "Steel Skin Potion"
 				}
 			}
 		},
@@ -120,9 +120,9 @@
 		item_name: "守卫者装备板条箱",
 		color: 16777215,
 		drops: {
-			boss: 0,
 			passive: 0,
-			monster: 0
+			monster: 0,
+			boss: 0
 		}
 	}
 }

@@ -37,9 +37,9 @@
 		item_name: "驱虫装备板条箱",
 		color: 29952,
 		drops: {
-			boss: 0,
 			passive: 0,
-			monster: 0
+			monster: 0,
+			boss: 0
 		}
 	}
 }

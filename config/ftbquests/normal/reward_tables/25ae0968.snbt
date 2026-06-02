@@ -133,9 +133,9 @@
 		item_name: "普通奖励板条箱",
 		color: 13878873,
 		drops: {
-			boss: 0,
 			passive: 0,
-			monster: 0
+			monster: 0,
+			boss: 0
 		}
 	}
 }

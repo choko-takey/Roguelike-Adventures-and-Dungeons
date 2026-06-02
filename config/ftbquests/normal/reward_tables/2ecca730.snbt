@@ -9,9 +9,9 @@
 				"Quark:ItemNameDye": 14,
 				display: {
 					Lore: [
-						"这里没有更大更好的船了"
+						"There's no bigger or better boat"
 					],
-					Name: "乔利·罗杰"
+					Name: "The Jolly Roger"
 				}
 			}
 		},
@@ -20,12 +20,8 @@
 	{
 		item: {
 			id: "dungeontactics:pirate_hook",
+			Damage: 1500s,
 			tag: {
-				"Quark:RuneColor": 1,
-				ench: [{
-					lvl: 2,
-					id: 16
-				}],
 				"Quark:ItemNameDye": 14,
 				Quality: {
 					Slots: [
@@ -33,21 +29,25 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 0.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 7522130761089893644L,
 						UUIDLeast: -9163456736125628699L,
-						Amount: 0.5d,
-						AttributeName: "generic.reachDistance",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.reachDistance"
 					}],
 					Name: "quality.long.name"
 				},
+				"Quark:RuneColor": 1,
 				display: {
-					Name: "锈蚀钩爪"
+					Name: "Rusty Hook"
 				},
-				"Quark:RuneAttached": 1b
-			},
-			Damage: 1500s
+				"Quark:RuneAttached": 1b,
+				ench: [{
+					lvl: 2,
+					id: 16
+				}]
+			}
 		},
 		only_one: true
 	},
@@ -68,9 +68,9 @@
 			tag: {
 				display: {
 					Lore: [
-						"事实上你并不能把这些饲料喂给你的小鹦鹉"
+						"You can't actually feed them to parrots"
 					],
-					Name: "鹦鹉饲料"
+					Name: "Parrot Treat"
 				}
 			}
 		},
@@ -82,7 +82,7 @@
 			id: "minecraft:beetroot_seeds",
 			tag: {
 				display: {
-					Name: "小鸟种子"
+					Name: "Bird feed"
 				}
 			}
 		},
@@ -96,9 +96,9 @@
 				"Quark:ItemNameDye": 14,
 				display: {
 					Lore: [
-						"远离坏血病！"
+						"Good for keeping scury away"
 					],
-					Name: "橙子"
+					Name: "Orange"
 				}
 			}
 		},
@@ -111,9 +111,9 @@
 			tag: {
 				display: {
 					Lore: [
-						"每个海盗身边都需要一只忠诚的鹦鹉"
+						"Every pirate needs a loyal parrot by their side"
 					],
-					Name: "波弟儿"
+					Name: "Polly"
 				}
 			}
 		},
@@ -126,7 +126,7 @@
 				"Quark:ItemNameDye": 1,
 				Quality: {},
 				display: {
-					Name: "流 氓 棍"
+					Name: "Scally Wag Poker"
 				}
 			}
 		},
@@ -139,7 +139,7 @@
 				"Quark:ItemNameDye": 14,
 				Quality: {},
 				display: {
-					Name: "海盗靴子"
+					Name: "Pirate Boots"
 				}
 			}
 		},
@@ -152,7 +152,7 @@
 				"Quark:ItemNameDye": 14,
 				Quality: {},
 				display: {
-					Name: "海盗护腿"
+					Name: "Pirate Leggings"
 				}
 			}
 		},
@@ -165,7 +165,7 @@
 				"Quark:ItemNameDye": 14,
 				Quality: {},
 				display: {
-					Name: "海盗胸甲"
+					Name: "Pirate Chestplate"
 				}
 			}
 		},
@@ -182,12 +182,12 @@
 					],
 					Color: "blue",
 					AttributeModifiers: [{
+						Amount: 1.0d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 1649889442192311499L,
 						UUIDLeast: -4961167699670902919L,
-						Amount: 1.0d,
-						AttributeName: "generic.armorToughness",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.armorToughness"
 					}],
 					Name: "quality.tough.name"
 				}
@@ -200,9 +200,9 @@
 		item_name: "海盗装备板条箱",
 		color: 16777215,
 		drops: {
-			boss: 0,
 			passive: 0,
-			monster: 0
+			monster: 0,
+			boss: 0
 		}
 	}
 }

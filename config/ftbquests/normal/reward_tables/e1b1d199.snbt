@@ -6,17 +6,17 @@
 		item: {
 			id: "minecraft:diamond_pickaxe",
 			tag: {
+				"Quark:ItemNameDye": 0,
+				Quality: {},
 				"Quark:RuneColor": 12,
+				display: {
+					Name: "Dwarf's Silk Touch Pickaxe"
+				},
+				"Quark:RuneAttached": 1b,
 				ench: [{
 					lvl: 1s,
 					id: 33
-				}],
-				"Quark:ItemNameDye": 0,
-				Quality: {},
-				display: {
-					Name: "矮人的精准采集之镐"
-				},
-				"Quark:RuneAttached": 1b
+				}]
 			}
 		}
 	},
@@ -24,17 +24,17 @@
 		item: {
 			id: "minecraft:diamond_pickaxe",
 			tag: {
+				"Quark:ItemNameDye": 8,
+				Quality: {},
 				"Quark:RuneColor": 12,
+				display: {
+					Name: "Reinforced Dwarf Pickaxe"
+				},
+				"Quark:RuneAttached": 1b,
 				ench: [{
 					lvl: 3s,
 					id: 34
-				}],
-				"Quark:ItemNameDye": 8,
-				Quality: {},
-				display: {
-					Name: "强化矮人镐"
-				},
-				"Quark:RuneAttached": 1b
+				}]
 			}
 		}
 	},
@@ -42,17 +42,17 @@
 		item: {
 			id: "minecraft:diamond_pickaxe",
 			tag: {
+				"Quark:ItemNameDye": 15,
+				Quality: {},
 				"Quark:RuneColor": 12,
+				display: {
+					Name: "Lucky Dwarf Pickaxe"
+				},
+				"Quark:RuneAttached": 1b,
 				ench: [{
 					lvl: 3s,
 					id: 35
-				}],
-				"Quark:ItemNameDye": 15,
-				Quality: {},
-				display: {
-					Name: "幸运矮人镐"
-				},
-				"Quark:RuneAttached": 1b
+				}]
 			}
 		}
 	}],
@@ -60,9 +60,9 @@
 		string_id: "tool_enchant_reward",
 		color: 16777215,
 		drops: {
-			boss: 0,
 			passive: 0,
-			monster: 0
+			monster: 0,
+			boss: 0
 		}
 	}
 }

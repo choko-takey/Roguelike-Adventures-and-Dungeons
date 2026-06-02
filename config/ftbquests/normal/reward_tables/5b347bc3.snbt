@@ -193,9 +193,9 @@
 		item_name: "树苗供应板条箱",
 		color: 65280,
 		drops: {
-			boss: 0,
 			passive: 0,
-			monster: 0
+			monster: 0,
+			boss: 0
 		}
 	}
 }

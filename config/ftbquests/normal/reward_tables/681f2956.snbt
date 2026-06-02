@@ -8,7 +8,7 @@
 				"Quark:ItemNameDye": 3,
 				Quality: {},
 				display: {
-					Name: "矮人铁皮盾"
+					Name: "Dwarven Tin Shield"
 				}
 			}
 		},
@@ -30,7 +30,7 @@
 				Quality: {},
 				display: {
 					Lore: [
-						"每个矮人都需要一个可靠的选择"
+						"Every Dwarf needs a trusty pick"
 					],
 					Name: "Ol Besty"
 				}
@@ -55,7 +55,7 @@
 				"Quark:ItemNameDye": 3,
 				Quality: {},
 				display: {
-					Name: "矮人战锤"
+					Name: "Dwarf Hammer"
 				}
 			}
 		},
@@ -68,7 +68,7 @@
 				"Quark:ItemNameDye": 3,
 				Quality: {},
 				display: {
-					Name: "矮人战靴"
+					Name: "Dwarf Boots"
 				}
 			}
 		},
@@ -81,7 +81,7 @@
 				"Quark:ItemNameDye": 3,
 				Quality: {},
 				display: {
-					Name: "矮人护腿"
+					Name: "Dwarf Leggings"
 				}
 			}
 		},
@@ -94,7 +94,7 @@
 				"Quark:ItemNameDye": 3,
 				Quality: {},
 				display: {
-					Name: "矮人胸甲"
+					Name: "Dwarf Chestplate"
 				}
 			}
 		},
@@ -107,7 +107,7 @@
 				"Quark:ItemNameDye": 3,
 				Quality: {},
 				display: {
-					Name: "矮人头盔"
+					Name: "Dwarf Helmet"
 				}
 			}
 		},
@@ -141,9 +141,9 @@
 				"Quark:ItemNameDye": 14,
 				display: {
 					Lore: [
-						"所有矮人都喜欢喝的啤酒"
+						"A Mighty Ale all dwarfs enjoy drinking"
 					],
-					Name: "矮人格罗格酒"
+					Name: "Dwarf Grog"
 				}
 			}
 		},
@@ -155,9 +155,9 @@
 		item_name: "矮人装备板条箱",
 		color: 16777215,
 		drops: {
-			boss: 0,
 			passive: 0,
-			monster: 0
+			monster: 0,
+			boss: 0
 		}
 	}
 }

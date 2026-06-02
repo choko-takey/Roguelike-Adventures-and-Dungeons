@@ -3,16 +3,9 @@
 	loot_size: 50,
 	rewards: [{
 		item: {
-			ForgeCaps: {
-				Parent: {
-					Size: 4,
-					Items: []
-				}
-			},
 			id: "spartanweaponry:quiver_bolt",
 			tag: {
-				ClientInventory: [],
-				"Quark:ItemNameDye": 5,
+				ammoCollect: 1b,
 				Quality: {
 					Slots: [
 						"baubles_trinket",
@@ -20,19 +13,26 @@
 					],
 					Color: "red",
 					AttributeModifiers: [{
+						Amount: -0.20000000298023224d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 9171023254255061247L,
 						UUIDLeast: -7997876377223861178L,
-						Amount: -0.20000000298023224d,
-						AttributeName: "generic.luck",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.luck"
 					}],
 					Name: "quality.unlucky.name"
 				},
 				display: {
-					Name: "不幸的小箭袋"
+					Name: "Slightly Unlucky Quiver"
 				},
-				ammoCollect: 1b
+				ClientInventory: [],
+				"Quark:ItemNameDye": 5
+			},
+			ForgeCaps: {
+				Parent: {
+					Items: [],
+					Size: 4
+				}
 			}
 		},
 		only_one: true
@@ -44,9 +44,9 @@
 				"Quark:ItemNameDye": 4,
 				display: {
 					Lore: [
-						"把它扔向对手，看看他们脸上震惊的表情"
+						"Throw it at an opponent and look at the shock on their face."
 					],
-					Name: "电光炸弹"
+					Name: "Spark Bomb"
 				}
 			}
 		},
@@ -60,9 +60,9 @@
 				"Quark:ItemNameDye": 1,
 				display: {
 					Lore: [
-						"热辣暴击"
+						"Hot and Spicy."
 					],
-					Name: "火焰炸弹"
+					Name: "Fire Bomb"
 				}
 			}
 		},
@@ -86,9 +86,9 @@
 				"Quark:ItemNameDye": 5,
 				display: {
 					Lore: [
-						"你拿了我的弩！"
+						"You have my crossbow!"
 					],
-					Name: "加拉德瑞尔的弩"
+					Name: "The Crossbow of the Galadhrim"
 				}
 			}
 		},
@@ -98,18 +98,18 @@
 		item: {
 			id: "spartanweaponry:throwing_axe_bronze",
 			tag: {
-				AmmoUsed: 4,
-				"Quark:ItemNameDye": 5,
+				enchChecked: 1b,
+				Original: 1b,
 				UUIDMost: 987710956231672314L,
 				UUIDLeast: -6699777503193815989L,
+				"Quark:ItemNameDye": 5,
+				AmmoUsed: 4,
 				display: {
 					Lore: [
-						"战斧将给他们致命一击。"
+						"A Tomahawk chop shall be their death blow."
 					],
-					Name: "战斧"
-				},
-				enchChecked: 1b,
-				Original: 1b
+					Name: "Tomahawk"
+				}
 			}
 		},
 		only_one: true
@@ -121,9 +121,9 @@
 				"Quark:ItemNameDye": 10,
 				display: {
 					Lore: [
-						"不要吸入其中的化学物质"
+						"Do not breathe in the chemicals from this."
 					],
-					Name: "剧毒炸弹"
+					Name: "Poison Bomb"
 				}
 			}
 		},
@@ -137,7 +137,7 @@
 				"Quark:ItemNameDye": 5,
 				Quality: {},
 				display: {
-					Name: "炮兵头盔"
+					Name: "Artillery Helmet"
 				}
 			}
 		},
@@ -150,7 +150,7 @@
 				"Quark:ItemNameDye": 5,
 				Quality: {},
 				display: {
-					Name: "炮兵胸甲"
+					Name: "Artillery Chestplate"
 				}
 			}
 		},
@@ -163,7 +163,7 @@
 				"Quark:ItemNameDye": 5,
 				Quality: {},
 				display: {
-					Name: "炮兵护腿"
+					Name: "Artillery Leggings"
 				}
 			}
 		},
@@ -176,7 +176,7 @@
 				"Quark:ItemNameDye": 5,
 				Quality: {},
 				display: {
-					Name: "炮兵靴子"
+					Name: "Artillery Boots"
 				}
 			}
 		},
@@ -187,9 +187,9 @@
 		item_name: "炮兵装备板条箱",
 		color: 16777215,
 		drops: {
-			boss: 0,
 			passive: 0,
-			monster: 0
+			monster: 0,
+			boss: 0
 		}
 	}
 }

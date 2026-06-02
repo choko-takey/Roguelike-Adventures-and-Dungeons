@@ -12,36 +12,36 @@
 					],
 					Color: "light_purple",
 					AttributeModifiers: [{
+						Amount: 0.05d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 5414422033505338482L,
 						UUIDLeast: -7210327974333615201L,
-						Amount: 0.05d,
-						AttributeName: "generic.attackSpeed",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.attackSpeed"
 					},
 					{
+						Amount: -0.05d,
+						Name: "qualitytools",
+						Operation: 2,
 						UUIDMost: 7715692548528554156L,
 						UUIDLeast: -6051602092020315825L,
-						Amount: -0.05d,
-						AttributeName: "generic.attackDamage",
-						Operation: 2,
-						Name: "qualitytools"
+						AttributeName: "generic.attackDamage"
 					},
 					{
+						Amount: -0.25d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -2345347565259043949L,
 						UUIDLeast: -5593691322639275996L,
-						Amount: -0.25d,
-						AttributeName: "generic.reachDistance",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.reachDistance"
 					}],
-					Name: "断裂巨剑"
+					Name: "Broken Tip"
 				},
 				display: {
 					Lore: [
-						"断裂巨剑依然可以继续战斗！"
+						"A Large Greatsword with a broken tip still gets the job done"
 					],
-					Name: "未锻者"
+					Name: "The Unforged"
 				}
 			}
 		},
@@ -72,7 +72,7 @@
 				CustomPotionColor: 16725555,
 				"Quark:ItemNameDye": 1,
 				display: {
-					Name: "战神狂怒"
+					Name: "Warlord's Fury"
 				}
 			}
 		},
@@ -91,7 +91,7 @@
 				"Quark:ItemNameDye": 1,
 				Quality: {},
 				display: {
-					Name: "战神头盔"
+					Name: "Warlord Helmet"
 				}
 			}
 		},
@@ -104,7 +104,7 @@
 				"Quark:ItemNameDye": 1,
 				Quality: {},
 				display: {
-					Name: "战神胸甲"
+					Name: "Warlord Chestplate"
 				}
 			}
 		},
@@ -117,7 +117,7 @@
 				"Quark:ItemNameDye": 1,
 				Quality: {},
 				display: {
-					Name: "战神护腿"
+					Name: "Warlord Leggings"
 				}
 			}
 		},
@@ -139,25 +139,25 @@
 					],
 					Color: "dark_red",
 					AttributeModifiers: [{
+						Amount: -0.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 5253442232822090819L,
 						UUIDLeast: -7207881377648735076L,
-						Amount: -0.5d,
-						AttributeName: "generic.armorToughness",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.armorToughness"
 					},
 					{
+						Amount: -0.5d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: -1851530171536356551L,
 						UUIDLeast: -5814866886873367965L,
-						Amount: -0.5d,
-						AttributeName: "generic.armor",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.armor"
 					}],
-					Name: "战神之靴"
+					Name: "Exposed"
 				},
 				display: {
-					Name: "战神之靴"
+					Name: "Warlord's Heels"
 				}
 			}
 		},
@@ -168,9 +168,9 @@
 		item_name: "战神装备板条箱",
 		color: 16777215,
 		drops: {
-			boss: 0,
 			passive: 0,
-			monster: 0
+			monster: 0,
+			boss: 0
 		}
 	}
 }

@@ -51,9 +51,9 @@
 		item_name: "符文板板条箱",
 		color: 9598865,
 		drops: {
-			boss: 0,
 			passive: 0,
-			monster: 0
+			monster: 0,
+			boss: 0
 		}
 	}
 }
