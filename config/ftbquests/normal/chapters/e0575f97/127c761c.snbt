@@ -25,7 +25,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any rootsBark"
+					Name: "任意树皮"
 				}
 			},
 			ForgeCaps: {
@@ -43,7 +43,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any allFlowers"
+					Name: "任意花朵"
 				}
 			},
 			ForgeCaps: {
@@ -61,7 +61,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any rootsBark"
+					Name: "任意树皮"
 				}
 			},
 			ForgeCaps: {
@@ -79,7 +79,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any stonebrick"
+					Name: "任意石砖"
 				}
 			},
 			ForgeCaps: {

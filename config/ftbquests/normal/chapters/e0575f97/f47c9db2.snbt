@@ -47,7 +47,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any bone"
+					Name: "任意骨头"
 				}
 			},
 			ForgeCaps: {

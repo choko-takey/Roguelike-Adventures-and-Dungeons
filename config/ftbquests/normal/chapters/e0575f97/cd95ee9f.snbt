@@ -42,7 +42,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any stickWood"
+					Name: "任意木棍"
 				}
 			},
 			ForgeCaps: {
@@ -60,7 +60,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any dyeRed"
+					Name: "任意红色染料"
 				}
 			},
 			ForgeCaps: {

@@ -1,0 +1,511 @@
+RAD 1.56 remaining Name/Lore/pages/author translation review
+Note: pages JSON keys are ignored; only rendered string values are checked.
+Implemented chapters scanned: 32
+Reward table files scanned: 78
+Remaining English candidate entries: 164
+  author: 94
+  display.Name: 6
+  pages: 64
+
+[chapters]
+
+241806e9/0d9f8fc3.snbt
+  line 17 pages: 
+
+ï¿½l   地牢百科
+
+ï¿½l     第8卷
+  line 19 pages: 
+
+ï¿½l     第1节
+
+ï¿½l    遗迹
+  line 20 pages: ï¿½l    遗迹
+
+这些遗迹聚集着成群想要杀死你的生物。虽然这里是寻找战利品的好地方，但它们也可能令你身陷囹圄。
+  line 21 pages: ï¿½l      高塔
+
+这些高塔直耸云天，却破旧不堪，窗户肮脏到透不进一丝光线。
+  line 23 pages: ï¿½l     地牢
+
+深埋于土壤和岩石之下，一些地牢在地表下恒久存在。在遗弃这些地牢之前，原住民们留下了一个傀儡，以阻止怪物侵占这片土地。
+  line 25 pages: ï¿½l   海盗船
+
+这些漂流船的亡灵船员们注定要保护这些不义之财，直到它们反常生命的终点。虽然船长可能早已死去，但他劫掠的财富可能仍然隐藏在属于他的船上。
+  line 26 pages: 
+
+ï¿½l     第2节
+
+ï¿½l       植物
+  line 27 pages: ï¿½l      花
+
+在这宽广土地的各处，大自然都在反抗人类和怪物的四散活动。有些花已经进化出属于自己的防御能力，有些是帮助其他生物以得到保护，有些则伤害任何靠近的人。
+  line 29 pages: ï¿½l     蘑菇
+
+这些蘑菇想在哪生长就在哪生长。俗话说的“你就是你吃的东西”一定起源于蘑菇王国，因为一些蘑菇已经从祖先生长的矿石中获得了特性。
+
+241806e9/31bf2fad.snbt
+  line 17 pages: 
+
+ï¿½l   地牢百科
+
+ï¿½l     第3卷
+  line 19 pages: ï¿½l    首饰
+
+首饰是附魔的珠宝。你可以通过将它们放入你的背包中来佩戴并激活以提供多种效果，但代价是加速饱食度消耗。
+  line 20 pages: ï¿½l    骨质护符
+
+尽管看起来不怎么样，这些护符却可以保护使用者。它们的工作方式与首饰类似，不过它们仅会消除使用者的负面效果并且不会持续生效。
+  line 22 pages: ï¿½l    速度
+
+增加使用者的速度。
+较低消耗
+  line 23 pages: ï¿½l    跳跃提升
+
+增加使用者的跳跃高度。
+较低消耗
+  line 24 pages: ï¿½l    急迫
+
+增加使用者的挖掘速度。
+较低消耗
+  line 25 pages: ï¿½l    水下呼吸
+
+给予使用者最酷的正义联盟海王的所有能力，除了他与鱼交谈或快速游泳的能力。三叉戟单独出售。
+中等消耗
+  line 26 pages: ï¿½l    火焰护盾
+
+帮助使用者抵御热东西，但不能抵御热门话题。
+中等消耗
+  line 27 pages: ï¿½l    夜视
+
+火把是给麻瓜用的。
+中等消耗
+  line 28 pages: ï¿½l    铜头铁臂
+
+帮助使用者防御攻击，就好像他们的皮肤是由非常坚硬的物质制成的……就像有了铜头铁臂……
+中等消耗
+  line 29 pages: ï¿½l    力量
+
+像绿巨人那样！粉碎他们！
+较高消耗
+  line 30 pages: ï¿½l    神出鬼没
+
+不要在公共更衣室里用。
+较高消耗
+
+241806e9/4119c49b.snbt
+  line 17 pages: 
+
+ï¿½l   地牢百科
+
+ï¿½l     第4卷
+  line 19 pages: 
+
+ï¿½l     第1节
+
+ï¿½l      炼金术
+  line 21 pages: ï¿½l   樱桃炸弹
+
+它们确实是樱桃，会爆炸的樱桃。虽然可能含有少量的类似火药的物质，但它们是无毒的，并且可用于大量制造真正的火药。
+  line 23 pages: ï¿½l  焚莓
+
+有点像柿子，但它的汁液是熔岩。它真的非常好吃，而且非常健康，当然，前提是你免疫火焰。如果有足够的这种果子的汁液，你甚至可以融化岩浆块。*建议提前准备一个桶*
+  line 25 pages: ï¿½l   荧光果
+
+如果你不介意让所有生物都知道你在哪里，这个奇特的浆果可以帮助一个并没有准备充足的旅行者穿行于下界。不可思议的是，它吃起来并没有其它害处。我的意思是，我希望能从下界的浆果中收获更多死亡……
+  line 27 pages: ï¿½l    魔法粉尘
+
+施法时必要的催化剂，因为你没有魔法方面的潜力。没有。所以你需要从真正具有魔法的来源中吸取能量。
+  line 29 pages: ï¿½l   黄金之心
+
+如果你成功地抓住了一颗心并用黄金闷死了它，你就不再能取得它的爱，但你仍然可以将它吃掉。
+  line 31 pages: ï¿½l     灵魂石
+
+可以肯定的是，困住活着生物的灵魂是不好的，最好先把他们杀死。
+  line 34 pages: 
+
+ï¿½l     第2节
+
+ï¿½l    魔法浸染
+  line 38 pages: 
+
+ï¿½l     第3节
+
+ï¿½l   施法卷轴
+  line 40 pages: ï¿½l    魔法袋
+
+你可以把你的魔法粉尘放在你的袖子里，或放在你的肚子上，但这些漂亮的小袋子可以容纳更多的粉尘。只要打开它，它就会自动“吃掉”你背包里的魔法粉尘。
+  line 41 pages: ï¿½l    集中施法
+
+大多数法术有两种施法模式。集中施法（潜行）会改变效果，这会使一些法术被施放为 AoE，或者取消法术对其他玩家的影响。
+  line 42 pages: ï¿½l   魔法亲和
+
+魔法亲和可以被附魔在盔甲上以降低施法成本。
+  line 43 pages: ï¿½l    恢复
+
+普通施法会治疗施法者及其队友，集中施法将给予施法范围内所有人大约上述一半的治疗量。
+  line 44 pages: ï¿½l      饱足
+
+普通施法将增加施法者及其队友的饱食度，集中施法将增加施法范围内所有人大约上述增加量一半的饱食度。
+  line 45 pages: ï¿½l      锻造
+
+普通施法将冶炼施法者背包中的所有矿石和其他一些资源，集中施法将只冶炼背包中一格内的物品，但产出双倍。
+  line 46 pages: ï¿½l      厨师
+
+普通施法将烹饪施法者背包中的所有食物，集中施法将只烹饪背包中一格内的物品，但产出双倍。
+  line 47 pages: ï¿½l      冻结
+
+普通施法将对除了施法者及其队友外附近所有生物施加缓慢和霜燃并造成冰冻伤害，集中施法则将忽略其他玩家。
+  line 48 pages: ï¿½l      发掘
+
+普通施法会移除除施法者及其队友外附近所有生物的盔甲，集中施法则将忽略其他玩家。
+  line 49 pages: ï¿½l       缴械
+
+普通施法会缴械除施法者及其队友外附近所有生物，集中施法则将忽略其他玩家。
+  line 50 pages: ï¿½l      迷惑
+
+普通施法将使除了施法者及其队友外附近所有生物旋转并失明，集中施法则将忽略其他玩家。
+  line 51 pages: ï¿½l       惩戒
+
+普通施法将对除了施法者及其队友外附近所有生物造成魔法伤害，集中施法则将忽略其他玩家。
+  line 52 pages: ï¿½l       凋零
+
+普通施法将对除了施法者及其队友外附近所有生物施加凋零，集中施法则将忽略其他玩家。
+  line 53 pages: ï¿½l        天罚
+
+普通施法将对除了施法者及其队友外附近所有生物施放闪电，集中施法则将忽略其他玩家。
+  line 54 pages: ï¿½l    魔导飞弹
+
+普通施法将对除了施法者及其队友外附近所有生物发射追踪弹，集中施法则将忽略其他玩家。
+  line 55 pages: ï¿½l     飞针旋风
+
+就好比一只豪猪打了个大喷嚏。
+  line 56 pages: ï¿½l     传送
+
+想要一匹死去的马？好吧，这是你应得的，所以闭嘴吧。
+  line 57 pages: ï¿½l     同伴
+
+你最好的伙伴死了吗？生活并不公平，但魔法可以借此展现肮脏的一面。
+  line 58 pages: ï¿½l       破甲
+
+普通施法将对除了施法者及其队友外附近所有生物造成严重伤害，集中施法会忽略其他玩家。
+  line 59 pages: ï¿½l       愤怒
+
+普通施法对施法者和队友施加力量和抗性提升，集中施法则会施加给施法范围内所有人，大约是施法者的一半。
+  line 60 pages: ï¿½l     窃魂
+
+仅限普通施法。需要灵魂石作为容器才能填充。将施法者周围所有不同物种实体的灵魂每物种一个地分别绑定到灵魂石上。
+
+4097b508/01f535bb.snbt
+  line 47 author: Samara__
+
+4097b508/04d9a0da.snbt
+  line 39 author: Samara__
+
+4097b508/04f3fbc4.snbt
+  line 47 author: Samara__
+
+4097b508/0557868e.snbt
+  line 52 author: Samara__
+
+4097b508/0df242be.snbt
+  line 39 author: Samara__
+
+4097b508/105ff16e.snbt
+  line 67 author: Samara__
+  line 91 author: Samara__
+  line 115 author: Samara__
+
+4097b508/11e88924.snbt
+  line 39 author: Samara__
+
+4097b508/1205c468.snbt
+  line 39 author: Samara__
+
+4097b508/1932a995.snbt
+  line 51 author: Samara__
+
+4097b508/19720f00.snbt
+  line 51 author: Samara__
+
+4097b508/1bfc059c.snbt
+  line 39 author: Samara__
+
+4097b508/1d34b62f.snbt
+  line 39 author: Samara__
+
+4097b508/1e24ce5d.snbt
+  line 47 author: Samara__
+
+4097b508/21c761f2.snbt
+  line 47 author: Samara__
+
+4097b508/237c7d30.snbt
+  line 47 author: Samara__
+
+4097b508/2811ef57.snbt
+  line 39 author: Samara__
+
+4097b508/283a0156.snbt
+  line 39 author: Samara__
+
+4097b508/2a2d7317.snbt
+  line 46 author: Samara__
+
+4097b508/2cea0de2.snbt
+  line 39 author: Samara__
+
+4097b508/305e787d.snbt
+  line 67 author: Samara__
+  line 91 author: Samara__
+  line 115 author: Samara__
+
+4097b508/3419a1d3.snbt
+  line 47 author: Samara__
+
+4097b508/3444874a.snbt
+  line 39 author: Samara__
+
+4097b508/3b1eef1a.snbt
+  line 39 author: Samara__
+
+4097b508/3d9cd659.snbt
+  line 47 author: Samara__
+
+4097b508/3f8c0bd8.snbt
+  line 67 author: Samara__
+  line 91 author: Samara__
+  line 115 author: Samara__
+
+4097b508/424674aa.snbt
+  line 47 author: Samara__
+
+4097b508/490677de.snbt
+  line 47 author: Samara__
+
+4097b508/4efe839f.snbt
+  line 47 author: Samara__
+
+4097b508/4f1d3d7f.snbt
+  line 67 author: Samara__
+  line 91 author: Samara__
+  line 115 author: Samara__
+
+4097b508/4f40d793.snbt
+  line 48 author: Samara__
+
+4097b508/537d9e1d.snbt
+  line 48 author: Samara__
+
+4097b508/57426462.snbt
+  line 47 author: Samara__
+
+4097b508/5940ebf3.snbt
+  line 47 author: Samara__
+
+4097b508/5b69b4cc.snbt
+  line 47 author: Samara__
+
+4097b508/608634ef.snbt
+  line 47 author: Samara__
+
+4097b508/6723bb54.snbt
+  line 48 author: Samara__
+
+4097b508/6dc36e86.snbt
+  line 39 author: Samara__
+
+4097b508/70e57173.snbt
+  line 49 author: Samara__
+
+4097b508/720acdb9.snbt
+  line 48 author: Samara__
+
+4097b508/72e0102b.snbt
+  line 47 author: Samara__
+
+4097b508/76a2530d.snbt
+  line 47 author: Samara__
+
+4097b508/778c0750.snbt
+  line 47 author: Samara__
+
+4097b508/799eaf53.snbt
+  line 48 author: Samara__
+
+4097b508/7c03e3dc.snbt
+  line 67 author: Samara__
+  line 91 author: Samara__
+  line 115 author: Samara__
+
+4097b508/7fc0a1c2.snbt
+  line 39 author: Samara__
+
+4097b508/853547a0.snbt
+  line 47 author: Samara__
+
+4097b508/86cea138.snbt
+  line 47 author: Samara__
+
+4097b508/8b97cf86.snbt
+  line 51 author: Samara__
+
+4097b508/99d27df9.snbt
+  line 67 author: Samara__
+  line 92 author: Samara__
+  line 116 author: Samara__
+
+4097b508/a059181f.snbt
+  line 67 author: Samara__
+  line 91 author: Samara__
+  line 115 author: Samara__
+
+4097b508/a0fadca5.snbt
+  line 47 author: Samara__
+
+4097b508/a7e16d71.snbt
+  line 47 author: Samara__
+
+4097b508/a80a698c.snbt
+  line 51 author: Samara__
+
+4097b508/a8a72b30.snbt
+  line 39 author: Samara__
+
+4097b508/ae2c2343.snbt
+  line 47 author: Samara__
+
+4097b508/af7f4505.snbt
+  line 47 author: Samara__
+
+4097b508/b9371bf3.snbt
+  line 39 author: Samara__
+
+4097b508/bfe278db.snbt
+  line 67 author: Samara__
+  line 91 author: Samara__
+  line 115 author: Samara__
+
+4097b508/c143f6b7.snbt
+  line 47 author: Samara__
+
+4097b508/c2274261.snbt
+  line 47 author: Samara__
+
+4097b508/d00a5dcd.snbt
+  line 67 author: Samara__
+  line 91 author: Samara__
+  line 115 author: Samara__
+
+4097b508/d4d9656b.snbt
+  line 39 author: Samara__
+
+4097b508/d625270b.snbt
+  line 47 author: Samara__
+
+4097b508/e5a42f7b.snbt
+  line 67 author: Samara__
+  line 91 author: Samara__
+  line 115 author: Samara__
+
+4097b508/e97087d2.snbt
+  line 47 author: Samara__
+
+4097b508/f1deb77d.snbt
+  line 47 author: Samara__
+
+4097b508/f27e3800.snbt
+  line 39 author: Samara__
+
+4097b508/f3eef09d.snbt
+  line 48 author: Samara__
+
+4097b508/f589473a.snbt
+  line 51 author: Samara__
+
+4097b508/fa207bcc.snbt
+  line 47 author: Samara__
+
+4097b508/fba3e722.snbt
+  line 67 author: Samara__
+  line 91 author: Samara__
+  line 115 author: Samara__
+
+a1438784/b831239f.snbt
+  line 28 pages: 目录
+
+新的方块 | Pg 3-5
+制作 | Pg 6-7
+食物 | Pg 8
+日语者 | Pg 9
+矿物 | Pg 10
+遗迹 | Pg 11
+神器 | Pg 12
+魔法 | Pg 13-15
+原住民 | Pg 16
+  line 37 pages: 我在洞穴里延突出的岩石中发现了一些遗物。
+
+我曾尝试过清洗几件，它们有的能是很珍贵的珠宝，而有的则在我还没反应过来时就溶解在水里了。（土块？minecraft？妙啊）
+  line 46 author: Mastarin
+
+af99b57c/0deb3d24.snbt
+  line 41 pages: Venatio
+stabunt quadrupedes et flexis laetus habenis teque tuumque canam terris venerabile numen. Aurea pacati regeres cum saecula mundi,
+Iustitia inviolata malis, placidissima virgo,
+sive illa Astraei genus es, quem fama parentem
+  line 42 pages: tradidit astrorum, seu vera intercidit aevo
+ortus fama tui, mediis te laeta ferebas
+sublimis populis nec dedignata subire
+tecta hominum et puros sine crimine, diva, penatis iura dabas cultuque novo rude vulgus in omnem 
+  line 43 pages: formabas vitae sinceris artibus usum.
+nondum vesanos rabies nudaverat ensis
+nec consanguineis fuerat discordia nota,
+ignotique maris cursus privataque tellus
+
+af99b57c/1e85ee42.snbt
+  line 62 pages: Animals
+adsfadsf fdswaf alle asdfasdf uww asdf warm
+dssdf werwer fo
+asdf oiif sasff
+ssfsdd. ▊◥
+Come hier ist was craty halt waal same ass komm halt hei asdf.
+
+af99b57c/2c291282.snbt
+  line 38 pages: Animals
+adsfadsf fdswaf alle asdfasdf uww asdf warm
+dssdf werwer fo
+asdf oiif sasff
+ssfsdd. ▊◥
+Come hier ist was craty halt waal same ass komm halt hei asdf.
+
+af99b57c/46fe7899.snbt
+  line 63 pages: Engelland
+De aldig sprekning aff de land folk aff de sud vest aff Engelland, seenens til har komen neder, met en diversning kama sneler dan da aff de ven av tragenig aff sprekning vorms, van de sprak va vor
+  line 64 pages: forealdigrear, de folgenear aff de Seneks op letear CÃ¨rdik ent Kynrik, Stuf ent WyddgÃ¡r, brovt van de sud aff Danmark, der iland sitplats, va Kong Enylfrot kals "Eenlyd Zeeksen" oder Aldig Seksen, i va is nun Holstei, ent van de tri eelands Niderdstrent, Busen ent Heligoenland
+
+af99b57c/944a00ac.snbt
+  line 20 pages: Priamides
+Hanc tibi Priamides mitto, Ledaea, salutem,
+quae tribui sola te mihi dante potest.
+eloquar, an flammae non est opus indice notae, et plus quam vellem, iam meus extat amor? ille quidem lateat malim, dum tempora dentur laetitiae mixtos non habitura metus.
+  line 21 pages: sed male dissimulo; quis enim celaverit ignem,
+lumine qui semper proditur ipse suo?
+si tamen expectas, vocem quoque rebus ut addam: uror—habes animi nuntia verba mei.
+parce, precor, fasso, nec vultu cetera duro
+ perlege, sed formae conveniente tuae.
+  line 22 pages: iamdudum gratum est, quod epistula nostra recepta spem facit, hoc recipi me quoque posse modo. quae rata sit; nec te frustra promiserit, opto, hoc mihi quae suasit, mater Amoris, iter. namque ego divino monitu—ne nescia pecces— advehor et coepto non leve numen adest.
+[reward_tables]
+
+2ecca730.snbt
+  line 73 display.Name: Parrot Treat
+  line 101 display.Name: Orange
+
+681f2956.snbt
+  line 35 display.Name: Ol Besty
+  line 146 display.Name: Dwarf Grog
+
+ebcf61bd.snbt
+  line 87 display.Name: Shusui
+
+ecf36822.snbt
+  line 78 display.Name: Mage's Wand

@@ -26,7 +26,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any eye"
+					Name: "任意眼睛"
 				}
 			},
 			ForgeCaps: {

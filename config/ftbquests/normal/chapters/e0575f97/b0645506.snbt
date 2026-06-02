@@ -28,7 +28,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any allFlowers"
+					Name: "任意花朵"
 				}
 			},
 			ForgeCaps: {
@@ -46,7 +46,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any treeSapling"
+					Name: "任意树苗"
 				}
 			},
 			ForgeCaps: {

@@ -81,7 +81,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any cobblestone"
+					Name: "任意圆石"
 				}
 			},
 			ForgeCaps: {

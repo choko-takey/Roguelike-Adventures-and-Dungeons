@@ -80,9 +80,9 @@
 				},
 				"Quark:RuneColor": 16,
 				display: {
-					Name: "Karl's Trusty Pickaxe",
+					Name: "卡尔的爱镐",
 					Lore: [
-						"A pickaxe that said to belong to Karl now passed down to you"
+						"曾经属于卡尔的镐子，现在属于你了"
 					]
 				},
 				"Quark:RuneAttached": 1b,

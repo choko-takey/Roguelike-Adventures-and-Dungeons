@@ -41,7 +41,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any slimeball"
+					Name: "任意粘液球"
 				}
 			},
 			ForgeCaps: {
@@ -59,7 +59,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any wool"
+					Name: "任意羊毛"
 				}
 			},
 			ForgeCaps: {

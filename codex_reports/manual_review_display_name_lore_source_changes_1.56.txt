@@ -1,0 +1,29 @@
+RAD 1.56 display Name/Lore source text change review
+Scope: implemented chapters and reward_tables
+Files with display source changes: 3
+
+[chapters] 1789e3ff/9049cfaf.snbt
+  counts: en_1.55=0, en_1.56=2, old_zh_1.55v4=0, current=2
+  field[0] old en: <missing>
+  field[0] new en: Name: Karl's Trusty Pickaxe
+  field[0] old zh: <missing>
+  field[0] current: Name: Karl's Trusty Pickaxe
+  field[1] old en: <missing>
+  field[1] new en: Lore: A pickaxe that said to belong to Karl now passed down to you
+  field[1] old zh: <missing>
+  field[1] current: Lore: A pickaxe that said to belong to Karl now passed down to you
+
+[chapters] 9dc9f76e/16cbae88.snbt
+  counts: en_1.55=0, en_1.56=1, old_zh_1.55v4=0, current=
+  field[0] old en: <missing>
+  field[0] new en: Name: Reinforced Anvil
+  field[0] old zh: <missing>
+  field[0] current: <missing>
+
+[chapters] d26f9af1/f402eb84.snbt
+  counts: en_1.55=0, en_1.56=1, old_zh_1.55v4=0, current=
+  field[0] old en: <missing>
+  field[0] new en: Name: Any coalPowered
+  field[0] old zh: <missing>
+  field[0] current: <missing>
+

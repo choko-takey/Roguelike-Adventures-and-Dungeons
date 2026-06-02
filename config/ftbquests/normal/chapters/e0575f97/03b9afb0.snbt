@@ -73,7 +73,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any tallgrass"
+					Name: "任意高草丛"
 				}
 			},
 			ForgeCaps: {

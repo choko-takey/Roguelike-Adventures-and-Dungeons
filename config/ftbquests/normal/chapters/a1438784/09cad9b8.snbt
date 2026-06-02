@@ -40,7 +40,7 @@
 				structureName: "config/capsule/rewards/atum_portal",
 				display: {
 					color: 16769028,
-					Name: "Atum Portal"
+					Name: "阿图姆传送门"
 				},
 				canRotate: 1b
 			}

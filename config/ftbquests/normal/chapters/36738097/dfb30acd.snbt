@@ -40,7 +40,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any foodKetchup"
+					Name: "任意食品番茄酱"
 				}
 			},
 			ForgeCaps: {

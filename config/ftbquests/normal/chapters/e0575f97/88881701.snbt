@@ -26,7 +26,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any dyeOrange"
+					Name: "任意橙色染料"
 				}
 			},
 			ForgeCaps: {

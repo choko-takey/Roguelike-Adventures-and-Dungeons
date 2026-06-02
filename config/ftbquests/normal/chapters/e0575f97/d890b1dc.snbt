@@ -32,7 +32,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any rootsBark"
+					Name: "任意树皮"
 				}
 			},
 			ForgeCaps: {
@@ -50,7 +50,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any dyeWhite"
+					Name: "任意白色染料"
 				}
 			},
 			ForgeCaps: {

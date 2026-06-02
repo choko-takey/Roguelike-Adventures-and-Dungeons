@@ -8,7 +8,7 @@
 				"Quark:ItemNameDye": 4,
 				Quality: {},
 				display: {
-					Name: "Warden's Warhammer"
+					Name: "守护战锤"
 				}
 			}
 		},
@@ -26,7 +26,7 @@
 				"Quark:ItemNameDye": 4,
 				Quality: {},
 				display: {
-					Name: "Warden Helmet"
+					Name: "守卫者头盔"
 				}
 			}
 		},
@@ -40,7 +40,7 @@
 				Quality: {},
 				"Quark:RuneColor": 0,
 				display: {
-					Name: "Warden's Heavy Chestplate"
+					Name: "守卫者重甲"
 				},
 				"Quark:RuneAttached": 1b,
 				ench: [{
@@ -58,7 +58,7 @@
 				"Quark:ItemNameDye": 4,
 				Quality: {},
 				display: {
-					Name: "Warden Leggings"
+					Name: "守卫者护腿"
 				}
 			}
 		},
@@ -72,7 +72,7 @@
 				Quality: {},
 				"Quark:RuneColor": 0,
 				display: {
-					Name: "Warden's Reinforced Boots"
+					Name: "守卫者护靴"
 				},
 				"Quark:RuneAttached": 1b,
 				ench: [{
@@ -106,9 +106,9 @@
 				"Quark:ItemNameDye": 8,
 				display: {
 					Lore: [
-						"Steel Skin Potion Son!"
+						"铁皮药水之子！"
 					],
-					Name: "Steel Skin Potion"
+					Name: "铁皮药水"
 				}
 			}
 		},

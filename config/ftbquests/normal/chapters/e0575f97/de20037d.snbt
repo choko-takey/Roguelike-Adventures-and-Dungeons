@@ -27,7 +27,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any rootsBark"
+					Name: "任意树皮"
 				}
 			},
 			ForgeCaps: {
@@ -45,7 +45,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any treeSapling"
+					Name: "任意树苗"
 				}
 			},
 			ForgeCaps: {
@@ -63,7 +63,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any treeSapling"
+					Name: "任意树苗"
 				}
 			},
 			ForgeCaps: {

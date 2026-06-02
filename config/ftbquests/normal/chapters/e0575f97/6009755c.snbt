@@ -28,7 +28,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any ingotSilver"
+					Name: "任意银锭"
 				}
 			},
 			ForgeCaps: {
@@ -46,7 +46,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any dyeYellow"
+					Name: "任意黄色染料"
 				}
 			},
 			ForgeCaps: {
@@ -64,7 +64,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any torch"
+					Name: "任意火把"
 				}
 			},
 			ForgeCaps: {

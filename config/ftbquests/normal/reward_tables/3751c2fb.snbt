@@ -10,7 +10,7 @@
 				Quality: {},
 				"Quark:RuneColor": 2,
 				display: {
-					Name: "矮人轻触镐"
+					Name: "矮人的精准采集之镐"
 				},
 				"Quark:RuneAttached": 1b,
 				ench: [{
@@ -39,7 +39,7 @@
 				Quality: {},
 				"Quark:RuneColor": 5,
 				display: {
-					Name: "矮人幸运镐"
+					Name: "幸运矮人镐"
 				},
 				"Quark:RuneAttached": 1b,
 				"Quark:ItemNameDye": 10
@@ -61,7 +61,7 @@
 				Quality: {},
 				"Quark:RuneColor": 9,
 				display: {
-					Name: "矮人强化镐"
+					Name: "强化矮人镐"
 				},
 				"Quark:RuneAttached": 1b,
 				"Quark:ItemNameDye": 6

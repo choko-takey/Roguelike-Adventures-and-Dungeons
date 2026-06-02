@@ -21,7 +21,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any coalPowered"
+					Name: "任意红煤"
 				}
 			},
 			ForgeCaps: {

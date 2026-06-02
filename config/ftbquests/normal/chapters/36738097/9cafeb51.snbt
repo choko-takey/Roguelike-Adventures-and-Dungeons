@@ -25,9 +25,9 @@
 			tag: {
 				generation: 3,
 				pages: [
-					"{\"text\":\"Enjoy your title\"}"
+					"{\"text\":\"享受你的头衔\"}"
 				],
-				author: "Redacted",
+				author: "已编辑",
 				title: "……"
 			}
 		}

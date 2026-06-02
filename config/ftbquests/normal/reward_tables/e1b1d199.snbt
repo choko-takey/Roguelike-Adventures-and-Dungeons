@@ -10,7 +10,7 @@
 				Quality: {},
 				"Quark:RuneColor": 12,
 				display: {
-					Name: "Dwarf's Silk Touch Pickaxe"
+					Name: "矮人的精准采集之镐"
 				},
 				"Quark:RuneAttached": 1b,
 				ench: [{
@@ -28,7 +28,7 @@
 				Quality: {},
 				"Quark:RuneColor": 12,
 				display: {
-					Name: "Reinforced Dwarf Pickaxe"
+					Name: "强化矮人镐"
 				},
 				"Quark:RuneAttached": 1b,
 				ench: [{
@@ -46,7 +46,7 @@
 				Quality: {},
 				"Quark:RuneColor": 12,
 				display: {
-					Name: "Lucky Dwarf Pickaxe"
+					Name: "幸运矮人镐"
 				},
 				"Quark:RuneAttached": 1b,
 				ench: [{

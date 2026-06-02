@@ -82,7 +82,7 @@
 				structureName: "config/capsule/rewards/icaria_portal",
 				display: {
 					color: 16777215,
-					Name: "Icaria Portal"
+					Name: "伊卡利亚传送门"
 				},
 				canRotate: 1b
 			}

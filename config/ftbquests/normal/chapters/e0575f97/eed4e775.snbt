@@ -28,7 +28,7 @@
 			id: "itemfilters:filter",
 			tag: {
 				display: {
-					Name: "Any egg"
+					Name: "任意蛋"
 				}
 			},
 			ForgeCaps: {
