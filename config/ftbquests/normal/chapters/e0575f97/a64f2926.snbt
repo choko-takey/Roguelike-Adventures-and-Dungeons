@@ -1,10 +1,10 @@
 {
-	title: "The Druid's Attire",
+	title: "德鲁伊套装",
 	x: -3.0d,
 	y: -4.0d,
-	description: "I thought they couldn't wear metal?",
+	description: "我觉得它们不能穿戴金属？",
 	text: [
-		"The ideal armour for spell casters sylvan armour who knew druids had style."
+		"繁森盔甲适合咒术施法者穿戴，谁能想到德鲁伊也懂时尚。"
 	],
 	dependencies: [
 		"a80da1d6"

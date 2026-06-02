@@ -6,5 +6,5 @@ game.setLocalization("title.atum.core.kingslayer", "§4§l篡位者");
 game.setLocalization("title.atum.core.lawbringer", "§e沙漠§4维和部队");
 game.setLocalization("title.atum.core.ajourney", "§8流浪者");
 game.setLocalization("title.atum.core.pyramidscheme", "§e古墓丽影");
-game.setLocalization("title.atum.core.radyforaction", "§6§l太阳§r§6§k之子");
-game.setLocalization("title.atum.core.thefullmuseum", "§6沙§l漠管理员");
+game.setLocalization("title.atum.core.radyforaction", "§r§6§l太阳之子");
+game.setLocalization("title.atum.core.thefullmuseum", "§6§l沙漠管理员");

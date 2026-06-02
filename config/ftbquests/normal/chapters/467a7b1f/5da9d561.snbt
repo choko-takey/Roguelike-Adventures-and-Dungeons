@@ -1,12 +1,12 @@
 {
-	title: "I Wonder If You Could Be",
+	title: "我在想你有没有可能",
 	x: 1.0d,
 	y: -8.0d,
-	description: "Invinicble",
+	description: "变得无敌",
 	text: [
-		"Lacking protection or need something to help when you get whacked?",
+		"缺少防护或者需要在危险时刻紧急逃离？",
 		"",
-		"These trinkets are right up your ally."
+		"这些饰品应该能帮到你。"
 	],
 	dependencies: [
 		"03e97281"

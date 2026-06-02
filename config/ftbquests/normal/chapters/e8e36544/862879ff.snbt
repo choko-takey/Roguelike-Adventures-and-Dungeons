@@ -1,12 +1,12 @@
 {
-	title: "Songs Of The World",
+	title: "世界之声",
 	x: -29.0d,
 	y: 3.0d,
-	description: "Moog city 2 is my personal favourite",
+	description: "Moog city 2是我个人的最爱",
 	text: [
-		"Ever wanted to hear the original songs of minecraft?",
+		"想听原版Minecraft的音乐吗？",
 		"",
-		"Have a skeleton kill a zombie and see if you can aquire them all."
+		"让骷髅杀死一只僵尸，看看你能否收集全部唱片。"
 	],
 	tasks: [{
 		uid: "bb023fe2",

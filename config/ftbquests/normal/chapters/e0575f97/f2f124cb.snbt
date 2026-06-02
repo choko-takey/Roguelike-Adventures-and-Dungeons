@@ -1,14 +1,14 @@
 {
-	title: "Baby First Ritual",
+	title: "新手宝宝的首次仪式",
 	x: 5.0d,
 	y: -1.0d,
-	description: "Try not to summon herobrine!!!",
+	description: "可别把herobrine召唤出来了！！！",
 	text: [
-		"So your ready to start your first ritual?",
+		"准备好开始第一个仪式了吗？",
 		"",
-		"Welp get chopping and gather the wood for it!!",
+		"那就开始砍树收集木头吧！！",
 		"",
-		"Depending on the ritual certain types of wood will be required."
+		"不同的仪式会需要不同种类的木头。"
 	],
 	dependencies: [
 		"8b36541a",

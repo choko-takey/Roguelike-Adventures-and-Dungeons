@@ -1,10 +1,10 @@
 {
-	title: "Your Gonna Need Harder Blocks",
+	title: "你需要更硬的方块",
 	x: 5.0d,
 	y: -3.0d,
-	description: "Or just claim the chunk",
+	description: "或者直接声明区块",
 	text: [
-		"An alternative to stone in case you want something more durable/resistant."
+		"如果你需要更坚固或者更防爆的方块的话，这是一种选择。"
 	],
 	dependencies: [
 		"a541b9a1"

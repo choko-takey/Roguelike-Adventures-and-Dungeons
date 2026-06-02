@@ -1,14 +1,14 @@
 {
-	title: "The Imposter",
+	title: "注法台",
 	x: 3.0d,
 	y: 2.5d,
-	description: "Let it impose some knowledge",
+	description: "注入一些知识",
 	text: [
-		"Ever wanted your spells to be better or do more?",
+		"想让咒术更强大或者拥有更多效果吗？",
 		"",
-		"Well my friend the Imposer is just for you.",
+		"很好我的朋友，来看看注法台吧。",
 		"",
-		"Insert your staff hit it with a knife and then explore the wonderful world of spell modification."
+		"把你的守门者之杖放进去用小刀右击它，然后开始探索咒术修饰的新世界吧！"
 	],
 	dependencies: [
 		"e84d2bdf",

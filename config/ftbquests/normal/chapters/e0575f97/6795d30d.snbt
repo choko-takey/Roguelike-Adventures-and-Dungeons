@@ -1,16 +1,16 @@
 {
-	title: "Woodverine",
+	title: "木钢狼",
 	x: 7.0d,
 	y: 2.0d,
-	description: "Be wary of his rival Saberjack",
+	description: "小心他的对手伐木虎",
 	text: [
-		"Ever wanted to be a tree?",
+		"想要成为一棵树吗？",
 		"",
-		"Wildwood armour is just up your street then.",
+		"原始森林套装非常适合你。",
 		"",
-		"Combined the strenght of diamond with the regenrating capabillties of a tree!",
+		"将钻石的强度与树木的再生特质相结合！",
 		"",
-		"You'll make all the other trees green with envy!!!"
+		"让其它树木嫉妒得脸发绿！！！"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

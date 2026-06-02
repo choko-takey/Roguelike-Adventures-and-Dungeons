@@ -1,10 +1,10 @@
 {
-	title: "What's Black & Sticky",
+	title: "什么东西又黑又黏",
 	x: -2.0d,
 	y: -2.5d,
-	description: "A black stick",
+	description: "黑色的胶",
 	text: [
-		"Certain creatures have this substance attached to their body that only a specialized tool can harvest"
+		"特定生物的身体上附有这种物质，只能通过专门的工具采集。"
 	],
 	dependencies: [
 		"9b0d518f"

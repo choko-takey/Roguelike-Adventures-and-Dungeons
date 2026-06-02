@@ -1,12 +1,12 @@
 {
-	title: "I Think Blue Dots Are It's Eyes",
+	title: "我觉得蓝色的点点是它们的眼睛",
 	x: -0.5d,
 	y: -5.5d,
-	description: "They don't speak much so I have no idea",
+	description: "它们不怎么说话，所以我也搞不懂",
 	text: [
-		"The marauders are a friendly bunch you can find them and there tribes in jungle.",
+		"Marauder是一群友好的生物，你可以在雨林中找到它们的部落。",
 		"",
-		"I've heard they exchange goods for cursed wood so carry some with you just in case!"
+		"我听说可以用cursed wood和它们交换好东西，所以你身上最好备点！"
 	],
 	dependencies: [
 		"8ff213e2"
@@ -14,7 +14,7 @@
 	tasks: [{
 		uid: "3baf98b8",
 		type: "observation",
-		title: "Lock Eyes With A Marauder",
+		title: "和Marauder对视",
 		icon: "ancientbeasts:marauder_mask",
 		match_type: "entity_id",
 		match: "ancientbeasts:tribewarrior",

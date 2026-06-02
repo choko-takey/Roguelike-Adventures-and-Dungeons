@@ -1,12 +1,12 @@
 {
-	title: "The Shear Audacity",
+	title: "剪直无法无天",
 	x: -3.0d,
 	y: -1.5d,
-	description: "Shearly you'll be fine",
+	description: "一切都会好起来的",
 	text: [
-		"Sadly their's no way to go directly to the land of the feys but renaments of their magic still remain in the overworld.",
+		"很遗憾，目前没有任何方法前往精灵的世界。但它们的魔法痕迹仍残留于主世界。",
 		"",
-		"The runic shears allow you to harvest certain magical materials used in many rituals and spells."
+		"符文剪刀能让你获得可用于仪式和咒术的特定魔法材料。"
 	],
 	dependencies: [
 		"53a2c6a0"

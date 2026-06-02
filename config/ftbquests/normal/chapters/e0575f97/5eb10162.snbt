@@ -1,10 +1,10 @@
 {
-	title: "Blue With Envy",
+	title: "蓝色嫉妒",
 	x: -4.0d,
 	y: -3.0d,
-	description: "What's it jealous of?",
+	description: "嫉妒啥呢？",
 	text: [
-		"[This quest will have a proper description and title in a future version]"
+		"【这个任务将在未来的版本更新标题和任务描述】"
 	],
 	dependencies: [
 		"a80da1d6"

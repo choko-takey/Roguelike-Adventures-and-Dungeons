@@ -1,12 +1,12 @@
 {
-	title: "Homemade Fertilizier",
+	title: "自制化肥",
 	x: -5.5d,
 	y: -2.5d,
-	description: "Should be legal?",
+	description: "这合法吗？",
 	text: [
-		"Elemental soil acts as the base ingriedent to create more speciliazied soils that can provide certain effects.",
+		"元素土是用于产生特定土壤的基础原料，这些土壤能够提供特定的效果。",
 		"",
-		"Elemental soil is also required to grow any of the 4 elemental crops those being Dewgonia, Stalicripe, Infernal bulb and Cloudberry."
+		"元素土还可用于种植四种元素作物，包括露海棠、石笋、地狱鳞茎和云莓。"
 	],
 	dependencies: [
 		"53a2c6a0"

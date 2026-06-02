@@ -1,10 +1,10 @@
 {
-	title: "The Support",
+	title: "辅助",
 	x: 0.5d,
 	y: -9.0d,
-	description: "Why would anyone willingly be a support?",
+	description: "为什么有人愿意当辅助？",
 	text: [
-		"If you don't like fighting and prefer others to do it for you theses trinkets are just for you."
+		"如果你不喜欢自己动手想让别人帮你打的话，这些饰品应该适合你。"
 	],
 	dependencies: [
 		"03e97281"

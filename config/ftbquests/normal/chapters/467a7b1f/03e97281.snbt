@@ -1,11 +1,11 @@
 {
-	title: "It's Like Printing My Own Trinkets",
+	title: "简直就是在印饰品",
 	x: -0.5d,
 	y: -6.5d,
-	description: "Well hopefully they arent made out of paper",
+	description: "好吧希望它们不是用纸做的",
 	text: [
-		"After trading enough with Marauder they should give you certain unique materials",
-		"these materials can be used to make a variety of trinkets in a witchcraft table."
+		"在和Marauder多次交易后，它们应该会给你一些特有的材料。",
+		"这些材料可以在witchcraft table上制作各种饰品。"
 	],
 	dependencies: [
 		"8d7fc66b"

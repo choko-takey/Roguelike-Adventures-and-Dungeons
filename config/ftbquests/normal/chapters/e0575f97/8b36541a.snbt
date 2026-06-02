@@ -1,12 +1,12 @@
 {
-	title: "Lets Get Wild",
+	title: "让我们回归野性",
 	x: 4.0d,
 	y: 0.0d,
-	description: "No grass block will be safe",
+	description: "没有一根草是安全的",
 	text: [
-		"Wildroot is one of the core herbs used in multiple aspects of Roots.",
+		"野根是根源魔法中的核心材料之一，可用于多种配方合成。",
 		"",
-		"The easiest way of aquiring it is just breaking grass."
+		"最简单的获取方式就是打碎草。"
 	],
 	dependencies: [
 		"90edb6b4"

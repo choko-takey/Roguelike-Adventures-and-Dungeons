@@ -1,17 +1,17 @@
 {
-	title: "We've Have Come For You EXP",
+	title: "我们来吸你经验啦",
 	x: -0.5d,
 	y: 2.5d,
-	description: "GET OUT OF MY SWAMP",
+	description: "给我滚出沼泽",
 	text: [
-		"These moderate size fellas love to suck on xp.",
+		"这些中等体型的家伙喜欢吸食经验值。",
 		"",
-		"If you want it back you gotta splat em or maybe you can use them to your advantage?"
+		"如果你想拿回经验值，你得把它们一巴掌拍死，或者也可以将它们为你所用？"
 	],
 	tasks: [{
 		uid: "376e063a",
 		type: "kill",
-		title: "Splat Some Needlewings",
+		title: "拍死一些蚊子",
 		icon: {
 			id: "minecraft:spawn_egg",
 			tag: {

@@ -1,10 +1,10 @@
 {
-	title: "Utility Belt",
+	title: "实用腰带",
 	x: -2.0d,
 	y: -8.0d,
-	description: "Who needs it when you have these",
+	description: "有这些饰品谁还需要啊",
 	text: [
-		"These trinkets have one jobs and do it well."
+		"这些饰品具有极强的专业性和实用性。"
 	],
 	dependencies: [
 		"03e97281"

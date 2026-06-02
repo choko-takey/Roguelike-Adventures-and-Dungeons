@@ -1,12 +1,12 @@
 {
-	title: "Imbuing 101",
+	title: "注造101",
 	x: 1.0d,
 	y: 2.5d,
-	description: "Your a druid Steve!",
+	description: "你真是德鲁伊中的史蒂夫！",
 	text: [
-		"Before you go making a wand your gonna need something to add spells to it",
+		"在你开始制作法杖之前，你得有能向其中注入咒术的方法。",
 		"",
-		"The answer? An imbuer place it down then add a gramary above and you're druid journey begins!"
+		"怎么做？把注造器摆下来，把森之古术放上去，然后开始你的咒术之旅。"
 	],
 	dependencies: [
 		"90edb6b4"

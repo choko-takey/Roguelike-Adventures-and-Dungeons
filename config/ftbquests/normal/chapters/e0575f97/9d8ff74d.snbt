@@ -1,14 +1,14 @@
 {
-	title: "What's A Modpack Wthout 50 Differnet Types Of Wood",
+	title: "没有50多种不同的木头还能叫整合包？",
 	x: 7.0d,
 	y: 1.0d,
-	description: "A boring one thats what!!",
+	description: "有意思吗！！",
 	text: [
-		"Unlike 99% of wood wildroot has a utility in certain rituals and spells.",
+		"不同于其它99%的木头，野木的野根在仪式和咒术中很有用。",
 		"",
-		"Good luck finding it out in the wild though their nearly exctint!",
+		"但野木已经几乎灭绝了，你要真能在野外找到野木那真是太幸运了！",
 		"",
-		"But there are other ways to obtain it."
+		"不过好像还有别的方法能够获得。"
 	],
 	dependencies: [
 		"21229234"

@@ -1,10 +1,10 @@
 {
-	title: "More Bark than Bite?",
+	title: "少点嚷嚷（bark）多点树皮（bark）",
 	x: 7.0d,
 	y: -1.5d,
-	description: "I wonder what wood sounds like?",
+	description: "木头的叫声是什么样的？",
 	text: [
-		"Bark is a key ingrident if you want to be a druid so start stabbing them trees!"
+		"想要成为合格的德鲁伊，树皮是关键材料，现在就开始拿小刀划树吧！"
 	],
 	dependencies: [
 		"21229234"

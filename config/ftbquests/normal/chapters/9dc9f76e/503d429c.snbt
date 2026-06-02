@@ -1,14 +1,14 @@
 {
-	title: "I Saw A Guy Do This In A Cartoon Once",
+	title: "我曾经在某部动画里见过这个",
 	x: 17.0d,
 	y: -2.0d,
-	description: "Just ignore the large shadow above you",
+	description: "别在意你头上那个越来越大的黑影",
 	text: [
-		"Got a bunch of enchanted books or duplicate enchanted items?",
+		"附魔书和带附魔的物品太多了吗？",
 		"",
-		"Combine em together in an anvil to make em more powerful!",
+		"使用铁砧把它们融合到一起创造更强大的装备吧！",
 		"",
-		"I've also heard rumours about being able to make anvils more durable or even change the colour of an items name with dyes!!"
+		"我还听别人说有办法让铁砧更耐用，听说还可以用染料改变物品名称的颜色！！"
 	],
 	dependencies: [
 		"a05c73b5"

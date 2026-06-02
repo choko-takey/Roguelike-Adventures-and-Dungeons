@@ -1,17 +1,17 @@
 {
-	title: "That's A Strange...... Fruit",
+	title: "那种水果真是……奇怪",
 	x: -0.5d,
 	y: -3.5d,
-	description: "But not the strangest you'll see",
+	description: "但不是最奇怪的",
 	text: [
-		"A strange an almost alien fruit found on trees in the jungle.",
+		"一种生长在雨林树上的奇怪水果，像是从外星来的。",
 		"",
-		"They seem to be constantly dripping some sort of liquid maybe you can gather it in some way?"
+		"它们似乎一直在滴落某种液体，也许你可以用某种方式收集它？"
 	],
 	tasks: [{
 		uid: "296657a3",
 		type: "observation",
-		title: "Inspect A Strange Fruit",
+		title: "观察奇怪的水果",
 		icon: "ancientbeasts:hanging_leaves",
 		match_type: "block_id",
 		match: "ancientbeasts:hanging_leaves",

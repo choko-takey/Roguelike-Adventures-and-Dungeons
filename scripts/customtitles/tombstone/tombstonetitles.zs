@@ -12,7 +12,7 @@ game.setLocalization("title.tombstone.tutorial.capture_soul", "§c捕魂者");
 game.setLocalization("title.tombstone.tutorial.ashes_and_bones", "§c亡灵猎人");
 game.setLocalization("title.tombstone.tutorial.bone_crusher", "§4§l亡灵噩梦");
 game.setLocalization("title.tombstone.tutorial.genocide", "§4§l屠村者");
-game.setLocalization("title.tombstone.tutorial.soul_eater", "§8§l灵魂§9§k吞噬者");
+game.setLocalization("title.tombstone.tutorial.soul_eater", "§8§l灵魂§9吞噬者");
 game.setLocalization("title.tombstone.tutorial.almost_unkillable", "§8§l归来者");
 game.setLocalization("title.tombstone.tutorial.revive_familiar", "§c§l死灵法师");
 game.setLocalization("title.tombstone.tutorial.village_defender", "§a§l村庄救星");

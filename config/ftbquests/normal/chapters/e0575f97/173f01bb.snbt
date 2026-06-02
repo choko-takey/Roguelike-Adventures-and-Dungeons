@@ -1,10 +1,10 @@
 {
-	title: "A Fanny Pack?",
+	title: "一个小腰包？",
 	x: 2.5d,
 	y: 1.0d,
-	description: "I've heard they're very stylish",
+	description: "我听说它们很时髦",
 	text: [
-		"An upgraded version to the herb bag it can store regular items as well as herbs."
+		"草药袋的升级版本，除了药草之外还可以储存一般物品。"
 	],
 	dependencies: [
 		"0784f352"

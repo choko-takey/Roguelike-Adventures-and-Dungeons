@@ -1,10 +1,10 @@
 {
-	title: "Music Exchange",
+	title: "唱片交换",
 	x: -28.0d,
 	y: 3.0d,
-	description: "No need for gambling",
+	description: "不需要碰运气了",
 	text: [
-		"If you ever get duplicates of a music disc you can trade it in here for a different one."
+		"如果你获得了重复的唱片，你可以在这里换成另一款。"
 	],
 	can_repeat: true,
 	or_tasks: true,

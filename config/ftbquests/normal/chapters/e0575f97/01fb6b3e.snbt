@@ -1,10 +1,10 @@
 {
-	title: "The Fairy Grove",
+	title: "精灵之园",
 	x: 2.5d,
 	y: -2.0d,
-	description: "Maybe you can find the fairy fountain?",
+	description: "或许你能找到妖精之泉？",
 	text: [
-		"The fey realm may have faded from this world but it power still lingers in some objects."
+		"精灵领域或许已经从这个世界中消失了，但它的力量还存在于某些物体中。"
 	],
 	dependencies: [
 		"90edb6b4"

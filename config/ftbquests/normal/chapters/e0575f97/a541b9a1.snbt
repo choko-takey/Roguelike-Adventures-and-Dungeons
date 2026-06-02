@@ -1,12 +1,12 @@
 {
-	title: "Rocking Ritual",
+	title: "滚石仪式",
 	x: 5.0d,
 	y: -2.0d,
-	description: "Make like a rock and roll!!!",
+	description: "让我们一起摇摆！！！",
 	text: [
-		"Some rituals may require stone to trigger them.",
+		"有些仪式可能需要这些石制方块来触发。",
 		"",
-		"Surely you'll have a bunch to spare lying around?"
+		"想必你应该有很多没用上的石头吧？"
 	],
 	dependencies: [
 		"f2f124cb"

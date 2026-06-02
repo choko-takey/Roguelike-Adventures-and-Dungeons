@@ -1,10 +1,10 @@
 {
-	title: "Purple Eggs & Ham",
+	title: "紫鸡蛋与火腿",
 	x: 3.0d,
 	y: -1.0d,
-	description: "Rad funfact 100: eggplants are berries",
+	description: "Rad的100个趣味小知识：茄子是浆果的一种",
 	text: [
-		"Multiple rituals require the use or crops or plants the most common one being eggplants."
+		"许多仪式需要用到各种作物和植物，其中最常见的就是茄子。"
 	],
 	dependencies: [
 		"90edb6b4"

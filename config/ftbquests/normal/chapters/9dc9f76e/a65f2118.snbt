@@ -1,12 +1,12 @@
 {
-	title: "Read Me",
+	title: "看这里",
 	x: -17.0d,
 	y: -2.5d,
-	description: "For when a quest is not enough",
+	description: "当任务描述不足以说明清楚时",
 	text: [
-		"Certain mods or mechanics are explained more in depth inside the guidebook.",
+		"某些模组或机制在指南书中会有更详细的解释。",
 		"",
-		"You can locate it in the top leftside of the screen to the left of the quest book."
+		"你可以在打开物品栏后的屏幕最上方，任务书的左侧看到指南书。"
 	],
 	tasks: [{
 		uid: "19a174af",

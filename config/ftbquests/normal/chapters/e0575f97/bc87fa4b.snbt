@@ -1,10 +1,10 @@
 {
-	title: "Water. Earth. Fire. Air.",
+	title: "水、地、火、风",
 	x: -6.5d,
 	y: -3.5d,
-	description: "Long ago, the four blocks lived in harmony",
+	description: "很久以前，四种方块和谐共处",
 	text: [
-		"Infused elemental soil provide a unique effects to whichever crop is grown on it."
+		"被注能的元素土可以为种植在其上方的任何植物提供独特的效果。"
 	],
 	dependencies: [
 		"0d077eb6"

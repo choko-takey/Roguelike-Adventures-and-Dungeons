@@ -1,10 +1,10 @@
 {
-	title: "Guess What?",
+	title: "猜猜这是啥？",
 	x: -1.5d,
 	y: -1.5d,
-	description: "Chicken butt!",
+	description: "鸡屁股！",
 	text: [
-		"The birds of the overworld were one of the few creatures touched by the fey realms magic, harvest their feathers to further understand it."
+		"主世界的鸟类是为数不多接触过精灵领域的生物，从它们身上获取特殊的羽毛来进一步了解它们。"
 	],
 	dependencies: [
 		"9b0d518f"

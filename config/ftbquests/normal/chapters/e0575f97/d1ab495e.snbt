@@ -1,10 +1,10 @@
 {
-	title: "A Gucci Bag For Druids",
+	title: "给德鲁伊的古驰牌包包",
 	x: 3.5d,
 	y: 1.0d,
-	description: "Even druids gotta have style",
+	description: "德鲁伊也要追求时尚",
 	text: [
-		"The final version of the herb bag and the most stylish."
+		"药草袋的最终版本，尽显时髦。"
 	],
 	dependencies: [
 		"173f01bb"

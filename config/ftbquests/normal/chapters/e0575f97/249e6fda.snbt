@@ -1,12 +1,12 @@
 {
-	title: "Genji what's that you have",
+	title: "嘿源氏那是什么",
 	x: 7.5d,
 	y: 0.0d,
-	description: "I HAVE A KNIFE!!!!",
+	description: "人龙合一！！！！",
 	text: [
-		"How many knives is to many? ",
+		"几把刀才算多？",
 		"",
-		"Depends on how many your able to hold in two hands."
+		"取决于你的两只手最多能拿多少。"
 	],
 	dependencies: [
 		"21229234"

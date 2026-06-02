@@ -17,8 +17,8 @@ game.setLocalization("title.titles.the_weezersuperfan", "§3§lWeezer狂热粉�
 game.setLocalization("title.titles.the_obsidian", "§0§l黑曜石§8§l宿§8§l敌");
 game.setLocalization("title.titles.the_exptank", "§a§l忘§2§l记§a§l附§2§l魔§a§l的§2§l人");
 game.setLocalization("title.titles.the_carnivore", "§4肉食动物");
-game.setLocalization("title.titles.the_insane", "§8§l终极§8§k§l疯狂§8§l§n圆石囤积者");
+game.setLocalization("title.titles.the_insane", "§8§l终极疯狂圆石囤积者");
 game.setLocalization("title.titles.the_lorax", "§2§l§n亵渎自然的伐木工");
-game.setLocalization("title.titles.the_oceanman", "§3§l海洋§9§l生物§3§l§k灭绝§3§l学家");
+game.setLocalization("title.titles.the_oceanman", "§3§l海洋生物灭绝学家");
 game.setLocalization("title.titles.the_limbo", "§8§l自虚无中重生");
 game.setLocalization("title.titles.the_headcase", "§4§l无差别头颅收集者");

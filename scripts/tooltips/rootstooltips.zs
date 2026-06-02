@@ -1,1 +1,0 @@
-<roots:fire_starter>.addTooltip(format.darkAqua("在先前的版本中，这个物品可能会导致游戏崩溃，请小心使用！"));

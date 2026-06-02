@@ -6,4 +6,4 @@ game.setLocalization("title.ebwizardry.warlock", "§7巫术士");
 game.setLocalization("title.ebwizardry.battlemage", "§4战斗法师");
 game.setLocalization("title.ebwizardry.discover_master_spell", "§5奥术奇才");
 game.setLocalization("title.ebwizardry.all_artefacts", "§6§l奥术§d§l收藏家");
-game.setLocalization("title.ebwizardry.all_spells", "§5§k奥术§8§l宗师");
+game.setLocalization("title.ebwizardry.all_spells", "§5奥术§8§l宗师");

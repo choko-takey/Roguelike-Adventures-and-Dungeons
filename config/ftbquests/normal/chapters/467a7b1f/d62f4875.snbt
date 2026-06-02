@@ -1,10 +1,10 @@
 {
-	title: "On The Offensive",
+	title: "战斗，爽",
 	x: -1.5d,
 	y: -9.0d,
-	description: "Fight me if you dare!",
+	description: "有本事就来挑战我",
 	text: [
-		"If you like fighting these trinkets are the best for you they are primed and ready for combat."
+		"如果你喜欢战斗，那么这些饰品会很适合你。"
 	],
 	dependencies: [
 		"03e97281"

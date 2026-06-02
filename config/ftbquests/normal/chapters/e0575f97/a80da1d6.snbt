@@ -1,10 +1,10 @@
 {
-	title: "I'm Gonna Tan Your Hide!",
+	title: "我要揍你了！",
 	x: -3.0d,
 	y: -3.0d,
-	description: "Better start behaving",
+	description: "最好给我老实点",
 	text: [
-		"Who knew cows were magicial, now you don't have to trade it for beans."
+		"谁能想到牛身上也能有魔法，现在你不用拿去换豆子了。"
 	],
 	dependencies: [
 		"9b0d518f"

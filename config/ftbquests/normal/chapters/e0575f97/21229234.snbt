@@ -1,10 +1,10 @@
 {
-	title: "A WOODEN KNIFE",
+	title: "木小刀",
 	x: 6.0d,
 	y: 0.0d,
-	description: "A 100% counter to magneto",
+	description: "完美克制万磁王",
 	text: [
-		"Knives can be used to carve bark from trees or making blood pacts but you didnt hear that from me."
+		"可用于从原木上获取树皮，还可以用于立下血契，但别说是我告诉你的。"
 	],
 	dependencies: [
 		"8b36541a"

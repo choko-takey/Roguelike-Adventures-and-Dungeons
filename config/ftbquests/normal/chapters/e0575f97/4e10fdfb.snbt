@@ -1,10 +1,10 @@
 {
-	title: "A Change Of Staff",
+	title: "人事（staff）调整",
 	x: 0.0d,
 	y: 3.5d,
-	description: "Not to be confused with a wand",
+	description: "哦别跟法杖（staff）弄混了",
 	text: [
-		"If you want to be a real druid your gonna need a staff."
+		"想要成为真正的德鲁伊你得有根法杖。"
 	],
 	dependencies: [
 		"90edb6b4",

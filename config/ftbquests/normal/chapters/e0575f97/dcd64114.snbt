@@ -12,7 +12,7 @@
 	y: 7.5d,
 	description: "过分保护的园艺工作",
 	text: [
-		"在你的周围召唤花瓣，每一个花瓣存在时都能够为你吸收一次伤害。"
+		"在你的周围召唤花瓣以保护你免受伤害。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

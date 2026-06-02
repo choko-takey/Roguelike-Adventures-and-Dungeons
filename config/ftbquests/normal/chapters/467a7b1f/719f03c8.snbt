@@ -1,12 +1,12 @@
 {
-	title: "Dress Up Game",
+	title: "装扮游戏",
 	x: -3.5d,
 	y: 5.5d,
-	description: "I prefer pink or light blue",
+	description: "我更喜欢粉色和淡蓝色",
 	text: [
-		"If you ever get bored of your pet noddles outfit can always give her a new one.",
+		"如果你看腻了小可爱的外观，你可以给她穿上新衣服。",
 		"",
-		"Just slap her in the face with some carpet (don't ask how it works) and see which you like best."
+		"只需要把羊毛地毯甩她脸上（别问是怎么做到的）然后看看你喜欢哪款。"
 	],
 	dependencies: [
 		"3667ee3d"

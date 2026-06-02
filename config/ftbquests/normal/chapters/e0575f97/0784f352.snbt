@@ -1,10 +1,10 @@
 {
-	title: "Herb Baggie",
+	title: "草药大麻袋",
 	x: 1.5d,
 	y: 1.0d,
-	description: "I promise officer I'm holding it for a friend",
+	description: "长官我发誓这是我朋友让我帮忙带的。",
 	text: [
-		"The most cheapest way to store herbs for spell crafting."
+		"最简单的储存草药的方式。"
 	],
 	dependencies: [
 		"90edb6b4"

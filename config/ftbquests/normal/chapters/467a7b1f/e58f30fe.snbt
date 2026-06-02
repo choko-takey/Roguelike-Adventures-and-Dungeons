@@ -1,14 +1,14 @@
 {
-	title: "With This Sacred Amulet I Summon",
+	title: "使用这个神圣的护符，我将召唤",
 	x: -0.5d,
 	y: -9.5d,
-	description: "The Divine Hound Barghest",
+	description: "玉犬巴格斯特",
 	text: [
-		"When this amulet is triggered it summons a legendary beast.",
+		"使用这个护符将会召唤一个传说野兽。",
 		"",
-		"Wether it will assist you or not? ",
+		"它会成为你的伙伴还是敌人？",
 		"",
-		"Why don't you test and see!"
+		"为什么不自己试试看呢！"
 	],
 	dependencies: [
 		"03e97281"

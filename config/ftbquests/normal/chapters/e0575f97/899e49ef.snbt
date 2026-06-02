@@ -1,12 +1,12 @@
 {
-	title: "NOT A SACRIFICAL DAGGER!",
+	title: "不是献祭匕首",
 	x: 8.5d,
 	y: 0.0d,
-	description: "THIS IS NOT A SACRIFICAL DAGGER!!!",
+	description: "这不是献祭匕首！！！",
 	text: [
-		"This knife is only intended for getting bark!",
+		"这把刀只用于获取树皮！",
 		"",
-		"I trust you won't use it for stabbing or sacrifces right? RIGHT!?"
+		"我相信你不会拿它刺杀或者献祭生物的，对吧！？"
 	],
 	dependencies: [
 		"249e6fda"
