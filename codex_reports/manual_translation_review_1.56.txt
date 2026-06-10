@@ -1,540 +1,0 @@
-RAD 1.56 chapters update report
-Indexed chapters processed: 32
-Updated existing files: 900
-Added files: 21
-Deleted files: 1
-Manual review entries: 59
-Structural verification failures: 0
-
-Added files
-- 9dc9f76e/503d429c.snbt
-- 9dc9f76e/a65f2118.snbt
-- 467a7b1f/03e97281.snbt
-- 467a7b1f/16afadb1.snbt
-- 467a7b1f/3667ee3d.snbt
-- 467a7b1f/5da9d561.snbt
-- 467a7b1f/719f03c8.snbt
-- 467a7b1f/7d18e29f.snbt
-- 467a7b1f/8a2065ef.snbt
-- 467a7b1f/8d7fc66b.snbt
-- 467a7b1f/8ff213e2.snbt
-- 467a7b1f/d62f4875.snbt
-- 467a7b1f/d9e59611.snbt
-- 467a7b1f/e58f30fe.snbt
-- e8e36544/0ec078fc.snbt
-- e8e36544/862879ff.snbt
-- 2fdece10/448b02a4.snbt
-- 2fdece10/591b587d.snbt
-- 2fdece10/a8e1c777.snbt
-- 2fdece10/cb9ece66.snbt
-- 2fdece10/ea7a9900.snbt
-
-Deleted files
-- 467a7b1f/36134406.snbt
-
-Incompatible field layouts
-- e0575f97/01fb6b3e.snbt: 1.56 fields=3, zh fields=2, updated
-- e0575f97/0784f352.snbt: 1.56 fields=3, zh fields=2
-- e0575f97/0d077eb6.snbt: 1.56 fields=3, zh fields=2
-- e0575f97/173f01bb.snbt: 1.56 fields=3, zh fields=2
-- e0575f97/21229234.snbt: 1.56 fields=3, zh fields=2
-- e0575f97/2386fe4a.snbt: 1.56 fields=3, zh fields=2
-- e0575f97/249e6fda.snbt: 1.56 fields=3, zh fields=2
-- e0575f97/4e10fdfb.snbt: 1.56 fields=3, zh fields=0
-- e0575f97/5eb10162.snbt: 1.56 fields=3, zh fields=2
-- e0575f97/600b70ae.snbt: 1.56 fields=3, zh fields=2
-- e0575f97/64e2923c.snbt: 1.56 fields=3, zh fields=2
-- e0575f97/6795d30d.snbt: 1.56 fields=3, zh fields=2
-- e0575f97/70804afd.snbt: 1.56 fields=3, zh fields=2
-- e0575f97/899e49ef.snbt: 1.56 fields=3, zh fields=0
-- e0575f97/8b36541a.snbt: 1.56 fields=3, zh fields=2
-- e0575f97/9b0d518f.snbt: 1.56 fields=3, zh fields=2
-- e0575f97/9d8ff74d.snbt: 1.56 fields=3, zh fields=2
-- e0575f97/a541b9a1.snbt: 1.56 fields=3, zh fields=2
-- e0575f97/a64f2926.snbt: 1.56 fields=3, zh fields=2
-- e0575f97/a80da1d6.snbt: 1.56 fields=3, zh fields=2
-- e0575f97/bc87fa4b.snbt: 1.56 fields=3, zh fields=2
-- e0575f97/bff19795.snbt: 1.56 fields=3, zh fields=2
-- e0575f97/d1ab495e.snbt: 1.56 fields=3, zh fields=2
-- e0575f97/e5aa228d.snbt: 1.56 fields=3, zh fields=2
-- e0575f97/e84d2bdf.snbt: 1.56 fields=3, zh fields=2
-- e0575f97/ee0214f8.snbt: 1.56 fields=3, zh fields=2
-- e0575f97/f2f124cb.snbt: 1.56 fields=3, zh fields=2
-- d26f9af1/f402eb84.snbt: 1.56 fields=4, zh fields=3
-
-Manual translation review required
-
-- 9dc9f76e/16cbae88.snbt
-  reason: english text changed
-  field[2] old: text: [\n		"Hellshelves are like bookshelves but give more enchanting power, thus allowing you to apply higher level enchantments to your items.",\n		"",\n		"The max level for an enchanting table with hellshelves is capped higher than wooden bookshelves."\n	]
-  field[2] new: text: [\n		"Hellshelves are direct upgrades to regulars bookshelves allowing for higher enchanting levels to be reached."\n	]
-
-- 9dc9f76e/503d429c.snbt
-  reason: new file
-  field[0] title: "I Saw A Guy Do This In A Cartoon Once"
-  field[1] description: "Just ignore the large shadow above you"
-  field[2] text: [\n		"Got a bunch of enchanted books or duplicate enchanted items?",\n		"",\n		"Combine em together in an anvil to make em more powerful!",\n		"",\n		"I've also heard rumours about being able to make anvils more durable or even change the colour of an items name with dyes!!"\n	]
-
-- 9dc9f76e/6681baf1.snbt
-  reason: english text changed
-  field[2] old: text: [\n		"Don't want to waste time mining just to get some basic gear click the checkmark to complete this quest.",\n		"",\n		"Collect your reward by selecting a crate of starting gear which contain armour, weapon(s) and food.",\n		"",\n		"You can select from a variety of gears."\n	]
-  field[2] new: text: [\n		"Don't want to waste time mining just to get some basic gear click the checkmark to complete this quest!",\n		"",\n		"Collect your reward by selecting a crate of STARTING GEAR which contain armour, weapon(s) and food to help you start out.",\n		"",\n		"You can select from a variety of STARTING GEARS to help you start out.",\n		"",\n		"§7Psst if you wanna see whats inside of them before selecting type out the gears name in jei on the left ",\n		"§7then right click the crate."\n	]
-
-- 9dc9f76e/932fa85e.snbt
-  reason: english text changed
-  field[2] old: text: [\n		"Craft a Reforging Station.",\n		"",\n		"The Reforging Station can be used to reroll the Quality on a piece of armor or a weapon.",\n		"",\n		"In order to do so, the appropriate material for the item must be placed in the bottom slot, and the item in the top slot.",\n		"",\n		"If the item does not have a corresponding repair or reforging material, you will need to use a Nether Star to reroll the Quality of the item."\n	]
-  field[2] new: text: [\n		"Craft a Reforging Station.",\n		"",\n		"The Reforging Station can be used to reroll the Quality on a piece of armor or a weapon.",\n		"",\n		"In order to do so, the appropriate material for the item must be placed in the bottom slot, and the item in the top slot.",\n		"",\n		"If the item does not have a corresponding repair or reforging material, you will need to use a Universal Reforge Token to reroll the Quality of the item."\n	]
-
-- 9dc9f76e/a65f2118.snbt
-  reason: new file
-  field[0] title: "Read Me"
-  field[1] description: "For when a quest is not enough"
-  field[2] text: [\n		"Certain mods or mechanics are explained more in depth inside the guidebook.",\n		"",\n		"You can locate it in the top leftside of the screen to the left of the quest book."\n	]
-
-- e0575f97/01fb6b3e.snbt
-  reason: english text changed
-  field[0] old: title: "[Place Holder Title]"
-  field[0] new: title: "The Fairy Grove"
-  field[1] old: text: [\n		"[This quest will have a proper description and title in a future version]"\n	]
-  field[1] new: description: "Maybe you can find the fairy fountain?"
-  field[2] old: <missing>
-  field[2] new: text: [\n		"The fey realm may have faded from this world but it power still lingers in some objects."\n	]
-
-- e0575f97/0784f352.snbt
-  reason: english text changed
-  field[0] old: title: "[Place Holder Title]"
-  field[0] new: title: "Herb Baggie"
-  field[1] old: text: [\n		"[This quest will have a proper description and title in a future version]"\n	]
-  field[1] new: description: "I promise officer I'm holding it for a friend"
-  field[2] old: <missing>
-  field[2] new: text: [\n		"The most cheapest way to store herbs for spell crafting."\n	]
-
-- e0575f97/08ecedb4.snbt
-  reason: english text changed
-  field[2] old: text: [\n		"Sadly this spell won't remove arms, Instead it does is disarm whoever it lands on."\n	]
-  field[2] new: text: [\n		"Sadly this spell won't remove anyones arms.",\n		"",\n		"Disarm will make whatevers hit by it drop whats in their hand."\n	]
-
-- e0575f97/0d077eb6.snbt
-  reason: english text changed
-  field[0] old: title: "[Place Holder Title]"
-  field[0] new: title: "Homemade Fertilizier"
-  field[1] old: text: [\n		"[This quest will have a proper description and title in a future version]"\n	]
-  field[1] new: description: "Should be legal?"
-  field[2] old: <missing>
-  field[2] new: text: [\n		"Elemental soil acts as the base ingriedent to create more speciliazied soils that can provide certain effects.",\n		"",\n		"Elemental soil is also required to grow any of the 4 elemental crops those being Dewgonia, Stalicripe, Infernal bulb and Cloudberry."\n	]
-
-- e0575f97/173f01bb.snbt
-  reason: english text changed
-  field[0] old: title: "[Place Holder Title]"
-  field[0] new: title: "A Fanny Pack?"
-  field[1] old: text: [\n		"[This quest will have a proper description and title in a future version]"\n	]
-  field[1] new: description: "I've heard they're very stylish"
-  field[2] old: <missing>
-  field[2] new: text: [\n		"An upgraded version to the herb bag it can store regular items as well as herbs."\n	]
-
-- e0575f97/21229234.snbt
-  reason: english text changed
-  field[0] old: title: "[Place Holder Title]"
-  field[0] new: title: "A WOODEN KNIFE"
-  field[1] old: text: [\n		"[This quest will have a proper description and title in a future version]"\n	]
-  field[1] new: description: "A 100% counter to magneto"
-  field[2] old: <missing>
-  field[2] new: text: [\n		"Knives can be used to carve bark from trees or making blood pacts but you didnt hear that from me."\n	]
-
-- e0575f97/2386fe4a.snbt
-  reason: english text changed
-  field[0] old: title: "[Place Holder Title]"
-  field[0] new: title: "Moss I Tell You This Again"
-  field[1] old: text: [\n		""\n	]
-  field[1] new: description: "Never ask moss for directions!!"
-  field[2] old: <missing>
-  field[2] new: text: [\n		"A key ingrident in certain spells and rituals moss can be harvested off most mossy blocks."\n	]
-
-- e0575f97/249e6fda.snbt
-  reason: english text changed
-  field[0] old: title: "[Place Holder Title]"
-  field[0] new: title: "Genji what's that you have"
-  field[1] old: text: [\n		"[This quest will have a proper description and title in a future version]"\n	]
-  field[1] new: description: "I HAVE A KNIFE!!!!"
-  field[2] old: <missing>
-  field[2] new: text: [\n		"How many knives is to many? ",\n		"",\n		"Depends on how many your able to hold in two hands."\n	]
-
-- e0575f97/2a9d60c0.snbt
-  reason: english text changed
-  field[2] old: text: [\n		"If you ever wanted to take a dip in lava without the side effect of being cooked alive?",\n		"",\n		"When used aqua bubble negates fire and lava damage, meaning you can finally make that lava hot tub."\n	]
-  field[2] new: text: [\n		"Have you ever wanted to take a dip in lava without the side effect of being cooked alive?",\n		"",\n		"When used aqua bubble negates fire and lava damage, meaning you can finally make that lava hot tub."\n	]
-
-- e0575f97/305d2400.snbt
-  reason: english text changed
-  field[2] old: text: [\n		"[This quest will have a proper description and title in a future version]"\n	]
-  field[2] new: text: [\n		"Call upon the power of the cosmos and rain down a meteor storm to devestate the land."\n	]
-
-- e0575f97/4e10fdfb.snbt
-  reason: english text changed
-  field[0] old: <missing>
-  field[0] new: title: "A Change Of Staff"
-  field[1] old: <missing>
-  field[1] new: description: "Not to be confused with a wand"
-  field[2] old: <missing>
-  field[2] new: text: [\n		"If you want to be a real druid your gonna need a staff."\n	]
-
-- e0575f97/5eb10162.snbt
-  reason: english text changed
-  field[0] old: title: "[Place Holder Title]"
-  field[0] new: title: "Blue With Envy"
-  field[1] old: text: [\n		"[This quest will have a proper description and title in a future version]"\n	]
-  field[1] new: description: "What's it jealous of?"
-  field[2] old: <missing>
-  field[2] new: text: [\n		"[This quest will have a proper description and title in a future version]"\n	]
-
-- e0575f97/600b70ae.snbt
-  reason: english text changed
-  field[0] old: title: "[Place Holder Title]"
-  field[0] new: title: "Guess What?"
-  field[1] old: text: [\n		"[This quest will have a proper description and title in a future version]"\n	]
-  field[1] new: description: "Chicken butt!"
-  field[2] old: <missing>
-  field[2] new: text: [\n		"The birds of the overworld were one of the few creatures touched by the fey realms magic, harvest their feathers to further understand it."\n	]
-
-- e0575f97/64e2923c.snbt
-  reason: english text changed
-  field[0] old: title: "[Place Holder Title]"
-  field[0] new: title: "The Imposter"
-  field[1] old: text: [\n		"[This quest will have a proper description and title in a future version]"\n	]
-  field[1] new: description: "Let it impose some knowledge"
-  field[2] old: <missing>
-  field[2] new: text: [\n		"Ever wanted your spells to be better or do more?",\n		"",\n		"Well my friend the Imposer is just for you.",\n		"",\n		"Insert your staff hit it with a knife and then explore the wonderful world of spell modification."\n	]
-
-- e0575f97/6795d30d.snbt
-  reason: english text changed
-  field[0] old: title: "[Place Holder Title]"
-  field[0] new: title: "Woodverine"
-  field[1] old: text: [\n		"[This quest will have a proper description and title in a future version]"\n	]
-  field[1] new: description: "Be wary of his rival Saberjack"
-  field[2] old: <missing>
-  field[2] new: text: [\n		"Ever wanted to be a tree?",\n		"",\n		"Wildwood armour is just up your street then.",\n		"",\n		"Combined the strenght of diamond with the regenrating capabillties of a tree!",\n		"",\n		"You'll make all the other trees green with envy!!!"\n	]
-
-- e0575f97/6e11d6ed.snbt
-  reason: english text changed
-  field[1] old: description: "Sadly cutbacks had to be mdae"
-  field[1] new: description: "Sadly cutbacks had to be made"
-  field[2] old: text: [\n		"Become almost like a real witch and fly into the sky on your broom.",\n		"",\n		"Well in this case your broom is a staff and the flying can be considered as a glorified dash.",\n		"",\n		"But look on the upside it involves magic!"\n	]
-  field[2] new: text: [\n		"Experience almost being like a real witch flying in the sky on a broom.",\n		"",\n		"Well in this case your broom is a staff and the flying can be considered as a glorified dash.",\n		"",\n		"But look on the bright side it involves magic!"\n	]
-
-- e0575f97/70804afd.snbt
-  reason: english text changed
-  field[0] old: title: "[Place Holder Title]"
-  field[0] new: title: "Your Gonna Need Harder Blocks"
-  field[1] old: text: [\n		"[This quest will have a proper description and title in a future version]"\n	]
-  field[1] new: description: "Or just claim the chunk"
-  field[2] old: <missing>
-  field[2] new: text: [\n		"An alternative to stone in case you want something more durable/resistant."\n	]
-
-- e0575f97/84d24c7c.snbt
-  reason: english text changed
-  field[2] old: text: [\n		"Unless your inner frozen princess with this ritual and lay the wrath of winter onto the surronding land."\n	]
-  field[2] new: text: [\n		"Unleash your inner frozen princess with this ritual and lay the wrath of winter onto the surronding land."\n	]
-
-- e0575f97/899e49ef.snbt
-  reason: english text changed
-  field[0] old: <missing>
-  field[0] new: title: "NOT A SACRIFICAL DAGGER!"
-  field[1] old: <missing>
-  field[1] new: description: "THIS IS NOT A SACRIFICAL DAGGER!!!"
-  field[2] old: <missing>
-  field[2] new: text: [\n		"This knife is only intended for getting bark!",\n		"",\n		"I trust you won't use it for stabbing or sacrifces right? RIGHT!?"\n	]
-
-- e0575f97/8b36541a.snbt
-  reason: english text changed
-  field[0] old: title: "[Place Holder Title]"
-  field[0] new: title: "Lets Get Wild"
-  field[1] old: text: [\n		"[This quest will have a proper description and title in a future version]"\n	]
-  field[1] new: description: "No grass block will be safe"
-  field[2] old: <missing>
-  field[2] new: text: [\n		"Wildroot is one of the core herbs used in multiple aspects of Roots.",\n		"",\n		"The easiest way of aquiring it is just breaking grass."\n	]
-
-- e0575f97/9b0d518f.snbt
-  reason: english text changed
-  field[0] old: title: "[Place Holder Title]"
-  field[0] new: title: "The Shear Audacity"
-  field[1] old: text: [\n		"[This quest will have a proper description and title in a future version]"\n	]
-  field[1] new: description: "Shearly you'll be fine"
-  field[2] old: <missing>
-  field[2] new: text: [\n		"Sadly their's no way to go directly to the land of the feys but renaments of their magic still remain in the overworld.",\n		"",\n		"The runic shears allow you to harvest certain magical materials used in many rituals and spells."\n	]
-
-- e0575f97/9d8ff74d.snbt
-  reason: english text changed
-  field[0] old: title: "[Place Holder Title]"
-  field[0] new: title: "What's A Modpack Wthout 50 Differnet Types Of Wood"
-  field[1] old: text: [\n		""\n	]
-  field[1] new: description: "A boring one thats what!!"
-  field[2] old: <missing>
-  field[2] new: text: [\n		"Unlike 99% of wood wildroot has a utility in certain rituals and spells.",\n		"",\n		"Good luck finding it out in the wild though their nearly exctint!",\n		"",\n		"But there are other ways to obtain it."\n	]
-
-- e0575f97/a541b9a1.snbt
-  reason: english text changed
-  field[0] old: title: "[Place Holder Title]"
-  field[0] new: title: "Rocking Ritual"
-  field[1] old: text: [\n		"[This quest will have a proper description and title in a future version]"\n	]
-  field[1] new: description: "Make like a rock and roll!!!"
-  field[2] old: <missing>
-  field[2] new: text: [\n		"Some rituals may require stone to trigger them.",\n		"",\n		"Surely you'll have a bunch to spare lying around?"\n	]
-
-- e0575f97/a64f2926.snbt
-  reason: english text changed
-  field[0] old: title: "[Place holder title]"
-  field[0] new: title: "The Druid's Attire"
-  field[1] old: text: [\n		"[This quest will have a proper description and title in a future version]"\n	]
-  field[1] new: description: "I thought they couldn't wear metal?"
-  field[2] old: <missing>
-  field[2] new: text: [\n		"The ideal armour for spell casters sylvan armour who knew druids had style."\n	]
-
-- e0575f97/a80da1d6.snbt
-  reason: english text changed
-  field[0] old: title: "[Place Holder Title]"
-  field[0] new: title: "I'm Gonna Tan Your Hide!"
-  field[1] old: text: [\n		"[This quest will have a proper description and title in a future version]"\n	]
-  field[1] new: description: "Better start behaving"
-  field[2] old: <missing>
-  field[2] new: text: [\n		"Who knew cows were magicial, now you don't have to trade it for beans."\n	]
-
-- e0575f97/bc87fa4b.snbt
-  reason: english text changed
-  field[0] old: title: "[Place Holder Title]"
-  field[0] new: title: "Water. Earth. Fire. Air."
-  field[1] old: text: [\n		"[This quest will have a proper description and title in a future version]"\n	]
-  field[1] new: description: "Long ago, the four blocks lived in harmony"
-  field[2] old: <missing>
-  field[2] new: text: [\n		"Infused elemental soil provide a unique effects to whichever crop is grown on it."\n	]
-
-- e0575f97/bff19795.snbt
-  reason: english text changed
-  field[0] old: title: "[Place Holder Title]"
-  field[0] new: title: "Purple Eggs & Ham"
-  field[1] old: text: [\n		"[This quest will have a proper description and title in a future version]"\n	]
-  field[1] new: description: "Rad funfact 100: eggplants are berries"
-  field[2] old: <missing>
-  field[2] new: text: [\n		"Multiple rituals require the use or crops or plants the most common one being eggplants."\n	]
-
-- e0575f97/d1ab495e.snbt
-  reason: english text changed
-  field[0] old: title: "[Place Holder Title]"
-  field[0] new: title: "A Gucci Bag For Druids"
-  field[1] old: text: [\n		"[This quest will have a proper description and title in a future version]"\n	]
-  field[1] new: description: "Even druids gotta have style"
-  field[2] old: <missing>
-  field[2] new: text: [\n		"The final version of the herb bag and the most stylish."\n	]
-
-- e0575f97/dcd64114.snbt
-  reason: english text changed
-  field[2] old: text: [\n		"Summon flower petals around yourself, as long as these flower petals exist they will abosrb a single attack before being destroyted. "\n	]
-  field[2] new: text: [\n		"Summon flower petals around yourself to protect you from harm."\n	]
-
-- e0575f97/e5aa228d.snbt
-  reason: english text changed
-  field[0] old: title: "[Place Holder Title]"
-  field[0] new: title: "What's Black & Sticky"
-  field[1] old: text: [\n		"[This quest will have a proper description and title in a future version]"\n	]
-  field[1] new: description: "A black stick"
-  field[2] old: <missing>
-  field[2] new: text: [\n		"Certain creatures have this substance attached to their body that only a specialized tool can harvest"\n	]
-
-- e0575f97/e84d2bdf.snbt
-  reason: english text changed
-  field[1] old: text: [\n		"So you wanna learn? "\n	]
-  field[1] new: description: "Your a druid Steve!"
-  field[2] old: <missing>
-  field[2] new: text: [\n		"Before you go making a wand your gonna need something to add spells to it",\n		"",\n		"The answer? An imbuer place it down then add a gramary above and you're druid journey begins!"\n	]
-
-- e0575f97/ee0214f8.snbt
-  reason: english text changed
-  field[0] old: title: "[Place Holder Title]"
-  field[0] new: title: "More Bark than Bite?"
-  field[1] old: text: [\n		"[This quest will have a proper description and title in a future version]"\n	]
-  field[1] new: description: "I wonder what wood sounds like?"
-  field[2] old: <missing>
-  field[2] new: text: [\n		"Bark is a key ingrident if you want to be a druid so start stabbing them trees!"\n	]
-
-- e0575f97/f2f124cb.snbt
-  reason: english text changed
-  field[0] old: title: "[Place Holder Title]"
-  field[0] new: title: "Baby First Ritual"
-  field[1] old: text: [\n		"[This quest will have a proper description and title in a future version]"\n	]
-  field[1] new: description: "Try not to summon herobrine!!!"
-  field[2] old: <missing>
-  field[2] new: text: [\n		"So your ready to start your first ritual?",\n		"",\n		"Welp get chopping and gather the wood for it!!",\n		"",\n		"Depending on the ritual certain types of wood will be required."\n	]
-
-- e0575f97/f342cc17.snbt
-  reason: english text changed
-  field[2] old: text: [\n		"The Mortar and Pestle is used to craft certain recipes from ROOTS; it can also be used to craft some new recipes for the Wizardry mods."\n	]
-  field[2] new: text: [\n		"The Mortar and Pestle is a core compent in making the spells.",\n		"",\n		"It has other uses like making dust but who cares about that."\n	]
-
-- 3e830fd6/9f4751cc.snbt
-  reason: english text changed
-  field[2] old: text: [\n		"The second most important plant in unique crops",\n		"",\n		"Artisa is used to craft all seeds in unique crops.",\n		"",\n		"When placed in a 3x3 grid with the center plant being the last to fully bloom items dropped in will be stored.",\n		"",\n		"Once filled if the recipe matches a seed it will be crafted at the center plant.",\n		"",\n		"To get the seed just break the center crop."\n	]
-  field[2] new: text: [\n		"The second most important plant in unique crops",\n		"",\n		"Artisa is used to craft all seeds in unique crops.",\n		"",\n		"When placed in a 3x3 grid with the center plant being the last to fully bloom items dropped in will be stored.",\n		"",\n		"Once filled if the recipe matches a seed it will be crafted at the center plant.",\n		"",\n		"To get the seed just right click the center crops"\n	]
-
-- 3e830fd6/fcca58a1.snbt
-  reason: english text changed
-  field[2] old: text: [\n		"Cinderbella are right out of a childrens fairy tale book. ",\n		"",\n		"Much like those fairy tale princess this plant can only achieve its dream of maturing by being planted after midnight.",\n		"",\n		"They also require some pumpkin friends to protect them."\n	]
-  field[2] new: text: [\n		"Cinderbella are right out of a childrens fairy tale book. ",\n		"",\n		"After the sun sets but before the moon rises place this seed down in the center of pumpkins."\n	]
-
-- af99b57c/74e13f71.snbt
-  reason: english text changed
-  field[2] old: text: [\n		"Complete this quest and activate the rewards to be effected by the vampirism virus.",\n		"",\n		"After a day has passed you will be reborn.",\n		"",\n		"(If at any point you change your mind drink milk to remove the effect)",\n		"(In case you do something stupid you get 2 chances of vampirism)",\n		"",\n		"Warning: Injecting yourself with garlic prevents you from becoming a vampire."\n	]
-  field[2] new: text: [\n		"Complete this quest and activate the rewards to be effected by the vampirism virus.",\n		"",\n		"After a day has passed you will be reborn as a vampire",\n		"",\n		"(If at any point you change your mind drink milk to remove the effect)",\n		"(In case you do something stupid you get 2 more chances of vampirism)",\n		"",\n		"Warning: Becoming a hunter prevents you from becoming a vampire."\n	]
-
-- 467a7b1f/03e97281.snbt
-  reason: new file
-  field[0] title: "It's Like Printing My Own Trinkets"
-  field[1] description: "Well hopefully they arent made out of paper"
-  field[2] text: [\n		"After trading enough with Marauder they should give you certain unique materials",\n		"these materials can be used to make a variety of trinkets in a witchcraft table."\n	]
-
-- 467a7b1f/16afadb1.snbt
-  reason: new file
-  field[0] title: "The Support"
-  field[1] description: "Why would anyone willingly be a support?"
-  field[2] text: [\n		"If you don't like fighting and prefer others to do it for you theses trinkets are just for you."\n	]
-
-- 467a7b1f/3667ee3d.snbt
-  reason: new file
-  field[0] title: "Pet Noddle"
-  field[1] description: "At what size can something not be considered a pet?"
-  field[2] text: [\n		"I feel like if you have a pet that big it should be paying you rent!",\n		"",\n		"Personal opinons aside you now have a large friend on your side I doubt anything wants to mess with you."\n	]
-  field[3] title: "Tame A Sandmonster"
-
-- 467a7b1f/5da9d561.snbt
-  reason: new file
-  field[0] title: "I Wonder If You Could Be"
-  field[1] description: "Invinicble"
-  field[2] text: [\n		"Lacking protection or need something to help when you get whacked?",\n		"",\n		"These trinkets are right up your ally."\n	]
-
-- 467a7b1f/719f03c8.snbt
-  reason: new file
-  field[0] title: "Dress Up Game"
-  field[1] description: "I prefer pink or light blue"
-  field[2] text: [\n		"If you ever get bored of your pet noddles outfit can always give her a new one.",\n		"",\n		"Just slap her in the face with some carpet (don't ask how it works) and see which you like best."\n	]
-
-- 467a7b1f/7d18e29f.snbt
-  reason: new file
-  field[0] title: "That's A Strange...... Fruit"
-  field[1] description: "But not the strangest you'll see"
-  field[2] text: [\n		"A strange an almost alien fruit found on trees in the jungle.",\n		"",\n		"They seem to be constantly dripping some sort of liquid maybe you can gather it in some way?"\n	]
-  field[3] title: "Inspect A Strange Fruit"
-
-- 467a7b1f/8a2065ef.snbt
-  reason: new file
-  field[0] title: "We've Have Come For You EXP"
-  field[1] description: "GET OUT OF MY SWAMP"
-  field[2] text: [\n		"These moderate size fellas love to suck on xp.",\n		"",\n		"If you want it back you gotta splat em or maybe you can use them to your advantage?"\n	]
-  field[3] title: "Splat Some Needlewings"
-
-- 467a7b1f/8d7fc66b.snbt
-  reason: new file
-  field[0] title: "I Think Blue Dots Are It's Eyes"
-  field[1] description: "They don't speak much so I have no idea"
-  field[2] text: [\n		"The marauders are a friendly bunch you can find them and there tribes in jungle.",\n		"",\n		"I've heard they exchange goods for cursed wood so carry some with you just in case!"\n	]
-  field[3] title: "Lock Eyes With A Marauder"
-
-- 467a7b1f/8ff213e2.snbt
-  reason: new file
-  field[0] title: "How Much Wood Could A Woodchuck Chuck"
-  field[1] description: "WAIT WE DON'T EVEN HAVE WOODCHUCKS"
-  field[2] text: [\n		"Sadly there's no woodchucks to toss this wood so you gotta do it yourself!",\n		"",\n		"After a while cauldrons can collect the juice from strange fruit which you can combine with wood to make cursed wood."\n	]
-
-- 467a7b1f/d62f4875.snbt
-  reason: new file
-  field[0] title: "On The Offensive"
-  field[1] description: "Fight me if you dare!"
-  field[2] text: [\n		"If you like fighting these trinkets are the best for you they are primed and ready for combat."\n	]
-
-- 467a7b1f/d9e59611.snbt
-  reason: new file
-  field[0] title: "Utility Belt"
-  field[1] description: "Who needs it when you have these"
-  field[2] text: [\n		"These trinkets have one jobs and do it well."\n	]
-
-- 467a7b1f/e58f30fe.snbt
-  reason: new file
-  field[0] title: "With This Sacred Amulet I Summon"
-  field[1] description: "The Divine Hound Barghest"
-  field[2] text: [\n		"When this amulet is triggered it summons a legendary beast.",\n		"",\n		"Wether it will assist you or not? ",\n		"",\n		"Why don't you test and see!"\n	]
-
-- 467a7b1f/edeedd00.snbt
-  reason: english text changed
-  field[1] old: description: "And friends"
-  field[1] new: description: "And enemies"
-
-- e8e36544/0ec078fc.snbt
-  reason: new file
-  field[0] title: "Music Exchange"
-  field[1] description: "No need for gambling"
-  field[2] text: [\n		"If you ever get duplicates of a music disc you can trade it in here for a different one."\n	]
-  field[3] title: "C418 - Minecraft"
-  field[4] title: "C418 - Clark"
-  field[5] title: "C418 - Sweden"
-  field[6] title: "C418 - Subwoofer Lullaby"
-  field[7] title: "C418 - Living Mice"
-  field[8] title: "C418 - Haggstorm"
-  field[9] title: "C418 - Danny"
-  field[10] title: "C418 - Key"
-  field[11] title: "C418 - Oxygene"
-  field[12] title: "C418 - Dry Hands"
-  field[13] title: "C418 - Wet Hands"
-  field[14] title: "C418 - Mice On Venus"
-  field[15] title: "C418 - Biome Fest"
-  field[16] title: "C418 - Blind Spots"
-  field[17] title: "C418 - Haunt Muskie"
-  field[18] title: "C418 - Aria Math"
-  field[19] title: "C418 - Dreiton"
-  field[20] title: "C418 - Taswell"
-  field[21] title: "C418 - Concrete Halls"
-  field[22] title: "C418 - Dead Voxel"
-  field[23] title: "C418 - Warmth"
-  field[24] title: "C418 - Ballads of the Cats"
-  field[25] title: "C418 - Mutation"
-  field[26] title: "C418 - Moog City 2"
-  field[27] title: "C418 - Beginning 2"
-  field[28] title: "C418 - Floating Trees"
-
-- e8e36544/862879ff.snbt
-  reason: new file
-  field[0] title: "Songs Of The World"
-  field[1] description: "Moog city 2 is my personal favourite"
-  field[2] text: [\n		"Ever wanted to hear the original songs of minecraft?",\n		"",\n		"Have a skeleton kill a zombie and see if you can aquire them all."\n	]
-  field[3] title: "C418 - Minecraft"
-  field[4] title: "C418 - Clark"
-  field[5] title: "C418 - Sweden"
-  field[6] title: "C418 - Subwoofer Lullaby"
-  field[7] title: "C418 - Living Mice"
-  field[8] title: "C418 - Haggstorm"
-  field[9] title: "C418 - Danny"
-  field[10] title: "C418 - Key"
-  field[11] title: "C418 - Oxygene"
-  field[12] title: "C418 - Dry Hands"
-  field[13] title: "C418 - Wet Hands"
-  field[14] title: "C418 - Mice On Venus"
-  field[15] title: "C418 - Biome Fest"
-  field[16] title: "C418 - Blind Spots"
-  field[17] title: "C418 - Haunt Muskie"
-  field[18] title: "C418 - Aria Math"
-  field[19] title: "C418 - Dreiton"
-  field[20] title: "C418 - Taswell"
-  field[21] title: "C418 - Concrete Halls"
-  field[22] title: "C418 - Dead Voxel"
-  field[23] title: "C418 - Warmth"
-  field[24] title: "C418 - Ballads of the Cats"
-  field[25] title: "C418 - Mutation"
-  field[26] title: "C418 - Moog City 2"
-  field[27] title: "C418 - Beginning 2"
-  field[28] title: "C418 - Floating Trees"
-
-- d26f9af1/f402eb84.snbt
-  reason: english text changed
-  field[3] old: <missing>
-  field[3] new: title: "Red Coal"
-
-- 1789e3ff/ad018b02.snbt
-  reason: english text changed
-  field[2] old: text: [\n		"This mirage world is forested as far as the eye can see.",\n		"",\n		"There are many huts spread around and it appears that everyone is a book worm.",\n		"Don't mind to take a peak inside their shelves."\n	]
-  field[2] new: text: [\n		"A Mirage world claimed by nothing but forest as far as the eye can see.",\n		"",\n		"The huts that fill this land seem to be filled with knowledge from its previous residents.",\n		"",\n		"Maybe you can discover something from what they left behind."\n	]
