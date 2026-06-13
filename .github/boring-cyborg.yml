@@ -4,14 +4,12 @@ labelPRBasedOnFilePath:
     - "script/**"
     - "resourcepacks/**"
     - "resources/**"
-    - "kubejs/assets/**"
     
-  1.55:
+  1.56:
     - "config/**"
     - "script/**"
     - "resourcepacks/**"
     - "resources/**"
-    - "kubejs/assets/**"
 
   .github:
     - ".github/**"
@@ -19,7 +17,6 @@ labelPRBasedOnFilePath:
   resource:
     - "resourcepacks/**"
     - "resources/**"
-    - "kubejs/assets/**"
 
   ftbquest:
     - "config/ftbquests/**"

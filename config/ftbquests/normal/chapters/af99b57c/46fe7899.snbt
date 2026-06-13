@@ -60,8 +60,8 @@
 			tag: {
 				generation: 3,
 				pages: [
-					"[\"\",{\"text\":\"Engelland\",\"bold\":true,\"italic\":true},{\"text\":\"\\nDe aldig sprekning aff de land folk aff de sud vest aff Engelland, seenens til har komen neder, met en diversning kama sneler dan da aff de ven av tragenig aff sprekning vorms, van de sprak va vor\",\"color\":\"reset\",\"italic\":true}]",
-					"{\"text\":\"forealdigrear, de folgenear aff de Seneks op letear CÃ¨rdik ent Kynrik, Stuf ent WyddgÃ¡r, brovt van de sud aff Danmark, der iland sitplats, va Kong Enylfrot kals \\\"Eenlyd Zeeksen\\\" oder Aldig Seksen, i va is nun Holstei, ent van de tri eelands Niderdstrent, Busen ent Heligoenland\",\"italic\":true}"
+					"[\"\",{\"text\":\"英格兰\",\"bold\":true,\"italic\":true},{\"text\":\"\\n英格兰西南之民，素有古语。其言流传至今，变音纷繁，语势较诸邻地之缓音尤为迅疾，其语形亦承自昔日之言。\",\"color\":\"reset\",\"italic\":true}]",
+					"{\"text\":\"其后，撒克逊诸族追随首领切尔迪克、辛里克、斯图夫与维特加，自丹麦之南渡海而来。彼等故土，英格尔弗里德王称之为‘盎格鲁撒克逊故地’，亦曰古撒克逊；其地即今之荷尔斯泰因，并及尼德施特兰德、比于森与黑尔戈兰三岛。\",\"italic\":true}"
 				],
 				author: "未知",
 				display: {
